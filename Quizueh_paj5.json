@@ -1,5 +1,5 @@
 {
-  "nivo_facile_paj5": [
+  "questions": [
     {
       "id": 745,
       "question": "Quel nom donne-t-on couramment à l'ensemble formé par les trois membranes ?",
@@ -14,6 +14,7 @@
       "question": "Au niveau de quelles structures la paroi cellulaire se réduit-elle à la lame moyenne ?",
       "options": ["Les plasmodesmes", "Les pores", "Les méats", "Les cuticules"],
       "reponse": 1,
+      "tip": "Quiz"
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -22,6 +23,7 @@
       "question": "Quel est le nom des canalicules très fins qui percent la lame moyenne ?",
       "options": ["Les pores", "Les stomates", "Les plasmodesmes", "Les vaisseaux"],
       "reponse": 2,
+      "tip": "Quiz"
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -30,6 +32,7 @@
       "question": "Quelle est la fonction principale des plasmodesmes ?",
       "options": ["Protéger le noyau", "Stocker l'eau", "Permettre le transport d'une cellule à une autre", "Produire de la sève"],
       "reponse": 2,
+      "tip": "Quiz"
       "difficulte": "Facile",
       "paj": "Page 5"
     },
