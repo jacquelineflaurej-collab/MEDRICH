@@ -5,6 +5,7 @@
       "question": "Quel nom donne-t-on couramment à l'ensemble formé par les trois membranes ?",
       "options": ["Membrane plasmique", "Membrane cellulosique", "Paroi nucléaire", "Enveloppe externe"],
       "reponse": 1,
+      "tip": "Quiz"
       "difficulte": "Facile",
       "paj": "Page 5"
     },
