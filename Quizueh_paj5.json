@@ -5,7 +5,7 @@
       "question": "Quel nom donne-t-on couramment à l'ensemble formé par les trois membranes ?",
       "options": ["Membrane plasmique", "Membrane cellulosique", "Paroi nucléaire", "Enveloppe externe"],
       "reponse": 1,
-      "tip": "Quiz"
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -14,7 +14,7 @@
       "question": "Au niveau de quelles structures la paroi cellulaire se réduit-elle à la lame moyenne ?",
       "options": ["Les plasmodesmes", "Les pores", "Les méats", "Les cuticules"],
       "reponse": 1,
-      "tip": "Quiz"
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -23,7 +23,7 @@
       "question": "Quel est le nom des canalicules très fins qui percent la lame moyenne ?",
       "options": ["Les pores", "Les stomates", "Les plasmodesmes", "Les vaisseaux"],
       "reponse": 2,
-      "tip": "Quiz"
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -32,7 +32,7 @@
       "question": "Quelle est la fonction principale des plasmodesmes ?",
       "options": ["Protéger le noyau", "Stocker l'eau", "Permettre le transport d'une cellule à une autre", "Produire de la sève"],
       "reponse": 2,
-      "tip": "Quiz"
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -41,6 +41,7 @@
       "question": "Comment appelle-t-on les cavités remplies d'air laissées par la disjonction de deux cellules voisines ?",
       "options": ["Les vacuoles", "Les méats", "Les pores", "Les trachéides"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -49,6 +50,7 @@
       "question": "À quel endroit précis les parois de deux cellules voisines se disjoignent-elles pour former des méats ?",
       "options": ["Au centre de la cellule", "Aux angles et aux arêtes", "Autour du noyau", "Sur la face externe uniquement"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -57,6 +59,7 @@
       "question": "Qu'est-ce qui déclenche généralement les modifications de la membrane cellulaire telles que la gélification ou la lignification ?",
       "options": ["Le vieillissement de la cellule", "L'exposition au soleil", "La division cellulaire", "L'absorption de sucres"],
       "reponse": 0,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -65,6 +68,7 @@
       "question": "Lors de la gélification, au contact de quel élément la cellulose et les composés pectiques gonflent-ils ?",
       "options": ["L'air", "L'huile", "L'eau", "La cire"],
       "reponse": 2,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -73,6 +77,7 @@
       "question": "Chez l'Acacia, de quoi est constitué le gel formé lors de la gélification de la membrane ?",
       "options": ["De gommes", "De mucilages", "De cutine", "De silice"],
       "reponse": 0,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -81,6 +86,7 @@
       "question": "Quelle substance constitue le gel formé lors de la gélification chez les Algues ?",
       "options": ["La subérine", "Les mucilages", "Les gommes", "La lignine"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -89,6 +95,7 @@
       "question": "Que deviennent les cellules une fois la gélification accomplie ?",
       "options": ["Elles se solidifient", "Elles se soudent entre elles", "Elles meurent", "Elles baignent détachées les unes des autres dans le gel"],
       "reponse": 3,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -97,6 +104,7 @@
       "question": "Sur quelle partie de la membrane la cutine fait-elle son apparition ?",
       "options": ["La face interne", "La face externe", "La lame moyenne", "Les angles"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -105,6 +113,7 @@
       "question": "Quelles sont les propriétés caractéristiques de la cutine ?",
       "options": ["Perméable et fragile", "Élastique et poreuse", "Imperméable et imputrescible", "Soluble et fluide"],
       "reponse": 2,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -113,6 +122,7 @@
       "question": "Quelle structure la cutine forme-t-elle sur l'épiderme des feuilles et des jeunes tiges ?",
       "options": ["Le liège", "Le bois", "La pellicule cuticule", "Le méat"],
       "reponse": 2,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -121,6 +131,7 @@
       "question": "Quel impact la cuticule a-t-elle sur le fonctionnement de la plante ?",
       "options": ["Elle augmente l'absorption d'eau", "Elle diminue la transpiration", "Elle favorise la photosynthèse", "Elle accélère la croissance"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -129,6 +140,7 @@
       "question": "Quel type de plantes possède une cuticule particulièrement épaisse ?",
       "options": ["Les plantes aquatiques", "Les plantes des régions sèches comme le Cactus", "Les algues marines", "Les fougères"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -137,6 +149,7 @@
       "question": "Lors de la cérification, par quoi la cuticule se recouvre-t-elle ?",
       "options": ["De silice", "De mucilage", "De cire", "De bois"],
       "reponse": 2,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -145,6 +158,7 @@
       "question": "Quelle est la nature de la cire qui recouvre la cuticule lors de la cérification ?",
       "options": ["Un glucide soluble", "Un lipide imperméable", "Une protéine rigide", "Un minéral dur"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -153,6 +167,7 @@
       "question": "Parmi ces plantes, laquelle présente le phénomène de cérification ?",
       "options": ["L'Acacia", "Le Cactus", "Le Bananier", "Le Maïs"],
       "reponse": 2,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -161,6 +176,7 @@
       "question": "Où se dépose la subérine lors du processus de subérification ?",
       "options": ["Sur la face externe de la membrane", "Dans le noyau", "Sur la face interne de la membrane", "Dans les vacuoles"],
       "reponse": 2,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -169,6 +185,7 @@
       "question": "De quoi la subérine est-elle particulièrement riche ?",
       "options": ["En acides gras", "En acides aminés", "En sucres lents", "En sels minéraux"],
       "reponse": 0,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -177,6 +194,7 @@
       "question": "Quel tissu imperméable et élastique est formé par l'ensemble des cellules à membranes subérifiées ?",
       "options": ["Le bois", "Le liège", "L'épiderme", "Le gel mucilagineux"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -185,6 +203,7 @@
       "question": "Quelle est la conséquence directe de la subérification totale sur la vie de la cellule ?",
       "options": ["Elle se divise plus vite", "Elle s'étire", "Elle communique mieux", "Elle meurt"],
       "reponse": 3,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -193,6 +212,7 @@
       "question": "Une fois mortes, de quoi les cellules formant le liège sont-elles remplies ?",
       "options": ["D'eau", "De sève brute", "D'air", "De lipides"],
       "reponse": 2,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -201,6 +221,7 @@
       "question": "De quelle couleur est la lignine qui s'imprègne dans la membrane lors de la lignification ?",
       "options": ["Verte ou bleue", "Jaune ou brune", "Blanche ou transparente", "Rouge ou noire"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -209,6 +230,7 @@
       "question": "Quel matériau dur et cassant est constitué par l'ensemble des cellules lignifiées ?",
       "options": ["Le liège", "La cire", "Le bois", "La gomme"],
       "reponse": 2,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -217,6 +239,7 @@
       "question": "Quel est le rôle du bois par rapport aux vaisseaux conducteurs de la plante ?",
       "options": ["Il les rend perméables", "Il leur donne de la solidité pour conduire la sève brute", "Il les bouche complètement", "Il les transforme en méats"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -225,6 +248,7 @@
       "question": "Quelle substance minérale s'incruste dans la tige des Graminées lors de la minéralisation ?",
       "options": ["Le fer", "Le carbonate de calcium", "La silice", "Le magnésium"],
       "reponse": 2,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -233,6 +257,7 @@
       "question": "Dans quel organisme végétal trouve-t-on une minéralisation à base de carbonate de calcium ?",
       "options": ["Le Maïs", "La Canne à sucre", "Certaines Algues marines", "L'Acacia"],
       "reponse": 2,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -241,16 +266,18 @@
       "question": "En plus du soutien et de la protection, que permet la membrane cellulaire grâce à ses pores ?",
       "options": ["La synthèse des protéines", "La circulation de cellule à cellule", "La production d'énergie", "Le stockage de l'amidon"],
       "reponse": 1,
+      "tip": "Quiz",
       "difficulte": "Facile",
       "paj": "Page 5"
     }
   ],
-  "quiz_intermediaire_paj5": [
+  "questions": [
       {
         "id": 776,
         "question": "Quelle structure assure spécifiquement la liaison entre les membranes de cellules voisines ?",
         "options": ["La cuticule", "La lame moyenne", "Le méat", "La lignine"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -259,6 +286,7 @@
         "question": "Par quel processus la paroi cellulaire se transforme-t-elle en gel au contact de l'eau ?",
         "options": ["La minéralisation", "La gélification", "La subérification", "La lignification"],
         "reponse": 1,
+         "tip": "Quiz"
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -267,6 +295,7 @@
         "question": "Quelle substance est responsable du caractère imputrescible de la face externe des cellules ?",
         "options": ["La cellulose", "La cutine", "La silice", "La gomme"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -275,6 +304,7 @@
         "question": "Comment appelle-t-on le dépôt successif de lamelles de subérine sur la face interne ?",
         "options": ["La cérification", "La subérification", "La gélification", "La lignification"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -283,6 +313,7 @@
         "question": "Le bois est le résultat de l'imprégnation des membranes par quelle substance ?",
         "options": ["Le carbonate de calcium", "La lignine", "La subérine", "La cire"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -291,6 +322,7 @@
         "question": "Quelle modification membranaire permet aux tiges de Graminées d'être plus rigides ?",
         "options": ["La cérification", "La minéralisation", "La gélification", "La subérification"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -299,6 +331,7 @@
         "question": "Lequel de ces éléments constitue l'armature solide des vaisseaux de sève brute ?",
         "options": ["Le liège", "Le bois", "La cuticule", "Les méats"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -307,6 +340,7 @@
         "question": "Dans quel cas précis les cellules finissent-elles par baigner séparément dans un gel ?",
         "options": ["Lignification", "Gélification", "Minéralisation", "Cérification"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -315,6 +349,7 @@
         "question": "Quelle est la principale caractéristique physique du liège ?",
         "options": ["Conducteur et lourd", "Élastique et imperméable", "Fragile et soluble", "Transparent et rigide"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -323,6 +358,7 @@
         "question": "La membrane cellulosique se réduit à la lame moyenne au niveau de quels orifices ?",
         "options": ["Les méats", "Les pores", "Les lacunes", "Les stomates"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -331,6 +367,7 @@
         "question": "Quelle substance minérale peut s'incruster dans la membrane des algues marines ?",
         "options": ["La silice", "Le carbonate de calcium", "Le fer", "Le chlorure de sodium"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -339,6 +376,7 @@
         "question": "Quel organe de la plante est protégé contre la transpiration excessive par la cuticule ?",
         "options": ["La racine", "L'épiderme des feuilles", "Le suc nucléaire", "Les poils absorbants"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -347,6 +385,7 @@
         "question": "Quelle modification rend la paroi totalement imperméable aux gaz et aux liquides ?",
         "options": ["Lignification", "Subérification", "Minéralisation", "Lame moyenne"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -355,6 +394,7 @@
         "question": "Les canalicules permettant la communication intercellulaire traversent quelle couche ?",
         "options": ["La membrane tertiaire", "La lame moyenne", "La cuticule", "La zone de cire"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -363,6 +403,7 @@
         "question": "La lignine donne à la cellule une consistance :",
         "options": ["Molle", "Dure et cassante", "Gélatineuse", "Élastique"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -371,6 +412,7 @@
         "question": "Quel composé pectique gonfle spécifiquement lors de la gélification ?",
         "options": ["La cellulose", "Les mucilages", "Les gommes", "La subérine"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -379,6 +421,7 @@
         "question": "Où se trouvent les méats par rapport aux cellules ?",
         "options": ["À l'intérieur du noyau", "Dans les espaces entre les angles des parois", "Sur la cuticule", "Dans les plasmodesmes"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -387,6 +430,7 @@
         "question": "La subérine est principalement produite par :",
         "options": ["Le milieu extérieur", "Le cytoplasme", "La paroi externe", "Le bois"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -395,6 +439,7 @@
         "question": "Quelle plante utilise la cire pour renforcer sa protection cuticulaire ?",
         "options": ["Le Maïs", "La Canne à sucre", "L'Acacia", "Les Algues"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -403,6 +448,7 @@
         "question": "Quel est le rôle mécanique de la silice chez les Graminées ?",
         "options": ["Perméabilité", "Rigidité et protection", "Nutrition", "Transpiration"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -411,6 +457,7 @@
         "question": "La disjonction des parois cellulaires crée des cavités remplies de :",
         "options": ["Eau", "Air", "Sève", "Huile"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -419,6 +466,7 @@
         "question": "Quelle modification de la membrane est liée à l'accumulation de lipides ?",
         "options": ["La gélification", "La cérification", "La lignification", "La minéralisation"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -427,6 +475,7 @@
         "question": "Comment la membrane cellulaire assure-t-elle le soutien de la plante ?",
         "options": ["Par sa fluidité", "Par sa rigidité et ses incrustations", "Par son noyau", "Par la sève élaborée"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -435,6 +484,7 @@
         "question": "Quelle est la nature chimique dominante de la cutine ?",
         "options": ["Minérale", "Lipidique/Imperméable", "Protéique", "Glucidique soluble"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -443,6 +493,7 @@
         "question": "Les méats facilitent quel type d'échanges dans la plante ?",
         "options": ["Échanges gazeux (air)", "Échanges de sève", "Échanges de gènes", "Échanges de sucre"],
         "reponse": 0,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -451,6 +502,7 @@
         "question": "Quel tissu végétal est composé uniquement de cellules mortes ?",
         "options": ["L'épiderme", "Le liège", "Le cytoplasme", "La lame moyenne"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -459,6 +511,7 @@
         "question": "Quelle partie de la paroi est la première à subir la gélification ?",
         "options": ["La membrane secondaire", "La cellulose et les composés pectiques", "Le noyau", "La cuticule"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -467,6 +520,7 @@
         "question": "L'imprégnation de lignine se fait généralement sur quelle couleur de base ?",
         "options": ["Rouge", "Jaune ou brune", "Verte", "Bleue"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -475,6 +529,7 @@
         "question": "Quelle fonction physiologique est assurée par les plasmodesmes ?",
         "options": ["Protection", "Communication et transport", "Respiration", "Photosynthèse"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       },
@@ -483,16 +538,18 @@
         "question": "La paroi cellulaire végétale est-elle une structure totalement fermée ?",
         "options": ["Oui, c'est un bloc", "Non, elle présente des pores et plasmodesmes", "Seulement chez les cactus", "Seulement dans le bois"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Intermediaire",
         "paj": "Page 5"
       }
     ],
-    "quiz_difficile_paj5": [
+    "questions": [
       {
         "id": 806,
         "question": "Analysez la relation entre subérification et mort cellulaire : pourquoi la cellule meurt-elle ?",
         "options": ["À cause du manque de lumière", "Car la subérification empêche tout échange vital", "À cause de la chaleur", "Par manque de silice"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -501,6 +558,7 @@
         "question": "Distinguez l'origine des gommes et des mucilages lors de la gélification :",
         "options": ["Gommes (Acacia) et Mucilages (Algues)", "Gommes (Maïs) et Mucilages (Cactus)", "Gommes (Chou) et Mucilages (Bananier)", "Gommes (Canne) et Mucilages (Graminées)"],
         "reponse": 0,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -509,6 +567,7 @@
         "question": "Quel rôle précis joue la cuticule épaisse chez les plantes xérophytes comme le Cactus ?",
         "options": ["Accélérer la croissance", "Limiter drastiquement la transpiration en zone sèche", "Produire des fleurs", "Stocker le carbonate de calcium"],
         "reponse": 1,
+         "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -517,6 +576,7 @@
         "question": "Quelle est la différence structurelle entre les pores et les plasmodesmes ?",
         "options": ["Les pores sont des trous, les plasmodesmes sont des canaux de transport", "Il n'y a aucune différence", "Les pores sont dans le noyau", "Les plasmodesmes sont des dépôts de cire"],
         "reponse": 0,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -525,6 +585,7 @@
         "question": "Identifiez les constituants chimiques de la subérine mentionnés :",
         "options": ["Glucides complexes", "Acides gras riches", "Sels de fer", "Protéines fibreuses"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -533,6 +594,7 @@
         "question": "Comment la lignification modifie-t-elle la circulation de la sève brute ?",
         "options": ["Elle l'arrête", "Elle solidifie les vaisseaux conducteurs", "Elle la transforme en gel", "Elle la purifie"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -541,6 +603,7 @@
         "question": "Quelle modification membranaire implique le dépôt de lamelles successives ?",
         "options": ["La cutinisation", "La subérification", "La minéralisation", "La gélification"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -549,6 +612,7 @@
         "question": "Le liège est décrit comme un tissu protecteur car ses cellules sont :",
         "options": ["Vivrantes et riches en eau", "Mortes et remplies d'air", "Souples et transparentes", "Riches en chlorophylle"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -557,6 +621,7 @@
         "question": "Quelles plantes utilisent spécifiquement la silice pour la minéralisation de leur tige ?",
         "options": ["Les Algues", "Les Graminées", "Les Bananiers", "Les Acacias"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -565,6 +630,7 @@
         "question": "Quelle substance confère à la membrane son caractère 'cassant' après modification ?",
         "options": ["La subérine", "La lignine", "Le mucilage", "La cellulose"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -573,6 +639,7 @@
         "question": "Où se situe précisément la pellicule appelée cuticule ?",
         "options": ["Sous la membrane primaire", "Sur l'épiderme des feuilles et jeunes tiges", "Dans le cytoplasme", "Autour des méats"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -581,6 +648,7 @@
         "question": "Quel est le résultat de la disjonction des angles et des arêtes des parois ?",
         "options": ["La formation de pores", "La formation de méats remplis d'air", "La mort de la cellule", "La gélification"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -589,6 +657,7 @@
         "question": "La cérification est souvent associée à quelle autre structure ?",
         "options": ["Le noyau", "La cuticule", "Le liège", "Les plasmodesmes"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -597,6 +666,7 @@
         "question": "Quel constituant de la membrane est qualifié de 'ciment intercellular' ?",
         "options": ["La membrane secondaire", "La lame moyenne", "La cutine", "La lignine"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -605,6 +675,7 @@
         "question": "Pourquoi la minéralisation au carbonate de calcium est-elle mentionnée pour les algues ?",
         "options": ["Pour les nourrir", "Pour leur donner de la rigidité", "Pour les faire couler", "Pour stocker l'oxygène"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -613,6 +684,7 @@
         "question": "Dans quel processus biologique les cellules se détachent-elles les unes des autres ?",
         "options": ["Lignification", "Gélification", "Cérification", "Subérification"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -621,6 +693,7 @@
         "question": "L'imperméabilité absolue de la subérine affecte quelle face de la membrane ?",
         "options": ["La face externe", "La face interne", "Seulement les pores", "Seulement le noyau"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -629,6 +702,7 @@
         "question": "Quelle est l'utilité physiologique des canalicules traversant la lame moyenne ?",
         "options": ["Stocker les graisses", "Permettre le transport intercellulaire", "Filtrer la lumière", "Produire des gommes"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -637,6 +711,7 @@
         "question": "La cutine est décrite comme étant 'imputrescible', qu'est-ce que cela signifie ?",
         "options": ["Qu'elle ne peut pas pourrir", "Qu'elle est très fragile", "Qu'elle attire l'eau", "Qu'elle est faite de bois"],
         "reponse": 0,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -645,6 +720,7 @@
         "question": "Qu'est-ce qui compose majoritairement le 'bois' au sens biologique ?",
         "options": ["Des cellules subérifiées", "L'ensemble des cellules lignifiées", "Des cellules gélifiées", "Des dépôts de cire"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -653,6 +729,7 @@
         "question": "Quelle modification membranaire est spécifique à la Canne à sucre selon les exemples ?",
         "options": ["Uniquement la gélification", "La cérification et la minéralisation (silice)", "La formation de liège", "La production de gomme"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -661,6 +738,7 @@
         "question": "Quelle est la conséquence physique immédiate de l'imprégnation de lignine ?",
         "options": ["Élasticité accrue", "Augmentation de la dureté et perte de souplesse", "Transparence", "Solubilité dans l'eau"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -669,6 +747,7 @@
         "question": "Comment appelle-t-on techniquement les zones où la paroi cellulaire est la plus mince ?",
         "options": ["Les méats", "Les pores", "La cuticule", "La membrane tertiaire"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -677,6 +756,7 @@
         "question": "Quel agent externe provoque le gonflement des composés pectiques ?",
         "options": ["La lumière", "L'eau", "L'air des méats", "La sève brute"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -685,6 +765,7 @@
         "question": "La subérification crée un tissu appelé liège, comment est-il qualifié ?",
         "options": ["Imperméable, élastique et imputrescible", "Conducteur, lourd et dur", "Fragile, poreux et soluble", "Transparent, fin et liquide"],
         "reponse": 0,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -693,6 +774,7 @@
         "question": "Quelle est la fonction biologique de la paroi squelettique mentionnée indirectement ?",
         "options": ["Soutien et protection mécanique", "Digestion des aliments", "Mouvement de la plante", "Reproduction sexuée"],
         "reponse": 0,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -701,6 +783,7 @@
         "question": "Dans le cas de la minéralisation, où s'incrustent les substances minérales ?",
         "options": ["Dans le cytoplasme", "Dans la membrane", "Dans le noyau", "Dans les vacuoles"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -709,6 +792,7 @@
         "question": "Quel rapport y a-t-il entre la cire et la transpiration ?",
         "options": ["La cire l'augmente", "La cire renforce le rôle protecteur contre la perte d'eau", "La cire n'a aucun effet", "La cire remplace l'eau"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -716,7 +800,8 @@
         "id": 834,
         "question": "Pourquoi dit-on que la paroi est 'cellulosique' par excellence ?",
         "options": ["Parce qu'elle contient du fer", "Parce que la cellulose est son constituant de base", "Parce qu'elle est toujours verte", "Parce qu'elle est liquide"],
-        "reponse": 1,
+        "reponse": 1
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       },
@@ -725,16 +810,18 @@
         "question": "Quelle structure permet à deux cellules voisines de ne pas être totalement isolées ?",
         "options": ["La cutine", "Les plasmodesmes", "La lignine", "La cire"],
         "reponse": 1,
+        "tip": "Quiz",
         "difficulte": "Difficile",
         "paj": "Page 5"
       }
       ],
-  "completer_facile_paj5": [
+  "questions": [
     {
       "id": 837,
       "question": "L'ensemble des trois membranes est souvent appelé membrane _____.",
       "options": ["cellulosique"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -743,6 +830,7 @@
       "question": "La paroi cellulaire présente des _____ au niveau desquels elle se réduit à la lame moyenne.",
       "options": ["pores"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -751,6 +839,7 @@
       "question": "Les _____ permettent le transport d'une cellule à une autre.",
       "options": ["plasmodesmes"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -759,6 +848,7 @@
       "question": "Les parois de deux cellules voisines se disjoignent aux _____ et aux _____.",
       "options": ["angles", "arêtes"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -767,6 +857,7 @@
       "question": "Les cavités remplies d'air entre les cellules sont appelées _____.",
       "options": ["méats"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -775,6 +866,7 @@
       "question": "Au contact de l'_____, la cellulose et les composés pectiques gonflent.",
       "options": ["eau"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -783,6 +875,7 @@
       "question": "La gélification forme un gel constitué de _____ chez l'Acacia.",
       "options": ["gommes"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -791,6 +884,7 @@
       "question": "Chez les Algues, la gélification produit des _____.",
       "options": ["mucilages"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -799,6 +893,7 @@
       "question": "La _____ apparaît sur la face externe de la membrane des cellules en surface.",
       "options": ["cutine"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -807,6 +902,7 @@
       "question": "La cutine forme sur l'épiderme des feuilles une pellicule appelée _____.",
       "options": ["cuticule"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -815,6 +911,7 @@
       "question": "La cuticule joue un rôle _____ et diminue la _____.",
       "options": ["protecteur", "transpiration"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -823,6 +920,7 @@
       "question": "Le _____ possède une cuticule très épaisse.",
       "options": ["Cactus"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -831,6 +929,7 @@
       "question": "Lors de la cérification, la cuticule se recouvre de _____, un lipide imperméable.",
       "options": ["cire"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -839,6 +938,7 @@
       "question": "La _____ se dépose en lamelles successives sur la face interne de la membrane.",
       "options": ["subérine"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -847,6 +947,7 @@
       "question": "L'ensemble des cellules à membranes subérifiées constitue le _____.",
       "options": ["liège"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -855,6 +956,7 @@
       "question": "Le liège est formé de cellules _____ remplies d'_____.",
       "options": ["mortes", "air"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -863,6 +965,7 @@
       "question": "La _____ est une substance jaune ou brune qui imprègne la membrane.",
       "options": ["lignine"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -871,6 +974,7 @@
       "question": "L'ensemble des cellules lignifiées constitue le _____.",
       "options": ["bois"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -879,6 +983,7 @@
       "question": "Le bois donne de la _____ aux vaisseaux ligneux.",
       "options": ["solidité"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -887,6 +992,7 @@
       "question": "La membrane peut s'incruster de substances _____, c'est la minéralisation.",
       "options": ["minérales"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -895,6 +1001,7 @@
       "question": "On trouve de la _____ dans la tige des Graminées comme le Maïs.",
       "options": ["silice"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -903,6 +1010,7 @@
       "question": "Certaines Algues marines contiennent du _____ de calcium.",
       "options": ["carbonate"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -911,6 +1019,7 @@
       "question": "La membrane cellulaire joue un rôle de _____ et de _____.",
       "options": ["soutien", "protection"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -919,6 +1028,7 @@
       "question": "Grâce à ses _____, la membrane permet la circulation de cellule à cellule.",
       "options": ["pores"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -927,6 +1037,7 @@
       "question": "Le bois est un matériau _____ et _____.",
       "options": ["dur", "cassant"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -935,6 +1046,7 @@
       "question": "La subérine est une substance riche en _____ gras.",
       "options": ["acides"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -943,6 +1055,7 @@
       "question": "La lame moyenne est percée de _____ très fins.",
       "options": ["canalicules"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -951,6 +1064,7 @@
       "question": "Le liège est _____, _____, et _____.",
       "options": ["imperméable", "élastique", "imputrescible"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -959,6 +1073,7 @@
       "question": "La cutine est une substance _____, _____ et _____.",
       "options": ["imperméable", "imputrescible", "protectrice"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     },
@@ -967,16 +1082,18 @@
       "question": "Les substances minérales donnent de la _____ au Végétal.",
       "options": ["rigidité"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Facile",
       "paj": "Page 5"
     }
   ],
-  "completer_intermediaire_paj5": [
+  "questions": [
     {
       "id": 867,
       "question": "Les _____ percent la lame moyenne et facilitent la _____ entre les cellules.",
       "options": ["plasmodesmes", "communication"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -985,6 +1102,7 @@
       "question": "En _____, certaines cellules modifient leur _____ cellulaire par divers processus chimiques.",
       "options": ["vieillissant", "membrane"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -993,6 +1111,7 @@
       "question": "Lors de la gélification, les cellules finissent par baigner _____ les unes des autres dans le _____.",
       "options": ["détachées", "gel"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1001,6 +1120,7 @@
       "question": "La cutine apparaît spécifiquement sur la _____ des cellules situées en _____.",
       "options": ["face externe", "surface"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1009,6 +1129,7 @@
       "question": "La cérification s'observe chez des plantes comme le _____, la _____ ou le _____.",
       "options": ["Bananier", "Canne à sucre", "Chou"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1017,6 +1138,7 @@
       "question": "La subérine est une substance totalement _____ élaborée par le _____.",
       "options": ["imperméable", "cytoplasme"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1025,6 +1147,7 @@
       "question": "Les cellules subérifiées ne _____ pas avec leurs voisines et finissent par _____.",
       "options": ["communiquent", "mourir"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1033,6 +1156,7 @@
       "question": "Le bois diminue la _____ et sert de _____ aux vaisseaux conducteurs de sève brute.",
       "options": ["transpiration", "soutien"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1041,6 +1165,7 @@
       "question": "La minéralisation à base de _____ se retrouve dans la tige des _____.",
       "options": ["silice", "Graminées"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1049,6 +1174,7 @@
       "question": "La gélification transforme la _____ et les _____ en une substance visqueuse.",
       "options": ["cellulose", "composés pectiques"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1057,6 +1183,7 @@
       "question": "Les méats sont des _____ remplies d'_____ résultant de la disjonction des parois.",
       "options": ["cavités", "air"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1065,6 +1192,7 @@
       "question": "La cuticule est une pellicule protectrice présente sur l'_____ des _____.",
       "options": ["épiderme", "feuilles"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1073,6 +1201,7 @@
       "question": "La subérisation implique le dépôt de _____ successives sur la _____ de la membrane.",
       "options": ["lamelles", "face interne"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1081,6 +1210,7 @@
       "question": "La lignine imprègne la membrane et rend le tissu _____ et _____.",
       "options": ["dur", "cassant"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1089,6 +1219,7 @@
       "question": "La membrane cellulosique se réduit à la _____ au niveau des _____.",
       "options": ["lame moyenne", "pores"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1097,6 +1228,7 @@
       "question": "Chez certaines _____ marines, on observe une incrustation de _____ de calcium.",
       "options": ["algues", "carbonate"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1105,6 +1237,7 @@
       "question": "La gélification chez l'_____ produit des gommes, tandis que chez les _____ elle produit des mucilages.",
       "options": ["Acacia", "Algues"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1113,6 +1246,7 @@
       "question": "La _____ et la _____ sont deux rôles fondamentaux de la membrane cellulaire.",
       "options": ["protection", "solidité"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1121,6 +1255,7 @@
       "question": "La cutine est une substance _____ qui protège contre les pertes d'_____.",
       "options": ["imperméable", "eau"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1129,6 +1264,7 @@
       "question": "Le liège joue un rôle _____ grâce à ses cellules remplies d'_____.",
       "options": ["protecteur", "air"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1137,6 +1273,7 @@
       "question": "La _____ rend les tiges de _____ plus résistantes.",
       "options": ["silice", "maïs"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1145,6 +1282,7 @@
       "question": "Les plasmodesmes traversent la _____ pour relier les _____ des cellules.",
       "options": ["lame moyenne", "cytoplasmes"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1153,6 +1291,7 @@
       "question": "La cire est un _____ qui augmente le pouvoir _____ de la cuticule.",
       "options": ["lipide", "protecteur"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1161,6 +1300,7 @@
       "question": "La lignine renforce les _____ ligneux chargés de conduire la _____ brute.",
       "options": ["vaisseaux", "sève"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1169,6 +1309,7 @@
       "question": "Le carbonate de _____ donne de la _____ aux algues marines.",
       "options": ["calcium", "rigidité"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1177,6 +1318,7 @@
       "question": "La membrane cellulaire permet la _____ de cellule à cellule par ses _____.",
       "options": ["circulation", "pores"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1185,6 +1327,7 @@
       "question": "Le liège est _____, _____ et imputrescible.",
       "options": ["imperméable", "élastique"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1193,6 +1336,7 @@
       "question": "La gélification détache les _____ les unes des autres par le gonflement des _____.",
       "options": ["cellules", "composés pectiques"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1201,6 +1345,7 @@
       "question": "L'ensemble des membranes constitue la paroi _____, _____ et stable.",
       "options": ["externe", "rigide"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     },
@@ -1209,6 +1354,7 @@
       "question": "La cuticule épaisse est caractéristique des _____ des régions _____.",
       "options": ["plantes", "sèches"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Intermediaire",
       "paj": "Page 5"
     }
@@ -1219,6 +1365,7 @@
       "question": "La paroi cellulaire se réduit à la _____ percée de canalicules fins nommés _____ qui assurent la liaison entre cellules.",
       "options": ["lame moyenne", "plasmodesmes"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1227,6 +1374,7 @@
       "question": "Les _____ résultent de la _____ des parois des cellules voisines spécifiquement à leurs angles et arêtes.",
       "options": ["méats", "disjonction"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1235,6 +1383,7 @@
       "question": "Lors de la gélification, l'absorption d'_____ fait gonfler la _____ et les composés pectiques jusqu'à détacher les cellules.",
       "options": ["eau", "cellulose"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1243,6 +1392,7 @@
       "question": "La _____ forme une pellicule nommée _____ qui réduit la transpiration chez les plantes exposées à la sécheresse.",
       "options": ["cutine", "cuticule"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1251,6 +1401,7 @@
       "question": "Chez le _____ ou la _____, la cuticule se couvre d'une couche de _____ pour renforcer son imperméabilité.",
       "options": ["Bananier", "Canne à sucre", "cire"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1259,6 +1410,7 @@
       "question": "La _____ est une substance grasse élaborée par le _____ qui se dépose en lamelles sur la face interne.",
       "options": ["subérine", "cytoplasme"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1267,6 +1419,7 @@
       "question": "L'imperméabilité de la _____ cause la mort des cellules, formant ainsi un tissu élastique appelé _____.",
       "options": ["subérine", "liège"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1275,6 +1428,7 @@
       "question": "La _____ imprègne la membrane pour former le _____, un matériau qui assure la solidité des vaisseaux conducteurs.",
       "options": ["lignine", "bois"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1283,6 +1437,7 @@
       "question": "La minéralisation peut impliquer l'incrustation de _____ dans les Graminées ou de _____ dans les algues marines.",
       "options": ["silice", "carbonate de calcium"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1291,6 +1446,7 @@
       "question": "La membrane cellulaire combine une fonction de _____ grâce à sa rigidité et une fonction de _____ par ses pores.",
       "options": ["soutien", "circulation"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1299,6 +1455,7 @@
       "question": "L'Acacia produit des _____ par gélification, tandis que les Algues produisent des _____ par le même processus chimique.",
       "options": ["gommes", "mucilages"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1307,6 +1464,7 @@
       "question": "La _____ est qualifiée d'_____ et d'imperméable, ce qui protège l'_____ des feuilles et des tiges.",
       "options": ["cutine", "imputrescible", "épiderme"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1315,6 +1473,7 @@
       "question": "Les cellules du liège sont _____ et remplies d'_____, ce qui leur confère un rôle de protection thermique et mécanique.",
       "options": ["mortes", "air"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1323,6 +1482,7 @@
       "question": "La _____ est une substance de couleur _____ ou _____ qui rend la paroi cellulaire dure et cassante.",
       "options": ["lignine", "jaune", "brune"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1331,6 +1491,7 @@
       "question": "Les tiges des _____ comme le Maïs sont rigidifiées par l'incrustation de _____ dans leurs membranes cellulaires.",
       "options": ["Graminées", "silice"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1339,6 +1500,7 @@
       "question": "La paroi cellulaire végétale est un édifice _____, _____ et stable construit par le _____.",
       "options": ["externe", "rigide", "cytoplasme"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1347,6 +1509,7 @@
       "question": "La communication intercellulaire est assurée par des _____ traversant les zones amincies de la _____.",
       "options": ["plasmodesmes", "lame moyenne"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1355,6 +1518,7 @@
       "question": "La disjonction des parois aux _____ crée des _____ qui facilitent les échanges gazeux internes.",
       "options": ["arêtes", "méats"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1363,6 +1527,7 @@
       "question": "Lors du vieillissement, la cellule peut subir une _____, une _____ ou encore une minéralisation selon l'espèce.",
       "options": ["cutinisation", "subérisation"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1371,6 +1536,7 @@
       "question": "Le Cactus survit en milieu aride grâce à une _____ particulièrement _____ qui limite la perte d'eau.",
       "options": ["cuticule", "épaisse"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1378,7 +1544,8 @@
       "id": 917,
       "question": "La cire, un _____ hydrophobe, recouvre la _____ de certaines plantes pour diminuer radicalement la transpiration.",
       "options": ["lipide", "cuticule"],
-      "reponse": 0,
+      "reponse": 0
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1387,6 +1554,7 @@
       "question": "Le cytoplasme élabore la _____, une substance riche en _____ qui rend la paroi totalement hermétique.",
       "options": ["subérine", "acides gras"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1395,6 +1563,7 @@
       "question": "Le _____ est un tissu protecteur formé de cellules _____ qui ne communiquent plus avec leurs voisines.",
       "options": ["liège", "mortes"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1403,6 +1572,7 @@
       "question": "La solidité des _____ ligneux, qui conduisent la _____ brute, repose sur l'imprégnation de lignine.",
       "options": ["vaisseaux", "sève"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1411,6 +1581,7 @@
       "question": "La _____ de calcium s'incruste dans la membrane de certaines _____ pour leur donner une structure rigide.",
       "options": ["carbonate", "algues marines"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1419,6 +1590,7 @@
       "question": "La membrane assure la _____ du Végétal par sa _____ et le passage des substances par ses pores.",
       "options": ["rigidité", "solidité"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1427,6 +1599,7 @@
       "question": "Les modifications de la membrane incluent la _____, qui produit des _____ ou des mucilages au contact de l'eau.",
       "options": ["gélification", "gommes"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1435,6 +1608,7 @@
       "question": "La cuticule, formée de _____, est présente sur les _____ et les jeunes tiges pour jouer un rôle protecteur.",
       "options": ["cutine", "feuilles"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1443,6 +1617,7 @@
       "question": "La subérine est déposée en _____ sur la face _____ de la membrane, rendant la cellule imperméable.",
       "options": ["lamelles", "interne"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     },
@@ -1451,6 +1626,7 @@
       "question": "L'ensemble formé par les _____ membranes est ce qu'on désigne couramment par membrane _____.",
       "options": ["trois", "cellulosique"],
       "reponse": 0,
+      "tip": "Completer",
       "difficulte": "Difficile",
       "paj": "Page 5"
     }
