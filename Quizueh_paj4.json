@@ -504,7 +504,7 @@
       "question": "Quelles sont les caractéristiques morphologiques précises des enclaves hydrophobes ?",
       "options": ["Des cristaux cubiques insolubles", "Des gouttelettes globuleuses ou étirées", "Des filaments rectilignes", "Des granules opaques"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -512,7 +512,7 @@
       "question": "Quelle est la propriété de solubilité distinctive des enclaves hydrophobes ?",
       "options": ["Solubles dans l'eau mais pas dans les huiles", "Insolubles dans l'eau mais solubles dans les huiles", "Solubles uniquement dans les acides", "Insolubles dans toutes les substances"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -520,7 +520,7 @@
       "question": "Parmi ces plantes, lesquelles sont citées comme sources d'huiles grasses ?",
       "options": ["Citronnelle et Vétiver", "Ricin, Coton, Cocotier, Olivier", "Menthe et Cannelle", "Tabac et Lis"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -528,7 +528,7 @@
       "question": "Quel procédé technique permet d'extraire les essences des enclaves à huiles essentielles ?",
       "options": ["La centrifugation", "La distillation", "La décantation", "La sublimation"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -536,7 +536,7 @@
       "question": "Quelles plantes fournissent des essences selon la classification du texte ?",
       "options": ["Ricin et Coton", "Olivier et Cocotier", "Citronnelle, Vétiver, Menthe, Cannelle", "Lis et Tabac"],
       "reponse": 2,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -544,7 +544,7 @@
       "question": "De quoi est constituée la membrane nucléaire et quelle particularité présente-t-elle ?",
       "options": ["Un seul feuillet poreux", "Deux feuillets avec des pores (ouvertures circulaires)", "Trois feuillets lisses", "Une couche de cellulose"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -552,7 +552,7 @@
       "question": "Comment est définie la constitution chimique du suc nucléaire ?",
       "options": ["Parfaitement connue et stable", "Une substance fluide dont la constitution n'est pas encore bien connue", "Un mélange de sels minéraux uniquement", "Une solution de glucose concentrée"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -560,7 +560,7 @@
       "question": "Quelle est la double description morphologique de la chromatine ?",
       "options": ["Bâtonnets courts et courbes", "Dessine des réseaux ou se concentre en chromocentres", "Gouttelettes globuleuses", "Couches élastiques"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -568,7 +568,7 @@
       "question": "Quelle structure est spécifiquement identifiée comme le support des chromosomes ?",
       "options": ["Le nucléole", "La membrane nucléaire", "La chromatine", "Le centromère"],
       "reponse": 2,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -576,7 +576,7 @@
       "question": "Quelle est la description morphologique précise des chromosomes ?",
       "options": ["Longs filaments spiralés", "Bâtonnets courts, généralement courbés ou en forme de V", "Sphères lisses", "Cubes microscopiques"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -584,7 +584,7 @@
       "question": "Quelle structure est identifiée par une constriction appelée centromère ?",
       "options": ["Une membrane", "Une constriction appelée centromère", "Un pore", "Un nucléole"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -592,7 +592,7 @@
       "question": "Quel est le nombre constant de chromosomes pour le Lis et le Tabac respectivement ?",
       "options": ["Lis: 48, Tabac: 24", "Lis: 12, Tabac: 12", "Lis: 24, Tabac: 48", "Lis: 46, Tabac: 46"],
       "reponse": 2,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -600,7 +600,7 @@
       "question": "Quelle est la différence numérique de chromosomes entre cellules normales et reproductrices ?",
       "options": ["Normales: n, Reproductrices: 2n", "Normales: 2n, Reproductrices: n", "Elles ont le même nombre", "Les reproductrices en ont 4n"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -608,7 +608,7 @@
       "question": "Quelle est la fonction essentielle attribuée aux chromosomes ?",
       "options": ["La synthèse des huiles", "La transmission des caractères héréditaires", "La nutrition cellulaire", "La formation de la paroi"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -616,7 +616,7 @@
       "question": "Comment sont décrits les nucléoles dans le noyau ?",
       "options": ["Forme régulière et lisse", "Forme irrégulière, d'aspect spongieux, rôle mal connu", "Forme en V et rigide", "Ouvertures circulaires"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -624,7 +624,7 @@
       "question": "Quelle est la double fonction physiologique du noyau ?",
       "options": ["Respiration et Transpiration", "Nutrition et différenciation de la cellule", "Distillation et Photosynthèse", "Protection et Rigidité"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -632,7 +632,7 @@
       "question": "Quel constituant cellulaire édifie la membrane cellulaire ou paroi pecto-cellulosique ?",
       "options": ["Le noyau", "La vacuole", "Le cytoplasme", "La chromatine"],
       "reponse": 2,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -640,7 +640,7 @@
       "question": "De combien de couches se compose la membrane cellulaire ?",
       "options": ["Deux couches", "Trois couches", "Quatre couches", "Cinq couches"],
       "reponse": 2,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -648,7 +648,7 @@
       "question": "Quel est le rôle et la composition de la lame moyenne ?",
       "options": ["Composés pectiques; sépare et relie les cellules voisines", "Cellulose; assure l'élasticité", "Graisses; protège le noyau", "Protéines; transporte l'eau"],
       "reponse": 0,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -656,7 +656,7 @@
       "question": "Quelle couche membranaire est qualifiée de 'très élastique et très extensible' ?",
       "options": ["La lame moyenne", "La membrane primaire", "La membrane secondaire", "La membrane tertiaire"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -664,7 +664,7 @@
       "question": "De quoi est formée la membrane primaire ?",
       "options": ["Cellulose pure", "Composés pectiques et cellulose", "Composés pectiques uniquement", "Lignine"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -672,7 +672,7 @@
       "question": "Quand s'édifie la membrane secondaire et quelle est sa fonction ?",
       "options": ["Au début de la croissance; élasticité", "Lorsque la croissance est terminée; armature porteuse", "À la mort de la cellule; déchet", "Pendant la division; séparation"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -680,7 +680,7 @@
       "question": "Quelle est la composition chimique de la membrane secondaire ?",
       "options": ["Plusieurs couches de cellulose", "Composés pectiques uniquement", "Un mélange d'huiles", "De la chromatine"],
       "reponse": 0,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -688,7 +688,7 @@
       "question": "Où se situe exactement la membrane tertiaire ?",
       "options": ["Entre la lame moyenne et la primaire", "Sur la face interne de la paroi qu'elle recouvre", "À l'extérieur de la cellule", "Dans le suc nucléaire"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -696,7 +696,7 @@
       "question": "Quelle couche est décrite comme le 'ciment intercellular' ?",
       "options": ["La membrane primaire", "La lame moyenne", "La membrane secondaire", "Le cytoplasme"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -704,7 +704,7 @@
       "question": "Le noyau est généralement de quelle forme ?",
       "options": ["Cylindrique", "Sphérique", "Ovale", "Irrégulière"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -712,7 +712,7 @@
       "question": "Que signifie l'expression '2n chromosomes' pour les cellules normales ?",
       "options": ["Elles ont 2 chromosomes", "Elles ont deux exemplaires de chaque chromosome", "Elles ont 20 chromosomes", "Le nombre double chaque jour"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -720,7 +720,7 @@
       "question": "La membrane tertiaire est composée de :",
       "options": ["Cellulose", "Composés pectiques", "Amidon", "Alcaloïdes"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -728,7 +728,7 @@
       "question": "Qu'est-ce qui caractérise la paroi externe des cellules végétales ?",
       "options": ["Fragile et instable", "Rigide et stable", "Liquide et changeante", "Absente chez les végétaux"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -736,7 +736,7 @@
       "question": "Les ouvertures de la membrane nucléaire sont appelées :",
       "options": ["Fentes", "Pores", "Vannes", "Canaux"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     },
     {
@@ -744,7 +744,7 @@
       "question": "Quel élément assure la transmission héréditaire ?",
       "options": ["Les nucléoles", "Les chromosomes", "Les huiles grasses", "La lame moyenne"],
       "reponse": 1,
-      "difficulte": "Tres Difficile",
+      "difficulte": "Difficile",
       "paj": "Page 4"
     }
   ],
