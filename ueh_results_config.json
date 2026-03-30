@@ -1,10 +1,10 @@
 {
   "images": [
-    { "id": "fmp_2023_1", "name": "FMP(Medecine) 2023 #1", "file": "resultat medecine 1" },
-    { "id": "fmp_2023_2", "name": "FMP(Medecine) 2023 #2", "file": "resultat medecine 2" },
-    { "id": "fmp_2023_3", "name": "FMP(Medecine) 2023 #3", "file": "resultat medecine 3" },
-    { "id": "fmp_2023_4", "name": "FMP(Medecine) 2023 #4", "file": "resultat medecine 4" },
-    { "id": "fmp_2023_5", "name": "FMP(Medecine) 2023 #5", "file": "resultat medecine 5" }
-    { "id": "ebmo_2023", "name": "EBMO(Optometrie) 2023", "file": "resultat Optometrie" }
+    { "id": "fmp_2023_1", "name": "FMP(Medecine) 2023 #1", "file": "resultat_medecine_1" },
+    { "id": "fmp_2023_2", "name": "FMP(Medecine) 2023 #2", "file": "resultat_medecine_2" },
+    { "id": "fmp_2023_3", "name": "FMP(Medecine) 2023 #3", "file": "resultat_medecine_3" },
+    { "id": "fmp_2023_4", "name": "FMP(Medecine) 2023 #4", "file": "resultat_medecine_4" },
+    { "id": "fmp_2023_5", "name": "FMP(Medecine) 2023 #5", "file": "resultat_medecine_5" }
+    { "id": "ebmo_2023", "name": "EBMO(Optometrie) 2023", "file": "resultat_Optometrie" }
   ]
 }
