@@ -1,9 +1,7 @@
 {
   "images": [
-    "resultat medecine 1",
-    "resultat medecine 2",
-    "resultat medecine 3",
-    "resultat medecine 4",
-    "resultat medecine 5"
+    { "id": "fmp_2023_1", "name": "FMP(Medecine) 2023 #1", "file": "resultat medecine 1" },
+    { "id": "fmp_2023_2", "name": "FMP(Medecine) 2023 #2", "file": "resultat medecine 2" },
+    { "id": "ebmo_2023", "name": "EBMO(Optometrie) 2023", "file": "resultat medecine 3" }
   ]
 }
