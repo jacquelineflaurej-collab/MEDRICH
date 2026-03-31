@@ -1,0 +1,292 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quelle branche étudie le fonctionnement des organes des plantes ?",
+      "options": ["L'anatomie végétale", "La physiologie végétale", "La taxonomie", "La biochimie"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 2,
+      "question": "L'anatomie végétale se concentre spécifiquement sur quoi ?",
+      "options": ["Le fonctionnement", "La reproduction", "La forme et la structure", "La classification"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 3,
+      "question": "Comment appelle-t-on les plantes qui possèdent à la fois des fleurs et des graines ?",
+      "options": ["Les Cryptogames", "Les Thallophytes", "Les Phanérogames", "Les Bryophytes"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 4,
+      "question": "Si une plante a ses graines enfermées dans un fruit clos, c'est une :",
+      "options": ["Gymnosperme", "Angiosperme", "Bryophyte", "Fougère"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 5,
+      "question": "Le Pin est un exemple classique de quel groupe ?",
+      "options": ["Angiospermes", "Dicotylédones", "Gymnospermes", "Monocotylédones"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 6,
+      "question": "Quelle est la caractéristique principale des Monocotylédones ?",
+      "options": ["Graines à 2 cotylédons", "Graines nues", "Graines à 1 cotylédon", "Absence de vaisseaux"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 7,
+      "question": "Le Haricot appartient à quelle catégorie ?",
+      "options": ["Graminées", "Dicotylédones", "Monocotylédones", "Gymnospermes"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 8,
+      "question": "Les plantes sans fleurs et sans graines sont regroupées sous le nom de :",
+      "options": ["Phanérogames", "Angiospermes", "Cryptogames", "Spermatophytes"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 9,
+      "question": "Parmi les Cryptogames, lesquels possèdent des racines, une tige et des vaisseaux ?",
+      "options": ["Les Thallophytes", "Les Bryophytes", "Les Cryptogames vasculaires", "Les Algues"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 10,
+      "question": "Une mousse, qui a une tige et des feuilles mais pas de racines, est une :",
+      "options": ["Bryophyte", "Thallophyte", "Angiosperme", "Fougère"],
+      "reponse": 0,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 11,
+      "question": "Quel groupe n'a ni racine, ni tige, ni feuilles, mais possède un thalle ?",
+      "options": ["Les Bryophytes", "Les Cryptogames vasculaires", "Les Thallophytes", "Les Dicotylédones"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 12,
+      "question": "Les Algues et les Champignons font partie de quel groupe ?",
+      "options": ["Bryophytes", "Thallophytes", "Phanérogames", "Vasculaires"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 13,
+      "question": "Quels sont les trois éléments qui composent toujours les glucides ?",
+      "options": ["C, H, N", "C, O, P", "C, H, O", "N, S, P"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 14,
+      "question": "Dans les glucides, H et O sont combinés dans la même proportion que dans :",
+      "options": ["L'air", "Le sol", "L'eau", "L'huile"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 15,
+      "question": "Quelle est la formule brute du glucose et du lévulose ?",
+      "options": ["C12H22O11", "C6H12O6", "(C6H10O5)n", "CnH2O"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 16,
+      "question": "Le saccharose a pour formule chimique :",
+      "options": ["C6H12O6", "C12H22O11", "C10H20O10", "C6H10O5"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 17,
+      "question": "Qu'est-ce qui différencie la cellulose de l'amidon ?",
+      "options": ["Les éléments C, H, O", "La valeur de 'n'", "La présence d'azote", "La solubilité"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 18,
+      "question": "Comment définit-on les substances pectiques ?",
+      "options": ["Des lipides complexes", "Des mélanges complexes de glucides", "Des protéines simples", "Des acides aminés"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 19,
+      "question": "Quelle est la sensation caractéristique des lipides au toucher ?",
+      "options": ["Sec", "Rugueux", "Onctueux", "Collant"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 20,
+      "question": "Quels types de lipides contiennent uniquement C, H et O ?",
+      "options": ["Lipides complexes", "Lipides simples", "Lipides onctueux", "Substances pectiques"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 21,
+      "question": "En plus de C, H et O, que contiennent les lipides complexes ?",
+      "options": ["N et P", "S et Fe", "Mg et Ca", "Cl et Na"],
+      "reponse": 0,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 22,
+      "question": "Quel élément chimique est toujours présent dans les protides mais absent des lipides simples ?",
+      "options": ["Carbone", "Hydrogène", "Azote (N)", "Oxygène"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 23,
+      "question": "Les protides peuvent contenir, en plus de C, H, O et N, quels autres éléments ?",
+      "options": ["Fe et Mg", "S et P", "Na et Cl", "Ca et K"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 24,
+      "question": "Comment appelle-t-on aussi les monopeptides ?",
+      "options": ["Acides gras", "Acides aminés", "Polypeptides", "Protéines"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 25,
+      "question": "Quels sont les deux groupements toujours présents dans un acide aminé ?",
+      "options": ["OH et CO", "COOH et NH2", "CH4 et NO2", "H2O et CO2"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 26,
+      "question": "Un polypeptide est une combinaison de :",
+      "options": ["Plusieurs centaines d'acides", "Deux ou quelques acides aminés", "Glucides et lipides", "Sels minéraux"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 27,
+      "question": "Quel est l'autre nom donné aux protéides simples ?",
+      "options": ["Acides aminés", "Lipides", "Protéines", "Glucides"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 28,
+      "question": "De quoi est composé un protéide complexe ?",
+      "options": ["Uniquement d'acides aminés", "D'acides aminés et d'une substance non protidique", "De sucre et de gras", "D'eau et de sels"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 29,
+      "question": "Le Fer (Fe) ou l'acide phosphorique sont des exemples de quoi ?",
+      "options": ["Substances protidiques", "Substances non protidiques", "Glucides simples", "Lipides complexes"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 30,
+      "question": "La graisse, l'huile et le beurre sont des mélanges de :",
+      "options": ["Glucides", "Protides", "Lipides", "Substances pectiques"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 31,
+      "question": "De quoi la cellule est-elle un volume ?",
+      "options": ["De sève", "D'eau pure", "De cytoplasme"],
+      "reponse": 2,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    },
+    {
+      "id": 32,
+      "question": "Quelle est l’unité anatomique et physiologique de tout végétal ?",
+      "options": ["Le noyau", "La cellule", "Le cytoplasme"],
+      "reponse": 1,
+      "tip": "Quiz",
+      "difficulte": "Facile",
+      "paj": "Page 1"
+    }
+  ]
+}
