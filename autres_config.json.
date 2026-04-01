@@ -1,4 +1,28 @@
 {
-  "Etape A": [ { "tit":"Quelle branche étudie le fonctionnement des organes des plantes ?", "repons": "La physiologie végétale", "tip": "Quiz", "opsyon": ["L'anatomie végétale", "La physiologie végétale", "La taxonomie", "La biochimie"] } ],
-  "Etape B": [ { "tit": "...", "repons": "...", "tip": "Completer" } ]
+  "Etape A": [
+    {
+      "tit": "Quelle branche étudie le fonctionnement des organes des plantes ?",
+      "repons": "La physiologie végétale",
+      "tip": "Quiz",
+      "opsyon": [
+        "L'anatomie végétale",
+        "La physiologie végétale",
+        "La taxonomie",
+        "La biochimie"
+      ]
+    },
+    {
+      "tit": "Konplete: L'unité de base de la vie est la ____.",
+      "repons": "cellule",
+      "tip": "Completer"
+    }
+  ],
+  "Etape B": [
+    {
+      "tit": "Kesyon pou etap B...",
+      "repons": "Repons lan",
+      "tip": "Quiz",
+      "opsyon": ["A", "B", "C", "D"]
+    }
+  ]
 }
