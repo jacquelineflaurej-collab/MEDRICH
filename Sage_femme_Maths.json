@@ -9,7 +9,17 @@
       "explanation": "SOLISYON:\n1. Dòz total: 80kg x 4mg/kg = 320mg.\n2. Kantite anpoul: 320mg / 160mg = 2 anpoul."
     },
     {
-  "Probleme 1": [
+  "Probleme 2": [
+    {
+      "id": "SF_MATH_P1",
+      "type": "Probleme",
+      "question": "KALKIL DÒZ:\n\nYon pasyan peze 60kg. Li bezwen 5mg/kg parasetamòl. \n1. Kalkile dòz total la.\n2. Si yon konprime gen 150mg, konbe konprime l ap pran?",
+      "answer": ["300", "mg", "2", "konprime"],
+      "min_lines": 3,
+      "explanation": "SOLISYON:\n1. 60kg x 5mg/kg = 300mg.\n2. 300mg / 150mg = 2 konprime."
+    },
+    {
+  "Probleme 3": [
     {
       "id": "SF_P1",
       "type": "Probleme",
