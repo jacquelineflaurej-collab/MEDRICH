@@ -1,0 +1,29 @@
+{
+  "Probleme 1": [
+    {
+      "id": "SF_MATH_P1",
+      "type": "Probleme",
+      "question": "KALKIL DOSAGE:\n\nGen yon pasyan ki peze 80kg. Doktè a mande pou ba li 4mg/kg medikaman X. \n\n1. Kalkile dòz total la an miligram (mg).\n2. Si chak anpoul gen 160mg, konbe anpoul w ap bezwen pou pasyan sa a?",
+      "answer": ["320", "2"],
+      "min_lines": 3,
+      "explanation": "SOLISYON:\n1. Dòz total: 80kg x 4mg/kg = 320mg.\n2. Kantite anpoul: 320mg / 160mg = 2 anpoul."
+    }
+  ],
+  "Page 1": [
+    {
+      "id": "SF_MATH_Q1",
+      "type": "Quiz",
+      "question": "Ki valè nòmal tansyon yon fanm ansent sipoze ye an mwayèn?",
+      "options": ["120/80", "140/90", "100/60", "150/100"],
+      "answer": "120/80",
+      "explanation": "120/80 mmHg konsidere kòm tansyon nòmal."
+    },
+    {
+      "id": "SF_MATH_C1",
+      "type": "Completer",
+      "question": "Konbe mwa yon gwosès nòmal dire an mwayèn?",
+      "answer": "9",
+      "explanation": "Yon gwosès nòmal dire 9 mwa."
+    }
+  ]
+}
