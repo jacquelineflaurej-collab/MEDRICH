@@ -4,24 +4,24 @@
       "id": "SF_MATH_P1",
       "type": "Probleme",
       "question": "KALKIL DOSAGE:\n\nGen yon pasyan ki peze 80kg. Doktè a mande pou ba li 4mg/kg medikaman X. \n\n1. Kalkile dòz total la an miligram (mg).\n2. Si chak anpoul gen 160mg, konbe anpoul w ap bezwen pou pasyan sa a?",
-      "answer": ["320 mg", "2 anpoul"],
+      "answer": ["320", "mg", "2", "anpoul"],
       "min_lines": 3,
       "explanation": "SOLISYON:\n1. Dòz total: 80kg x 4mg/kg = 320mg.\n2. Kantite anpoul: 320mg / 160mg = 2 anpoul."
-    },
-    {
+    }
+  ],
   "Probleme 2": [
     {
-      "id": "SF_MATH_P1",
+      "id": "SF_MATH_P2",
       "type": "Probleme",
       "question": "KALKIL DÒZ:\n\nYon pasyan peze 60kg. Li bezwen 5mg/kg parasetamòl. \n1. Kalkile dòz total la.\n2. Si yon konprime gen 150mg, konbe konprime l ap pran?",
       "answer": ["300", "mg", "2", "konprime"],
       "min_lines": 3,
       "explanation": "SOLISYON:\n1. 60kg x 5mg/kg = 300mg.\n2. 300mg / 150mg = 2 konprime."
-    },
-    {
+    }
+  ],
   "Probleme 3": [
     {
-      "id": "SF_P1",
+      "id": "SF_MATH_P3",
       "type": "Probleme",
       "question": "Yon pasyan bezwen 500mg paracetamol. Chak konprime gen 250mg. Konbe konprime li dwe pran?",
       "answer": ["2", "konprime"],
