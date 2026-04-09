@@ -3,6 +3,7 @@
     {
       "id": "SF_MATH_E1_P1",
       "type": "Probleme",
+      "difficulte": "Facile",
       "question": "KALKIL DOSAGE (Etape 1):\n\nGen yon pasyan ki peze 80kg. Doktè a mande pou ba li 4mg/kg medikaman X...",
       "answer": ["320", "mg", "2", "anpoul"],
       "min_lines": 3,
@@ -11,6 +12,7 @@
     {
       "id": "SF_MATH_E1_Q1",
       "type": "Quiz",
+      "difficulte": "Facile",
       "question": "Ki valè nòmal tansyon yon fanm ansent?",
       "options": ["120/80", "140/90", "100/60", "150/100"],
       "answer": "120/80",
@@ -21,6 +23,7 @@
     {
       "id": "SF_MATH_E2_Q1",
       "type": "Quiz",
+      "difficulte": "Facile",
       "question": "Kesyon Quiz pou Etape 2 sèlman...",
       "options": ["Op 1", "Op 2", "Op 3", "Op 4"],
       "answer": "Op 1",
@@ -29,6 +32,7 @@
     {
       "id": "SF_MATH_E2_C1",
       "type": "Completer",
+      "difficulte": "Facile",
       "question": "Kesyon Completer pou Etape 2...",
       "answer": "Repons lan",
       "explanation": "..."
