@@ -1,0 +1,39 @@
+{
+  "Etape 1": [    {
+      "id": "fmp_chem_01",
+      "tit": "Calcul de Molarité",
+      "question": "Une solution contient 10g de NaOH (Masse molaire = 40g/mol) dans 500mL d'eau. Calculez la molarité de la solution.",
+      "paj": "Etape 1",
+      "nivo": "Melange",
+      "tip": "Probleme",
+      "opsyon": [],
+      "answer": "0.5",
+      "explanation": "1. Calculer le nombre de moles (n): n = m / M = 10g / 40g/mol = 0.25 mol.\n2. Convertir le volume en Litres: 500mL = 0.5 L.\n3. Molarité (M) = n / V = 0.25 mol / 0.5 L = 0.5 M.",
+      "min_lines": 3
+    },
+    {
+      "id": "fmp_chem_02",
+      "tit": "Loi des Gaz Parfaits",
+      "question": "Quel volume occupent 2 moles de gaz oxygène dans les conditions normales de température et de pression (TPN: 0°C, 1 atm) ? (R = 0.0821 L.atm/mol.K)",
+      "paj": "Etape 1",
+      "nivo": "Melange",
+      "tip": "Probleme",
+      "opsyon": [],
+      "answer": "44.8",
+      "explanation": "À TPN, le volume molaire d'un gaz est toujours 22.4 L/mol.\nVolume total = n * Vm = 2 mol * 22.4 L/mol = 44.8 Litres.\nOn peut aussi utiliser PV = nRT.",
+      "min_lines": 3
+    },
+    {
+      "id": "fmp_chem_03",
+      "tit": "Équilibre Chimique",
+      "question": "Dans la réaction N2(g) + 3H2(g) ⇌ 2NH3(g), si on augmente la pression du système à température constante, dans quel sens l'équilibre se déplace-t-il ?",
+      "paj": "Etape 1",
+      "nivo": "Melange",
+      "tip": "Probleme",
+      "opsyon": [],
+      "answer": "Droite",
+      "explanation": "Selon le principe de Le Chatelier, une augmentation de pression déplace l'équilibre vers le sens qui produit le moins de moles de gaz. Ici, il y a 4 moles à gauche (1+3) et 2 moles à droite. L'équilibre se déplace donc vers la droite.",
+      "min_lines": 2
+    }
+  ]
+}
