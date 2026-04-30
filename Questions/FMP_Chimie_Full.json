@@ -50,6 +50,15 @@
       "explanation": "L'oxygène est représenté par la lettre O."
     },
     {
+      "id": "1051",
+      "question": "Prensip fondamantal lavi a baze sou _____.",
+      "options": ["enèji"],
+      "reponse": 0,
+      "difficulte": "Intermediaire",
+      "paj": "Page 2",
+      "tip": "Completer"
+    },
+    {
       "id": "fmp_chem_q2_i1",
       "tit": "Quiz: Masse Molaire",
       "question": "Quelle est la masse molaire de l'eau (H2O) ? (H=1, O=16)",
