@@ -39,15 +39,13 @@
   ],
   "Page 2": [
     {
-      "id": "fmp_chem_q2_f1",
-      "tit": "Quiz: Oxygène",
-      "question": "Quel est le symbole chimique de l'oxygène ?",
+      "id": "chem_001",
+      "question": "Ki senbòl chimik oksijèn nan?",
+      "options": ["H", "C", "O", "N"],
+      "reponsKorek": 2,
       "paj": "Page 2",
       "nivo": "Facile",
-      "tip": "Quiz",
-      "opsyon": ["H", "C", "O", "N"],
-      "reponsKorek": 2,
-      "explanation": "L'oxygène est représenté par la lettre O."
+      "tip": "Quiz"
     },
     {
       "id": "1051",
@@ -81,15 +79,13 @@
       "explanation": "L'oxydation est une perte d'électrons (OIL: Oxidation Is Loss)."
     },
     {
-      "id": "fmp_chem_c2_f1",
-      "tit": "Completer: Atome",
-      "question": "Le noyau de l'atome est chargé ___.",
+      "id": "chem_002",
+      "question": "Prensip fondamantal lavi a baze sou _______.",
+      "options": ["enèji"],
+      "reponsKorek": 0,
       "paj": "Page 2",
-      "nivo": "Facile",
-      "tip": "Completer",
-      "opsyon": [],
-      "answer": "positivement",
-      "explanation": "Le noyau contient des protons qui sont positifs."
+      "nivo": "Intermediaire",
+      "tip": "Completer"
     },
     {
       "id": "fmp_chem_c2_i1",
