@@ -37,7 +37,7 @@
       "min_lines": 2
     }
   ],
-  "Page 2": [
+ "Page 2": [
     {
       "id": "chem_001",
       "question": "Ki senbòl chimik oksijèn nan?",
@@ -51,29 +51,64 @@
       "id": "1051",
       "question": "Prensip fondamantal lavi a baze sou _____.",
       "options": ["enèji"],
-      "reponsKorek": 0, 
-      "nivo": "Intermediaire",
+      "reponse": 0,
+      "difficulte": "Intermediaire",
       "paj": "Page 2",
       "tip": "Completer"
     },
     {
       "id": "fmp_chem_q2_i1",
+      "tit": "Quiz: Masse Molaire",
       "question": "Quelle est la masse molaire de l'eau (H2O) ? (H=1, O=16)",
-      "options": ["14 g/mol", "18 g/mol", "20 g/mol", "22 g/mol"],
-      "reponsKorek": 1,
       "paj": "Page 2",
       "nivo": "Intermediaire",
       "tip": "Quiz",
+      "opsyon": ["14 g/mol", "18 g/mol", "20 g/mol", "22 g/mol"],
+      "reponsKorek": 1,
       "explanation": "2*1 (H) + 16 (O) = 18 g/mol."
     },
     {
-      "id": "fmp_chem_c2_i1",
-      "question": "Une solution dont le pH est inférieur à 7 est ___.",
-      "options": ["acide"],
+      "id": "fmp_chem_q2_d1",
+      "tit": "Quiz: Oxydoréduction",
+      "question": "Dans une réaction d'oxydation, un atome :",
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Quiz",
+      "opsyon": ["Gagne des électrons", "Perd des électrons", "Gagne des protons", "Perd des neutrons"],
+      "reponsKorek": 1,
+      "explanation": "L'oxydation est une perte d'électrons (OIL: Oxidation Is Loss)."
+    },
+    {
+      "id": "chem_002",
+      "question": "Prensip fondamantal lavi a baze sou _______.",
+      "options": ["enèji"],
       "reponsKorek": 0,
       "paj": "Page 2",
       "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "fmp_chem_c2_i1",
+      "tit": "Completer: pH",
+      "question": "Une solution dont le pH est inférieur à 7 est ___.",
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
       "tip": "Completer",
+      "opsyon": [],
+      "answer": "acide",
       "explanation": "pH < 7 = Acide, pH > 7 = Basique."
+    },
+    {
+      "id": "fmp_chem_c2_d1",
+      "tit": "Completer: Gaz",
+      "question": "La loi de ___ stipule que PV = nRT.",
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer",
+      "opsyon": [],
+      "answer": "gaz parfaits",
+      "explanation": "C'est l'équation d'état des gaz parfaits."
     }
-]
+  ]
+}
+
