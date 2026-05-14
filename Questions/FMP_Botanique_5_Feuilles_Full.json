@@ -960,6 +960,281 @@
       "nivo": "Difficile",
       "paj": "Page 5",
       "Tip": "Quiz"
-    }
-  ]
-}
+    },
+    {
+  "questions": [
+    {
+      "id": 837,
+      "question": "L'ensemble des trois membranes est souvent appelé membrane _____.",
+      "options": ["cellulosique"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 838,
+      "question": "La paroi cellulaire présente des _____ au niveau desquels elle se réduit à la lame moyenne.",
+      "options": ["pores"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 839,
+      "question": "Les _____ permettent le transport d'une cellule à une autre.",
+      "options": ["plasmodesmes"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 840,
+      "question": "Les parois de deux cellules voisines se disjoignent aux _____ et aux _____.",
+      "options": ["angles et arêtes"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 841,
+      "question": "Les cavités remplies d'air entre les cellules sont appelées _____.",
+      "options": ["méats"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 842,
+      "question": "Au contact de l'_____, la cellulose et les composés pectiques gonflent.",
+      "options": ["eau"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 843,
+      "question": "La gélification forme un gel constitué de _____ chez l'Acacia.",
+      "options": ["gommes"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 844,
+      "question": "Chez les Algues, la gélification produit des _____.",
+      "options": ["mucilages"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 845,
+      "question": "La _____ apparaît sur la face externe de la membrane des cellules en surface.",
+      "options": ["cutine"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 846,
+      "question": "La cutine forme sur l'épiderme des feuilles une pellicule appelée _____.",
+      "options": ["cuticule"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 847,
+      "question": "La cuticule joue un rôle _____ et diminue la _____.",
+      "options": ["protecteur et transpiration"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 848,
+      "question": "Le _____ possède une cuticule très épaisse.",
+      "options": ["Cactus"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 849,
+      "question": "Lors de la cérification, la cuticule se recouvre de _____, un lipide imperméable.",
+      "options": ["cire"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 850,
+      "question": "La _____ se dépose en lamelles successives sur la face interne de la membrane.",
+      "options": ["subérine"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 851,
+      "question": "L'ensemble des cellules à membranes subérifiées constitue le _____.",
+      "options": ["liège"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 852,
+      "question": "Le liège est formé de cellules _____ remplies d'_____.",
+      "options": ["mortes et air"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 853,
+      "question": "La _____ est une substance jaune ou brune qui imprègne la membrane.",
+      "options": ["lignine"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 854,
+      "question": "L'ensemble des cellules lignifiées constitue le _____.",
+      "options": ["bois"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 855,
+      "question": "Le bois donne de la _____ aux vaisseaux ligneux.",
+      "options": ["solidité"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 856,
+      "question": "La membrane peut s'incruster de substances _____, c'est la minéralisation.",
+      "options": ["minérales"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 857,
+      "question": "On trouve de la _____ dans la tige des Graminées comme le Maïs.",
+      "options": ["silice"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 858,
+      "question": "Certaines Algues marines contiennent du _____ de calcium.",
+      "options": ["carbonate"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 859,
+      "question": "La membrane cellulaire joue un rôle de _____ et de _____.",
+      "options": ["soutien et protection"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 860,
+      "question": "Grâce à ses _____, la membrane permet la circulation de cellule à cellule.",
+      "options": ["pores"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 861,
+      "question": "Le bois est un matériau _____ et _____.",
+      "options": ["dur et cassant"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 862,
+      "question": "La subérine est une substance riche en _____ gras.",
+      "options": ["acides"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 863,
+      "question": "La lame moyenne est percée de _____ très fins.",
+      "options": ["canalicules"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 864,
+      "question": "Le liège est _____, _____, et _____.",
+      "options": ["imperméable, élastique et imputrescible"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 865,
+      "question": "La cutine est une substance _____, _____ et _____.",
+      "options": ["imperméable, imputrescible et protectrice"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+    {
+      "id": 866,
+      "question": "Les substances minérales donnent de la _____ au Végétal.",
+      "options": ["rigidité"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Page 5",
+      "Tip": "Completer"
+    },
+
+
+
+    
+    
