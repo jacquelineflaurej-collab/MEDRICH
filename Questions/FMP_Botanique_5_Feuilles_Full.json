@@ -1,15 +1,6 @@
 {
   "Page 5": [{
     {
-      "id": 745,
-      "question": "Quel nom donne-t-on couramment à l'ensemble formé par les trois membranes ?",
-      "options": ["Membrane plasmique", "Membrane cellulosique", "Paroi nucléaire", "Enveloppe externe"],
-      "reponseKorek": 1,
-      "paj": "Page 5",
-      "nivo": "Facile",
-      "tip": "Quiz",
-    },
-    {
       "id": 746,
       "question": "Au niveau de quelles structures la paroi cellulaire se réduit-elle à la lame moyenne ?",
       "options": ["Les plasmodesmes", "Les pores", "Les méats", "Les cuticules"],
