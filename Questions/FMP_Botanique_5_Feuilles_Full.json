@@ -540,6 +540,426 @@
       "Tip": "Quiz",
       "nivo": "Intermediaire",
       "paj": "Page 5"
+    },
+    {
+      "id": 806,
+      "question": "Analysez la relation entre subérification et mort cellulaire : pourquoi la cellule meurt-elle ?",
+      "options": [
+        "À cause du manque de lumière",
+        "Car la subérification empêche tout échange vital",
+        "À cause de la chaleur",
+        "Par manque de silice"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 807,
+      "question": "Distinguez l'origine des gommes et des mucilages lors de la gélification :",
+      "options": [
+        "Gommes (Acacia) et Mucilages (Algues)",
+        "Gommes (Maïs) et Mucilages (Cactus)",
+        "Gommes (Chou) et Mucilages (Bananier)",
+        "Gommes (Canne) et Mucilages (Graminées)"
+      ],
+      "reponsKorek": 0,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 808,
+      "question": "Quel rôle précis joue la cuticule épaisse chez les plantes xérophytes comme le Cactus ?",
+      "options": [
+        "Accélérer la croissance",
+        "Limiter drastiquement la transpiration en zone sèche",
+        "Produire des fleurs",
+        "Stocker le carbonate de calcium"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 809,
+      "question": "Quelle est la différence structurelle entre les pores et les plasmodesmes ?",
+      "options": [
+        "Les pores sont des trous, les plasmodesmes sont des canaux de transport",
+        "Il n'y a aucune différence",
+        "Les pores sont dans le noyau",
+        "Les plasmodesmes sont des dépôts de cire"
+      ],
+      "reponsKorek": 0,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 810,
+      "question": "Identifiez les constituants chimiques de la subérine mentionnés :",
+      "options": [
+        "Glucides complexes",
+        "Acides gras riches",
+        "Sels de fer",
+        "Protéines fibreuses"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 811,
+      "question": "Comment la lignification modifie-t-elle la circulation de la sève brute ?",
+      "options": [
+        "Elle l'arrête",
+        "Elle solidifie les vaisseaux conducteurs",
+        "Elle la transforme en gel",
+        "Elle la purifie"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 812,
+      "question": "Quelle modification membranaire implique le dépôt de lamelles successives ?",
+      "options": [
+        "La cutinisation",
+        "La subérification",
+        "La minéralisation",
+        "La gélification"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 813,
+      "question": "Le liège est décrit comme un tissu protecteur car ses cellules sont :",
+      "options": [
+        "Vivrantes et riches en eau",
+        "Mortes et remplies d'air",
+        "Souples et transparentes",
+        "Riches en chlorophylle"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 814,
+      "question": "Quelles plantes utilisent spécifiquement la silice pour la minéralisation de leur tige ?",
+      "options": [
+        "Les Algues",
+        "Les Graminées",
+        "Les Bananiers",
+        "Les Acacias"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 815,
+      "question": "Quelle substance confère à la membrane son caractère 'cassant' après modification ?",
+      "options": [
+        "La subérine",
+        "La lignine",
+        "Le mucilage",
+        "La cellulose"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 816,
+      "question": "Où se situe précisément la pellicule appelée cuticule ?",
+      "options": [
+        "Sous la membrane primaire",
+        "Sur l'épiderme des feuilles et jeunes tiges",
+        "Dans le cytoplasme",
+        "Autour des méats"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 817,
+      "question": "Quel est le résultat de la disjonction des angles et des arêtes des parois ?",
+      "options": [
+        "La formation de pores",
+        "La formation de méats remplis d'air",
+        "La mort de la cellule",
+        "La gélification"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 818,
+      "question": "La cérification est souvent associée à quelle autre structure ?",
+      "options": [
+        "Le noyau",
+        "La cuticule",
+        "Le liège",
+        "Les plasmodesmes"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 819,
+      "question": "Quel constituant de la membrane est qualifié de 'ciment intercellular' ?",
+      "options": [
+        "La membrane secondaire",
+        "La lame moyenne",
+        "La cutine",
+        "La lignine"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 820,
+      "question": "Pourquoi la minéralisation au carbonate de calcium est-elle mentionnée pour les algues ?",
+      "options": [
+        "Pour les nourrir",
+        "Pour leur donner de la rigidité",
+        "Pour les faire couler",
+        "Pour stocker l'oxygène"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 821,
+      "question": "Dans quel processus biologique les cellules se détachent-elles les unes des autres ?",
+      "options": [
+        "Lignification",
+        "Gélification",
+        "Cérification",
+        "Subérification"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 822,
+      "question": "L'imperméabilité absolue de la subérine affecte quelle face de la membrane ?",
+      "options": [
+        "La face externe",
+        "La face interne",
+        "Seulement les pores",
+        "Seulement le noyau"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 823,
+      "question": "Quelle est l'utilité physiologique des canalicules traversant la lame moyenne ?",
+      "options": [
+        "Stocker les graisses",
+        "Permettre le transport intercellulaire",
+        "Filtrer la lumière",
+        "Produire des gommes"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 824,
+      "question": "La cutine est décrite comme étant 'imputrescible', qu'est-ce que cela signifie ?",
+      "options": [
+        "Qu'elle ne peut pas pourrir",
+        "Qu'elle est très fragile",
+        "Qu'elle attire l'eau",
+        "Qu'elle est faite de bois"
+      ],
+      "reponsKorek": 0,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 825,
+      "question": "Qu'est-ce qui compose majoritairement le 'bois' au sens biologique ?",
+      "options": [
+        "Des cellules subérifiées",
+        "L'ensemble des cellules lignifiées",
+        "Des cellules gélifiées",
+        "Des dépôts de cire"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 826,
+      "question": "Quelle modification membranaire est spécifique à la Canne à sucre selon les exemples ?",
+      "options": [
+        "Uniquement la gélification",
+        "La cérification et la minéralisation (silice)",
+        "La formation de liège",
+        "La production de gomme"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 827,
+      "question": "Quelle est la conséquence physique immédiate de l'imprégnation de lignine ?",
+      "options": [
+        "Élasticité accrue",
+        "Augmentation de la dureté et perte de souplesse",
+        "Transparence",
+        "Solubilité dans l'eau"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 828,
+      "question": "Comment appelle-t-on techniquement les zones où la paroi cellulaire est la plus mince ?",
+      "options": [
+        "Les méats",
+        "Les pores",
+        "La cuticule",
+        "La membrane tertiaire"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 829,
+      "question": "Quel agent externe provoque le gonflement des composés pectiques ?",
+      "options": [
+        "La lumière",
+        "L'eau",
+        "L'air des méats",
+        "La sève brute"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 830,
+      "question": "La subérification crée un tissu appelé liège, comment est-il qualifié ?",
+      "options": [
+        "Imperméable, élastique et imputrescible",
+        "Conducteur, lourd et dur",
+        "Fragile, poreux et soluble",
+        "Transparent, fin et liquide"
+      ],
+      "reponsKorek": 0,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 831,
+      "question": "Quelle est la fonction biologique de la paroi squelettique mentionnée indirectement ?",
+      "options": [
+        "Soutien et protection mécanique",
+        "Digestion des aliments",
+        "Mouvement de la plante",
+        "Reproduction sexuée"
+      ],
+      "reponsKorek": 0,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 832,
+      "question": "Dans le cas de la minéralisation, où s'incrustent les substances minérales ?",
+      "options": [
+        "Dans le cytoplasme",
+        "Dans la membrane",
+        "Dans le noyau",
+        "Dans les vacuoles"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 833,
+      "question": "Quel rapport y a-t-il entre la cire et la transpiration ?",
+      "options": [
+        "La cire l'augmente",
+        "La cire renforce le rôle protecteur contre la perte d'eau",
+        "La cire n'a aucun effet",
+        "La cire remplace l'eau"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 834,
+      "question": "Pourquoi dit-on que la paroi est 'cellulosique' par excellence ?",
+      "options": [
+        "Parce qu'elle contient du fer",
+        "Parce que la cellulose est son constituant de base",
+        "Parce qu'elle est toujours verte",
+        "Parce qu'elle est liquide"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
+    },
+    {
+      "id": 835,
+      "question": "Quelle structure permet à deux cellules voisines de ne pas être totalement isolées ?",
+      "options": [
+        "La cutine",
+        "Les plasmodesmes",
+        "La lignine",
+        "La cire"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Page 5",
+      "Tip": "Quiz"
     }
   ]
 }
