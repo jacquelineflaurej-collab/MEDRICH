@@ -13,7 +13,250 @@
     "question": "Quel est le nom des canalicules très fins qui percent la lame moyenne ?",
     "options": ["Les pores", "Les stomates", "Les plasmodesmes", "Les vaisseaux"],
     "reponsKorek": 2,
-    "nivo": "Intermediaire",
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 748,
+    "question": "Quelle est la fonction principale des plasmodesmes ?",
+    "options": ["Protéger le noyau", "Stocker l'eau", "Permettre le transport d'une cellule à une autre", "Produire de la sève"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 749,
+    "question": "Comment appelle-t-on les cavités remplies d'air laissées par la disjonction de deux cellules voisines ?",
+    "options": ["Les vacuoles", "Les méats", "Les pores", "Les trachéides"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 750,
+    "question": "À quel endroit précis les parois de deux cellules voisines se disjoignent-elles pour former des méats ?",
+    "options": ["Au centre de la cellule", "Aux angles et aux arêtes", "Autour du noyau", "Sur la face externe uniquement"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 751,
+    "question": "Qu'est-ce qui déclenche généralement les modifications de la membrane cellulaire telles que la gélification ou la lignification ?",
+    "options": ["Le vieillissement de la cellule", "L'exposition au soleil", "La division cellulaire", "L'absorption de sucres"],
+    "reponsKorek": 0,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 752,
+    "question": "Lors de la gélification, au contact de quel élément la cellulose et les composés pectiques gonflent-ils ?",
+    "options": ["L'air", "L'huile", "L'eau", "La cire"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 753,
+    "question": "Chez l'Acacia, de quoi est constitué le gel formé lors de la gélification de la membrane ?",
+    "options": ["De gommes", "De mucilages", "De cutine", "De silice"],
+    "reponsKorek": 0,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 754,
+    "question": "Quelle substance constitue le gel formé lors de la gélification chez les Algues ?",
+    "options": ["La subérine", "Les mucilages", "Les gommes", "La lignine"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 755,
+    "question": "Que deviennent les cellules une fois la gélification accomplie ?",
+    "options": ["Elles se solidifient", "Elles se soudent entre elles", "Elles meurent", "Elles baignent détachées les unes des autres dans le gel"],
+    "reponsKorek": 3,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 756,
+    "question": "Sur quelle partie de la membrane la cutine fait-elle son apparition ?",
+    "options": ["La face interne", "La face externe", "La lame moyenne", "Les angles"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 757,
+    "question": "Quelles sont les propriétés caractéristiques de la cutine ?",
+    "options": ["Perméable et fragile", "Élastique et poreuse", "Imperméable et imputrescible", "Soluble et fluide"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 758,
+    "question": "Quelle structure la cutine forme-t-elle sur l'épiderme des feuilles et des jeunes tiges ?",
+    "options": ["Le liège", "Le bois", "La pellicule cuticule", "Le méat"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 759,
+    "question": "Quel impact la cuticule a-t-elle sur le fonctionnement de la plante ?",
+    "options": ["Elle augmente l'absorption d'eau", "Elle diminue la transpiration", "Elle favorise la photosynthèse", "Elle accélère la croissance"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 760,
+    "question": "Quel type de plantes possède une cuticule particulièrement épaisse ?",
+    "options": ["Les plantes aquatiques", "Les plantes des régions sèches comme le Cactus", "Les algues marines", "Les fougères"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 761,
+    "question": "Lors de la cérification, par quoi la cuticule se recouvre-t-elle ?",
+    "options": ["De silice", "De mucilage", "De cire", "De bois"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 762,
+    "question": "Quelle est la nature de la cire qui recouvre la cuticule lors de la cérification ?",
+    "options": ["Un glucide soluble", "Un lipide imperméable", "Une protéine rigide", "Un minéral dur"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 763,
+    "question": "Parmi ces plantes, laquelle présente le phénomène de cérification ?",
+    "options": ["L'Acacia", "Le Cactus", "Le Bananier", "Le Maïs"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 764,
+    "question": "Où se dépose la subérine lors du processus de subérification ?",
+    "options": ["Sur la face externe de la membrane", "Dans le noyau", "Sur la face interne de la membrane", "Dans les vacuoles"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 765,
+    "question": "De quoi la subérine est-elle particulièrement riche ?",
+    "options": ["En acides gras", "En acides aminés", "En sucres lents", "En sels minéraux"],
+    "reponsKorek": 0,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 766,
+    "question": "Quel tissu imperméable et élastique est formé par l'ensemble des cellules à membranes subérifiées ?",
+    "options": ["Le bois", "Le liège", "L'épiderme", "Le gel mucilagineux"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 767,
+    "question": "Quelle est la conséquence directe de la subérification totale sur la vie de la cellule ?",
+    "options": ["Elle se divise plus vite", "Elle s'étire", "Elle communique mieux", "Elle meurt"],
+    "reponsKorek": 3,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 768,
+    "question": "Une fois mortes, de quoi les cellules formant le liège sont-elles remplies ?",
+    "options": ["D'eau", "De sève brute", "D'air", "De lipides"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 769,
+    "question": "De quelle couleur est la lignine qui s'imprègne dans la membrane lors de la lignification ?",
+    "options": ["Verte ou bleue", "Jaune ou brune", "Blanche ou transparente", "Rouge ou noire"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 770,
+    "question": "Quel matériau dur et cassant est constitué par l'ensemble des cellules lignifiées ?",
+    "options": ["Le liège", "La cire", "Le bois", "La gomme"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 771,
+    "question": "Quel est le rôle du bois par rapport aux vaisseaux conducteurs de la plante ?",
+    "options": ["Il les rend perméables", "Il leur donne de la solidité pour conduire la sève brute", "Il les bouche complètement", "Il les transforme en méats"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 772,
+    "question": "Quelle substance minérale s'incruste dans la tige des Graminées lors de la minéralisation ?",
+    "options": ["Le fer", "Le carbonate de calcium", "La silice", "Le magnésium"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 773,
+    "question": "Dans quel organisme végétal trouve-t-on une minéralisation à base de carbonate de calcium ?",
+    "options": ["Le Maïs", "La Canne à sucre", "Certaines Algues marines", "L'Acacia"],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Page 5",
+    "tip": "Quiz"
+  },
+  {
+    "id": 774,
+    "question": "En plus du soutien et de la protection, que permet la membrane cellulaire grâce à ses pores ?",
+    "options": ["La synthèse des protéines", "La circulation de cellule à cellule", "La production d'énergie", "Le stockage de l'amidon"],
+    "reponsKorek": 1,
+    "nivo": "Facile",
     "paj": "Page 5",
     "tip": "Quiz"
   },
