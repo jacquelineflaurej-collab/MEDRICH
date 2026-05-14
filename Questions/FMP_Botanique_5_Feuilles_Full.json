@@ -261,12 +261,285 @@
     "tip": "Quiz"
   },
   {
-    "id": 747,
+    "id": 775,
     "question": "lhwcef4pu34prb4tjwn hebdpitugf[3 ?",
     "options": ["Les pogff  ", "Les stoklhbfmates", "Les plaifsmodesmes", "Les vaissf;odg3aux"],
     "reponsKorek": 2,
     "nivo": "Facile",
     "paj": "Page 6",
     "tip": "Quiz"
-  }
-]
+  },
+  {
+  "questions": [
+    {
+      "id": 776,
+      "question": "Quelle structure assure spécifiquement la liaison entre les membranes de cellules voisines ?",
+      "options": ["La cuticule", "La lame moyenne", "Le méat", "La lignine"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 777,
+      "question": "Par quel processus la paroi cellulaire se transforme-t-elle en gel au contact de l'eau ?",
+      "options": ["La minéralisation", "La gélification", "La subérification", "La lignification"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 778,
+      "question": "Quelle substance est responsable du caractère imputrescible de la face externe des cellules ?",
+      "options": ["La cellulose", "La cutine", "La silice", "La gomme"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 779,
+      "question": "Comment appelle-t-on le dépôt successif de lamelles de subérine sur la face interne ?",
+      "options": ["La cérification", "La subérification", "La gélification", "La lignification"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 780,
+      "question": "Le bois est le résultat de l'imprégnation des membranes par quelle substance ?",
+      "options": ["Le carbonate de calcium", "La lignine", "La subérine", "La cire"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 781,
+      "question": "Quelle modification membranaire permet aux tiges de Graminées d'être plus rigides ?",
+      "options": ["La cérification", "La minéralisation", "La gélification", "La subérification"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 782,
+      "question": "Lequel de ces éléments constitue l'armature solide des vaisseaux de sève brute ?",
+      "options": ["Le liège", "Le bois", "La cuticule", "Les méats"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 783,
+      "question": "Dans quel cas précis les cellules finissent-elles par baigner séparément dans un gel ?",
+      "options": ["Lignification", "Gélification", "Minéralisation", "Cérification"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 784,
+      "question": "Quelle est la principale caractéristique physique du liège ?",
+      "options": ["Conducteur et lourd", "Élastique et imperméable", "Fragile et soluble", "Transparent et rigide"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 785,
+      "question": "La membrane cellulosique se réduit à la lame moyenne au niveau de quels orifices ?",
+      "options": ["Les méats", "Les pores", "Les lacunes", "Les stomates"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 786,
+      "question": "Quelle substance minérale peut s'incruster dans la membrane des algues marines ?",
+      "options": ["La silice", "Le carbonate de calcium", "Le fer", "Le chlorure de sodium"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 787,
+      "question": "Quel organe de la plante est protégé contre la transpiration excessive par la cuticule ?",
+      "options": ["La racine", "L'épiderme des feuilles", "Le suc nucléaire", "Les poils absorbants"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 788,
+      "question": "Quelle modification rend la paroi totalement imperméable aux gaz et aux liquides ?",
+      "options": ["Lignification", "Subérification", "Minéralisation", "Lame moyenne"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 789,
+      "question": "Les canalicules permettant la communication intercellulaire traversent quelle couche ?",
+      "options": ["La membrane tertiaire", "La lame moyenne", "La cuticule", "La zone de cire"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 790,
+      "question": "La lignine donne à la cellule une consistance :",
+      "options": ["Molle", "Dure et cassante", "Gélatineuse", "Élastique"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 791,
+      "question": "Quel composé pectique gonfle spécifiquement lors de la gélification ?",
+      "options": ["La cellulose", "Les mucilages", "Les gommes", "La subérine"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 792,
+      "question": "Où se trouvent les méats par rapport aux cellules ?",
+      "options": ["À l'intérieur du noyau", "Dans les espaces entre les angles des parois", "Sur la cuticule", "Dans les plasmodesmes"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 793,
+      "question": "La subérine est principalement produite par :",
+      "options": ["Le milieu extérieur", "Le cytoplasme", "La paroi externe", "Le bois"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 794,
+      "question": "Quelle plante utilise la cire pour renforcer sa protection cuticulaire ?",
+      "options": ["Le Maïs", "La Canne à sucre", "L'Acacia", "Les Algues"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 795,
+      "question": "Quel est le rôle mécanique de la silice chez les Graminées ?",
+      "options": ["Perméabilité", "Rigidité et protection", "Nutrition", "Transpiration"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 796,
+      "question": "La disjonction des parois cellulaires crée des cavités remplies de :",
+      "options": ["Eau", "Air", "Sève", "Huile"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 797,
+      "question": "Quelle modification de la membrane est liée à l'accumulation de lipides ?",
+      "options": ["La gélification", "La cérification", "La lignification", "La minéralisation"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 798,
+      "question": "Comment la membrane cellulaire assure-t-elle le soutien de la plante ?",
+      "options": ["Par sa fluidité", "Par sa rigidité et ses incrustations", "Par son noyau", "Par la sève élaborée"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 799,
+      "question": "Quelle est la nature chimique dominante de la cutine ?",
+      "options": ["Minérale", "Lipidique/Imperméable", "Protéique", "Glucidique soluble"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 800,
+      "question": "Les méats facilitent quel type d'échanges dans la plante ?",
+      "options": ["Échanges gazeux (air)", "Échanges de sève", "Échanges de gènes", "Échanges de sucre"],
+      "reponsKorek": 0,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 801,
+      "question": "Quel tissu végétal est composé uniquement de cellules mortes ?",
+      "options": ["L'épiderme", "Le liège", "Le cytoplasme", "La lame moyenne"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 802,
+      "question": "Quelle partie de la paroi est la première à subir la gélification ?",
+      "options": ["La membrane secondaire", "La cellulose et les composés pectiques", "Le noyau", "La cuticule"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 803,
+      "question": "L'imprégnation de lignine se fait généralement sur quelle couleur de base ?",
+      "options": ["Rouge", "Jaune ou brune", "Verte", "Bleue"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 804,
+      "question": "Quelle fonction physiologique est assurée par les plasmodesmes ?",
+      "options": ["Protection", "Communication et transport", "Respiration", "Photosynthèse"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    },
+    {
+      "id": 805,
+      "question": "La paroi cellulaire végétale est-elle une structure totalement fermée ?",
+      "options": ["Oui, c'est un bloc", "Non, elle présente des pores et plasmodesmes", "Seulement chez les cactus", "Seulement dans le bois"],
+      "reponsKorek": 1,
+      "Tip": "Quiz",
+      "nivo": "Intermediaire",
+      "paj": "Page 5"
+    }
+  ]
+}
