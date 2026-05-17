@@ -32,6 +32,17 @@
       "answer": "Droite",
       "explanation": "L'augmentation de pression déplace l'équilibre vers le côté ayant le moins de moles de gaz (2 < 4).",
       "min_lines": 2
+    },
+    {
+      "id": "fmp_chem_p1_03",
+      "question": "Équilibre Chimique: Dans la réaction N2(g) + 3H2(g) ⇌ 2NH3(g), si on augmente la pression, dans quel sens l'équilibre se déplace-t-il ?",
+      "paj": "Etape 1",
+      "nivo": "Facile",
+      "tip": "Quiz",
+      "options": ["lvy","uivt","khtiytit","kvviytc"],
+      "answer": "D",
+      "explanation": "L'augmentation de pression déplace l'équilibre vers le côté ayant le moins de moles de gaz (2 < 4).",
+      "min_lines": 2
     }
   ]
 }
