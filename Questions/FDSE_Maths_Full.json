@@ -11,8 +11,8 @@
       "explanation": "1. Moles (n) = 10g / 40g/mol = 0.25 mol. 2. Volume = 0.5 L. 3. M = 0.25/0.5 = 0.5 M.",
       "min_lines": 3
     }
-    ],
-  "Page 2": [
+  ],
+  "Etape 1": [
     {
       "id": "fmp_chem_p1_02",
       "question": "Loi des Gaz Parfaits: Quel volume occupent 2 moles de gaz oxygène dans les conditions normales (TPN: 0°C, 1 atm) ? (Vm = 22.4 L/mol)",
