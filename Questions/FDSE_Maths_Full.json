@@ -1,57 +1,52 @@
 {
   "Etape 1": [
     {
-      "id": "fmp_chem_p1_01",
+      "id": "fdse_maths_p01",
       "question": "Calcul de Molarité: Une solution contient 10g de NaOH (Masse molaire = 40g/mol) dans 500mL d'eau. Calculez la molarité de la solution.",
-      "paj": "Etape 1",
-      "nivo": "Melange",
-      "tip": "Probleme",
+      "page": "Etape 1",
+      "level": "Melanger",
+      "type": "Probleme",
       "options": [],
       "answer": "0.5",
       "explanation": "1. Moles (n) = 10g / 40g/mol = 0.25 mol. 2. Volume = 0.5 L. 3. M = 0.25/0.5 = 0.5 M.",
       "min_lines": 3
     },
     {
-      "id": "fmp_chem_p1_02",
+      "id": "fdse_maths_p02",
       "question": "Loi des Gaz Parfaits: Quel volume occupent 2 moles de gaz oxygène dans les conditions normales (TPN: 0°C, 1 atm) ? (Vm = 22.4 L/mol)",
-      "paj": "Etape 1",
-      "nivo": "Melange",
-      "tip": "Probleme",
+      "page": "Etape 1",
+      "level": "Melanger",
+      "type": "Probleme",
       "options": [],
       "answer": "44.8",
       "explanation": "V = n * Vm = 2 mol * 22.4 L/mol = 44.8 Litres.",
       "min_lines": 2
     },
     {
-      "id": "fmp_chem_p1_03",
-      "question": "Équilibre Chimique: Dans la réaction N2(g) + 3H2(g) ⇌ 2NH3(g), si on augmente la pression, dans quel sens l'équilibre se déplace-t-il ?",
-      "paj": "Etape 1",
-      "nivo": "Melange",
-      "tip": "Probleme",
-      "options": [],
-      "answer": "Droite",
-      "explanation": "L'augmentation de pression déplace l'équilibre vers le côté ayant le moins de moles de gaz (2 < 4).",
-      "min_lines": 2
+      "id": "fdse_maths_q01",
+      "question": "Quel est l'état de l'eau à 0°C ?",
+      "options": ["Gazeux", "Liquide", "Solide", "Plasma"],
+      "answer": "Solide",
+      "page": "Etape 1",
+      "level": "Facile",
+      "type": "Quiz"
     },
     {
-    "id": "quiz_f_05",
-    "question": "Quel est l'état de l'eau à 0°C ?",
-    "options": ["Gazeux", "Liquide", "Solide", "Plasma"],
-    "reponsKorek": 2,
-    "paj": "Etape 1",
-    "nivo": "Facile",
-    "tip": "Quiz"
-  },
-
-  /* --- INTERMEDIAIRE (5) --- */
-  {
-    "id": "quiz_i_01",
-    "question": "Quel est le numéro atomique du Carbone ?",
-    "options": ["4", "6", "8", "12"],
-    "reponsKorek": 1,
-    "paj": "Etape 1",
-    "nivo": "Intermediaire",
-    "tip": "Quiz"
-  }
+      "id": "fdse_maths_q02",
+      "question": "Quel est le numéro atomique du Carbone ?",
+      "options": ["4", "6", "8", "12"],
+      "answer": "6",
+      "page": "Etape 1",
+      "level": "Intermediaire",
+      "type": "Quiz"
+    },
+    {
+      "id": "fdse_maths_c01",
+      "question": "Quel gaz les humains respirent-ils pour survivre ?",
+      "answer": "Oxygène",
+      "page": "Etape 1",
+      "level": "Facile",
+      "type": "Completer"
+    }
   ]
 }
