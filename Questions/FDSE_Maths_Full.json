@@ -32,6 +32,21 @@
       "answer": "Droite",
       "explanation": "L'augmentation de pression déplace l'équilibre vers le côté ayant le moins de moles de gaz (2 < 4).",
       "min_lines": 2
+    },
+    {
+      "id": "fdse_maths_q01",
+      "question": "Quel est le symbole chimique de l'Hydrogène ?",
+      "options": ["Hy", "H", "Hg", "Ho"],
+      "answer": "H", 
+      "level": "Facile",
+      "type": "Quiz"
+    },
+    {
+      "id": "fdse_maths_c01",
+      "question": "Quel gaz les humains respirent-ils pour survivre ?",
+      "answer": "Oxygène",
+      "level": "Facile",
+      "type": "Completer"
     }
   ]
 }
