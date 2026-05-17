@@ -34,19 +34,24 @@
       "min_lines": 2
     },
     {
-      "id": "fdse_maths_q01",
-      "question": "Quel est le symbole chimique de l'Hydrogène ?",
-      "options": ["Hy", "H", "Hg", "Ho"],
-      "answer": "H", 
-      "level": "Facile",
-      "type": "Quiz"
-    },
-    {
-      "id": "fdse_maths_c01",
-      "question": "Quel gaz les humains respirent-ils pour survivre ?",
-      "answer": "Oxygène",
-      "level": "Facile",
-      "type": "Completer"
-    }
+    "id": "quiz_f_05",
+    "question": "Quel est l'état de l'eau à 0°C ?",
+    "options": ["Gazeux", "Liquide", "Solide", "Plasma"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+
+  /* --- INTERMEDIAIRE (5) --- */
+  {
+    "id": "quiz_i_01",
+    "question": "Quel est le numéro atomique du Carbone ?",
+    "options": ["4", "6", "8", "12"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  }
   ]
 }
