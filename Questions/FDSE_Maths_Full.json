@@ -40,7 +40,11 @@
     "reponsKorek": 1,
     "paj": "Etape 1",
     "nivo": "Facile",
-    "tip": "Quiz"
+    "tip": "Quiz",
+    "options": [],
+    "answer": "...",
+    "explanation": "...",
+    "min_lines": 2
   }
   ]
 }
