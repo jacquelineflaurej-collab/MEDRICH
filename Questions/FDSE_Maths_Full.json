@@ -9,33 +9,6 @@
       "answer": "0.5",
       "explanation": "1. Moles (n) = 10g / 40g/mol = 0.25 mol. 2. Volume = 0.5 L. 3. M = 0.25/0.5 = 0.5 M.",
       "min_lines": 3
-    },
-    {
-      "id": "fdse_maths_q01",
-      "question": "Quelle est la racine carrée de 144 ?",
-      "options": ["10", "12", "14", "16"],
-      "answer": "12",
-      "paj": "Etape 1",
-      "nivo": "Facile",
-      "tip": "Quiz"
-    },
-    {
-      "id": "fdse_maths_c01",
-      "question": "Le résultat d'une addition s'appelle la _______.",
-      "options": [],
-      "answer": "Somme",
-      "paj": "Etape 1",
-      "nivo": "Facile",
-      "tip": "Completer"
-    },
-    {
-      "id": "fdse_maths_q02",
-      "question": "Quelle est la valeur de 5 au carré (5²) ?",
-      "options": ["10", "15", "25", "50"],
-      "answer": "25",
-      "paj": "Etape 1",
-      "nivo": "Intermediaire",
-      "tip": "Quiz"
     }
   ]
 }
