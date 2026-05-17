@@ -38,7 +38,7 @@
     "question": "Quel est le symbole chimique de l'Hydrogène ?",
     "options": ["Hy", "H", "Hg", "Ho"],
     "reponsKorek": 1,
-    "paj": "Etape 1",
+    "etap": "Etape 1",
     "nivo": "Facile",
     "tip": "Quiz"
   }
