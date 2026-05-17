@@ -1,8 +1,7 @@
-{
-  "Etape 1": [
+{"Etape 1": [
     {
-      "id": "fmp_chem_p1_01",
-      "question": "Calcul de Molarité: Une solution contient 10g de NaOH (Masse molaire = 40g/mol) dans 500mL d'eau. Calculez la molarité de la solution.",
+      "id": "fdse_maths_p01",
+      "question": "Calcul de Molarité: Une solution contient 10g de NaOH (Masse molaire = 40g/mol) dans 500mL d'eau. Calculez la molarité.",
       "paj": "Etape 1",
       "nivo": "Melange",
       "tip": "Probleme",
@@ -12,26 +11,31 @@
       "min_lines": 3
     },
     {
-      "id": "fmp_chem_p1_02",
-      "question": "Loi des Gaz Parfaits: Quel volume occupent 2 moles de gaz oxygène dans les conditions normales (TPN: 0°C, 1 atm) ? (Vm = 22.4 L/mol)",
+      "id": "fdse_maths_q01",
+      "question": "Quelle est la racine carrée de 144 ?",
+      "options": ["10", "12", "14", "16"],
+      "answer": "12",
       "paj": "Etape 1",
-      "nivo": "Melange",
-      "tip": "Probleme",
-      "options": [],
-      "answer": "44.8",
-      "explanation": "V = n * Vm = 2 mol * 22.4 L/mol = 44.8 Litres.",
-      "min_lines": 2
+      "nivo": "Facile",
+      "tip": "Quiz"
     },
     {
-      "id": "fmp_chem_p1_03",
-      "question": "Équilibre Chimique: Dans la réaction N2(g) + 3H2(g) ⇌ 2NH3(g), si on augmente la pression, dans quel sens l'équilibre se déplace-t-il ?",
-      "paj": "Etape 1",
-      "nivo": "Melange",
-      "tip": "Probleme",
+      "id": "fdse_maths_c01",
+      "question": "Le résultat d'une addition s'appelle la _______.",
       "options": [],
-      "answer": "Droite",
-      "explanation": "L'augmentation de pression déplace l'équilibre vers le côté ayant le moins de moles de gaz (2 < 4).",
-      "min_lines": 2
+      "answer": "Somme",
+      "paj": "Etape 1",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "fdse_maths_q02",
+      "question": "Quelle est la valeur de 5 au carré (5²) ?",
+      "options": ["10", "15", "25", "50"],
+      "answer": "25",
+      "paj": "Etape 1",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
     }
   ]
 }
