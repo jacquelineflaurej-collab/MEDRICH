@@ -15,7 +15,7 @@
       "question": "Quelle est la racine carrée de 144 ?",
       "options": ["10", "12", "14", "16"],
       "answer": "12",
-      "paj": "Page 1",
+      "paj": "Etape 1",
       "nivo": "Facile",
       "tip": "Quiz"
     },
@@ -24,7 +24,7 @@
       "question": "Le résultat d'une addition s'appelle la _______.",
       "options": [],
       "answer": "Somme",
-      "paj": "Page 1",
+      "paj": "Etape 1",
       "nivo": "Facile",
       "tip": "Completer"
     },
@@ -33,7 +33,7 @@
       "question": "Quelle est la valeur de 5 au carré (5²) ?",
       "options": ["10", "15", "25", "50"],
       "answer": "25",
-      "paj": "Page 1",
+      "paj": "Etape 1",
       "nivo": "Intermediaire",
       "tip": "Quiz"
     }
