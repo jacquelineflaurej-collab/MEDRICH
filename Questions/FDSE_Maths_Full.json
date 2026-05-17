@@ -34,7 +34,7 @@
       "min_lines": 2
     },
     {
-    "id": "quiz_f_01",
+    "id": "fmp_chem_p1_04",
     "question": "Quel est le symbole chimique de l'Hydrogène ?",
     "options": ["Hy", "H", "Hg", "Ho"],
     "reponsKorek": 1,
