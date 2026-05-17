@@ -40,7 +40,7 @@
     "question": "Quel est le symbole chimique de l'Hydrogène ?",
     "options": ["Hy", "H", "Hg", "Ho"],
     "reponsKorek": 1,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Facile",
     "tip": "Quiz"
   },
@@ -49,7 +49,7 @@
     "question": "Quel gaz les humains respirent-ils pour survivre ?",
     "options": ["Azote", "Dioxyde de carbone", "Oxygène", "Hélium"],
     "reponsKorek": 2,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Facile",
     "tip": "Quiz"
   },
@@ -58,7 +58,7 @@
     "question": "Quelle est la formule chimique de l'eau ?",
     "options": ["HO2", "H2O2", "H2O", "OH"],
     "reponsKorek": 2,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Facile",
     "tip": "Quiz"
   },
@@ -67,7 +67,7 @@
     "question": "Le sel de table est composé de Sodium et de... ?",
     "options": ["Chlore", "Soufre", "Fer", "Magnésium"],
     "reponsKorek": 0,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Facile",
     "tip": "Quiz"
   },
@@ -76,7 +76,7 @@
     "question": "Quel est l'état de l'eau à 0°C ?",
     "options": ["Gazeux", "Liquide", "Solide", "Plasma"],
     "reponsKorek": 2,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Facile",
     "tip": "Quiz"
   },
@@ -87,7 +87,7 @@
     "question": "Quel est le numéro atomique du Carbone ?",
     "options": ["4", "6", "8", "12"],
     "reponsKorek": 1,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
@@ -96,7 +96,7 @@
     "question": "Quel scientifique a élaboré le tableau périodique des éléments ?",
     "options": ["Einstein", "Newton", "Mendéléïev", "Lavoisier"],
     "reponsKorek": 2,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
@@ -105,7 +105,7 @@
     "question": "Quelle particule a une charge électrique négative ?",
     "options": ["Proton", "Neutron", "Electron", "Noyau"],
     "reponsKorek": 2,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
@@ -114,7 +114,7 @@
     "question": "Un pH de 7 est considéré comme :",
     "options": ["Acide", "Basique", "Neutre", "Alcalin"],
     "reponsKorek": 2,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
@@ -123,7 +123,7 @@
     "question": "Quel est le symbole du Fer ?",
     "options": ["F", "Fr", "Fe", "Ir"],
     "reponsKorek": 2,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
@@ -134,7 +134,7 @@
     "question": "Quel est l'élément le plus abondant dans l'univers ?",
     "options": ["Oxygène", "Hélium", "Hydrogène", "Azote"],
     "reponsKorek": 2,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
@@ -143,7 +143,7 @@
     "question": "Quelle est la principale source de radioactivité naturelle ?",
     "options": ["Plomb", "Radon", "Mercure", "Zinc"],
     "reponsKorek": 1,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
@@ -152,7 +152,7 @@
     "question": "Comment appelle-t-on les électrons de la couche externe d'un atome ?",
     "options": ["Electrons libres", "Electrons de valence", "Ions", "Isotopes"],
     "reponsKorek": 1,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
@@ -161,7 +161,7 @@
     "question": "L'isotherme est une courbe de température :",
     "options": ["Croissante", "Décroissante", "Constante", "Aléatoire"],
     "reponsKorek": 2,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
@@ -170,7 +170,7 @@
     "question": "L'Avogadro est une constante qui définit le nombre de particules dans :",
     "options": ["Un gramme", "Un litre", "Une mole", "Un atome"],
     "reponsKorek": 2,
-    "paj": "Page 2",
+    "paj": "Etape 1",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
@@ -179,7 +179,7 @@
       "question": "Prensip fondamantal lavi a baze sou _____.",
       "options": ["enèji"],
       "reponsKorek": 0,
-      "paj": "Page 2",
+      "paj": "Etape 1",
       "nivo": "Intermediaire",
       "tip": "Completer"
     },
@@ -188,7 +188,7 @@
       "question": "Quelle est la masse molaire de l'eau (H2O) ? (H=1, O=16)",
       "options": ["14 g/mol", "18 g/mol", "20 g/mol", "22 g/mol"],
       "reponsKorek": 1,
-      "paj": "Page 2",
+      "paj": "Etape 1",
       "nivo": "Intermediaire",
       "tip": "Quiz",
       "explanation": "2*1 (H) + 16 (O) = 18 g/mol."
@@ -198,7 +198,7 @@
       "question": "Une solution dont le pH est inférieur à 7 est ___.",
       "options": ["acide"],
       "reponsKorek": 0,
-      "paj": "Page 2",
+      "paj": "Etape 1",
       "nivo": "Intermediaire",
       "tip": "Completer",
       "explanation": "pH < 7 = Acide, pH > 7 = Basique."
