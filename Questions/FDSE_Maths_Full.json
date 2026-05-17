@@ -34,7 +34,7 @@
       "min_lines": 2
     },
     {
-      "id": "fdse_q1_01",
+      "id": "fdse_maths_q1_01",
       "question": "Ki premye prezidan peyi Ayiti?",
       "options": ["Pétion", "Dessalines", "Christophe", "Boyer"],
       "reponsKorek": 1,
@@ -43,7 +43,7 @@
       "tip": "Quiz"
     },
     {
-      "id": "fdse_q1_02",
+      "id": "fdse_maths_q1_02",
       "question": "Nan ki ane Ayiti te pran depandans li?",
       "options": ["1804", "1791", "1803", "1825"],
       "reponsKorek": 0,
