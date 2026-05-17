@@ -1,0 +1,54 @@
+{
+  "Etape 1": [
+    {
+      "id": 1,
+      "question": "Ki valè x nan ekwasyon sa a: 2x + 5 = 15?",
+      "options": ["x = 5", "x = 10", "x = 15", "x = 20"],
+      "answer": "x = 5",
+      "level": "Facile",
+      "type": "Quiz",
+      "hint": "Retire 5 nan 15 anvan, apre sa divize pa 2."
+    },
+    {
+      "id": 2,
+      "question": "Yon triyang ki gen 3 kote egal rele triyang _______.",
+      "answer": "Equilateral",
+      "level": "Intermediaire",
+      "type": "Completer",
+      "hint": "Li kòmanse ak 'E' epi li fini ak 'al'."
+    },
+    {
+      "id": 3,
+      "question": "Yon machann achte yon sak diri 2500 goud. Li vann li 3000 goud. Kalkile pousantaj pwofi li fè a.",
+      "answer": "20%",
+      "level": "Difficile",
+      "type": "Probleme",
+      "explanation": "Pwofi = 500. Pousantaj = (500/2500) * 100 = 20%."
+    },
+    {
+      "id": 4,
+      "question": "Ki rezilta 12 * 12?",
+      "options": ["144", "124", "164", "140"],
+      "answer": "144",
+      "level": "Melanger",
+      "type": "Quiz"
+    }
+  ],
+  "Etape 2": [
+    {
+      "id": 5,
+      "question": "Kalkile ipoteniz yon triyang rektang si kote yo se 3cm ak 4cm.",
+      "answer": "5",
+      "level": "Intermediaire",
+      "type": "Probleme",
+      "hint": "Sèvi ak téyorèm Pitagò: a² + b² = c²."
+    },
+    {
+      "id": 6,
+      "question": "Nan yon fonksyon f(x) = ax + b, 'a' reprezante _______ la.",
+      "answer": "Pente",
+      "level": "Facile",
+      "type": "Completer"
+    }
+  ]
+}
