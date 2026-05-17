@@ -1,78 +1,29 @@
 {
   "Etape 1": [
     {
-      "id": 1,
-      "question": "Quelle est la valeur de x dans l'équation : 3x - 9 = 21 ?",
-      "options": ["x = 10", "x = 8", "x = 12", "x = 6"],
-      "answer": "x = 10",
-      "level": "Facile",
-      "type": "Quiz",
-      "hint": "Ajoutez 9 aux deux côtés, puis divisez par 3."
-    },
-    {
-      "id": 2,
-      "question": "Un triangle qui possède deux côtés de même longueur est appelé un triangle _______.",
-      "answer": "Isocèle",
-      "level": "Facile",
-      "type": "Completer",
-      "hint": "Cela commence par la lettre 'I'."
-    },
-    {
-      "id": 3,
-      "question": "Un investisseur place 5000 HTG à un taux d'intérêt simple de 10% par an. Quel sera l'intérêt après 2 ans ?",
-      "answer": "1000",
-      "level": "Intermediaire",
-      "type": "Probleme",
-      "explanation": "Intérêt = Capital * Taux * Temps. 5000 * 0.10 * 2 = 1000 HTG."
-    },
-    {
-      "id": 4,
-      "question": "Calculez la dérivée de f(x) = 5x² + 3x + 7.",
-      "options": ["10x + 3", "5x + 3", "10x", "15x + 3"],
-      "answer": "10x + 3",
-      "level": "Difficile",
-      "type": "Quiz",
-      "hint": "Utilisez la règle (x^n)' = nx^(n-1)."
-    },
-    {
-      "id": 5,
-      "question": "En statistiques, la valeur qui apparaît le plus fréquemment dans une série de données est appelée le _______.",
-      "answer": "Mode",
-      "level": "Intermediaire",
-      "type": "Completer"
-    },
-    {
-      "id": 6,
-      "question": "Résolvez le problème suivant : Une citerne contient 1200 litres. On retire 15% de son contenu. Combien de litres reste-t-il ?",
-      "answer": "1020",
+      "id": "fdse_maths_01",
+      "question": "Calcul de Molarité: Une solution contient 10g de NaOH (Masse molaire = 40g/mol) dans 500mL d'eau. Calculez la molarité.",
       "level": "Melanger",
       "type": "Probleme",
-      "explanation": "15% de 1200 = 180. 1200 - 180 = 1020 litres."
+      "options": [],
+      "answer": "0.5",
+      "explanation": "1. Moles (n) = 10g / 40g/mol = 0.25 mol. 2. Volume = 0.5 L. 3. M = 0.25/0.5 = 0.5 M.",
+      "min_lines": 3
     },
     {
-      "id": 7,
-      "question": "Quelle est la racine carrée de 144 ?",
-      "options": ["12", "14", "16", "11"],
-      "answer": "12",
-      "level": "Melanger",
+      "id": "fdse_maths_02",
+      "question": "Quel est le résultat de 12 x 12 ?",
+      "options": ["144", "124", "164", "140"],
+      "answer": "144",
+      "level": "Facile",
       "type": "Quiz"
-    }
-  ],
-  "Etape 2": [
+    },
     {
-      "id": 8,
+      "id": "fdse_maths_03",
       "question": "Le résultat d'une multiplication s'appelle le _______.",
       "answer": "Produit",
-      "level": "Facile",
-      "type": "Completer"
-    },
-    {
-      "id": 9,
-      "question": "Si un rectangle a une longueur de 10cm et une largeur de 5cm, quelle est son aire ?",
-      "answer": "50",
       "level": "Intermediaire",
-      "type": "Probleme",
-      "explanation": "Aire = Longueur * Largeur. 10 * 5 = 50 cm²."
+      "type": "Completer"
     }
   ]
 }
