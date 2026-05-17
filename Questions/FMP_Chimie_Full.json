@@ -184,24 +184,13 @@
       "tip": "Completer"
     },
     {
-      "id": "fmp_chem_q2_i1",
-      "question": "Quelle est la masse molaire de l'eau (H2O) ? (H=1, O=16)",
-      "options": ["14 g/mol", "18 g/mol", "20 g/mol", "22 g/mol"],
-      "reponsKorek": 1,
-      "paj": "Page 2",
-      "nivo": "Intermediaire",
-      "tip": "Quiz",
-      "explanation": "2*1 (H) + 16 (O) = 18 g/mol."
-    },
-    {
       "id": "fmp_chem_c2_i1",
       "question": "Une solution dont le pH est inférieur à 7 est ___.",
       "options": ["acide"],
       "reponsKorek": 0,
       "paj": "Page 2",
       "nivo": "Intermediaire",
-      "tip": "Completer",
-      "explanation": "pH < 7 = Acide, pH > 7 = Basique."
+      "tip": "Completer"
     }
   ]
 }
