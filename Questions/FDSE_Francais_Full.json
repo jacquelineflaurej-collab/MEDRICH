@@ -1,0 +1,85 @@
+{
+  "Etape 1": [
+    {
+      "id": "fdse_fr_q1_01",
+      "question": "Choisissez la forme correcte : 'Ils ___ (manger) à la cantine.'",
+      "options": ["mange", "manges", "mangent", "mangeons"],
+      "reponsKorek": 2,
+      "paj": "Etape 1",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "fdse_fr_c1_01",
+      "question": "Complétez la phrase avec l'auxiliaire correct : 'Nous ___ arrivés en retard.'",
+      "options": [],
+      "reponsKorek": 0,
+      "answer": "sommes",
+      "paj": "Etape 1",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "fdse_fr_q1_02",
+      "question": "Quel est le synonyme du mot 'Vaste' ?",
+      "options": ["Petit", "Immense", "Étroit", "Sombre"],
+      "reponsKorek": 1,
+      "paj": "Etape 1",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "fdse_fr_c1_02",
+      "question": "Mettez au pluriel le mot 'Ciel' :",
+      "options": [],
+      "reponsKorek": 0,
+      "answer": "cieux",
+      "paj": "Etape 1",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    }
+  ],
+  "Etape 2": [
+    {
+      "id": "fdse_fr_q2_01",
+      "question": "Lequel de ces mots est un adverbe ?",
+      "options": ["Courir", "Heureux", "Rapidement", "Grand"],
+      "reponsKorek": 2,
+      "paj": "Etape 2",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "fdse_fr_c2_01",
+      "question": "Écrivez correctement le participe passé : 'Elles se sont ___ (laver) les mains.'",
+      "options": [],
+      "reponsKorek": 0,
+      "answer": "lavé",
+      "explanation": "Le participe passé ne s'accorde pas ici car le COD (les mains) est placé après le verbe.",
+      "paj": "Etape 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "fdse_fr_q2_02",
+      "question": "Dans la phrase 'L'enfant dort', quel est le sujet ?",
+      "options": ["dort", "L'", "L'enfant", "enfant"],
+      "reponsKorek": 2,
+      "paj": "Etape 2",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    }
+  ],
+  "Etape 3": [
+    {
+      "id": "fdse_fr_c3_01",
+      "question": "Donnez le féminin de l'adjectif 'Malin' :",
+      "options": [],
+      "reponsKorek": 0,
+      "answer": "maligne",
+      "paj": "Etape 3",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    }
+  ]
+}
