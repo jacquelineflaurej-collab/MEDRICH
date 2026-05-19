@@ -21,9 +21,9 @@
       "tip": "Quiz"
     },
     {
-      "id": "fdse_maths_q1_03",
-      "question": "Nan ki ane Ayiti te pran depandans li?",
-      "options": ["1804", "1791", "1803", "1825"],
+     "id": "fdse_maths_q1_03",
+      "question": "Une solution dont le pH est inférieur à 7 est ___.",
+      "options": ["acide"],
       "reponsKorek": 0,
       "paj": "Etape 1",
       "nivo": "Facile",
