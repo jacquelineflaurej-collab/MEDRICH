@@ -1,7 +1,18 @@
 {
-  "Etape 1": [    
+  "Etape 1": [
     {
       "id": "fdse_maths_q1_01",
+      "question": "Calcul de Molarité: Une solution contient 10g de NaOH (Masse molaire = 40g/mol) dans 500mL d'eau. Calculez la molarité de la solution.",
+      "paj": "Etape 1",
+      "nivo": "Melange",
+      "tip": "Probleme",
+      "options": [],
+      "answer": "0.5",
+      "explanation": "1. Moles (n) = 10g / 40g/mol = 0.25 mol. 2. Volume = 0.5 L. 3. M = 0.25/0.5 = 0.5 M.",
+      "min_lines": 3
+    },
+    {
+      "id": "fdse_maths_q1_02",
       "question": "Ki premye prezidan peyi Ayiti?",
       "options": ["Pétion", "Dessalines", "Christophe", "Boyer"],
       "reponsKorek": 1,
@@ -10,7 +21,7 @@
       "tip": "Quiz"
     },
     {
-      "id": "fdse_maths_q1_02",
+      "id": "fdse_maths_q1_03",
       "question": "Nan ki ane Ayiti te pran depandans li?",
       "options": ["1804", "1791", "1803", "1825"],
       "reponsKorek": 0,
