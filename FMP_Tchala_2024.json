@@ -28,7 +28,35 @@
       "nivo": "Intermediaire",
       "paj": "Physiologie",
       "tip": "Quiz"
-    }
+    },
+
+    {
+    "id": 2001,
+    "question": "L'unité structurelle et fonctionnelle du rein s'appelle le ________.",
+    "options": ["néphron"],
+    "reponsKorek": 0,
+    "nivo": "Standard",
+    "paj": "Physiologie",
+    "tip": "Completer"
+  },
+  {
+    "id": 2002,
+    "question": "La valve située entre l'oreillette gauche et le ventricule gauche est la valve ________.",
+    "options": ["mitrale"],
+    "reponsKorek": 0,
+    "nivo": "Standard",
+    "paj": "Physiologie",
+    "tip": "Completer"
+  },
+  {
+    "id": 3002,
+    "question": "Un patient pèse 70 kg et mesure 1.75 m. Calculez son Indice de Masse Corporelle (IMC).",
+    "options": ["22.86"],
+    "reponsKorek": 0,
+    "nivo": "Standard",
+    "paj": "Physiologie",
+    "tip": "Probleme"
+  } 
   ],
   "Bio animal": [
     {
