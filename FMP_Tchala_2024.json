@@ -47,16 +47,7 @@
     "nivo": "Facile",
     "paj": "Physiologie",
     "tip": "Completer"
-  },
-  {
-    "id": 3002,
-    "question": "Un patient pèse 70 kg et mesure 1.75 m. Calculez son Indice de Masse Corporelle (IMC).",
-    "options": ["22.86"],
-    "reponsKorek": 0,
-    "nivo": "Standard",
-    "paj": "Physiologie",
-    "tip": "Probleme"
-  } 
+  }
   ],
   "Bio animal": [
     {
