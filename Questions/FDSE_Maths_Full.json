@@ -21,7 +21,16 @@
       "tip": "Quiz"
     },
     {
-     "id": "fdse_maths_q1_03",
+      "id": "fdse_maths_q1_03",
+      "question": "Koman ou rele",
+      "options": ["toto", "lolo", "Chris", "Boy"],
+      "reponsKorek": 1,
+      "paj": "Etape 1",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+     "id": "fdse_maths_q1_04",
       "question": "Une solution dont le pH est inférieur à 7 est ___.",
       "options": ["acide"],
       "reponsKorek": 0,
