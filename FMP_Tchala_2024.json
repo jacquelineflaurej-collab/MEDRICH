@@ -1,0 +1,110 @@
+{
+  "Anatomie": [
+    {
+      "id": 1001,
+      "question": "Quel est l'os le plus long du corps humain ?",
+      "options": ["Le tibia", "Le fémur", "L'humérus", "Le radius"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Anatomie",
+      "tip": "Quiz"
+    },
+    {
+      "id": 1002,
+      "question": "Combien de cavités possède le cœur humain ?",
+      "options": ["2", "3", "4", "6"],
+      "reponsKorek": 2,
+      "nivo": "Facile",
+      "paj": "Anatomie",
+      "tip": "Quiz"
+    }
+  ],
+  "Physiologie": [
+    {
+      "id": 2001,
+      "question": "Quel organe est responsable de la production de l'insuline ?",
+      "options": ["Le foie", "La rate", "Le pancréas", "Les reins"],
+      "reponsKorek": 2,
+      "nivo": "Intermediaire",
+      "paj": "Physiologie",
+      "tip": "Quiz"
+    }
+  ],
+  "Bio animal": [
+    {
+      "id": 3001,
+      "question": "Quelle est l'unité de base structurelle et fonctionnelle de tous les êtres vivants ?",
+      "options": ["L'atome", "La cellule", "Le tissu", "L'organe"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Bio animal",
+      "tip": "Quiz"
+    }
+  ],
+  "Botanique": [
+    {
+      "id": 4001,
+      "question": "Quel pigment vert est essentiel pour la photosynthèse ?",
+      "options": ["Le carotène", "La chlorophylle", "La xanthophylle", "L'anthocyane"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Botanique",
+      "tip": "Quiz"
+    }
+  ],
+  "Chimie": [
+    {
+      "id": 5001,
+      "question": "Quel est le symbole chimique de l'or ?",
+      "options": ["Ag", "Au", "Fe", "Pb"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Chimie",
+      "tip": "Quiz"
+    }
+  ],
+  "Physique": [
+    {
+      "id": 6001,
+      "question": "Quelle est l'unité de mesure de la force dans le système international ?",
+      "options": ["Watt", "Joule", "Newton", "Pascal"],
+      "reponsKorek": 2,
+      "nivo": "Facile",
+      "paj": "Physique",
+      "tip": "Quiz"
+    }
+  ],
+  "Francais": [
+    {
+      "id": 7001,
+      "question": "Quel est le participe passé du verbe 'Prendre' ?",
+      "options": ["Prené", "Pris", "Prendu", "Prenu"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    }
+  ],
+  "Anglais": [
+    {
+      "id": 8001,
+      "question": "Translate to English: 'Bonjour, comment allez-vous ?'",
+      "options": ["Hi, what's up?", "Hello, how are you?", "Good morning, who are you?", "Hey, where are you?"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Anglais",
+      "tip": "Quiz"
+    }
+  ],
+  "Connaissance generale": [
+    {
+      "id": 9001,
+      "question": "En quelle année l'Université d'État d'Haïti (UEH) a-t-elle été officiellement nommée ainsi ?",
+      "options": ["1944", "1960", "1804", "1987"],
+      "reponsKorek": 1,
+      "nivo": "Difficile",
+      "paj": "Connaissance generale",
+      "tip": "Quiz"
+    }
+  ]
+}
