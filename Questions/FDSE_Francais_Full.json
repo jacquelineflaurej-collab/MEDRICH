@@ -10,7 +10,7 @@
       "tip": "Quiz"
     },
     {
-      "id": "fdse_fr_c1_01",
+      "id": "fdse_fr_c1_02",
       "question": "Complétez la phrase avec l'auxiliaire correct : 'Nous ___ arrivés en retard.'",
       "options": [],
       "reponsKorek": 0,
@@ -20,7 +20,17 @@
       "tip": "Completer"
     },
     {
-      "id": "fdse_fr_q1_02",
+      "id": "fdse_fr_c1_02",
+      "question": "Complétez la phrase avec l'auxiliaire correct : 'Nous ___ besoin de toi.'",
+      "options": [],
+      "reponsKorek": 0,
+      "answer": "avons",
+      "paj": "Etape 1",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "fdse_fr_q1_03",
       "question": "Quel est le synonyme du mot 'Vaste' ?",
       "options": ["Petit", "Immense", "Étroit", "Sombre"],
       "reponsKorek": 1,
@@ -29,7 +39,7 @@
       "tip": "Quiz"
     },
     {
-      "id": "fdse_fr_c1_02",
+      "id": "fdse_fr_c1_04",
       "question": "Mettez au pluriel le mot 'Ciel' :",
       "options": [],
       "reponsKorek": 0,
@@ -41,7 +51,7 @@
   ],
   "Etape 2": [
     {
-      "id": "fdse_fr_q2_01",
+      "id": "fdse_fr_q2_05",
       "question": "Lequel de ces mots est un adverbe ?",
       "options": ["Courir", "Heureux", "Rapidement", "Grand"],
       "reponsKorek": 2,
@@ -50,7 +60,7 @@
       "tip": "Quiz"
     },
     {
-      "id": "fdse_fr_c2_01",
+      "id": "fdse_fr_c2_06",
       "question": "Écrivez correctement le participe passé : 'Elles se sont ___ (laver) les mains.'",
       "options": [],
       "reponsKorek": 0,
@@ -61,7 +71,7 @@
       "tip": "Completer"
     },
     {
-      "id": "fdse_fr_q2_02",
+      "id": "fdse_fr_q2_07",
       "question": "Dans la phrase 'L'enfant dort', quel est le sujet ?",
       "options": ["dort", "L'", "L'enfant", "enfant"],
       "reponsKorek": 2,
@@ -72,7 +82,7 @@
   ],
   "Etape 3": [
     {
-      "id": "fdse_fr_c3_01",
+      "id": "fdse_fr_c3_08",
       "question": "Donnez le féminin de l'adjectif 'Malin' :",
       "options": [],
       "reponsKorek": 0,
