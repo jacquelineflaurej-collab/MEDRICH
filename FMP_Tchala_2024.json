@@ -25,7 +25,7 @@
       "question": "Quel organe est responsable de la production de l'insuline ?",
       "options": ["Le foie", "La rate", "Le pancréas", "Les reins"],
       "reponsKorek": 2,
-      "nivo": "Intermediaire",
+      "nivo": "Facile",
       "paj": "Physiologie",
       "tip": "Quiz"
     },
@@ -35,7 +35,7 @@
     "question": "L'unité structurelle et fonctionnelle du rein s'appelle le ________.",
     "options": ["néphron"],
     "reponsKorek": 0,
-    "nivo": "Standard",
+    "nivo": "Facile",
     "paj": "Physiologie",
     "tip": "Completer"
   },
@@ -44,7 +44,7 @@
     "question": "La valve située entre l'oreillette gauche et le ventricule gauche est la valve ________.",
     "options": ["mitrale"],
     "reponsKorek": 0,
-    "nivo": "Standard",
+    "nivo": "Facile",
     "paj": "Physiologie",
     "tip": "Completer"
   },
