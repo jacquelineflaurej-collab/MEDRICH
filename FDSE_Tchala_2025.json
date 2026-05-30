@@ -1,28 +1,28 @@
 {"Culture generale": [
     {
       "id": 1001,
-      "question": "Nan ki ane yo te siyen premye Konstitisyon peyi Ayiti kòm nasyon endepandan?",
-      "options": ["1801", "1804", "1805", "1806"],
-      "reponsKorek": 2,
+      "question": "En quelle année l'Indépendance d'Haïti a-t-elle été proclamée ?",
+      "options": ["1803", "1804", "1805", "1806"],
+      "reponsKorek": 1,
       "nivo": "Facile",
       "paj": "Culture generale",
       "tip": "Quiz"
     },
     {
       "id": 1002,
-      "question": "Kilès ki te prezidan peyi Ayiti lè Konstitisyon 1987 la te vote?",
-      "options": ["Jean-Claude Duvalier", "Leslie Manigat", "Henri Namphy", "Prosper Avril"],
-      "reponsKorek": 2,
-      "nivo": "Facile",
+      "question": "Quel est le plus haut sommet de la République d'Haïti ?",
+      "options": ["Le Pic Macaya", "Le Pic la Selle", "Le Morne de la Hotte", "Le Morne Jean-Baptiste"],
+      "reponsKorek": 1,
+      "nivo": "Intermediaire",
       "paj": "Culture generale",
       "tip": "Quiz"
     },
     {
       "id": 1003,
-      "question": "Peyi ki te okipe Ayiti soti 1915 rive 1934 se ________.",
-      "options": ["Etazini"],
+      "question": "L'organisation internationale chargée de maintenir la paix et la sécurité mondiale s'appelle l'________.",
+      "options": ["ONU"],
       "reponsKorek": 0,
-      "nivo": "Intermediaire",
+      "nivo": "Facile",
       "paj": "Culture generale",
       "tip": "Completer"
     }
@@ -30,8 +30,8 @@
   "Francais": [
     {
       "id": 2001,
-      "question": "Choisissez la forme correcte : 'Bien qu'il ___ fatigué, il continue de travailler.'",
-      "options": ["est", "soit", "était", "sera"],
+      "question": "Lequel de ces mots est un synonyme de 'Éphémère' ?",
+      "options": ["Éternel", "Passager", "Durable", "Constant"],
       "reponsKorek": 1,
       "nivo": "Facile",
       "paj": "Francais",
@@ -39,19 +39,19 @@
     },
     {
       "id": 2002,
-      "question": "Quel est le synonyme du mot 'Laconique' ?",
-      "options": ["Bavard", "Précis", "Bref", "Clair"],
-      "reponsKorek": 2,
+      "question": "Choisissez la forme correctement orthographiée :",
+      "options": ["Il a acquéri", "Il a acquis", "Il a acquit", "Il a acquerri"],
+      "reponsKorek": 1,
       "nivo": "Intermediaire",
       "paj": "Francais",
       "tip": "Quiz"
     },
     {
       "id": 2003,
-      "question": "Le participe passé du verbe 'Éclore' au masculin singulier est ________.",
-      "options": ["éclos"],
+      "question": "Le participe passé du verbe 'Vivre' au masculin singulier est ________.",
+      "options": ["vécu"],
       "reponsKorek": 0,
-      "nivo": "Difficile",
+      "nivo": "Facile",
       "paj": "Francais",
       "tip": "Completer"
     }
@@ -59,26 +59,26 @@
   "Maths": [
     {
       "id": 3001,
-      "question": "Si f(x) = 3x - 4, ki valè f(2)?",
-      "options": ["2", "10", "6", "0"],
-      "reponsKorek": 0,
+      "question": "Si 3x + 15 = 45, quelle est la valeur de x ?",
+      "options": ["5", "10", "15", "20"],
+      "reponsKorek": 1,
       "nivo": "Facile",
       "paj": "Maths",
       "tip": "Quiz"
     },
     {
       "id": 3002,
-      "question": "Yon machann vann yon rad 1200 goud, li fè yon pwofi 20%. Konbe rad la te koute l?",
-      "options": ["960 goud", "1000 goud", "1100 goud", "800 goud"],
-      "reponsKorek": 1,
+      "question": "Quelle est la probabilité de tirer un as dans un jeu de 52 cartes ?",
+      "options": ["1/13", "1/52", "4/52", "1/4"],
+      "reponsKorek": 0,
       "nivo": "Intermediaire",
       "paj": "Maths",
       "tip": "Quiz"
     },
     {
       "id": 3003,
-      "question": "Nan yon triyang rektang, si kote yo mezire 3 ak 4, longè ipoteniz la se ________.",
-      "options": ["5"],
+      "question": "La racine carrée du nombre 144 est égale à ________.",
+      "options": ["12"],
       "reponsKorek": 0,
       "nivo": "Facile",
       "paj": "Maths",
@@ -88,33 +88,28 @@
   "Dissertation (Sces Juridiques)": [
     {
       "id": 4001,
-      "question": "Nan dwa sivil ayisyen, ki laj yon moun dwe genyen pou l majè?",
-      "options": ["16 ane", "18 ane", "21 ane", "25 ane"],
-      "reponsKorek": 1,
+      "question": "L'ensemble des règles qui régissent les rapports entre les particuliers s'appelle :",
+      "options": ["Le droit pénal", "Le droit administratif", "Le droit civil", "Le droit public"],
+      "reponsKorek": 2,
       "nivo": "Facile",
       "paj": "Dissertation (Sces Juridiques)",
       "tip": "Quiz"
     },
     {
       "id": 4002,
-      "question": "Ki sa 'Leta de Dwa' vle di nan yon sosyete?",
-      "options": [
-        "Lè se sèl kòmandan ki bay lòd",
-        "Lè tout moun, san wete grannèg, soumèt anba lalwa",
-        "Lè pa gen lalwa ditou",
-        "Lè se sèl jij yo ki gen dwa"
-      ],
-      "reponsKorek": 1,
+      "question": "En Haïti, le pouvoir législatif est exercé par :",
+      "options": ["Le Président", "Le Premier Ministre", "Le Parlement", "Le Conseil Supérieur du Pouvoir Judiciaire"],
+      "reponsKorek": 2,
       "nivo": "Intermediaire",
       "paj": "Dissertation (Sces Juridiques)",
       "tip": "Quiz"
     },
     {
       "id": 4003,
-      "question": "Pouvwa ki genyen misyon pou vote lwa yo rele Pouvwa ________.",
-      "options": ["Lejislatif"],
+      "question": "Le tribunal qui a pour mission de vérifier la bonne application de la loi par les autres tribunaux est la Cour de ________.",
+      "options": ["Cassation"],
       "reponsKorek": 0,
-      "nivo": "Facile",
+      "nivo": "Difficile",
       "paj": "Dissertation (Sces Juridiques)",
       "tip": "Completer"
     }
