@@ -1,0 +1,99 @@
+{
+  "Questions": [
+    {
+      "id": 1,
+      "question": "Nan ki ane yo te siyen premye Konstitisyon peyi Ayiti kòm nasyon endepandan?",
+      "options": ["1801", "1804", "1805", "1806"],
+      "reponsKorek": 2,
+      "nivo": "Facile",
+      "paj": "Culture generale",
+      "tip": "Quiz"
+    },
+    {
+      "id": 2,
+      "question": "Kiyès ki otè liv 'Ainsi parla l'oncle' la, ki se yon gwo referans nan kilti ayisyen?",
+      "options": ["Jacques Roumain", "Jean Price-Mars", "Massillon Coicou", "Carl Brouard"],
+      "reponsKorek": 1,
+      "nivo": "Intermediaire",
+      "paj": "Culture generale",
+      "tip": "Quiz"
+    },
+    {
+      "id": 3,
+      "question": "Choisissez la forme correcte : 'Bien qu'il ___ fatigué, il continue de travailler.'",
+      "options": ["est", "soit", "était", "sera"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 4,
+      "question": "Quel est le synonyme du mot 'Laconique' ?",
+      "options": ["Bavard", "Précis", "Bref", "Clair"],
+      "reponsKorek": 2,
+      "nivo": "Intermediaire",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5,
+      "question": "Si f(x) = 3x - 4, ki valè f(2)?",
+      "options": ["2", "10", "6", "0"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Maths",
+      "tip": "Quiz"
+    },
+    {
+      "id": 6,
+      "question": "Yon machann vann yon rad 1200 goud, li fè yon pwofi 20%. Konbe rad la te koute l?",
+      "options": ["960 goud", "1000 goud", "1100 goud", "800 goud"],
+      "reponsKorek": 1,
+      "nivo": "Intermediaire",
+      "paj": "Maths",
+      "tip": "Quiz"
+    },
+    {
+      "id": 7,
+      "question": "Nan dwa sivil, ki laj yon moun dwe genyen pou l majè nan peyi Ayiti?",
+      "options": ["16 ane", "18 ane", "21 ane", "25 ane"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Dissertation (Sces Juridiques)",
+      "tip": "Quiz"
+    },
+    {
+      "id": 8,
+      "question": "Ki sa 'Leta de Dwa' vle di nan yon sosyete?",
+      "options": [
+        "Lè se sèl kòmandan ki bay lòd", 
+        "Lè tout moun, san wete grannèg, soumèt anba lalwa", 
+        "Lè pa gen lalwa ditou", 
+        "Lè se sèl jij yo ki gen dwa"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Intermediaire",
+      "paj": "Dissertation (Sces Juridiques)",
+      "tip": "Quiz"
+    },
+    {
+      "id": 9,
+      "question": "Kilès ki gen pouvwa pou nonmen Jij nan Tribinal Kasasyon an Ayiti?",
+      "options": ["Palman an", "Premye Minis la", "Prezidan Repiblik la", "CSPJ a"],
+      "reponsKorek": 2,
+      "nivo": "Difficile",
+      "paj": "Dissertation (Sces Juridiques)",
+      "tip": "Quiz"
+    },
+    {
+      "id": 10,
+      "question": "Ki valè mwayèn seri sa a : 10, 15, 20?",
+      "options": ["10", "15", "20", "45"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Maths",
+      "tip": "Quiz"
+    }
+  ]
+}
