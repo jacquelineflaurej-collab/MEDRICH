@@ -5,6 +5,8 @@
     { "id": "fmp_2023_3", "name": "FMP(Medecine) 2023 #3", "file": "resultat_medecine_3" },
     { "id": "fmp_2023_4", "name": "FMP(Medecine) 2023 #4", "file": "resultat_medecine_4" },
     { "id": "fmp_2023_5", "name": "FMP(Medecine) 2023 #5", "file": "resultat_medecine_5" },
-    { "id": "ebmo_2023", "name": "EBMO(Optometrie) 2023", "file": "resultat_Optometrie" }
+    { "id": "ebmo_2023", "name": "EBMO(Optometrie) 2023", "file": "resultat_Optometrie" },
+    {"id": "avis_1", "name": "AVIS: Date des concours 2026", "file": "Date_des_concours_2026"
+}
   ]
 }
