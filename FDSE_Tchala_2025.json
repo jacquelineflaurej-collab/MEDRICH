@@ -1,129 +1,122 @@
-{
-  "Anatomie": [
+{"Culture generale": [
     {
       "id": 1001,
-      "question": "Quel est l'os le plus long du corps humain ?",
-      "options": ["Le tibia", "Le fémur", "L'humérus", "Le radius"],
-      "reponsKorek": 1,
+      "question": "Nan ki ane yo te siyen premye Konstitisyon peyi Ayiti kòm nasyon endepandan?",
+      "options": ["1801", "1804", "1805", "1806"],
+      "reponsKorek": 2,
       "nivo": "Facile",
-      "paj": "Anatomie",
+      "paj": "Culture generale",
       "tip": "Quiz"
     },
     {
       "id": 1002,
-      "question": "Combien de cavités possède le cœur humain ?",
-      "options": ["2", "3", "4", "6"],
+      "question": "Kilès ki te prezidan peyi Ayiti lè Konstitisyon 1987 la te vote?",
+      "options": ["Jean-Claude Duvalier", "Leslie Manigat", "Henri Namphy", "Prosper Avril"],
       "reponsKorek": 2,
       "nivo": "Facile",
-      "paj": "Anatomie",
-      "tip": "Quiz"
-    }
-  ],
-  "Physiologie": [
-    {
-      "id": 2001,
-      "question": "Quel organe est responsable de la production de l'insuline ?",
-      "options": ["Le foie", "La rate", "Le pancréas", "Les reins"],
-      "reponsKorek": 2,
-      "nivo": "Facile",
-      "paj": "Physiologie",
+      "paj": "Culture generale",
       "tip": "Quiz"
     },
-
     {
-    "id": 2002,
-    "question": "L'unité structurelle et fonctionnelle du rein s'appelle le ________.",
-    "options": ["néphron"],
-    "reponsKorek": 0,
-    "nivo": "Facile",
-    "paj": "Physiologie",
-    "tip": "Completer"
-  },
-  {
-    "id": 2003,
-    "question": "La valve située entre l'oreillette gauche et le ventricule gauche est la valve ________.",
-    "options": ["mitrale"],
-    "reponsKorek": 0,
-    "nivo": "Facile",
-    "paj": "Physiologie",
-    "tip": "Completer"
-  }
-  ],
-  "Bio animal": [
-    {
-      "id": 3001,
-      "question": "Quelle est l'unité de base structurelle et fonctionnelle de tous les êtres vivants ?",
-      "options": ["L'atome", "La cellule", "Le tissu", "L'organe"],
-      "reponsKorek": 1,
-      "nivo": "Facile",
-      "paj": "Bio animal",
-      "tip": "Quiz"
-    }
-  ],
-  "Botanique": [
-    {
-      "id": 4001,
-      "question": "Quel pigment vert est essentiel pour la photosynthèse ?",
-      "options": ["Le carotène", "La chlorophylle", "La xanthophylle", "L'anthocyane"],
-      "reponsKorek": 1,
-      "nivo": "Facile",
-      "paj": "Botanique",
-      "tip": "Quiz"
-    }
-  ],
-  "Chimie": [
-    {
-      "id": 5001,
-      "question": "Quel est le symbole chimique de l'or ?",
-      "options": ["Ag", "Au", "Fe", "Pb"],
-      "reponsKorek": 1,
-      "nivo": "Facile",
-      "paj": "Chimie",
-      "tip": "Quiz"
-    }
-  ],
-  "Physique": [
-    {
-      "id": 6001,
-      "question": "Quelle est l'unité de mesure de la force dans le système international ?",
-      "options": ["Watt", "Joule", "Newton", "Pascal"],
-      "reponsKorek": 2,
-      "nivo": "Facile",
-      "paj": "Physique",
-      "tip": "Quiz"
+      "id": 1003,
+      "question": "Peyi ki te okipe Ayiti soti 1915 rive 1934 se ________.",
+      "options": ["Etazini"],
+      "reponsKorek": 0,
+      "nivo": "Intermediaire",
+      "paj": "Culture generale",
+      "tip": "Completer"
     }
   ],
   "Francais": [
     {
-      "id": 7001,
-      "question": "Quel est le participe passé du verbe 'Prendre' ?",
-      "options": ["Prené", "Pris", "Prendu", "Prenu"],
+      "id": 2001,
+      "question": "Choisissez la forme correcte : 'Bien qu'il ___ fatigué, il continue de travailler.'",
+      "options": ["est", "soit", "était", "sera"],
       "reponsKorek": 1,
       "nivo": "Facile",
       "paj": "Francais",
       "tip": "Quiz"
+    },
+    {
+      "id": 2002,
+      "question": "Quel est le synonyme du mot 'Laconique' ?",
+      "options": ["Bavard", "Précis", "Bref", "Clair"],
+      "reponsKorek": 2,
+      "nivo": "Intermediaire",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 2003,
+      "question": "Le participe passé du verbe 'Éclore' au masculin singulier est ________.",
+      "options": ["éclos"],
+      "reponsKorek": 0,
+      "nivo": "Difficile",
+      "paj": "Francais",
+      "tip": "Completer"
     }
   ],
-  "Anglais": [
+  "Maths": [
     {
-      "id": 8001,
-      "question": "Translate to English: 'Bonjour, comment allez-vous ?'",
-      "options": ["Hi, what's up?", "Hello, how are you?", "Good morning, who are you?", "Hey, where are you?"],
+      "id": 3001,
+      "question": "Si f(x) = 3x - 4, ki valè f(2)?",
+      "options": ["2", "10", "6", "0"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Maths",
+      "tip": "Quiz"
+    },
+    {
+      "id": 3002,
+      "question": "Yon machann vann yon rad 1200 goud, li fè yon pwofi 20%. Konbe rad la te koute l?",
+      "options": ["960 goud", "1000 goud", "1100 goud", "800 goud"],
+      "reponsKorek": 1,
+      "nivo": "Intermediaire",
+      "paj": "Maths",
+      "tip": "Quiz"
+    },
+    {
+      "id": 3003,
+      "question": "Nan yon triyang rektang, si kote yo mezire 3 ak 4, longè ipoteniz la se ________.",
+      "options": ["5"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Maths",
+      "tip": "Completer"
+    }
+  ],
+  "Dissertation (Sces Juridiques)": [
+    {
+      "id": 4001,
+      "question": "Nan dwa sivil ayisyen, ki laj yon moun dwe genyen pou l majè?",
+      "options": ["16 ane", "18 ane", "21 ane", "25 ane"],
       "reponsKorek": 1,
       "nivo": "Facile",
-      "paj": "Anglais",
+      "paj": "Dissertation (Sces Juridiques)",
       "tip": "Quiz"
-    }
-  ],
-  "Connaissance generale": [
+    },
     {
-      "id": 9001,
-      "question": "En quelle année l'Université d'État d'Haïti (UEH) a-t-elle été officiellement nommée ainsi ?",
-      "options": ["1944", "1960", "1804", "1987"],
+      "id": 4002,
+      "question": "Ki sa 'Leta de Dwa' vle di nan yon sosyete?",
+      "options": [
+        "Lè se sèl kòmandan ki bay lòd",
+        "Lè tout moun, san wete grannèg, soumèt anba lalwa",
+        "Lè pa gen lalwa ditou",
+        "Lè se sèl jij yo ki gen dwa"
+      ],
       "reponsKorek": 1,
-      "nivo": "Difficile",
-      "paj": "Connaissance generale",
+      "nivo": "Intermediaire",
+      "paj": "Dissertation (Sces Juridiques)",
       "tip": "Quiz"
+    },
+    {
+      "id": 4003,
+      "question": "Pouvwa ki genyen misyon pou vote lwa yo rele Pouvwa ________.",
+      "options": ["Lejislatif"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Dissertation (Sces Juridiques)",
+      "tip": "Completer"
     }
   ]
 }
