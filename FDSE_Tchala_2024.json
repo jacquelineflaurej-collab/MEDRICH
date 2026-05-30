@@ -1,58 +1,118 @@
 {
+  "Culture generale": [
+    {
+      "id": 1001,
+      "question": "En quelle année Haïti a-t-elle accueilli le premier sommet de la CARICOM sur son sol ?",
+      "options": ["2003", "2013", "1994", "2010"],
+      "reponsKorek": 1,
+      "nivo": "Intermediaire",
+      "paj": "Culture generale",
+      "tip": "Quiz"
+    },
+    {
+      "id": 1002,
+      "question": "Quel organe de l'État haïtien est chargé de contrôler l'utilisation des fonds publics ?",
+      "options": ["Le Parlement", "La Cour Supérieure des Comptes (CSCCA)", "Le Ministère des Finances", "La PNH"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Culture generale",
+      "tip": "Quiz"
+    },
+    {
+      "id": 1003,
+      "question": "Le père de l'Indépendance d'Haïti qui a été assassiné au Pont-Rouge en 1806 est Jean-Jacques ________.",
+      "options": ["Dessalines"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Culture generale",
+      "tip": "Completer"
+    }
+  ],
+  "Francais": [
+    {
+      "id": 2001,
+      "question": "Identifiez la figure de style : 'La neige est un manteau blanc sur la ville.'",
+      "options": ["Une comparaison", "Une métaphore", "Une personnification", "Une hyperbole"],
+      "reponsKorek": 1,
+      "nivo": "Intermediaire",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 2002,
+      "question": "Quel est l'antonyme du mot 'Altruiste' ?",
+      "options": ["Généreux", "Égoïste", "Ambitieux", "Sincère"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 2003,
+      "question": "Le féminin de l'adjectif 'Malin' est ________.",
+      "options": ["maligne"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Completer"
+    }
+  ],
   "Maths": [
     {
-      "id": 4001,
-      "question": "Si f(x) = 3x - 4, quelle est la valeur de f(5) ?",
-      "options": ["11", "15", "19", "12"],
-      "reponsKorek": 0,
-      "nivo": "Standard",
+      "id": 3001,
+      "question": "Soit un rectangle de longueur 10 cm et de largeur 5 cm. Quel est son périmètre ?",
+      "options": ["15 cm", "30 cm", "50 cm", "25 cm"],
+      "reponsKorek": 1,
+      "nivo": "Facile",
       "paj": "Maths",
+      "tip": "Quiz"
+    },
+    {
+      "id": 3002,
+      "question": "Quelle est la valeur de x dans l'équation : log10(x) = 2 ?",
+      "options": ["20", "10", "100", "2"],
+      "reponsKorek": 2,
+      "nivo": "Intermediaire",
+      "paj": "Maths",
+      "tip": "Quiz"
+    },
+    {
+      "id": 3003,
+      "question": "Dans un triangle, la somme des trois angles est toujours égale à ________ degrés.",
+      "options": ["180"],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Maths",
+      "tip": "Completer"
+    }
+  ],
+  "Dissertation (Sces Juridiques)": [
+    {
+      "id": 4001,
+      "question": "Quel document fondamental définit l'organisation des pouvoirs en Haïti ?",
+      "options": ["Le Code Civil", "Le Code Pénal", "La Constitution", "Le Décret Électoral"],
+      "reponsKorek": 2,
+      "nivo": "Facile",
+      "paj": "Dissertation (Sces Juridiques)",
       "tip": "Quiz"
     },
     {
       "id": 4002,
-      "question": "Dans une boîte, il y a 3 boules rouges et 2 boules noires. La probabilité de tirer une boule rouge est de ________ (donnez le résultat en décimal).",
-      "options": ["0.6"],
-      "reponsKorek": 0,
-      "nivo": "Standard",
-      "paj": "Maths",
-      "tip": "Completer"
-    },
-    {
-      "id": 4003,
-      "question": "Résolvez le système suivant : x + y = 10 et x - y = 2. Quelle est la valeur de x ?",
-      "options": ["4", "5", "6", "8"],
-      "reponsKorek": 2,
-      "nivo": "Standard",
-      "paj": "Maths",
+      "question": "Laquelle de ces institutions fait partie du Pouvoir Judiciaire en Haïti ?",
+      "options": ["Le Sénat", "La Cour de Cassation", "La Primature", "La Mairie"],
+      "reponsKorek": 1,
+      "nivo": "Intermediaire",
+      "paj": "Dissertation (Sces Juridiques)",
       "tip": "Quiz"
     },
     {
-      "id": 4004,
-      "question": "Un capital de 1000 HTG est placé à un taux d'intérêt simple de 10% l'an. Calculez l'intérêt après 2 ans.",
-      "options": ["200"],
+      "id": 4003,
+      "question": "L'acte par lequel une personne dispose de ses biens pour le temps où elle n'existera plus s'appelle un ________.",
+      "options": ["testament"],
       "reponsKorek": 0,
-      "nivo": "Standard",
-      "paj": "Maths",
-      "tip": "Probleme"
-    },
-    {
-      "id": 4005,
-      "question": "La dérivée de la fonction f(x) = x² + 5x est f'(x) = ________.",
-      "options": ["2x + 5"],
-      "reponsKorek": 0,
-      "nivo": "Standard",
-      "paj": "Maths",
+      "nivo": "Intermediaire",
+      "paj": "Dissertation (Sces Juridiques)",
       "tip": "Completer"
-    },
-    {
-      "id": 4006,
-      "question": "Un article coûte 500 HTG. Après une réduction de 20%, calculez son nouveau prix.",
-      "options": ["400"],
-      "reponsKorek": 0,
-      "nivo": "Standard",
-      "paj": "Maths",
-      "tip": "Probleme"
     }
   ]
 }
