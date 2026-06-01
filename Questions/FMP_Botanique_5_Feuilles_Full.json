@@ -1619,16 +1619,14 @@
     "paj": "Page 5",
     "nivo": "Difficile",
     "tip": "Completer"
-  },
+  }
   ]
 
-
-
-
+  
     
 {
   "Page 6": [
-  {
+    {
     "id": "1",
     "question": "Par quoi se manifeste la vie de la cellule végétale ?",
     "options": ["Son irritabilité, sa nutrition, sa croissance et sa multiplication", "Uniquement par sa coloration verte", "Par son immobilité absolue", "Par sa disparition rapide"],
