@@ -1619,6 +1619,278 @@
     "paj": "Page 5",
     "nivo": "Difficile",
     "tip": "Completer"
-  }
+  },
+
+
+
+  {
+    "id": "1",
+    "question": "Par quoi se manifeste la vie de la cellule végétale ?",
+    "options": ["Son irritabilité, sa nutrition, sa croissance et sa multiplication", "Uniquement par sa coloration verte", "Par son immobilité absolue", "Par sa disparition rapide"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "2",
+    "question": "Comment appelle-t-on la propriété de la cellule végétale de réagir aux excitations ?",
+    "options": ["L'irritabilité", "La nutrition", "La croissance", "L'amitose"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "3",
+    "question": "Laquelle des propositions suivantes est une excitation citée dans le texte ?",
+    "options": ["La chaleur", "Le vent", "Le son", "La nuit"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "4",
+    "question": "Comment est qualifié le mouvement de réaction de la cellule végétale aux excitations ?",
+    "options": ["Lent et peu apparent", "Rapide et très visible", "Violent et instantané", "Totalement inexistant"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "5",
+    "question": "Pourquoi n'y a-t-il pas de mouvement d'ensemble lors de la réaction de la cellule ?",
+    "options": ["À cause de la présence de la membrane cellulaire rigide", "À cause de l'absence d'eau dans la cellule", "À cause de la petitesse du noyau", "À cause de la température extérieure"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "6",
+    "question": "À travers quelle membrane la cellule végétale reçoit-elle l'eau et les substances dissoutes ?",
+    "options": ["La membrane pecto-cellulosique perméable", "La membrane nucléaire", "La plaque équatoriale", "Le fuseau chromatique"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "7",
+    "question": "Quelles structures opèrent un choix parmi les substances dissoutes reçues ?",
+    "options": ["La membrane cytoplasmique et le cytoplasme", "Les chromosomes et les filaments", "La membrane nucléaire et le noyau", "Les nucléoles et le centromère"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "8",
+    "question": "Pour quoi sont utilisées les substances absorbées par la cellule végétale ?",
+    "options": ["Pour réaliser la synthèse de substances nouvelles ou produire de l'énergie", "Pour détruire complètement la membrane rigide", "Pour arrêter définitivement le développement cellulaire", "Pour bloquer la pénétration de l'eau"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "9",
+    "question": "Grâce à quoi la cellule végétale s'accroît-elle ?",
+    "options": ["Aux aliments absorbés", "À la rigidité de la membrane", "À l'absence totale de cytoplasme", "À la destruction de ses nucléoles"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "10",
+    "question": "Que fait la cellule végétale quand elle a atteint sa taille limite ?",
+    "options": ["Elle se divise", "Elle s'arrête de vivre", "Elle diminue de taille", "Elle devient imperméable"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "11",
+    "question": "Comment peut être la division ou multiplication cellulaire ?",
+    "options": ["Directe (amitose) ou indirecte (mitose)", "Interne ou externe", "Partielle ou totale", "Lente ou instantanée"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "12",
+    "question": "En quoi consiste principalement l'amitose ?",
+    "options": ["En un étranglement du noyau qui le partage approximativement en deux", "En une disparition complète du noyau cellulaire", "En un gonflement extrême de la membrane pecto-cellulosique", "En une fusion de plusieurs cellules âgées"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "13",
+    "question": "Lors de l'amitose, que fait la masse cytoplasmique après le partage du noyau ?",
+    "options": ["Elle se coupe en deux, chaque moitié emportant un noyau", "Elle disparaît totalement", "Elle se liquéfie et quitte la cellule", "Elle reste entière sans se diviser"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "14",
+    "question": "Dans quels types de cellules observe-t-on le mode de division par amitose ?",
+    "options": ["Dans quelques types de cellules âgées ou dégénérescentes", "Dans toutes les jeunes cellules en pleine croissance", "Exclusivement dans les cellules saines et vigoureuses", "Uniquement dans les cellules animales"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "15",
+    "question": "Quel appareil a révélé que les cellules des végétaux inférieurs se multiplient aussi par mitose ?",
+    "options": ["Le microscope électronique", "Le télescope", "La loupe simple", "Le microscope optique rudimentaire"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "16",
+    "question": "Comment se déroule la mitose selon le texte du document ?",
+    "options": ["D'une manière continue", "D'une manière saccadée", "Uniquement durant la nuit", "De façon instantanée et invisible"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "17",
+    "question": "Combien de phases peut-on distinguer dans le déroulement de la mitose ?",
+    "options": ["Quatre phases", "Deux phases", "Six phases", "Une seule phase"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "18",
+    "question": "Quelle est la première phase de la mitose citée dans le document ?",
+    "options": ["La prophase", "La métaphase", "L'anaphase", "L'amitose"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "19",
+    "question": "Qu'arrive-t-il au noyau au cours de la prophase ?",
+    "options": ["Le noyau se gonfle", "Le noyau rétrécit", "Le noyau se divise immédiatement en deux", "Le noyau devient invisible dès le début"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "20",
+    "question": "Qu'arrive-t-il aux contours du noyau pendant la prophase ?",
+    "options": ["Ils s'estompent progressivement", "Ils deviennent de plus en plus nets", "Ils se colorent en bleu", "Ils restent inchangés"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "21",
+    "question": "Comment évoluent les chromosomes au cours de la prophase ?",
+    "options": ["Ils deviennent de plus en plus visibles", "Ils disparaissent complètement", "Ils se transforment en liquide", "Ils restent inchangés et invisibles"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "22",
+    "question": "Où distingue-t-on d'abord les chromosomes au début de la prophase ?",
+    "options": ["À la périphérie du noyau", "Exactement au centre du noyau", "En dehors de la cellule", "Dans le suc vacuolaire"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "23",
+    "question": "En combien de chromatides les chromosomes se fissurent-ils longitudinalement ?",
+    "options": ["Deux chromatides", "Quatre chromatides", "Trois chromatides", "Une seule chromatide"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "24",
+    "question": "Par quelle structure les deux chromatides demeurent-ils liés ?",
+    "options": ["Le centromère", "Le cytoplasme", "Le filament", "Le nucléole"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "25",
+    "question": "Quelles structures disparaissent complètement pendant la prophase ?",
+    "options": ["Les nucléoles et la membrane nucléaire", "Les chromosomes et le centromère", "La membrane cytoplasmique et la paroi", "Le cytoplasme et le fuseau"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "26",
+    "question": "Qu'est-ce qui s'unit pour former le fuseau chromatique unissant les deux pôles de la cellule ?",
+    "options": ["Des filaments", "Des pores", "Des méats", "Des vacuoles"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "27",
+    "question": "Quelle est la deuxième phase de la mitose décrite dans le texte ?",
+    "options": ["La métaphase", "La prophase", "L'anaphase", "L'amitose"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "28",
+    "question": "Que font les chromosomes lors de la métaphase dans le plan équatorial du fuseau ?",
+    "options": ["Ils s'immobilisent brusquement", "Ils se divisent en quatre", "Ils se mettent à tourner rapidement", "Ils disparaissent tous"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "29",
+    "question": "Quelle structure forment les chromosomes immobilisés dans le plan équatorial du fuseau ?",
+    "options": ["La plaque équatoriale", "Le fuseau chromatique", "Le noyau cellulaire", "La membrane nucléaire"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "30",
+    "question": "Pendant l'anaphase, vers quoi se dirigent les chromatides après s'être séparés ?",
+    "options": ["Chacun vers un pôle de la cellule", "Vers le centre de la plaque équatoriale", "En dehors du cytoplasme", "Vers l'intérieur des nucléoles"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Quiz"
   ]
 }
