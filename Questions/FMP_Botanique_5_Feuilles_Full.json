@@ -1891,6 +1891,1656 @@
     "paj": "Page 6",
     "nivo": "Facile",
     "tip": "Quiz"
+  },
+  {
+    "id": "31",
+    "question": "Par quelles manifestations principales se caractérise la vie de la cellule végétale ?",
+    "options": [
+      "Son irritabilité, sa nutrition, sa croissance et sa multiplication",
+      "Sa respiration, sa photosynthèse, sa transpiration et sa mort",
+      "Sa rigidité, sa perméabilité, sa gélification et sa division",
+      "Son absorption, sa synthèse, son clivage et son immobilité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "32",
+    "question": "Quelles excitations externes peuvent provoquer une réaction d'irritabilité chez la cellule végétale ?",
+    "options": [
+      "La chaleur, la lumière, l'humidité, l'électricité et les chocs",
+      "La pesanteur, le vide, le magnétisme et l'obscurité complète",
+      "L'azote, le carbone, l'hydrogène et les sels minéraux",
+      "L'acidité, l'alcalinité, la déshydratation et la sénescence"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "33",
+    "question": "Comment est qualifié le mouvement de réaction de la cellule végétale face aux excitations ?",
+    "options": [
+      "Lent et peu apparent",
+      "Rapide et très visible",
+      "Instantané et vigoureux",
+      "Inexistant et totalement nul"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "34",
+    "question": "Quelle est la cause de l'absence d'un mouvement d'ensemble lors de la réaction d'irritabilité ?",
+    "options": [
+      "La présence de la membrane cellulaire rigide",
+      "Le manque d'énergie et de nutriments essentiels",
+      "La disparition temporaire du cytoplasme cellulaire",
+      "La taille excessive de la vacuole centrale"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "35",
+    "question": "À travers quelle structure perméable la cellule végétale reçoit-elle l'eau et les substances dissoutes ?",
+    "options": [
+      "Sa membrane pecto-cellulosique",
+      "Sa membrane nucléaire",
+      "La plaque équatoriale",
+      "Le fuseau achromatique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "36",
+    "question": "Quels éléments cellulaires opèrent un choix (sélection) parmi les substances dissoutes qui traversent la membrane ?",
+    "options": [
+      "La membrane cytoplasmique et le cytoplasme",
+      "La paroi pecto-cellulosique et les pores",
+      "Le noyau et la membrane nucléaire",
+      "Les nucléoles et les chromosomes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "37",
+    "question": "Pour quelles fonctions principales les substances absorbées par la cellule sont-elles utilisées ?",
+    "options": [
+      "Réaliser la synthèse de substances nouvelles ou produire de l'énergie",
+      "Provoquer l'irritabilité ou détruire la membrane pecto-cellulosique",
+      "Épaissir la cuticule externe ou former des méats d'air",
+      "Bloquer la division cellulaire et solidifier les pores"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "38",
+    "question": "À quel moment précis la cellule végétale se divise-t-elle au cours de sa croissance ?",
+    "options": [
+      "Quand elle a atteint sa taille limite",
+      "Dès qu'elle absorbe les premières substances dissoutes",
+      "Au moment où la membrane cytoplasmique disparaît",
+      "Lorsque le cytoplasme se solidifie en gel"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "39",
+    "question": "Quels sont les deux modes de division ou multiplication cellulaire décrits dans le texte ?",
+    "options": [
+      "L'amitose (directe) et la mitose (indirecte)",
+      "La prophase (directe) et l'anaphase (indirecte)",
+      "La scissiparité (interne) et le bourgeonnement (externe)",
+      "La fusion cellulaire et la gélification membranaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "40",
+    "question": "En quoi consiste le mécanisme de l'amitose ?",
+    "options": [
+      "Un étranglement du noyau qui le partage approximativement en deux moitiés",
+      "Une disparition de la membrane nucléaire suivie d'un clivage longitudinal",
+      "Une immobilisation brutale des chromosomes dans le plan équatorial",
+      "Un gonflement du noyau jusqu'à l'éclatement complet de ses contours"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "41",
+    "question": "Que se passe-t-il au niveau de la masse cytoplasmique suite à l'étranglement du noyau dans l'amitose ?",
+    "options": [
+      "Elle se coupe en deux, chaque moitié emportant un noyau",
+      "Elle se dissout entièrement dans le suc nucléaire",
+      "Elle forme un fuseau achromatique reliant les deux pôles",
+      "Elle s'immobilise brusquement sans subir de modification"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "42",
+    "question": "Dans quelles conditions ou types de cellules observe-t-on préférentiellement l'amitose ?",
+    "options": [
+      "Dans quelques types de cellules âgées ou dégénérées",
+      "Dans toutes les cellules jeunes en pleine croissance linéaire",
+      "Exclusivement dans les vaisseaux conducteurs de sève brute",
+      "Uniquement dans les cellules de l'épiderme des jeunes tiges"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "43",
+    "question": "Qu'a révélé le microscope électronique concernant la multiplication des végétaux inférieurs ?",
+    "options": [
+      "Que leurs cellules se multiplient aussi par division indirecte ou mitose",
+      "Que l'amitose est le mode de division exclusif et universel chez eux",
+      "Qu'ils ne possèdent ni noyau ni masse cytoplasmique divisible",
+      "Que leur division cellulaire s'effectue uniquement par gélification"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "44",
+    "question": "De quelle manière se déroule globalement le processus de la mitose ?",
+    "options": [
+      "D'une manière continue",
+      "Par étapes intermittentes et saccadées",
+      "Uniquement en cas d'excitation thermique",
+      "De façon purement aléatoire et imprévisible"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "45",
+    "question": "Combien de phases distinctes peut-on identifier au cours de la mitose d'après le document ?",
+    "options": [
+      "Quatre phases",
+      "Trois phases",
+      "Cinq phases",
+      "Deux phases"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "46",
+    "question": "Quel est le premier événement qui affecte le noyau au cours de la prophase ?",
+    "options": [
+      "Le noyau se gonfle et ses contours s'estompent progressivement",
+      "Le noyau subit un étranglement médian immédiat",
+      "Le noyau migre vers le plan équatorial du fuseau",
+      "Le noyau se divise instantanément en deux noyaux-fils"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "47",
+    "question": "Où distingue-t-il d'abord les chromosomes lorsqu'ils commencent à devenir visibles en prophase ?",
+    "options": [
+      "À la périphérie, puis vers le centre du noyau",
+      "Directement alignés sur la plaque équatoriale",
+      "Uniquement aux deux pôles de la cellule",
+      "À l'extérieur de la cellule, à travers les pores"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "48",
+    "question": "Comment évoluent morphologiquement les chromosomes au cours de la prophase ?",
+    "options": [
+      "Ils s'enroulent en spirales, s'épaississent et se raccourcissent",
+      "Ils s'allongent, s'amincissent et se déroulent complètement",
+      "Ils se fragmentent en petites structures sphériques irrégulières",
+      "Ils fusionnent pour former une masse chromatinienne unique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "49",
+    "question": "En quoi les chromosomes se fissurent-ils longitudinalement pendant la prophase ?",
+    "options": [
+      "En deux chromatides",
+      "En deux centromères",
+      "En deux nucléoles",
+      "En deux fuseaux achromatiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "50",
+    "question": "Par quelle structure spécifique les deux chromatides restent-ils liés lors de leur formation ?",
+    "options": [
+      "Le centromère",
+      "Le filament du fuseau",
+      "La plaque équatoriale",
+      "La membrane nucléaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "51",
+    "question": "Quels éléments cellulaires disparaissent complètement vers la fin de la prophase ?",
+    "options": [
+      "Les nucléoles et la membrane nucléaire",
+      "Les chromosomes et les chromatides",
+      "Le cytoplasme et la membrane cytoplasmique",
+      "Le centromère et les filaments polaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "52",
+    "question": "Que se passe-t-il pour le cytoplasme et le suc nucléaire lorsque la membrane nucléaire disparaît ?",
+    "options": [
+      "Ils se confondent alors",
+      "Ils se séparent hermétiquement",
+      "Ils s'évaporent hors de la cellule",
+      "Ils se transforment en cutine solide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "53",
+    "question": "Quelle structure est constituée par l'ensemble des filaments unissant les deux pôles de la cellule ?",
+    "options": [
+      "Le fuseau achromatique",
+      "La plaque équatoriale",
+      "Le chromosome-fils",
+      "L'enveloppe nucléaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "54",
+    "question": "Comment les chromosomes fissurés s'attachent-ils aux filaments du fuseau en prophase ?",
+    "options": [
+      "Chacun s'attache à l'un des filaments par leur centromère",
+      "Ils s'enroulent directement autour des pôles de la cellule",
+      "Ils se lient par l'intermédiaire des nucléoles résiduels",
+      "Ils adhèrent librement par leurs bras extérieurs"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "55",
+    "question": "Quel type de mouvements les chromosomes exécutent-ils après leur fixation sur les filaments en prophase ?",
+    "options": [
+      "Des mouvements de va-et-vient",
+      "Des mouvements de rotation continue",
+      "Des mouvements d'étranglement direct",
+      "Aucun mouvement, ils s'immobilisent immédiatement"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "56",
+    "question": "Quel comportement caractéristique adoptent les chromosomes au cours de la métaphase ?",
+    "options": [
+      "Ils s'immobilisent brusquement, les bras vers l'extérieur",
+      "Ils se séparent pour fuir rapidement vers les pôles",
+      "Ils se fissurent longitudinalement pour la première fois",
+      "Ils se mettent à gonfler jusqu'à estomper leurs contours"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "57",
+    "question": "Quelle structure caractéristique forment les chromosomes lorsqu'ils s'alignent au centre du fuseau en métaphase ?",
+    "options": [
+      "La plaque équatoriale",
+      "Le fuseau achromatique",
+      "L'étranglement nucléaire",
+      "La membrane cytoplasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "58",
+    "question": "Quel événement biologique s'achève précisément au début de l'anaphase ?",
+    "options": [
+      "Le clivage de chaque chromosome",
+      "Le gonflement initial du noyau",
+      "L'enroulement en spirale des filaments",
+      "La disparition des nucléoles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "59",
+    "question": "Que font les chromatides encore accolés au niveau du centromère pendant l'anaphase ?",
+    "options": [
+      "Ils se séparent pour se diriger chacun vers un pôle",
+      "Ils s'unissent pour reformer un chromosome double",
+      "Ils s'immobilisent définitivement au centre du fuseau",
+      "Ils fusionnent directement avec le suc nucléaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "60",
+    "question": "Qu'est-ce que le 'chromosome-fils' et quelle est son orientation pendant son déplacement en anaphase ?",
+    "options": [
+      "Chaque chromatide séparé, se mouvant avec le centromère tourné vers le haut",
+      "Le chromosome non clivé restant au centre du plan équatorial",
+      "L'ensemble des filaments du fuseau migrant vers la paroi rigide",
+      "Le noyau issu de l'amitose avant la séparation du cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "61",
+    "question": "Quelle caractéristique structurale intrinsèque de la cellule végétale empêche l'apparition d'un mouvement d'ensemble lors de la réaction d'irritabilité ?",
+    "options": [
+      "La présence de la membrane cellulaire rigide",
+      "La fluidité excessive du cytoplasme périphérique",
+      "L'absence de filaments contractiles dans le suc nucléaire",
+      "La forte pression de turgescence exercée par les méats"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "62",
+    "question": "Parmi les barrières cellulaires traversées lors de la nutrition, lesquelles accomplissent activement une sélection qualitative (un choix) des substances ?",
+    "options": [
+      "La membrane cytoplasmique et le cytoplasme",
+      "La membrane pecto-cellulosique externe uniquement",
+      "Les plasmodesmes et la lame moyenne",
+      "La cuticule hydrophobe et les pores rigides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "63",
+    "question": "Lors du métabolisme de nutrition, quel est le devenir dual des substances organiques ou minérales définitivement absorbées par le cytoplasme ?",
+    "options": [
+      "Réaliser la synthèse de substances nouvelles ou produire de l'énergie",
+      "Provoquer l'irritabilité membranaire ou initier le clivage du centromère",
+      "Épaissir la plaque équatoriale ou dissoudre les nucléoles",
+      "Alimenter les cavités des méats ou gélifier la cellulose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "64",
+    "question": "Quel facteur limitant lié au développement physique de la cellule détermine le déclenchement de sa division ou multiplication ?",
+    "options": [
+      "L'atteinte de sa taille limite au cours de sa croissance",
+      "L'épuisement total des réserves d'eau dans la membrane",
+      "La disparition complète des contours du fuseau chromatique",
+      "L'accumulation excessive de cire sur sa face interne"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "65",
+    "question": "Sur le plan morphologique, quel mécanisme précis définit l'étape initiale de l'amitose au niveau du matériel nucléaire ?",
+    "options": [
+      "Un étranglement du noyau qui le partage approximativement en deux moitiés",
+      "Une fissuration longitudinale rigoureuse des chromosomes individualisés",
+      "Une dissolution complète des contours nucléaires par le cytoplasme",
+      "Un alignement symétrique des structures sur une plaque médiane"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "66",
+    "question": "Dans quelles catégories spécifiques de cellules végétales la division directe ou amitose s'observe-t-elle préférentiellement ?",
+    "options": [
+      "Dans quelques types de cellules âgées ou dégénérantes",
+      "Dans les cellules embryonnaires en pleine croissance linéaire",
+      "Dans les vaisseaux ligneux conducteurs de la sève brute",
+      "Dans les cellules épidermiques hautement cutinisées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "67",
+    "question": "Quelle croyance historique relative aux végétaux inférieurs a été réfutée par l'avènement des observations au microscope électronique ?",
+    "options": [
+      "La croyance que l'amitose était le mode de division général chez eux",
+      "L'hypothèse qu'ils ne possédaient aucune membrane pecto-cellulosique",
+      "L'idée que leurs cellules se multipliaient exclusivement par mitose continue",
+      "La théorie selon laquelle leur noyau ne contenait pas de suc nucléaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "68",
+    "question": "Bien que l'étude de la mitose y distingue artificiellement quatre phases successives, comment se déroule ce processus cinétique ?",
+    "options": [
+      "D'une manière continue",
+      "Par étapes disjointes et indépendantes",
+      "De façon discontinue induite par l'électricité",
+      "Par cycles alternatifs de repos et de gélification"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "69",
+    "question": "Quel est le profil de distribution topographique des chromosomes lors de leur apparition initiale en prophase ?",
+    "options": [
+      "On les distingue d'abord à la périphérie, puis vers le centre du noyau",
+      "Ils s'accumulent directement aux pôles opposés de la cellule",
+      "Ils se fixent immédiatement sur la plaque équatoriale du fuseau",
+      "Ils se dispersent uniformément à travers les pores de la membrane"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "70",
+    "question": "Quelles transformations structurales simultanées les chromosomes subissent-ils au cours de la prophase ?",
+    "options": [
+      "Ils s'enroulent en spirales, s'épaississent et se raccourcissent",
+      "Ils s'allongent, s'amincissent et se détachent du centromère",
+      "Ils se rigidifient, se minéralisent et traversent l'enveloppe",
+      "Ils se liquéfient, se fragmentent et se confondent avec le cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "71",
+    "question": "De quelle manière géométrique précise s'effectue la fissuration structurale des chromosomes pendant la prophase ?",
+    "options": [
+      "Longitudinalement en deux chromatides",
+      "Transversalement en plusieurs segments isolés",
+      "De façon hélicoïdale autour du nucléole en décomposition",
+      "Par division oblique à partir des pôles du fuseau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "72",
+    "question": "Par quelle structure de liaison les deux chromatides issus de la fissuration prophasique demeurent-ils connectés ?",
+    "options": [
+      "Le centromère",
+      "Le filament achromatique",
+      "La plaque équatoriale",
+      "Le pore pecto-cellulosique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "73",
+    "question": "Quel événement cytologique direct découle de la disparition de la membrane nucléaire à la fin de la prophase ?",
+    "options": [
+      "Le cytoplasme et le suc nucléaire se confondent alors",
+      "Les chromatides se transforment immédiatement en chromosomes-fils",
+      "La masse cytoplasmique subit un étranglement médian immédiat",
+      "Les nucléoles migrent vers la périphérie de la membrane rigide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "74",
+    "question": "Comment appelle-t-on l'ensemble architectural de filaments formés en prophase qui unissent les deux pôles de la cellule ?",
+    "options": [
+      "Le fuseau chromatique",
+      "La plaque équatoriale",
+      "Le réseau plasmodesmique",
+      "Le système canaliculaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "75",
+    "question": "Quel type d'activité dynamique les chromosomes fissurés exécutent-ils dès qu'ils s'arriment aux filaments du fuseau ?",
+    "options": [
+      "Des mouvements de va-et-vient",
+      "Une rotation hélicoïdale continue autour du noyau",
+      "Une immobilisation absolue et instantanée aux pôles",
+      "Un clivage transversal asymétrique immédiat"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "76",
+    "question": "Quel changement cinétique brutal subissent les chromosomes au moment de leur transition vers la métaphase ?",
+    "options": [
+      "Ils s'immobilisent brusquement",
+      "Ils se fissurent longitudinalement pour la première fois",
+      "Ils entrent dans une phase d'enroulement en spirales accélérée",
+      "Ils migrent de façon aléatoire vers les méats d'air"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "77",
+    "question": "Lors de la métaphase, quelle orientation spatiale précise adoptent les bras des chromosomes par rapport au fuseau ?",
+    "options": [
+      "Les bras vers l'extérieur",
+      "Les bras orientés vers le haut uniquement",
+      "Les bras enroulés autour du centromère central",
+      "Les bras dirigés strictement vers les pôles du fuseau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "78",
+    "question": "Où se situent géométriquement les chromosomes lorsqu'ils se stabilisent au cours de la métaphase ?",
+    "options": [
+      "Dans le plan équatorial du fuseau",
+      "À la périphérie immédiate de la membrane nucléaire",
+      "Aux deux pôles opposés de la cellule végétale",
+      "À l'intérieur des canalicules des pores cellulaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "79",
+    "question": "Quel événement mécanique majeur s'accomplit et s'achève précisément à l'initiation de l'anaphase ?",
+    "options": [
+      "Le clivage de chaque chromosome",
+      "Le gonflement initial de la masse nucléaire",
+      "La formation du fuseau chromatique polaire",
+      "La disparition définitive des filaments du cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "80",
+    "question": "Comment s'opère la séparation des chromatides au tout début de la phase d'anaphase ?",
+    "options": [
+      "Ils se séparent au niveau du centromère pour se diriger chacun vers un pôle",
+      "Ils fusionnent au pôle équatorial avant de se dissoudre",
+      "Ils rompent leurs bras extérieurs sous l'effet de l'irritabilité",
+      "Ils s'enroulent l'un autour de l'autre jusqu'à exclusion du suc nucléaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "81",
+    "question": "Quel terme spécifique désigne chaque chromatide dès lors qu'il devient indépendant et entame sa migration anaphasique ?",
+    "options": [
+      "Un chromosome-fils",
+      "Un filament chromatique",
+      "Un noyau-frère",
+      "Un fragment équatorial"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "82",
+    "question": "Quelle est l'orientation spatiale caractéristique du centromère lors du déplacement du chromosome-fils en anaphase ?",
+    "options": [
+      "Le centromère étant tourné vers le haut",
+      "Le centromère pointant latéralement vers l'extérieur du fuseau",
+      "Le centromère traînant passivement derrière les bras",
+      "Le centromère orienté face à la plaque équatoriale"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "83",
+    "question": "À quel élément structurel le chromosome-fils reste-t-il physiquement adhérent pendant toute sa migration polaire ?",
+    "options": [
+      "L'un des filaments du fuseau",
+      "Les vestiges de la membrane nucléaire",
+      "La paroi pecto-cellulosique externe",
+      "Le canalicule du plasmodesme central"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "84",
+    "question": "Qu'advient-il de la masse cytoplasmique immédiatement après que le noyau s'est partagé en deux moitiés lors de l'amitose ?",
+    "options": [
+      "Elle se coupe en deux, chaque moitié emportant un noyau",
+      "Elle se solidifie sous forme de gel pectique protecteur",
+      "Elle s'infiltre dans les méats d'air pour former une cuticule",
+      "Elle disparaît totalement par raréfaction chromatinienne"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "85",
+    "question": "Si l'on synthétise les données textuelles, quelle différence majeure oppose l'amitose de la mitose chez les végétaux ?",
+    "options": [
+      "L'amitose est directe par étranglement, la mitose est indirecte et continue",
+      "L'amitose utilise un fuseau chromatique, la mitose s'effectue sans filaments",
+      "L'amitose n'affecte que le cytoplasme, la mitose divise uniquement le noyau",
+      "L'amitose exige une taille limite cellulaire, la mitose s'exécute sans croissance"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "86",
+    "question": "Lequel de ces couples de structures nucléaires subit une disparition synchrone et complète durant la prophase ?",
+    "options": [
+      "Les nucléoles et la membrane nucléaire",
+      "Le centromère et les chromosomes-fils",
+      "Le cytoplasme et les filaments du fuseau",
+      "La plaque équatoriale et les bras chromosomiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "87",
+    "question": "Quelle modification physique subit globalement le noyau dès l'amorce de la prophase mitotique ?",
+    "options": [
+      "Le noyau se gonfle",
+      "Le noyau subit un étranglement",
+      "Le noyau se scinde instantanément",
+      "Le noyau s'incruste de silice"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "88",
+    "question": "Quelle structure morphologique d'immobilisation métaphasique résulte directement de l'alignement des chromosomes ?",
+    "options": [
+      "La plaque équatoriale",
+      "Le fuseau chromatique",
+      "L'enveloppe nucléaire",
+      "Le méat intercellulaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "89",
+    "question": "Quelle relation séquentielle lie l'assimilation nutritionnelle et le phénomène de division cellulaire ?",
+    "options": [
+      "Grâce aux aliments absorbés, la cellule s'accroît et se divise à sa taille limite",
+      "La division s'achève avant que le cytoplasme n'opère le choix des nutriments",
+      "L'irritabilité bloque l'absorption pour forcer le clivage des chromosomes",
+      "La nutrition pecto-cellulosique ne se produit qu'après l'anaphase"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "90",
+    "question": "Comment évoluent les contours du noyau au fur et à mesure que les chromosomes s'individualisent en prophase ?",
+    "options": [
+      "Ses contours s'estompent progressivement",
+      "Ils s'épaississent en lamelles successives de subérine",
+      "Ils subissent une minéralisation rapide au carbonate de calcium",
+      "Ils se soudent de manière irréversible aux filaments du pôle"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "91",
+    "question": "Les parois de deux cellules voisines se disjoignent aux angles et aux arêtes, laissant entre elles des cavités remplies d'air, les _____.",
+    "options": ["méats"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "92",
+    "question": "Au contact de l'eau, la cellulose et les composés pectiques gonflent lors du phénomène de _____.",
+    "options": ["gélification"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "93",
+    "question": "La gélification de la membrane chez l'Acacia forme un gel constitué par des _____.",
+    "options": ["gommes"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "94",
+    "question": "Chez les Algues, la gélification de la membrane produit un gel constitué par des _____.",
+    "options": ["mucilages"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "95",
+    "question": "Sur la face externe de la membrane des cellules placées en surface apparaît une substance imperméable appelée _____.",
+    "options": ["cutine"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "96",
+    "question": "La cutine forme sur l'épiderme des feuilles et des jeunes tiges une pellicule appelée _____.",
+    "options": ["cuticule"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "97",
+    "question": "Chez certaines plantes comme la Canne à sucre, la cuticule se recouvre de _____, un lipide imperméable.",
+    "options": ["cire"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "98",
+    "question": "Sur la face interne de la membrane se dépose en lamelles successives une substance riche en acides gras appelée la _____.",
+    "options": ["subérine"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "99",
+    "question": "L'ensemble des cellules à membranes subérifiées constitue le _____, qui est imperméable, élastique et imputrescible.",
+    "options": ["liège"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "100",
+    "question": "Lors de la lignification, la membrane cellulaire s'imprègne d'une substance jaune ou brune appelée la _____.",
+    "options": ["lignine"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "101",
+    "question": "L'ensemble des cellules lignifiées constitue le _____ qui est dur et cassant.",
+    "options": ["bois"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "102",
+    "question": "On trouve une incrustation de _____ dans la tige des Graminées comme le Maïs ou la Canne à sucre.",
+    "options": ["silice"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "103",
+    "question": "La membrane de certaines Algues marines peut s'incruster de _____ pour augmenter sa protection.",
+    "options": ["carbonate de calcium"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "104",
+    "question": "Les substances minérales incrustées jouent un rôle protecteur et donnent de la _____ au Végétal.",
+    "options": ["rigidité"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "105",
+    "question": "La vie de la cellule végétale se manifeste par sa nutrition, sa croissance, sa multiplication et son _____.",
+    "options": ["irritabilité"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "106",
+    "question": "Le mouvement de réaction de la cellule est lent et peu apparent à cause de la présence de la _____.",
+    "options": ["membrane cellulaire rigide"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "107",
+    "question": "La cellule végétale reçoit l'eau et les substances dissoutes à travers sa membrane _____ perméable.",
+    "options": ["pecto-cellulosique"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "108",
+    "question": "La membrane cytoplasmique et le cytoplasme opèrent un _____ parmi les substances dissoutes.",
+    "options": ["choix"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "109",
+    "question": "Les substances absorbées sont utilisées soit pour réaliser la synthèse de substances nouvelles, soit pour produire de l'_____.",
+    "options": ["énergie"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "110",
+    "question": "Grâce aux aliments absorbés, la cellule s'accroît et lorsqu'elle a atteint sa _____, elle se divise.",
+    "options": ["taille limite"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "111",
+    "question": "La division cellulaire directe est appelée _____.",
+    "options": ["amitose"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "112",
+    "question": "La division cellulaire indirecte est appelée _____.",
+    "options": ["mitose"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "113",
+    "question": "L'amitose consiste principalement en un _____ du noyau qui le partage approximativement en deux moitiés.",
+    "options": ["étranglement"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "114",
+    "question": "C'est le _____ qui a révélé que les cellules des végétaux inférieurs se multiplient aussi par division indirecte.",
+    "options": ["microscope électronique"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "115",
+    "question": "La mitose se déroule d'une manière continue, mais on peut cependant y distinguer _____ phases.",
+    "options": ["quatre"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "116",
+    "question": "La première phase de la mitose s'appelle la _____.",
+    "options": ["prophase"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "117",
+    "question": "Au cours de la prophase, les chromosomes se fissurent longitudinalement en deux _____.",
+    "options": ["chromatides"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "118",
+    "question": "Au cours de la prophase, les deux chromatides demeurent liés par le _____.",
+    "options": ["centromère"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "119",
+    "question": "Lors de la métaphase, les chromosomes s'immobilisent et forment la _____.",
+    "options": ["plaque équatoriale"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "120",
+    "question": "En anaphase, chaque chromatide séparé est alors devenu un _____ qui se meut vers un pôle.",
+    "options": ["chromosome-fils"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "111",
+    "question": "La membrane cellulaire assure une fonction double : elle joue un rôle de _____ et de _____ .",
+    "options": ["soutien", "protection"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "112",
+    "question": "Au cours de la gélification chez l'Acacia, le gel formé est constitué de _____ , tandis que chez les Algues, il s'agit de _____ .",
+    "options": ["gommes", "mucilages"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "113",
+    "question": "La cutine est une substance _____ et _____ qui apparaît sur la face externe de la membrane des cellules en surface.",
+    "options": ["imperméable", "imputrescible"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "114",
+    "question": "Sur l'épiderme des feuilles et des jeunes tiges, la cutine forme une pellicule appelée _____ , particulièrement épaisse chez le _____ .",
+    "options": ["cuticule", "Cactus"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "115",
+    "question": "Chez des plantes comme le Chou ou le Bananier, la cuticule se recouvre de _____ , un lipide qui diminue la _____ .",
+    "options": ["cire", "transpiration"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "116",
+    "question": "L'ensemble des cellules dont la membrane a subi une subérisation forme le _____ , composé de cellules _____ remplies d'air.",
+    "options": ["liège", "mortes"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "117",
+    "question": "Les cellules subérifiées perdent toute communication avec leurs voisines, ce qui entraîne leur _____ et leur confère un rôle _____ .",
+    "options": ["mort", "protecteur"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "118",
+    "question": "Lors de la lignification, la membrane s'imprègne de _____ , formant le bois qui est à la fois _____ et cassant.",
+    "options": ["lignine", "dur"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "119",
+    "question": "Le bois diminue la transpiration, assure une fonction mécanique de _____ et apporte de la solidité aux _____ .",
+    "options": ["soutien", "vaisseaux ligneux"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "120",
+    "question": "Lors de la minéralisation, on observe un dépôt de _____ dans la tige des Graminées et de _____ dans certaines Algues marines.",
+    "options": ["silice", "carbonate de calcium"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "121",
+    "question": "Les incrustations de substances minérales jouent un rôle protecteur tout en conférant de la _____ au _____ .",
+    "options": ["rigidité", "Végétal"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "122",
+    "question": "Les manifestations vitales de la cellule végétale se résument à quatre propriétés : l'_____ , la nutrition, la croissance et la _____ .",
+    "options": ["irritabilité", "multiplication"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "123",
+    "question": "Face aux excitations extérieures comme la _____ ou le choc, la cellule végétale produit un mouvement de réaction _____ et peu apparent.",
+    "options": ["chaleur", "lent"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "124",
+    "question": "L'absence de mouvement d'ensemble lors d'une excitation est directement liée à la présence de la _____ _____ rigide.",
+    "options": ["membrane", "cellulaire"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "125",
+    "question": "Alors que la membrane pecto-cellulosique est purement _____ , le cytoplasme et sa membrane effectuent un _____ parmi les substances.",
+    "options": ["perméable", "choix"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "126",
+    "question": "Les substances absorbées par la cellule végétale servent soit à la _____ de substances nouvelles, soit à la production d'_____ .",
+    "options": ["synthèse", "énergie"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "127",
+    "question": "Le déclenchement de la division cellulaire se produit dès que la cellule, grâce aux aliments absorbés, atteint sa _____ _____ .",
+    "options": ["taille", "limite"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "128",
+    "question": "La multiplication cellulaire se divise en deux modalités distinctes : une voie directe appelée _____ et une voie indirecte appelée _____ .",
+    "options": ["amitose", "mitose"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "129",
+    "question": "Le mécanisme de l'amitose est caractérisé par un _____ du noyau, suivi d'une coupure en deux de la masse _____ .",
+    "options": ["étranglement", "cytoplasmique"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "130",
+    "question": "L'amitose est un phénomène _____ qui ne s'observe généralement que dans des cellules _____ ou dégénérantes.",
+    "options": ["rare", "âgées"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "131",
+    "question": "Grâce aux observations du _____ _____ , on sait désormais que les végétaux inférieurs s'accomplissent aussi par mitose.",
+    "options": ["microscope", "électronique"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "132",
+    "question": "Bien que la mitose soit un processus _____ , on peut cependant y distinguer _____ phases successives.",
+    "options": ["continu", "quatre"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "133",
+    "question": "Au début de la prophase, le noyau se _____ tandis que ses contours s'estompent _____ .",
+    "options": ["gonfle", "progressivement"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "134",
+    "question": "Lors de leur individualisation en prophase, les chromosomes se distinguent d'abord à la _____ avant d'aller vers le _____ du noyau.",
+    "options": ["périphérie", "centre"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "135",
+    "question": "En prophase, les chromosomes s'enroulent en _____ , s'épaississent et se raccourcissent tout en se fissurant longitudinalement en deux _____ .",
+    "options": ["spirales", "chromatides"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "136",
+    "question": "À la suite de la disparition des nucléoles et de la membrane nucléaire, le _____ et le _____ _____ se confondent.",
+    "options": ["cytoplasme", "suc nucléaire"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "137",
+    "question": "Le fuseau chromatique est constitué de _____ unissant les deux _____ de la cellule.",
+    "options": ["filaments", "pôles"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "138",
+    "question": "En prophase, les chromosomes fissurés s'attachent aux filaments par leur _____ et exécutent des mouvements de _____ .",
+    "options": ["centromère", "va-et-vient"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "139",
+    "question": "La métaphase se caractérise par l'_____ brusque des chromosomes, qui placent leurs _____ vers l'extérieur.",
+    "options": ["immobilisation", "bras"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "140",
+    "question": "Au cours de l'anaphase, chaque chromatide séparé devient un _____ qui migre avec le _____ tourné vers le haut.",
+    "options": ["chromosome-fils", "centromère"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "131",
+    "question": "Sur la face externe des cellules placées en surface apparaît la _____ , qualifiée d'imperméable et d' _____ .",
+    "options": ["cutine", "imputrescible"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "132",
+    "question": "La cuticule, particulièrement épaisse chez le _____ , joue un rôle protecteur déterminant et diminue la _____ .",
+    "options": ["Cactus", "transpiration"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "133",
+    "question": "Chez des végétaux comme le Chou, la Canne à sucre ou le Bananier, la cuticule se recouvre de _____ , un _____ imperméable.",
+    "options": ["cire", "lipide"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "134",
+    "question": "La subérisation implique le dépôt en lamelles successives d'une substance riche en _____ appelée _____ .",
+    "options": ["acides gras", "subérine"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "135",
+    "question": "Constitué de membranes subérifiées, le _____ est formé de cellules _____ remplies d'air.",
+    "options": ["liège", "mortes"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "136",
+    "question": "Lors de la lignification, l'imprégnation par la _____ engendre la formation du _____ , qui s'avère dur et cassant.",
+    "options": ["lignine", "bois"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "137",
+    "question": "Le bois apporte une solide assise mécanique en jouant un rôle de _____ et donne de la solidité aux _____ .",
+    "options": ["soutien", "vaisseaux ligneux"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "138",
+    "question": "Le phénomène d'incrustation minérale se traduit par la présence de _____ chez les Graminées et de _____ chez certaines Algues marines.",
+    "options": ["silice", "carbonate de calcium"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "139",
+    "question": "La membrane cellulaire végétale remplit deux fonctions physiologiques majeures : le _____ et la _____ .",
+    "options": ["soutien", "protection"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "140",
+    "question": "Grâce à ses _____ , la paroi cellulaire végétale rend possible le _____ d'une cellule à une autre.",
+    "options": ["pores", "transport"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "141",
+    "question": "Face aux excitations comme la _____ ou l' _____ , la cellule végétale n'induit aucun mouvement d'ensemble en raison de sa membrane rigide.",
+    "options": ["chaleur", "électricité"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "142",
+    "question": "Alors que la membrane pecto-cellulosique est qualifiée de _____ , la membrane cytoplasmique et le cytoplasme réalisent un _____ sélectif.",
+    "options": ["perméable", "choix"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "143",
+    "question": "Les nutriments captés par la cellule végétale concourent soit à la _____ de substances nouvelles, soit à la production d' _____ .",
+    "options": ["synthèse", "énergie"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "144",
+    "question": "La multiplication cellulaire s'amorce impérativement lorsque la cellule végétale, grâce aux aliments absorbés, a atteint sa _____ _____ .",
+    "options": ["taille", "limite"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "145",
+    "question": "Le processus de l'amitose se matérialise par un _____ du noyau, suivi du sectionnement de la _____ en deux moitiés.",
+    "options": ["étranglement", "masse cytoplasmique"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "146",
+    "question": "L'amitose s'avère un phénomène _____ qui se cantonne préférentiellement aux cellules _____ ou dégénérantes.",
+    "options": ["rare", "âgées"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "147",
+    "question": "C'est l'avènement du _____ _____ qui a permis de démontrer que les végétaux inférieurs se multiplient aussi par mitose.",
+    "options": ["microscope", "électronique"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "148",
+    "question": "Au cours de la prophase, le noyau subit un _____ tandis que ses _____ s'estompent de manière progressive.",
+    "options": ["gonflement", "contours"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "149",
+    "question": "Durant la prophase, les chromosomes s'individualisent d'abord à la _____ avant de converger vers le _____ du noyau.",
+    "options": ["périphérie", "centre"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "150",
+    "question": "En se fissurant longitudinalement, les chromosomes prophasiques donnent naissance à deux _____ unies par le _____ .",
+    "options": ["chromatides", "centromère"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "151",
+    "question": "À l'issue de la prophase, la disparition simultanée des _____ et de la _____ provoque la fusion du cytoplasme et du suc nucléaire.",
+    "options": ["nucléoles", "membrane nucléaire"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "152",
+    "question": "Le fuseau chromatique prend forme sous l'aspect de _____ reliant de part en part les deux _____ de la cellule.",
+    "options": ["filaments", "pôles"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "153",
+    "question": "Fixés aux filaments par leur _____ , les chromosomes prophasiques accomplissent des mouvements oscillatoires de _____ .",
+    "options": ["centromère", "va-et-vient"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "154",
+    "question": "Au stade de la métaphase, l' _____ soudaine des chromosomes s'accompagne d'une orientation de leurs _____ vers l'extérieur.",
+    "options": ["immobilisation", "bras"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "155",
+    "question": "L'alignement métaphasique des chromosomes au centre du fuseau aboutit à l'édification de la _____ _____ .",
+    "options": ["plaque", "équatoriale"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "156",
+    "question": "L'anaphase débute au moment où s'achève le _____ de chaque chromosome, provoquant la disjonction immédiate des _____ .",
+    "options": ["clivage", "chromatides"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "157",
+    "question": "Lors de la migration anaphasique, chaque chromatide individualisé prend le nom de _____ et progresse vers un _____ .",
+    "options": ["chromosome-fils", "pôle"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "158",
+    "question": "Pendant l'anaphase, le déplacement du chromosome-fils s'effectue en restant adhérent au filament, le _____ étant tourné vers le _____ .",
+    "options": ["centromère", "haut"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "159",
+    "question": "Aux angles et arêtes, la disjonction des parois cellulaires ménage des cavités remplies d' _____ appelées _____ .",
+    "options": ["air", "méats"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "160",
+    "question": "Au niveau des pores, la structure pariétale se résume à la _____ percée de fins canalicules appelés _____ .",
+    "options": ["lame moyenne", "plasmodesmes"],
+    "reponsKorek": 0,
+    "paj": "Page 6",
+    "nivo": "Difficile",
+    "tip": "Completer"
   }
 ]
 }
