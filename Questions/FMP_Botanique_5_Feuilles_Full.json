@@ -278,8 +278,8 @@
     "paj": "Page 5",
     "nivo": "Intermediaire",
     "tip": "Quiz"
-  },
-  {
+    },
+    }
     "id": "777",
     "question": "Par quel processus la paroi cellulaire se transforme-t-elle en gel au contact de l'eau ?",
     "options": ["La minéralisation", "La gélification", "La subérification", "La lignification"],
@@ -287,8 +287,8 @@
     "paj": "Page 5",
     "nivo": "Intermediaire",
     "tip": "Quiz"
-  },
-  {
+    },
+    {
     "id": "778",
     "question": "Quelle substance est responsible du caractère imputrescible de la face externe des cellules ?",
     "options": ["La cellulose", "La cutine", "La silice", "La gomme"],
