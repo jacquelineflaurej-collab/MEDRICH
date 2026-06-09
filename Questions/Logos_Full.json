@@ -1,0 +1,274 @@
+{
+  "Page 2": [
+    {
+      "id": "1",
+      "question": "Quelle est l'unité anatomique et physiologique de tout Animal ?",
+      "options": ["Le tissu", "L'organe", "La cellule", "Le système"],
+      "reponsKorek": 2,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "2",
+      "question": "De quelle taille est généralement la cellule animale ?",
+      "options": ["Taille macroscopique", "Taille microscopique", "Taille millimétrique", "Taille décimétrique"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "3",
+      "question": "La cellule est un volume de cytoplasme renfermant diverses inclusions et quoi d'autre ?",
+      "options": ["Le noyau", "La paroi cellulosique", "Le chloroplaste", "La vacuole pulsatile"],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "4",
+      "question": "Par quelle structure la cellule animale est-elle entourée ?",
+      "options": ["Une membrane squelettique", "Une membrane cytoplasmique ou membrane cellulaire", "Une capsule rigide", "Une paroi pectocellulosique"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "5",
+      "question": "De quelle consistance est la substance transparente qui compose le cytoplasme ?",
+      "options": ["Liquide comme l'eau", "Solide et rigide", "Visqueuse", "Gazeuse"],
+      "reponsKorek": 2,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "6",
+      "question": "Qu'est-ce qui est disséminé en grand nombre dans la substance du cytoplasme ?",
+      "options": ["Des cristaux minéraux", "Des corpuscules de formes et de natures différentes", "Des petites cellules", "Des bulles d'air"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "7",
+      "question": "Par quoi le cytoplasme est-il parcouru pour entraîner les particules qu'il renferme ?",
+      "options": ["Par des canaux sanguins", "Par des courants", "Par des décharges électriques", "Par des fibres nerveuses"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "8",
+      "question": "Quelle substance du cytoplasme est constituée d'eau, de sels minéraux et de substances organiques ?",
+      "options": ["La substance du nucléoplasme", "La substance du cytoplasme", "La substance mitochondriale", "La substance membranaire"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "9",
+      "question": "Sous quelle forme se trouvent les sels minéraux dans le cytoplasme ?",
+      "options": ["Sous forme de cristaux grossiers", "Sous forme d'ions", "Sous forme de gaz dissous", "Sous forme de précipités solides"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "10",
+      "question": "Lequel de ces sels minéraux n'est PAS explicitement listé dans le texte (sous forme d'ions) ?",
+      "options": ["Chlorures de sodium", "Sulfates de calcium", "Phosphates de magnésium", "Nitrates de potassium"],
+      "reponsKorek": 3,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "11",
+      "question": "Quelles sont les trois substances organiques qui constituent le cytoplasme d'après le texte ?",
+      "options": ["Vitamines, ADN, ARN", "Glucides, lipides, protides", "Acides aminés, urée, cholestérol", "Amidon, cellulose, lignine"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "12",
+      "question": "Comment le texte qualifie-t-il les groupes comme les chondriosomes, les corps de Golgi et le centrosome ?",
+      "options": ["Des inclusions inertes", "Des inclusions vivantes", "Des enclaves minérales", "Des déchets cellulaires"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "13",
+      "question": "Comment le texte qualifie-t-il les vacuoles et les enclaves ?",
+      "options": ["Des inclusions vivantes", "Des inclusions inertes", "Des organites moteurs", "Des structures nerveuses"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "14",
+      "question": "Quel est l'autre nom donné aux chondriosomes dans le texte ?",
+      "options": ["Les ribosomes", "Les appareils de Golgi", "Les mitochondries", "Les lysosomes"],
+      "reponsKorek": 2,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "15",
+      "question": "Sous quelles formes peuvent se présenter les chondriosomes (mitochondries) ?",
+      "options": ["De cubes ou de pyramides", "De grains, de bâtonnets ou de filaments", "De cercles parfaits", "De spirales infinies"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "16",
+      "question": "Quel est le rôle principal des chondriosomes (mitochondries) ?",
+      "options": ["La synthèse des protéines", "Le stockage des graisses", "Le siège de la respiration cellulaire qui produit l'énergie", "La division du noyau"],
+      "reponsKorek": 2,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "17",
+      "question": "Pour quoi l'énergie produite par les chondriosomes est-elle nécessaire ?",
+      "options": ["Au maintien de la vie cellulaire", "À la coloration de la cellule", "À la rigidité de la membrane", "À la digestion des graisses"],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "18",
+      "question": "Sous quelle forme se présentent les corps de Golgi ?",
+      "options": ["De longs cils vibratils", "De corpuscules isolés, soit sous forme d'un réseau continu", "De grosses bulles d'eau", "De cristaux pointus"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "19",
+      "question": "Quel rôle important jouent les corps de Golgi dans la cellule ?",
+      "options": ["La production d'oxygène", "Le stockage et l'élimination des produits de sécrétion ou d'excrétion", "La duplication des chromosomes", "La photosynthèse"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "20",
+      "question": "Comment le texte définit-il la taille du centrosome ?",
+      "options": ["Une énorme structure visible à l'œil nu", "Une minuscule sphérule", "Un long filament", "Une cavité rectangulaire"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "21",
+      "question": "Qu'est-ce que le centrosome possède à son centre ?",
+      "options": ["Un ou deux granules : les centrioles", "Une goutte de lipide", "Un brin d'ADN circulaire", "Un cristal de calcium"],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "22",
+      "question": "Le centrosome est pensé comme le centre directeur de quel mécanisme ?",
+      "options": ["De la respiration cellulaire", "Des mouvements cellulaires", "De la digestion des protides", "De la synthèse du glycogène"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "23",
+      "question": "Que sont les vacuoles d'après la description du texte ?",
+      "options": ["Des extensions solides de la membrane", "Des cavités du cytoplasme contenant des solutions aqueuses", "Des organites de couleur verte", "Des enzymes digestives"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "24",
+      "question": "Quels types de substances trouve-t-on dans les solutions aqueuses des vacuoles ?",
+      "options": ["Des acides forts et des bases", "Des cristalloïdes et des colloïdes", "De l'huile pure et du pétrole", "Des gaz lourds"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "25",
+      "question": "Par quoi les vacuoles sont-elles limitées ?",
+      "options": ["Une membrane de même nature que la membrane cytoplasmique", "Une double couche de cellulose", "Une enveloppe calcaire", "Elles n'ont pas de limite"],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "26",
+      "question": "Que sont les enclaves d'après le paragraphe numéro 5 ?",
+      "options": ["Des substances élaborées par le cytoplasme", "Des parasites externes", "Des bulles d'air pur", "Des morceaux de noyau détruits"],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "27",
+      "question": "Lesquels de ces éléments font partie des enclaves citées dans le texte ?",
+      "options": ["Les centrioles et les mitochondries", "Globules graisseux, liquides ou en particules solides", "Les ions de sodium et magnésium", "Les courants cytoplasmiques"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "28",
+      "question": "Quel amas de réserve glucidique est mentionné parmi les exemples d'enclaves ?",
+      "options": ["L'amidon", "La cellulose", "Amas de glycogène", "Le saccharose"],
+      "reponsKorek": 2,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "29",
+      "question": "De quelles cellules proviennent les grains de sécrétion mentionnés dans les enclaves ?",
+      "options": ["Des cellules nerveuses", "Des cellules musculaires", "Des cellules glandulaires", "Des cellules sanguines"],
+      "reponsKorek": 2,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "30",
+      "question": "L'eau dans le cytoplasme se présente sous deux formes : en partie libre et en partie...",
+      "options": ["Gazeuse dans les espaces", "Fixée aux molécules organiques", "Transformée en minéraux", "Éliminée hors de la cellule"],
+      "reponsKorek": 1,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    }
+  ]
+}
