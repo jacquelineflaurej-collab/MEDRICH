@@ -1,0 +1,11 @@
+{"ads": [
+    {
+      "id": "ad_1",
+      "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/pub_test_1.png",
+      "videoUrl": "",
+      "hasButton": true,
+      "buttonUrl": "https://google.com",
+      "expiryTimestamp": 1750377600000
+    }
+  ]
+}
