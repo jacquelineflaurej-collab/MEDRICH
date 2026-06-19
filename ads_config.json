@@ -1,10 +1,11 @@
-{"ads": [
+{
+  "ads": [
     {
-      "id": "ad_1",
+      "id": "ad_video_1",
       "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/pub_test_1.png",
-      "videoUrl": "",
+      "videoUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/video_promo.mp4",
       "hasButton": true,
-      "buttonUrl": "https://google.com",
+      "buttonUrl": "https://concoursueh.com",
       "expiryTimestamp": 1750377600000
     }
   ]
