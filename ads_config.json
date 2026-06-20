@@ -4,7 +4,7 @@
       "id": "ad_image_1",
       "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/eas.png",
       "videoUrl": "",
-      "hasButton": true,
+      "hasButton": false,
       "buttonUrl": "",
       "expiryTimestamp": 1893456000000
     },
