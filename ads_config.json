@@ -13,6 +13,20 @@
       "hasButton": true,
       "buttonUrl": "https://concoursueh.com",
       "expiryTimestamp": 1893456000000
+    },
+     {
+      "id": "ad_image_2",
+      "videoUrl": "https://github.com/jacquelineflaurej-collab/MEDRICH/blob/main/vitadoc%20wallpaper.jpeg",
+      "hasButton": true,
+      "buttonUrl": "https://concoursueh.com",
+      "expiryTimestamp": 1893456000000
+    },
+    {
+      "id": "ad_image_3",
+      "videoUrl": "https://github.com/jacquelineflaurej-collab/MEDRICH/blob/main/vitadoc%20wallpaper.jpeg",
+      "hasButton": false,
+      "buttonUrl": "https://concoursueh.com",
+      "expiryTimestamp": 1893456000000
     }
   ]
 }
