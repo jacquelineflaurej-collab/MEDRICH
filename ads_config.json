@@ -10,7 +10,7 @@
     },
     {
       "id": "ad_video_1",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/jacquelineflaurej-collab/MEDRICH/blob/main/pub_test_1.png",
       "videoUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/video_promo.mp4",
       "hasButton": true,
       "buttonUrl": "https://concoursueh.com",
@@ -26,6 +26,14 @@
     },
     {
       "id": "ad_image_3",
+      "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/vitadoc%20wallpaper.png",
+      "videoUrl": "",
+      "hasButton": true,
+      "buttonUrl": "https://concoursueh.com",
+      "expiryTimestamp": 1893456000000
+    },
+    {
+      "id": "ad_image_4",
       "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/bannier_playst_ConcoursUEH-ezgif.com-resize.png",
       "videoUrl": "",
       "hasButton": false,
