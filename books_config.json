@@ -2,7 +2,7 @@
   "books": [
     {
       "id": "1",
-      "title": "Biyoloji UEH 2026",
+      "title": "Guide_du_postulant",
       "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/guide_du_postulant_cover.png",
       "fileUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/guide_du_postulant_ueh.pdf",
       "fileName": "Guide_du_postulant.pdf"
