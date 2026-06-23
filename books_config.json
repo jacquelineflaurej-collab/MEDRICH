@@ -13,6 +13,13 @@
       "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/physique_1.png",
       "fileUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/physique1_1.pptx",
       "fileName": "Physique_1.pptx"
+    },
+    {
+      "id": "3",
+      "title": "Endocrinologie 1",
+      "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/Endocrinologie_1_cover.png",
+      "fileUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/Endocrinologie_1.pdf",
+      "fileName": "Endocrinologie_1_pdf"
     }
   ]
 }
