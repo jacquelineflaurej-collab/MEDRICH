@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Biyoloji UEH 2026",
+      "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/liv_biyoloji.png",
+      "fileUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/biyoloji_ueh.pdf",
+      "fileName": "biyoloji_ueh.pdf"
+    },
+    {
+      "id": "2",
+      "title": "Matematik FASCH",
+      "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/math_cover.png",
+      "fileUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/math_fasch.pdf",
+      "fileName": "math_fasch.pdf"
+    }
+  ]
+}
