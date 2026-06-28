@@ -30,7 +30,43 @@
       "tip": "Quiz"
     },
     {
-     "id": "fdse_maths_q1_05",
+      "id": "fdse_maths_q1_04",
+      "question": "..,jgvlu;bk.?",
+      "options": ["Toyoi","76", "teiti", "98986"],
+      "reponsKorek": 1,
+      "paj": "Etape 1",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "fdse_maths_q1_05",
+      "question": "Tes",
+      "options": ["te,hvss", "te,jgcls", "Tekhblhsss", "w,jyler"],
+      "reponsKorek": 1,
+      "paj": "Etape 1",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "fdse_maths_q1_06",
+      "question": ".5678...;glu.?",
+      "options": ["Tes4","23", "tes7", "1yj57"],
+      "reponsKorek": 1,
+      "paj": "Etape 1",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "fdse_maths_q1_07",
+      "question": "Tes",
+      "options": ["tess", "tessss", "Tesssss", "wer"],
+      "reponsKorek": 1,
+      "paj": "Etape 1",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+     "id": "fdse_maths_q1_08",
       "question": "Le monde est ___.",
       "options": ["gros"],
       "reponsKorek": 0,
@@ -39,7 +75,7 @@
       "tip": "Completer"
     },
     {
-     "id": "fdse_maths_q1_04",
+     "id": "fdse_maths_q1_09",
       "question": "Une solution dont le pH est inférieur à 7 est ___.",
       "options": ["acide"],
       "reponsKorek": 0,
