@@ -1,0 +1,14 @@
+{
+  "tchala": [
+    {
+      "id": "t1",
+      "name": "SVT_2024_Paj1",
+      "file": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/Tchala_SVT_2024_paj1.png"
+    },
+    {
+      "id": "t2",
+      "name": "SMP_2023_Math",
+      "file": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/SMP_2023_Math.png"
+    }
+  ]
+}
