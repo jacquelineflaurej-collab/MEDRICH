@@ -1,5 +1,43 @@
 {
-  "ueh_rules": "Enskripsyon yo fèt sou sit ueh.edu.ht",
-  "fmp_info": "Fakilte Medsin mande pou w...",
-  "tchala_links": "Ou ka jwenn tchala yo le w klike sou bouton kote ki ekri Tchala yo nan aplikasyon an."
+  "fmp_info": {
+    "description_entite": {
+      "nom": "FACULTE DE MEDECINE ET DE PHARMACIE",
+      "acronyme": "FMP",
+      "email": "fmp@ueh.edu.ht",
+      "adresse": "89, rue Oswald DURAND. Port-au-Prince, HT6110",
+      "departement": "Ouest",
+      "telephone": "(509) 2262-2000",
+      "site_web": "https://fmp.ueh.edu.ht"
+    },
+    "historique_et_structure": "Fondée en 1861 sous l’appellation « École de Médecine ». La section Pharmacie, créée en 1929, lui est rattachée et en 1949 l’institution est devenue « Faculté de Médecine et de Pharmacie ». En vertu du décret du 21 mars 1977 l’École de Technologie Médicale est tombée sous la coupe de la Faculté de Médecine et de Pharmacie. Au cours de la période allant de 2010 à 2020 deux (2) changements se sont opérés au sein de l’institution : l’École de Technologie Médicale est devenue École de Biologie Médicale et il y a de cela deux (2) ans depuis que l’École d’Optométrie existe au sein de la faculté. Par conséquent la FMP/UEH assure la formation de futurs médecins, de pharmaciens et des biologistes médicaux et d’optométristes. Toutes ces disciplines ont un cycle d’étude de quatre (4) ans au minimum.\n\nDétruite par le tremblement de terre de 2010, la faculté a été reconstruite et est logée maintenant dans deux locaux :\n1- Le campus des sciences de la santé qu’elle partage avec l’École Nationale des Infirmières de Port-au-Prince (ENIP). Cet nouvel édifice loge toutes les salles de classes à l’exception de celle qui est commune aux premières années, une salle de dissection, trois salles de laboratoire, une salle d’informatique, un dépôt, deux cafétérias (personnel et étudiants), le décanat et les vice-décanats, la comptabilité, deux salles de professeurs (haïtiens et visiteurs), le LABMES et un amphithéâtre d’environ 300 places.\n2- Un espace de l’ancien local réaménagé qui contient : une grande salle pour les premières années, deux autres petites salles de classes, une petite salle de conférence, le bureau du troisième cycle, le secrétariat exécutif, les archives et la bibliothèque et une grande salle de lecture.",
+    "admission": "La faculté recrute annuellement par concours 215 étudiants: 125 en médecine, 50 en pharmacie et 25 en biologie médicale et 15 en optométrie. Elle possède environ 1000 étudiants."
+  },
+  "guide_du_postulant_2025_2026": {
+    "apercu": "Les inscriptions au concours d'admission 2025-2026 se poursuivent. Les inscriptions seront fermées au cas par cas 3 jours avant la date du concours de chaque entité.",
+    "conditions": [
+      "Ne pas être déjà étudiant.e à l'UEH.",
+      "Détenir son certificat de fin d'études secondaires ou la fiche d'examen (NS4) de l'année académique 2024-2025 (sous réserve) ; ou son équivalence délivrée par le MENFP.",
+      "Payer les frais de 800 (huit cents) gourdes par entité.",
+      "Détenir son Numéro Identification Nationale Unique (NINU) délivré par l'ONI (Les postulants qui ne détiennent pas encore le NINU doivent se rendre au bureau de l'ONI avec leurs fiches d'examen pour le récupérer rapidement). Les postulants mineurs (qui n'ont pas encore leur NINU) peuvent utiliser celui de l'un de leurs parents."
+    ],
+    "etapes": [
+      "Payer d'abord les frais de 800 (huit cents) gourdes par entité à n'importe quelle succursale de la SOGEBANK. Compte: UEH/DEMANDE D'ADMISSION, numéro : 706054558.",
+      "Remplir le formulaire en ligne sur le site web. Il faut saisir le numéro et charger la fiche de paiement au moment de l'inscription en ligne.",
+      "Choisir les entités.",
+      "Imprimer la fiche d'inscription en ligne.",
+      "Se présenter aux entités choisies aux dates et lieux qui seront indiqués pour faire valider son inscription et récupérer la fiche d'accès aux salles d'examen."
+    ],
+    "pieces_exigees_pour_validation": [
+      "Deux (2) photos identiques récentes (6 mois) de format passeport (Inscrire au dos de chaque photo : nom, prénom, téléphone et NINU).",
+      "Fiche d'inscription.",
+      "Pièce d'identité (Carte d'Identification Nationale).",
+      "Fiche de dépôt effectué à la SOGEBANK pour chaque entité choisie.",
+      "Certificat de fin d'études secondaires ou la fiche d'examen (NS4) de l'année académique 2024-2025."
+    ],
+    "pieces_exigees_pour_immatriculation": [
+      "Acte de naissance ou extrait des Archives Nationales.",
+      "Deux (2) photos identiques récentes (6 mois) de format passeport (Inscrire au dos de chaque photo : nom, prénom, téléphone et NINU).",
+      "Pièce d'identité (Carte d'Identification Nationale)."
+    ]
+  }
 }
