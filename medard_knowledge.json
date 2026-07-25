@@ -39,5 +39,47 @@
       "Deux (2) photos identiques récentes (6 mois) de format passeport (Inscrire au dos de chaque photo : nom, prénom, téléphone et NINU).",
       "Pièce d'identité (Carte d'Identification Nationale)."
     ]
+  },
+  {
+  "msi_info": {
+    "description_entite": {
+      "nom": "Maîtrise en Sciences infirmières",
+      "acronyme": "MSI",
+      "email": "ppsi@ueh.edu.ht",
+      "adresse": "99 Rue Lambert et Raphael, Pétion-ville (Bureau communal sanitaire de Pétion-ville)",
+      "departement": "Ouest",
+      "telephone": "+509 4434-8222 / 3443-9868",
+      "site_web": ""
+    },
+    "description": "La Maitrise en Science Infirmières (Infirmier.e.s Praticien.e.s) a pour objectif principal de former des praticiens autonomes, capables d’utiliser leurs compétences avec une approche interprofessionnelle, pluridisciplinaire, pour la dispensation de soins de qualité à la population. En plus du diplôme de Maitrise délivré par l’Université d’Etat d’Haïti, les Infirmier.e.s Praticien.ne.s reçoivent du Ministère de Santé Publique et de la Population (MSPP) une licence (permis d’exercer la profession d’Infirmier.e.s Praticien.ne.s).",
+    "details_formation": {
+      "filiere_ipf": {
+        "nom": "Infirmier.e.s Praticien.ne.s de Famille (IPF)",
+        "credits_total": 62,
+        "distanciel": "49 crédits de cours (1 semaine complète par mois, du lundi au samedi, 45h/semaine, 3 crédits/mois)",
+        "presentiel": "12 crédits de stages (4 mois) + 1 crédit de laboratoire/simulation (1 semaine)",
+        "duree_totale": "22 mois"
+      },
+      "filiere_ipf_ipu": {
+        "nom": "Infirmier.e.s Praticien.ne.s de Famille / Médecine d'urgence (IPF/IPU)",
+        "credits_total": 66,
+        "distanciel": "52 crédits de cours (1 semaine complète par mois, du lundi au samedi, 45h/semaine, 3 crédits/mois)",
+        "presentiel": "12 crédits de stages (4 mois) + 2 crédits de laboratoire/simulation (2 semaines)",
+        "duree_totale": "24 mois"
+      },
+      "exigence_finale": "À la fin des études, les étudiants doivent présenter un mémoire."
+    }
+  },
+  "eindps_info": {
+    "description_entite": {
+      "nom": "ECOLE DES INFIRMIERES NOTRE DAME DE PERPETUEL SECOURS DE JEREMIE",
+      "acronyme": "EINDPS",
+      "email": "eindps@ueh.edu.ht",
+      "adresse": "Jérémie, à côté de l’hôpital public, 38, Rue Brouette",
+      "departement": "Grand'Anse",
+      "telephone": "",
+      "site_web": "https://ueh.edu.ht"
+    },
+    "description": "L’École Nationale d’Infirmières Notre-Dame du Perpétuel Secours de Jérémie (EINDPS) est une institution de formation en sciences infirmières reconnue par le Ministère de la Santé Publique d’Haïti. Située à proximité de l’hôpital public de Jérémie, elle est dirigée par Sœur Adeline Louissaint depuis 2008. L’école accueille environ 150 étudiants répartis sur quatre années d’études. Elle offre une formation théorique et pratique, incluant des stages cliniques dans divers hôpitaux d’Haïti."
   }
 }
