@@ -4,8 +4,8 @@
       "id": "ad_image_1",
       "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/power_bank10000.jpg",
       "videoUrl": "",
-      "hasButton": false,
-      "buttonUrl": "",
+      "hasButton": true,
+      "buttonUrl": "https://wa.me/50931387195?text=Bonjour,%20est-ce%20que%20la%20power%20bank%20de%2010000%20mAh%20est%20toujours%20disponible%20%3F%20J%27en%20ai%20besoin.",
       "expiryTimestamp": 1893456000000
     },
     {
