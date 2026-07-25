@@ -2,7 +2,7 @@
   "ads": [
     {
       "id": "ad_image_1",
-      "imageUrl": "https://github.com/jacquelineflaurej-collab/MEDRICH/blob/main/power_bank10000.jpg",
+      "imageUrl": "raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/power_bank10000.jpg",
       "videoUrl": "",
       "hasButton": false,
       "buttonUrl": "",
