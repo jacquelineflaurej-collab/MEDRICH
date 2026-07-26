@@ -5,7 +5,7 @@
       "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/power_bank10000.jpg",
       "videoUrl": "",
       "hasButton": true,
-      "buttonUrl": "https://wa.me/50931387195?text=Bonjour,%20est-ce%20que%20la%20power%20bank%20de%2010000%20mAh%20est%20toujours%20disponible%20%3F%20J%27en%20ai%20besoin.",
+      "buttonUrl": "https://wa.me/50931387195?text=Salut,%20est-ce%20que%20la%20power%20bank%20de%2010000%20mAh%20est%20toujours%20disponible%20%3F%20J%27en%20ai%20besoin.",
       "expiryTimestamp": 1893456000000
     },
     {
@@ -18,10 +18,10 @@
     },
     {
       "id": "ad_image_3",
-      "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/bannier_playst_ConcoursUEH-ezgif.com-resize.png",
+      "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/perfum.png",
       "videoUrl": "",
       "hasButton": true,
-      "buttonUrl": "https://concoursueh.com",
+      "buttonUrl": "https://wa.me/50931387195?text=Salut,%20est-ce%20que%20les%20parfum%20sont%20toujours%20disponibles%20%3F%20J%27en%20ai%20besoin.",
       "expiryTimestamp": 1893456000000
     }
   ]
