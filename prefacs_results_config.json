@@ -10,9 +10,9 @@
     { "id": "pref_2026_8", "name": "Resultat Transition 2026 #5 (5/7).", "file": "Resultat_transition_2026_5" },
     { "id": "pref_2026_9", "name": "Resultat Transition 2026 #6 (6/7).", "file": "Resultat_transition_2026_6" },
     { "id": "pref_2026_10", "name": "Resultat Transition 2026 #7 (7/7).", "file": "Resultat_transition_2026_7" },
-    { "id": "pref_2026_11", "name": "Resultat Prefac Gamma 2026 #1 (1/4).", "file": "rezilta_gamma_20226_1.png" },
-    { "id": "pref_2026_12", "name": "Resultat Prefac Gamma 2026 #2 (2/4)", "file": "rezilta_gamma_20226_2.png" },
-    { "id": "pref_2026_13", "name": "Resultat Prefac Gamma 2026 #3 (3/4).", "file": "rezilta_gamma_20226_3.png" },
-    { "id": "pref_2026_14", "name": "Resultat Prefac Gamma 2026 #4 (4/4).", "file": "rezilta_gamma_20226_4.png" }
+    { "id": "pref_2026_11", "name": "Resultat Prefac Gamma 2026 #1 (1/4).", "file": "rezilta_gamma_20226_1" },
+    { "id": "pref_2026_12", "name": "Resultat Prefac Gamma 2026 #2 (2/4)", "file": "rezilta_gamma_20226_2" },
+    { "id": "pref_2026_13", "name": "Resultat Prefac Gamma 2026 #3 (3/4).", "file": "rezilta_gamma_20226_3" },
+    { "id": "pref_2026_14", "name": "Resultat Prefac Gamma 2026 #4 (4/4).", "file": "rezilta_gamma_20226_4" }
   ]
 }
