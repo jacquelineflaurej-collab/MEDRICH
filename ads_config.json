@@ -23,6 +23,14 @@
       "hasButton": true,
       "buttonUrl": "https://wa.me/50931387195?text=Salut,%20est-ce%20que%20les%20parfum%20sont%20toujours%20disponibles%20%3F%20J%27en%20ai%20besoin.",
       "expiryTimestamp": 1893456000000
+    },
+    {
+      "id": "ad_image_4",
+      "imageUrl": "https://raw.githubusercontent.com/jacquelineflaurej-collab/MEDRICH/main/IMG_20260728_154725_949.png",
+      "videoUrl": "",
+      "hasButton": true,
+      "buttonUrl": "https://wa.me/50931387195?text=Salut,%20Je%20veux%20faire%20une%20promotion%20sur%20l%20application%20concours%20UEH%20.%20",
+      "expiryTimestamp": 1893456000000
     }
   ]
 }
