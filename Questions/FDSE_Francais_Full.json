@@ -127,6 +127,159 @@
     "tip": "Quiz"
   },
     {
+    "id": "fdse_fr_q1_14",
+    "question": "Identifiez la forme correcte du verbe au présent de l'indicatif : 'Malgré les difficultés, nous ___ (résoudre) ce problème analytique.'",
+    "options": ["résolvons", "résoudons", "résolvez", "résoudrons"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_15",
+    "question": "Choisissez la forme verbale appropriée au passé composé : 'Les chercheurs ___ (parvenir) à une conclusion logique après plusieurs essais.'",
+    "options": ["ont parvenu", "sont parvenus", "sont parvenu", "ont parvenus"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_16",
+    "question": "Complétez la phrase au futur simple : 'Dès que le protocole sera validé, les ingénieurs ___ (exécuter) le plan.'",
+    "options": ["exécutent", "exécutaient", "exécuteront", "exécuteraient"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_17",
+    "question": "Quelle est la forme correcte à l'imparfait de l'indicatif ? 'Chaque matin, l'équipe ___ (examiner) minutieusement les données.'",
+    "options": ["examinait", "examina", "examinera", "examine"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_18",
+    "question": "Sélectionnez le verbe adéquat au présent du subjonctif : 'Il est indispensable que vous ___ (prendre) une décision fondée.'",
+    "options": ["prenez", "preniez", "prendrez", "prendriez"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_19",
+    "question": "Indiquez la forme du conditionnel présent : 'En cas de rupture de stock, nous ___ (devoir) réévaluer nos priorités.'",
+    "options": ["devons", "devrons", "devrions", "devions"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_20",
+    "question": "Choisissez le participe passé correctement accordé : 'La méthodologie qu'ils ont ___ (choisir) s'est révélée très efficace.'",
+    "options": ["choisi", "choisie", "choisis", "choisies"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_21",
+    "question": "Complétez la phrase au plus-que-parfait : 'Lorsque l'alarme a sonné, ils ___ déjà (terminer) l'expérience.'",
+    "options": ["ont terminé", "avaient terminé", "auraient terminé", "auront terminé"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_22",
+    "question": "Trouvez la conjugaison exacte au présent : 'Vous ___ (faire) preuve d'une rigueur scientifique exemplaire.'",
+    "options": ["faisez", "faites", "ferez", "fassiez"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_23",
+    "question": "Identifiez le futur antérieur correct : 'Dans une heure, les candidats ___ (achever) la première partie de l'épreuve.'",
+    "options": ["auront achevé", "avaient achevé", "ont achevé", "auraient achevé"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_24",
+    "question": "Quelle est la forme verbale adéquate au présent du subjonctif ? 'Bien qu'il ___ (être) tard, la session de travail continue.'",
+    "options": ["est", "soit", "sera", "serait"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_25",
+    "question": "Choisissez la bonne forme au passé simple : 'L'économiste ___ (analyser) les tendances et présenta son rapport.'",
+    "options": ["analysait", "analysa", "analysera", "a analysé"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_26",
+    "question": "Complétez au présent de l'impératif (2e personne du pluriel) : '___ (savoir) tirer parti de chaque opportunité d'apprentissage !'",
+    "options": ["Savez", "Sachez", "Sauriez", "Sachiez"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_27",
+    "question": "Indiquez l'accord correct du verbe pronominal au passé composé : 'Elles se sont ___ (rendre) compte de la complexité du problème.'",
+    "options": ["rendu", "rendue", "rendus", "rendues"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_28",
+    "question": "Sélectionnez le verbe au futur simple : 'Si les hypothèses se confirment, ce modèle ___ (devenir) la référence.'",
+    "options": ["devient", "deviendrait", "deviendra", "devenait"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_29",
+    "question": "Quelle forme convient à l'imparfait ? 'Autrefois, le comité ___ (convoquer) les membres de manière hebdomadaire.'",
+    "options": ["convoque", "convoqua", "convoquait", "convoquera"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_30",
+    "question": "Complétez avec le présent du subjonctif : 'Il faut que le système ___ (pouvoir) traiter ces requêtes rapidement.'",
+    "options": ["peut", "pouvez", "pourra", "puisse"],
+    "reponsKorek": 3,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+    {
       "id": "fdse_fr_c1_02",
       "question": "Complétez la phrase avec l'auxiliaire correct : 'Nous ___ arrivés en retard.'",
       "options": [],
