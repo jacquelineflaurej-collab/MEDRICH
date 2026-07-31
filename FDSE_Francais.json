@@ -1,0 +1,186 @@
+{
+  "Francais": [
+    {
+      "id": 5001,
+      "question": "Dans la phrase : « Marie parle à sa mère, elle lui sourit », quel type de pronom est « elle » ?",
+      "options": [
+        "Pronom possessif",
+        "Pronom personnel",
+        "Pronom démonstratif",
+        "Pronom relatif"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5002,
+      "question": "Dans la phrase : « Ce livre est le mien », quel type de pronom est « le mien » ?",
+      "options": [
+        "Pronom personnel",
+        "Pronom démonstratif",
+        "Pronom possessif",
+        "Pronom indéfini"
+      ],
+      "reponsKorek": 2,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5003,
+      "question": "Quel pronom remplace le groupe souligné dans : « Je parle **à mon frère** » ?",
+      "options": [
+        "le",
+        "la",
+        "lui",
+        "leur"
+      ],
+      "reponsKorek": 2,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5004,
+      "question": "Dans la phrase : « La voiture qui passe est rouge », quel type de pronom est « qui » ?",
+      "options": [
+        "Pronom interrogatif",
+        "Pronom relatif",
+        "Pronom démonstratif",
+        "Pronom personnel"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5005,
+      "question": "Par quel pronom personnel peut-on remplacer « Marc et Sophie » ?",
+      "options": [
+        "Ils",
+        "Elles",
+        "Nous",
+        "Vous"
+      ],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5006,
+      "question": "Dans la phrase : « Regarde celui-ci », quel type de pronom est « celui-ci » ?",
+      "options": [
+        "Pronom possessif",
+        "Pronom relatif",
+        "Pronom démonstratif",
+        "Pronom indéfini"
+      ],
+      "reponsKorek": 2,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5007,
+      "question": "Quel pronom remplace le groupe souligné dans : « Elle mange **une pomme** » ?",
+      "options": [
+        "la",
+        "lui",
+        "en",
+        "y"
+      ],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5008,
+      "question": "Dans la phrase : « Quelqu'un a frappé à la porte », quel type de pronom est « Quelqu'un » ?",
+      "options": [
+        "Pronom indéfini",
+        "Pronom personnel",
+        "Pronom possessif",
+        "Pronom relatif"
+      ],
+      "reponsKorek": 0,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5009,
+      "question": "Dans la phrase : « Qui a pris mon stylo ? », quel type de pronom est « Qui » ?",
+      "options": [
+        "Pronom relatif",
+        "Pronom interrogatif",
+        "Pronom démonstratif",
+        "Pronom indéfini"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5010,
+      "question": "Quel pronom remplace le complément de lieu dans : « Il va **à l'université** » ?",
+      "options": [
+        "en",
+        "le",
+        "y",
+        "lui"
+      ],
+      "reponsKorek": 2,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5011,
+      "question": "Dans la phrase : « Ils se lavent les mains », quel est le pronom réfléchi ?",
+      "options": [
+        "Ils",
+        "se",
+        "les",
+        "mains"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5012,
+      "question": "Quel pronom remplace la quantité dans : « J'ai acheté **trois livres** » -> « J'____ ai acheté trois » ?",
+      "options": [
+        "y",
+        "les",
+        "en",
+        "des"
+      ],
+      "reponsKorek": 2,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    },
+    {
+      "id": 5013,
+      "question": "Dans la phrase : « Mes notes sont bonnes, mais les tiennes sont meilleures », quel type de pronom est « les tiennes » ?",
+      "options": [
+        "Pronom démonstratif",
+        "Pronom possessif",
+        "Pronom relatif",
+        "Pronom personnel"
+      ],
+      "reponsKorek": 1,
+      "nivo": "Facile",
+      "paj": "Francais",
+      "tip": "Quiz"
+    }
+  ]
+}
