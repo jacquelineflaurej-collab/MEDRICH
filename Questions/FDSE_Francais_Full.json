@@ -10,6 +10,123 @@
       "tip": "Quiz"
     },
     {
+    "id": "fdse_fr_q1_01",
+    "question": "Choisissez le pronom sujet correct : '___ regardons la télévision.'",
+    "options": ["Je", "Tu", "Nous", "Ils"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_02",
+    "question": "Remplacez le mot souligné par un pronom : 'Paul parle à Marc.' -> 'Paul ___ parle.'",
+    "options": ["lui", "le", "la", "eux"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_03",
+    "question": "Quel pronom complète la phrase : '___ vas à l'école tous les matins.'",
+    "options": ["Il", "Tu", "Elle", "Vous"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_04",
+    "question": "Trouvez le pronom possessif : 'C'est mon livre, c'est ___.'",
+    "options": ["le tien", "le sien", "le mien", "le nôtre"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_05",
+    "question": "Choisissez le pronom COD correct : 'Je vois Marie.' -> 'Je ___ vois.'",
+    "options": ["le", "la", "lui", "les"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_06",
+    "question": "Quel est le pronom tonique pour 'Tu' ?",
+    "options": ["Moi", "Toi", "Lui", "Eux"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_07",
+    "question": "Choisissez le pronom correct : '___ ont terminé leurs devoirs.'",
+    "options": ["Elle", "Ils", "Il", "Tu"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_08",
+    "question": "Complétez avec le pronom démonstratif : 'Prends ce stylo ou ___ sur la table.'",
+    "options": ["celui", "celle", "ceux", "celles"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_09",
+    "question": "Quel pronom remplace 'les enfants' dans la phrase : 'Les enfants jouent au football.'",
+    "options": ["Il", "Ils", "Elle", "Nous"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_10",
+    "question": "Choisissez le pronom COI : 'Je téléphone à mes parents.' -> 'Je ___ téléphone.'",
+    "options": ["les", "leur", "lui", "eux"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_11",
+    "question": "Quel pronom convient : 'Viens avec ___ au cinéma !'",
+    "options": ["je", "moi", "me", "mon"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_12",
+    "question": "Choisissez le pronom réfléchi : 'Elle ___ lave les mains.'",
+    "options": ["me", "te", "se", "nous"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_13",
+    "question": "Complétez la phrase : '___ êtes très gentils.'",
+    "options": ["Nous", "Ils", "Vous", "Elles"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+    {
       "id": "fdse_fr_c1_02",
       "question": "Complétez la phrase avec l'auxiliaire correct : 'Nous ___ arrivés en retard.'",
       "options": [],
