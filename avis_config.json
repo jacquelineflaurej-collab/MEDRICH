@@ -13,6 +13,13 @@
       "file": "yvonne",
       "faculty": "Prefac",
       "timestamp": 1717000000
+    },
+    {
+      "id": "avis_3",
+      "name": "AVIS: Ecole nationale infirmiere des cayes",
+      "file": "Ecole_nationale_infirmiere_des_cayes",
+      "faculty": "ENIC",
+      "timestamp": 1717000000
     }
   ]
 }
