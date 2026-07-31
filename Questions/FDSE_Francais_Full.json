@@ -29,8 +29,8 @@
   },
   {
     "id": "fdse_fr_q1_03",
-    "question": "Quel pronom complète la phrase : '___ vas à l'école tous les matins.'",
-    "options": ["Il", "Tu", "Elle", "Vous"],
+    "question": "Quel pronom complète la phrase : '___ vont à l'école tous les matins.'",
+    "options": ["Il", "Tu", "Elle", "Ils"],
     "reponsKorek": 1,
     "paj": "Etape 1",
     "nivo": "Facile",
@@ -47,7 +47,7 @@
   },
   {
     "id": "fdse_fr_q1_05",
-    "question": "Choisissez le pronom COD correct : 'Je vois Marie.' -> 'Je ___ vois.'",
+    "question": "Choisissez le pronom COD correct : 'Je vois Jonas.' -> 'Je ___ vois.'",
     "options": ["le", "la", "lui", "les"],
     "reponsKorek": 1,
     "paj": "Etape 1",
@@ -156,7 +156,7 @@
   {
     "id": "fdse_fr_q1_17",
     "question": "Quelle est la forme correcte à l'imparfait de l'indicatif ? 'Chaque matin, l'équipe ___ (examiner) minutieusement les données.'",
-    "options": ["examinait", "examina", "examinera", "examine"],
+    "options": ["examinait", "examina", "examinera", "examinaient"],
     "reponsKorek": 0,
     "paj": "Etape 1",
     "nivo": "Facile",
@@ -164,7 +164,7 @@
   },
   {
     "id": "fdse_fr_q1_18",
-    "question": "Sélectionnez le verbe adéquat au présent du subjonctif : 'Il est indispensable que vous ___ (prendre) une décision fondée.'",
+    "question": "Sélectionnez le verbe adéquat: 'Il est indispensable que vous ___ (prendre) une décision fondée.'",
     "options": ["prenez", "preniez", "prendrez", "prendriez"],
     "reponsKorek": 1,
     "paj": "Etape 1",
@@ -280,8 +280,1369 @@
     "tip": "Quiz"
   },
     {
-      "id": "fdse_fr_c1_02",
-      "question": "Complétez la phrase avec l'auxiliaire correct : 'Nous ___ arrivés en retard.'",
+    "id": "fdse_fr_q1_31",
+    "question": "Elle a présenté ___ hypothèse devant le jury.",
+    "options": ["sa", "son", "ses", "leur"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_32",
+    "question": "___ événement a marqué l'histoire.",
+    "options": ["Ce", "Cet", "Cette", "Ces"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_33",
+    "question": "___ candidats ont réussi l'examen de sélection.",
+    "options": ["Chaque", "Certains", "Aucun", "Tout"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_34",
+    "question": "___ sont les critères d'évaluation retenus par le comité ?",
+    "options": ["Quel", "Quelle", "Quels", "Quelles"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_35",
+    "question": "Le rapport contient ___ pages d'analyse statistique.",
+    "options": ["deux-cents", "deux cent", "deux cents", "deux-cent"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_36",
+    "question": "Les étudiants soumettent ___ projets de recherche.",
+    "options": ["son", "ses", "leur", "leurs"],
+    "reponsKorek": 3,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_37",
+    "question": "___ décision entraînera des répercussions majeures.",
+    "options": ["Ce", "Cet", "Cette", "Ces"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_38",
+    "question": "___ effort individuel contribue à la réussite collective.",
+    "options": ["Chaque", "Plusieurs", "Certains", "Quelques"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_39",
+    "question": "___ option choisissez-vous pour le second semestre ?",
+    "options": ["Quel", "Quelle", "Quels", "Quelles"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_40",
+    "question": "Il a lu les ___ premières pages.",
+    "options": ["vingt et une", "vingt-et-une", "vingts-et-une", "vingt et un"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_41",
+    "question": "Les professeurs partagent ___ savoir avec passion.",
+    "options": ["sa", "ses", "leur", "leurs"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_42",
+    "question": "___ théories scientifiques ont été validées récemment.",
+    "options": ["Ce", "Cet", "Cette", "Ces"],
+    "reponsKorek": 3,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_43",
+    "question": "___ documents ont été archivés par erreur.",
+    "options": ["Toute", "Toutes", "Tous", "Tout", "Touts"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_44",
+    "question": "De ___ perspective envisagez-vous ce phénomène économique ?",
+    "options": ["quel", "quelle", "quels", "quelles"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_45",
+    "question": "La bibliothèque possède trois ___ ouvrages rares.",
+    "options": ["mille", "milles", "mille-", "milles-"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_46",
+    "question": "Marc et toi devez apporter ___ matériel de laboratoire.'",
+    "options": ["votre", "vos", "notre", "nos"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_47",
+    "question": "___ ouvrage d'économie est devenu une référence.",
+    "options": ["Ce", "Cet", "Cette", "Ces"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_48",
+    "question": "___ doute ne subsiste quant aux résultats.'",
+    "options": ["Aucun", "Quelque", "Certain", "Même"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_49",
+    "question": "___ progrès accomplis en si peu de temps !",
+    "options": ["Quel", "Quelle", "Quels", "Quelles"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_50",
+    "question": "L'ouvrage comporte ___ pages.",
+    "options": ["quatre-vingt", "quatre-vingts", "quatre vingts", "quatre vingt"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_51",
+    "question": "Paul a oublié ___ affaires dans la salle de conférence.",
+    "options": ["son", "sa", "ses", "leur"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_52",
+    "question": "___ initiative mérite d'être encouragée.",
+    "options": ["Ce", "Cet", "Cette", "Ces"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_53",
+    "question": "___ personnes pensent que la technologie résoudra tout.",
+    "options": ["Certaines", "Chaque", "Tout", "Aucun"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_54",
+    "question": "À ___ heure commence l'épreuve de mathématiques ?",
+    "options": ["quel", "quelle", "quels", "quelles"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_55",
+    "question": "Il y a ___ étudiants inscrits dans ce module.",
+    "options": ["quatre-vingts-trois", "quatre-vingt-trois", "quatre-vingts trois", "quatre vingt trois"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_56",
+    "question": "___ engagement envers l'excellence est total.",
+    "options": ["Notre", "Nos", "Mon", "Mes"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_57",
+    "question": "Regardez ___ graphiques représentés au tableau.",
+    "options": ["ce", "cet", "cette", "ces"],
+    "reponsKorek": 3,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_58",
+    "question": "___ les données ont été analysées.",
+    "options": ["Tout", "Tous", "Toute", "Toutes"],
+    "reponsKorek": 3,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_59",
+    "question": "___ mesures préventives ont été prises ?",
+    "options": ["Quel", "Quelle", "Quels", "Quelles"],
+    "reponsKorek": 3,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_60",
+    "question": "Ce document contient deux ___ dix pages.",
+    "options": ["cents", "cent", "cents-", "cent-"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+    {
+    "id": "fdse_fr_q1_61",
+    "question": "___ entreprise a révisé ___ objectifs stratégiques pour l'année à venir.",
+    "options": ["Cet / ses", "Cette / ses", "Cette / son", "Ce / leurs"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_62",
+    "question": "___ chercheurs ont présenté ___ résultats devant l'assemblée.",
+    "options": ["Certain / leurs", "Certains / leur", "Certains / leurs", "Chaque / ses"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_63",
+    "question": "À ___ heure précise et dans ___ salle aura lieu l'épreuve ?",
+    "options": ["quel / quel", "quelle / quelle", "quelle / quel", "quel / quelle"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_64",
+    "question": "___ candidat doit vérifier ___ numéro d'inscription avant d'entrer.",
+    "options": ["Chaque / son", "Tout / ses", "Certains / leur", "Chaque / sa"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_65",
+    "question": "Le manuscrit comprend ___ pages réparties en ___ chapitres distincts.",
+    "options": ["deux-cents / quatre", "deux cent / quatre", "deux cents / quatre", "deux-cent / quatre"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_66",
+    "question": "___ étudiants ont oublié ___ documents dans l'amphithéâtre.",
+    "options": ["Ces / leurs", "Cet / ses", "Cette / leur", "Ces / son"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_67",
+    "question": "De ___ méthode s'inspirent ___ travaux de recherche ?",
+    "options": ["quel / ces", "quelle / ces", "quelles / cet", "quelle / cet"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_68",
+    "question": "___ mesure d'urgence exige ___ application immédiate.",
+    "options": ["Ce / son", "Cet / sa", "Cette / son", "Cette / sa"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_69",
+    "question": "___ membres du jury ont exprimé ___ réserves sur ce projet.",
+    "options": ["Aucun / ses", "Plusieurs / leurs", "Chaque / leur", "Plusieurs / ses"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_70",
+    "question": "En ___ année et dans ___ conditions cette loi a-t-elle été adoptée ?",
+    "options": ["quelle / quelles", "quel / quels", "quelle / quels", "quel / quelles"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_71",
+    "question": "___ institution conserve ___ archives depuis plus de trois siècles.",
+    "options": ["Cet / ses", "Cette / ses", "Cette / son", "Ce / leurs"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_72",
+    "question": "Le budget total s'élève à ___ mille gourdes pour ___ projets.",
+    "options": ["quatre-vingt / trois", "quatre-vingts / trois", "quatre vingts / trois", "quatre-vingt / troi"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_73",
+    "question": "___ participants ont apporté ___ propre contribution à la synthèse.",
+    "options": ["Tous les / leur", "Tout / ses", "Toutes les / leurs", "Chaque / leur"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_74",
+    "question": "Pour ___ raisons et sous ___ prétexte avez-vous interrompu la séance ?",
+    "options": ["quelles / quel", "quels / quelle", "quelle / quel", "quelles / quelle"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_75",
+    "question": "___ homme politique a défendu ___ idées avec fermeté.",
+    "options": ["Ce / ses", "Cet / ses", "Cet / son", "Cette / ses"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_76",
+    "question": "___ décision prise sans ___ concertation préalable crée des tensions.",
+    "options": ["Aucun / aucune", "Chaque / aucune", "Toute / aucune", "Certaines / aucune"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_77",
+    "question": "___ livre contient ___ graphiques explicatifs d'une grande clarté.",
+    "options": ["Cet / plusieurs", "Ce / plusieurs", "Cette / plusieurs", "Ces / plusieurs"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+    {
+    "id": "fdse_fr_q1_78",
+    "question": "Si les données ___ exactes, nous ___ le modèle sans hésiter.",
+    "options": ["sont / validerons", "étaient / validions", "soient / validerions", "seront / validons"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_79",
+    "question": "Bien qu'ils ___ des efforts, ils n'___ pas encore le résultat escompté.",
+    "options": ["font / atteignent", "fassent / atteignent", "faisaient / atteindront", "feront / atteignaient"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_80",
+    "question": "Hier, les chercheurs ___ la réunion au moment où le directeur ___.",
+    "options": ["commençaient / arrivait", "ont commencé / arrivait", "commenceront / arrive", "commençaient / est arrivé"],
+    "reponsKorek": 3,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_81",
+    "question": "Dès que vous ___ le rapport, nous ___ la phase d'évaluation.",
+    "options": ["aurez terminé / lancerons", "aviez terminé / lançons", "terminez / lancerions", "auriez terminé / lancerons"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_82",
+    "question": "Si nous ___ plus de temps, nous ___ davantage d'échantillons.",
+    "options": ["avions / analyserions", "avons / analyserions", "aurions / analysions", "avions / analyserons"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_83",
+    "question": "Il faut que le comité ___ les réformes et ___ leur application.",
+    "options": ["valide / suive", "validera / suivra", "validât / suivait", "valide / suivra"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_84",
+    "question": "Pendant que l'expert ___ les données, les assistants ___ les tableaux.",
+    "options": ["analysait / vérifiaient", "a analysé / vérifient", "analysera / vérifiaient", "analyse / ont vérifié"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_85",
+    "question": "Lorsque la crise ___ éclaté, la direction ___ déjà les mesures nécessaires.",
+    "options": ["a / a pris", "a / avait pris", "avait / a pris", "aura / prendra"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_86",
+    "question": "Les candidats ___ l'enceinte dès que le signal ___ donné.",
+    "options": ["quitteront / sera", "quittent / serait", "quitteraient / est", "quitteront / soit"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_87",
+    "question": "Je doute qu'ils ___ résoudre l'équation si personne ne les ___.",
+    "options": ["peuvent / aide", "puissent / aide", "pouvaient / aidât", "puissent / aidera"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_88",
+    "question": "Autrefois, le gouvernement ___ les subventions quand l'inflation ___.",
+    "options": ["augmentait / augmentait", "augmentait / augmenta", "a augmenté / augmentait", "augmentera / augmente"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_89",
+    "question": "Si vous ___ à temps, vous ___ la présentation complète.",
+    "options": ["étiez arrivés / auriez vu", "êtes arrivés / auriez vu", "seriez arrivés / aviez vu", "étiez arrivés / avez vu"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_90",
+    "question": "Avant que la séance ne ___, les auditeurs ___ leurs documents.",
+    "options": ["commence / consultent", "commencera / consultent", "commence / ont consulté", "commençait / consultent"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_91",
+    "question": "Ils ___ les conclusions de leur étude après qu'ils ___ le protocole.",
+    "options": ["publieront / auront révisé", "publient / ont révisé", "publieraient / révisent", "publieront / révisent"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_92",
+    "question": "Même si la commission ___ aujourd'hui, elle ne ___ pas de décision définitive.",
+    "options": ["siégeait / prendrait", "siège / prendrait", "siégera / prenait", "siégeait / prendra"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_93",
+    "question": "Après qu'elle ___ ses hypothèses, l'équipe ___ les tests en laboratoire.",
+    "options": ["eut formulé / entreprit", "a formulé / entreprenait", "aura formulé / entreprendrait", "avait formulé / entreprend"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_94",
+    "question": "Il est préférable que nous ___ la séance et que nous ___ demain.",
+    "options": ["suspendions / reprenions", "suspendons / reprenons", "suspendrons / reprendrons", "suspendions / reprendrons"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+    {
+    "id": "fdse_fr_q1_95",
+    "question": "Le dossier ___ vous m'avez parlé est exactement ___ dont nous avons besoin.",
+    "options": ["dont / celui", "que / ce", "auquel / celui", "dont / ce"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_96",
+    "question": "Les professeurs ___ ont soumis le projet ___ ont garanti la faisabilité.",
+    "options": ["qui / nous", "que / leur", "lesquels / lui", "qui / leur"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_97",
+    "question": "Si vous revoyez les experts, parlez-___ de cette anomalie et expliquez-___ la situation.",
+    "options": ["leur / leur", "les / leur", "leur / la", "en / leur"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_98",
+    "question": "Votre analyse est rigoureuse, mais ___ de votre collègue ___ est beaucoup moins.",
+    "options": ["celle / l'", "celui / la", "celle / en", "ceux / l'"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_99",
+    "question": "L'opportunité ___ il s'agit et à ___ nous pensons exige une décision rapide.",
+    "options": ["dont / laquelle", "qu' / quoi", "de laquelle / laquelle", "dont / quoi"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_100",
+    "question": "Ces résultats scientifiques, nous ___ avons analysés et nous ___ sommes inspirés.",
+    "options": ["les / nous en", "les / nous y", "en / nous les", "leurs / nous en"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_101",
+    "question": "Mon rapport est achevé, mais ___ des autres candidats ne ___ sont pas encore.",
+    "options": ["ceux / le", "celui / les", "ceux / la", "celui / le"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_102",
+    "question": "La réunion à ___ je pense et le sujet ___ nous débattrons sont capitaux.",
+    "options": ["laquelle / dont", "quoi / que", "laquelle / de quoi", "où / duquel"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_103",
+    "question": "Quant aux nouvelles directives, il faut ___ informer les équipes et ___ veiller strictement.",
+    "options": ["en / y", "les / y", "en / les", "leur / en"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_104",
+    "question": "Parmi toutes ces hypothèses, ___ que vous avancez semble plus crédible que ___ du jury.",
+    "options": ["celle / celle", "celui / celui", "ce / celle", "celle / ce"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_105",
+    "question": "C'est un travail difficile ___ demande de la patience et ___ chacun doit s'investir.",
+    "options": ["qui / dans lequel", "que / auquel", "qui / dont", "lequel / où"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_106",
+    "question": "Les livres de la bibliothèque, il ___ a empruntés et il ___ a tiré des citations pertinentes.",
+    "options": ["les / en", "en / les", "les / y", "leur / en"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+    {
+    "id": "fdse_fr_q1_107",
+    "question": "Les obstacles ___ nous faisons face sont précisément ___ ___ nous avons discutés hier.",
+    "options": ["auxquels / ceux / dont", "lesquels / ceux / que", "dont / ceux / dont", "auxquels / ce / que"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_108",
+    "question": "S'il existe un motif ___ vous n'___ soyez pas informé, veuillez ___ faire part immédiatement.",
+    "options": ["dont / en / le", "pour lequel / en / m'en", "auquel / le / nous", "que / y / l'"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_109",
+    "question": "Quant à cette réforme, ___ seul savez ___ ___ il convient de modifier en priorité.",
+    "options": ["vous / ce / qu'", "tu / ce / dont", "vous / ce / dont", "nous / ce / qu'"],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_110",
+    "question": "L’issue de l'examen dépendra de ___ ___ nous ___ consacrerons comme temps d'étude.",
+    "options": ["ce / que / lui", "celui / dont / y", "ce / à / quoi", "ce / que / y"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_111",
+    "question": "Ces conclusions, bien que vous ___ ___ soyez souvenu, ___ semblent erronées après analyse.",
+    "options": ["vous / en / nous", "les / vous / leur", "vous / les / nous", "en / vous / me"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_112",
+    "question": "Si votre thèse diffère de ___ de l'institut, sachez que ___ ___ reste très rigoureuse.",
+    "options": ["celle / la / mienne", "celui / la / leur", "celle / le / mien", "ceux / la / tienne"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_113",
+    "question": "L’importance du décret, nul ne ___ ignore, réside dans ___ ___ il cherche à protéger.",
+    "options": ["l' / ce / qu'", "le / ce / dont", "la / celui / que", "en / ce / qui"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_114",
+    "question": "Une fois les documents reçus, transmettez-___ ___ ___ nous ___ aurons besoin.",
+    "options": ["les / à / ceux", "les / ceux / dont", "leur / ceux / que", "les / celui / dont"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_115",
+    "question": "___ de ces hypothèses est ___ ___ l'on ___ réfère le plus souvent ?",
+    "options": ["Laquelle / celle / se", "Laquelle / celle / à laquelle", "Laquelle / celle / y", "Quelle / celle / se"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_116",
+    "question": "Le succès, ___ ___ nous ___ attendions, a finalement été validé par le jury.",
+    "options": ["celui / auquel / nous", "ce / à / quoi", "lequel / dont / nous", "celui / que / nous"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_117",
+    "question": "Les questions ___ vous ___ ___ posées exigent une réflexion approfondie.",
+    "options": ["que / vous / êtes", "auxquelles / vous / avez", "dont / vous / êtes", "que / vous / avez"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+    {
+    "id": "fdse_fr_q1_118",
+    "question": "Si la commission ___ ses travaux à temps, nous ___ que le rapport ___ validé dès demain.",
+    "options": ["achevait / espérerions / soit", "achève / espérons / soit", "achevât / espérerions / fût", "eut achevé / espérons / soit"],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_119",
+    "question": "Il est impératif que vous ___ vos recherches avant que le jury ne ___ ses exigences et n'___ les délais.",
+    "options": ["intensifiiez / fixe / raccourcisse", "intensifiez / fixât / raccourcît", "intensifiassiez / fixât / raccourcît", "intensifiiez / fixât / raccourcît"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_120",
+    "question": "Quand les experts ___ leur analyse, ils ___ déjà compte que le système ___ défaillant.",
+    "options": ["achevèrent / s'étaient rendu / était", "eurent achevé / s'étaient rendu / soit", "achevaient / se rendirent / fût", "achèveront / se rendront / sera"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_121",
+    "question": "Si nous ___ les protocoles requis, nous n'___ pas à faire face à cette crise qui nous ___.",
+    "options": ["avions respecté / serions arrivés / paralyse", "avions respectés / serions arrivés / paralyse", "avions respecté / serions arrivés / paralysait", "avions respecté / serions arrivés / paralysât"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_122",
+    "question": "Bien qu'il ___ toute son énergie dans ce projet, il ___ que ses efforts ne ___ pas reconnus à leur juste valeur.",
+    "options": ["ait investi / craint / soient", "investît / craignait / fussent", "ait investi / craignait / soient", "investisse / craint / soient"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_123",
+    "question": "Dès que l'administration ___ le décret, les étudiants ___ les mesures qui s'___.",
+    "options": ["publiera / adopteront / imposent", "publie / adopteront / imposaient", "publiera / adoptaient / imposent", "publiât / adopteraient / imposassent"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_124",
+    "question": "Il aurait fallu que vous ___ plus de rigueur lorsque vous ___ les hypothèses qui ___ l'étude.",
+    "options": ["missiez / formuliez / fondaient", "missiez / formulassiez / fondaient", "missiez / formuliez / fondassent", "missiez / formuliez / fondaient"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_125",
+    "question": "Au moment où l'assemblée ___ de voter, une contestation ___ l'issue du scrutin qui ___ incertaine.",
+    "options": ["venait / modifia / demeurait", "vient / modifie / demeure", "vint / modifiait / demeurât", "vienne / modifie / demeure"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_126",
+    "question": "Si l'on ___ compte des variables cachées, on ___ que ce modèle ___ caduc.",
+    "options": ["avait pris / aurait constaté / était", "prend / constate / est", "prit / constaterait / fût", "prenait / constate / sera"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_127",
+    "question": "Il est grand temps que l'on ___ des mesures drastiques avant que la situation ne ___ irréversible et que l'on ne ___ plus rien.",
+    "options": ["prenne / devienne / puisse", "prenne / devienne / pût", "prît / devienne / puisse", "prenne / devienne / puisse"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_128",
+    "question": "Sitôt que les résultats ___ proclamés, les candidats ___ l'amphithéâtre où ils ___ leurs notes.",
+    "options": ["furent / quittèrent / consultèrent", "seront / quitteront / consulteront", "sont / quittent / consultent", "furent / quittaient / consultaient"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+    {
+    "id": "fdse_fr_q1_129",
+    "question": "___ chercheurs ont présenté ___ rapport devant ___ assemblée générale.",
+    "options": ["Certains / leur / cette", "Certain / leurs / cette", "Chaque / leur / ce", "Plusieurs / ses / cet"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_130",
+    "question": "___ mesure d'urgence exige ___ rigueur et ___ concertation préalable.",
+    "options": ["Cette / une / aucune", "Cet / la / chaque", "Cette / chaque / quelle", "Ce / une / aucune"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_131",
+    "question": "De ___ perspective et selon ___ critères ont-ils évalué ___ projet ?",
+    "options": ["quelle / quels / ce", "quel / quelles / cet", "quelles / quels / cette", "quelle / quel / ces"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_132",
+    "question": "Le manuscrit comprend ___ pages réparties en ___ volumes et ___ annexes.",
+    "options": ["deux cents / trois / quelques", "deux cent / trois / quelque", "deux-cents / trois / certains", "deux-cent / trois / chaque"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_133",
+    "question": "___ candidat doit fournir ___ dossier complet avant ___ date limite.",
+    "options": ["Chaque / son / cette", "Tout / leur / ce", "Certains / son / cette", "Chaque / leur / cet"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_134",
+    "question": "___ institution conserve ___ propres archives malgré ___ obstacles financiers.",
+    "options": ["Cette / ses / certains", "Cet / son / quelques", "Cette / leur / plusieur", "Ce / ses / aucun"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_135",
+    "question": "À ___ heure précise et sur ___ recommandation ___ décision sera-t-elle prise ?",
+    "options": ["quelle / quelle / cette", "quel / quel / ce", "quelle / quel / cet", "quels / quelles / ces"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_136",
+    "question": "Le montant total s'élève à ___ mille gourdes pour ___ projets sur ___ ans.",
+    "options": ["quatre-vingt / trois / quatre", "quatre-vingts / trois / quatre", "quatre vingts / trois / quatre", "quatre-vingt / troi / quatre"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_137",
+    "question": "___ membres du comité ont exprimé ___ désaccord face à ___ initiative.",
+    "options": ["Plusieurs / leur / cette", "Certain / ses / cet", "Chaque / leur / ce", "Tous les / son / cette"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_138",
+    "question": "___ année offre ___ opportunités pour ___ étudiant désireux de réussir.",
+    "options": ["Chaque / plusieurs / tout", "Toute / chaque / certains", "Certaine / quelques / chaque", "Chaque / tout / plusieur"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "fdse_fr_q1_139",
+    "question": "Pour ___ raisons et en vertu de ___ loi ___ arrêté a-t-il été publié ?",
+    "options": ["quelles / quelle / cet", "quels / quel / ce", "quelle / quelle / cette", "quelles / quel / cet"],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+    {
+    "id": "fdse_fr_q1_140",
+    "question": "L'étudiant a présenté ___ hypothèse devant le jury d'évaluation.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "son",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_141",
+    "question": "___ événement a marqué un tournant décisif dans l'histoire économique.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Cet",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_142",
+    "question": "___ candidat doit vérifier son numéro d'identification avant l'épreuve.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Chaque",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_143",
+    "question": "À ___ heure précise commence la séance académique ?",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "quelle",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_144",
+    "question": "Le document comprend deux ___ (200) pages d'analyse minutieuse.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "cents",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_145",
+    "question": "Les professeurs partagent ___ savoir avec grande rigueur.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "leur",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_146",
+    "question": "___ initiative mérite une attention particulière de la part du comité.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Cette",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_147",
+    "question": "___ membres du personnel ont assisté à la conférence annuelle.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Plusieurs",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_148",
+    "question": "De ___ perspective envisagez-vous la résolution de ce problème ?",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "quelle",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_149",
+    "question": "La bibliothèque universitaire contient quatre-___ (80) ouvrages spécialisés.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "vingts",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_150",
+    "question": "___ ouvrage scientifique constitue une référence incontournable.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Cet",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+    {
+    "id": "fdse_fr_q1_151",
+    "question": "Malgré la complexité des données, nous ___ (resoudre/ind.Present)le problème avec méthode.",
+    "options": [],
+    "reponsKorek": 0,
+      "answer": "résolvons",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_152",
+    "question": "Les chercheurs ___ (parvenir/passe compose) à une conclusion pertinente après l'analyse.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "sont parvenus",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_153",
+    "question": "Dès la validation du protocole, l'équipe ___ (executer/futur simple) le plan d'action.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "exécutera",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_154",
+    "question": "Chaque matin, le comité ___ (Examiner/Imparfait)minutieusement les rapports reçus.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "examinait",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_155",
+    "question": "Il est indispensable que vous ___ (Prendre/ subjonctif present) une décision fondée sur la logique.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "preniez",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_156",
+    "question": "En cas d'imprévu, nous ___ (devoir/ futur simple) réévaluer nos priorités stratégiques.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "devrions",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_157",
+    "question": "La méthodologie qu'ils ont ___ (choisir) s'est révélée particulièrement efficace.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "choisie",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_158",
+    "question": "Lorsque le signal a retenti, les techniciens ___ (terminer/plus que parfait) déjà l'expérience.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "avaient terminé",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_159",
+    "question": "Vous ___ (Faire/ futu anterieur) preuve d'une rigueur académique exemplaire.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "aurez fait",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_160",
+    "question": "Bien qu'il ___ (Etre) tard, la session de travail se poursuit.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "soit",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+    {
+    "id": "fdse_fr_q1_161",
+    "question": "Il eût fallu que le comité ___ (soumettre, subjonctif plus-que-parfait) le rapport avant la clôture des débats.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "eût soumis",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_162",
+    "question": "Bien que l'équipe ___ (achever, subjonctif passé) l'analyse statistique, la décision finale reste suspendue.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "ait achevé",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_163",
+    "question": "Si les données avaient été vérifiées à temps, nous ___ (éviter, conditionnel passé 1ère forme) cette erreur de calcul.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "aurions évité",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_164",
+    "question": "Si le protocole avait été strictement appliqué, les chercheurs ___ (parvenir, conditionnel passé 2ème forme) à des résultats concluants.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "fussent parvenus",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_165",
+    "question": "___ (prendre, impératif présent - 2e personne du pluriel) soin de vérifier chaque hypothèse avant de rédiger la synthèse.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Prenez",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_166",
+    "question": "___ (faire, impératif passé - 2e personne du pluriel) preuve de rigueur en ayant révisé tous les modules avant le concours de UEH.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Ayez fait",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_167",
+    "question": "Bien que les spécialistes ___ (examiner, subjonctif passé) l'échantillon, aucun défaut n'a été détecté.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "aient examiné",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+    {
+    "id": "fdse_fr_q1_168",
+    "question": "Le document dont vous parlez est exactement ___[pronom] qui contient toutes les données financières.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "celui",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_169",
+    "question": "Les résultats académiques ont été transmis au directeur; il ___[pronom] accorde une attention particulière.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "leur",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_170",
+    "question": "Cette étude scientifique comporte plusieurs hypothèses; voici ___[pronom] qui semble la plus plausible.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "celle",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_171",
+    "question": "Le professeur s'adresse régulièrement aux étudiants pour ___[pronom] expliquer la méthodologie.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "leur",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_172",
+    "question": "Parmi toutes les solutions envisagées, ___[pronom] qu'ils ont choisie reste la plus efficace.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "celle",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_173",
+    "question": "Le doyen a convoqué les délégués afin de ___[pronom] faire part de la nouvelle réglementation.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "leur",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_174",
+    "question": "Les erreurs constatées dans ce dossier sont identiques à ___ [pronom] de l'année précédente.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "celles",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_175",
+    "question": "L'exposé présenté hier soir est nettement supérieur à ___ [pronom] du groupe adverse.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "celui",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_176",
+    "question": "Les chercheurs ont révisé les protocoles et ___ [pronom] ont soumis une version corrigée au recteur.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "en",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_177",
+    "question": "Quant aux nouvelles réformes universitaires, le conseil supérieur ___ [pronom] a approuvées à l'unanimité.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "les",
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+    {
+      "id": "fdse_fr_q1_178",
+      "question": "Complétez la phrase avec l'auxiliaire correct : 'Nous ___ (ind.present) arrivés en retard.'",
       "options": [],
       "reponsKorek": 0,
       "answer": "sommes",
@@ -290,17 +1651,627 @@
       "tip": "Completer"
     },
     {
-      "id": "fdse_fr_c1_02",
-      "question": "Complétez la phrase avec l'auxiliaire correct : 'Nous ___ besoin de toi.'",
+      "id": "fdse_fr_q1_179",
+      "question": "Complétez la phrase avec l'auxiliaire correct : 'Nous ___ (imparfait) besoin de toi.'",
       "options": [],
       "reponsKorek": 0,
-      "answer": "avons",
+      "answer": "avions",
       "paj": "Etape 1",
       "nivo": "Facile",
       "tip": "Completer"
     },
     {
-      "id": "fdse_fr_q1_03",
+    "id": "fdse_fr_q1_180",
+    "question": "Les documents que nous ___(ind.present) transmis sont précisément ceux ___ (pronom) il avait besoin.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "avons / dont",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_181",
+    "question": "Bien qu'il ___ (comprendre/ind.present)l'importance du projet, il ne ___ (pronom) est pas encore investi.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "comprenne / s'",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_182",
+    "question": "Cette étude est supérieure à ___ que nous ___ analysée la semaine dernière.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "celle / avons",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_183",
+    "question": "Dès qu'ils ___ (avoir/futur simple) les résultats, ils nous en ___ (faire) immédiatement part.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "auront / feront",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_184",
+    "question": "Les étudiants ___ (pronoms) nous avons rencontré le doyen ont enfin exposé ___ griefs.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "avec lesquels / leurs",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_185",
+    "question": "Si vous ___ (suivre/plus que parfait) le protocole établi, vous n'___ (avoir) pas commis cette erreur.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "aviez suivi / auriez",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_186",
+    "question": "Voici les données scientifiques ___ (pronom) il s'agit et que le comité ___ (valider/passe compose).",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "dont / a validées",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_187",
+    "question": "Il faut que le candidat ___ (termine) son travail avant que la commission ne le ___(reviser).",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "termine / révise",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_188",
+    "question": "Quant à ces réformes administratives, nous ___ opposons résolument à ___ (pronom) application.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "nous / leur",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_189",
+    "question": "Lorsque la cloche ___ (sonner/passe simple), les candidats ___ déjà rendu leurs copies.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "sonna / avaient",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_190",
+    "question": "Parmi ces propositions, ___ (pronom) qui retenir l'attention du jury sont ___ (pronom) du second groupe.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "celles / celles",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+    {
+    "id": "fdse_fr_q1_191",
+    "question": "Les rapports ___ vous m'avez parlé sont précisément ___ ___ nous avons validés.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "dont / ceux / que",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_192",
+    "question": "S'il ___ (respecter/passe compose) les termes de ___ (determinant) contrat, il ne ___ (pronom) serait pas trouvé dans cette situation.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "avait respecté / ce / se",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_193",
+    "question": "___ (determinant) chercheurs ont présenté ___ (determinant) travaux avant que le jury ne ___ (rendre, subjonctif imparfait) sa décision.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Certains / leurs / rendît",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_194",
+    "question": "La thèse ___ (pronom) il s'agit exige que vous ___ (vérifier, subjonctif présent) ___ (determinant) sources avec rigueur.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "dont / vérifiiez / vos",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_195",
+    "question": "Bien qu'il ___ (suivre, subjonctif plus-que-parfait) attentivement ___ (determinant) instructions, des erreurs ___ (se produire, passé composé) produites.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "eût suivi / ces / se sont",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_196",
+    "question": "___ (determinant) mesure d'urgence nécessite que ___ (determinant) membre du conseil ___ (donner, subjonctif présent) son avis.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Cette / chaque / donne",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_197",
+    "question": "Les propositions ___ (pronom) nous faisons référence sont ___ (pronom) ___ (pronom) le doyen a rejetées.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "auxquelles / celles / que",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_198",
+    "question": "Quand les experts ___ (achever, passé antérieur) l'évaluation, ils ___ (pronom) transmirent ___ (determinant) conclusions.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "eurent achevé / nous / leurs",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_199",
+    "question": "Il faudrait que nous ___ (enseigner, subjonctif présent) à ___ (determinant) étudiants la méthode qui ___ (pronom) convient le mieux.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "enseignions / ces / leur",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_200",
+    "question": "___ (pronom) vous soyez prêt ou non, ___ (determinant) réforme s'imposera à ___ (determinant) les institutions.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Que / cette / toutes",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_201",
+    "question": "Les documents ___ (pronom) le doyen ___ (apposer, passé composé) sa signature sont ___ (pronom) de la faculté.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "sur lesquels / a apposé / ceux",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_202",
+    "question": "Si vous ___ (finir, plus-que-parfait) ___ (determinant) devoirs plus tôt, vous n'___ (avoir, conditionnel présent) pas ce retard.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "aviez fini / vos / auriez",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_203",
+    "question": "À ___ (determinant) heure précise et sous ___ (determinant) conditions ce décret ___ (être, futur simple) promulgué ?",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "quelle / quelles / sera-t-il",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_204",
+    "question": "Les candidats ___ (pronom) nous avons examinés ont démontré ___ (determinant) capacité à réagir face à ___ (determinant) crise.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "que / leur / cette",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_205",
+    "question": "Il eût été préférable que vous ___ (présenter, subjonctif plus-que-parfait) ___ (determinant) observations avant que la commission ne ___ (trancher, subjonctif imparfait).",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "eussiez présenté / vos / tranchât",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_206",
+    "question": "Quant à ___ (determinant) décision, nul ne ___ (pouvoir, présent de l'indicatif) contester la pertinence ni ___ (determinant) impact.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "cette / ne peut / son",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_207",
+    "question": "Les articles ___ (pronom) vous faites mention sont ___ (pronom) ___ (pronom) ont été publiés récemment.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "dont / ceux / qui",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_208",
+    "question": "Dès que l'équipe ___ (achever, futur antérieur) ___ (determinant) recherches, nous ___ (publier, futur simple) les résultats obtenus.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "aura achevé / ses / publierons",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_209",
+    "question": "___ (determinant) candidat doit fournir ___ (determinant) dossier afin que le comité ___ (pouvoir, subjonctif présent) l'analyser.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Chaque / son / puisse",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_210",
+    "question": "Bien que ces théories ___ (être, subjonctif présent) complexes, le professeur ___ (pronom) a expliquées à ___ (determinant) étudiants.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "soient / les / ses",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_211",
+    "question": "Le livre ___ (pronom) le titre m'échappe est précisément ___ (pronom) ___ (pronom) nous cherchions.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "dont / celui / que",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_212",
+    "question": "Si nous ___ (appliquer, plus-que-parfait) ce protocole, nous ___ (avoir, conditionnel présent) résolu ___ (determinant) problèmes plus rapidement.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "avions appliqué / aurions / ces",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_213",
+    "question": "___ (determinant) étudiant qui valide ___ (determinant) modules recevra ___ (determinant) diplôme officiel.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Tout / ses / son",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_214",
+    "question": "Les directives ___ (pronom) le directeur a données ___ (être, futur simple) appliquées par ___ (determinant) le personnel.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "que / seront / tout",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_215",
+    "question": "Il est impératif que vous ___ (soumettre, subjonctif présent) ___ (determinant) projet avant que l'administration ne le ___ (rejeter, subjonctif présent).",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "soumettiez / votre / rejette",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_216",
+    "question": "Parmi ___ (determinant) hypothèses, ___ (pronom) qui paraît la plus solide est ___ (pronom) du chercheur principal.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "ces / celle / celle",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_217",
+    "question": "Sitôt que le signal ___ (être, passé simple) donné, les techniciens ___ (rejoindre, passé simple) ___ (determinant) postes de travail.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "fut / rejoignirent / leurs",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_218",
+    "question": "___ (determinant) que soient ___ (determinant) arguments, la commission ne ___ (modifier, futur simple) pas sa position.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Quels / vos / modifiera",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_219",
+    "question": "Les erreurs ___ (pronom) vous êtes responsable ___ (mériter, présent de l'indicatif) d'être corrigées avant ___ (determinant) publication.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "dont / méritent / leur",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_220",
+    "question": "Bien que nous ___ (connaître, subjonctif présent) les faits, ___ (determinant) incertitude persiste quant à ___ (determinant) causes.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "connaissions / une / leurs",
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+    {
+    "id": "fdse_fr_q1_221",
+    "question": "___ (determinant) propositions sont exactement ___ (pronom) nous étudions.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Ces / celles",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_222",
+    "question": "L'auteur ___ (pronom) l'ouvrage est célèbre a présenté ___ (determinant) thèses hier.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "dont / ses",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_223",
+    "question": "___ (determinant) étudiant doit vérifier la validité de ___ (determinant) dossier.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Chaque / son",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_224",
+    "question": "Les professeurs ont partagé ___ (determinant) opinions avec ___ (pronom) qui le souhaitaient.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "leurs / ceux",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_225",
+    "question": "À ___ (determinant) heure la direction rendra-t-elle ___ (determinant) décision ?",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "quelle / sa",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_226",
+    "question": "La décision ___ (pronom) vous parlez concerne uniquement ___ (determinant) cas.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "dont / ce",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_227",
+    "question": "___ (determinant) candidats ont réussi l'examen grâce à ___ (determinant) rigueur.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Plusieurs / leur",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_228",
+    "question": "Parmi ces options, ___ (pronom) choisirez-vous pour soutenir ___ (determinant) projet ?",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "laquelle / votre",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_229",
+    "question": "Le rapport ___ (pronom) a été soumis est supérieur à ___ (pronom) du mois dernier.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "qui / celui",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_230",
+    "question": "___ (determinant) réforme entraînera des conséquences sur ___ (determinant) le secteur.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Cette / tout",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_231",
+    "question": "De ___ (determinant) raisons s'inspire ___ (determinant) nouvelle mesure d'urgence ?",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "quelles / cette",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_232",
+    "question": "Les réclamations ___ (pronom) nous recevons sont ___ (pronom) du groupe de travail.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "que / celles",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_233",
+    "question": "___ (determinant) hypothèse demande une validation avant ___ (determinant) publication.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Toute / sa",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_234",
+    "question": "Voici l'étudiant ___ (pronom) a obtenu les félicitations de ___ (determinant) jury.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "qui / son",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_235",
+    "question": "___ (determinant) règles doivent être appliquées par ___ (pronom) qui dirigent.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Ces / ceux",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_236",
+    "question": "Les membres du comité ont exposé ___ (determinant) arguments à ___ (pronom) qui doutaient.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "leurs / ceux",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_237",
+    "question": "Dans ___ (determinant) conditions s'effectue la sélection de ___ (determinant) candidats ?",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "quelles / ces",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_238",
+    "question": "La réunion ___ (pronom) aura lieu demain portera sur ___ (determinant) budget.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "qui / notre",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_239",
+    "question": "___ (determinant) document officiel exige le sceau de ___ (determinant) institution.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "Tout / cette",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "fdse_fr_q1_240",
+    "question": "Les données ___ (pronom) il fait référence sont similaires à ___ (pronom) de l'an dernier.",
+    "options": [],
+    "reponsKorek": 0,
+    "answer": "auxquelles / celles",
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+    {
+      "id": "fdse_fr_q1_241",
       "question": "Quel est le synonyme du mot 'Vaste' ?",
       "options": ["Petit", "Immense", "Étroit", "Sombre"],
       "reponsKorek": 1,
@@ -309,7 +2280,7 @@
       "tip": "Quiz"
     },
     {
-      "id": "fdse_fr_c1_04",
+      "id": "fdse_fr_c1_242",
       "question": "Mettez au pluriel le mot 'Ciel' :",
       "options": [],
       "reponsKorek": 0,
