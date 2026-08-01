@@ -2501,5 +2501,4746 @@
     "nivo": "Difficile",
     "tip": "Completer"
   }
+],
+  "Etape 2": [
+    {
+    "id": "194",
+    "question": "Quelle est l'unité anatomique et physiologique de tout végétal ?",
+    "options": [
+      "Le tissu",
+      "L'organe",
+      "La cellule",
+      "Le noyau"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "195",
+    "question": "De quelle taille est généralement la cellule végétale ?",
+    "options": [
+      "Macroscopique",
+      "Gigantesque",
+      "Microscopique",
+      "Visible"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "196",
+    "question": "La cellule végétale est un volume de cytoplasme renfermant un noyau et des :",
+    "options": [
+      "Vaisseaux",
+      "Inclusions",
+      "Organes",
+      "Thalles"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "197",
+    "question": "Par quoi la cellule végétale est-elle entourée en plus de la membrane cytoplasmique ?",
+    "options": [
+      "Une paroi",
+      "Une fleur",
+      "Un thalle",
+      "Une graine"
+    ],
+    "reponsKorek": 0,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "198",
+    "question": "La membrane cytoplasmique est décrite comme une pellicule fine, souple et :",
+    "options": [
+      "Rigide",
+      "Élastique",
+      "Épaisse",
+      "Incolore"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "199",
+    "question": "Comment qualifie-t-on la perméabilité de la membrane cytoplasmique ?",
+    "options": [
+      "Totale",
+      "Nulle",
+      "Sélective",
+      "Aléatoire"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "200",
+    "question": "Quelle est la consistance de la substance transparente du cytoplasme ?",
+    "options": [
+      "Solide",
+      "Gazeuse",
+      "Visqueuse",
+      "Liquide"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "201",
+    "question": "Le cytoplasme est parcouru par quoi pour entraîner les particules ?",
+    "options": [
+      "Des nerfs",
+      "Des courants",
+      "Des vaisseaux",
+      "Des thalles"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "202",
+    "question": "Quelle substance du cytoplasme peut être libre ou fixée aux molécules organiques ?",
+    "options": [
+      "L'eau",
+      "Le fer",
+      "L'azote",
+      "Le soufre"
+    ],
+    "reponsKorek": 0,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "203",
+    "question": "Les chlorures, sulfates et phosphates sont présents dans le cytoplasme comme :",
+    "options": [
+      "Substances organiques",
+      "Sels minéraux",
+      "Inclusions vivantes",
+      "Inclusions inertes"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "204",
+    "question": "Les glucides, lipides et protides sont classés dans quelle catégorie ?",
+    "options": [
+      "Sels minéraux",
+      "Substances organiques",
+      "Inclusions inertes",
+      "Substances gazeuses"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "205",
+    "question": "Quels éléments sont considérés comme des inclusions vivantes ?",
+    "options": [
+      "Vacuoles",
+      "Enclaves hydrophobes",
+      "Chondriosomes et plastes",
+      "Amidon"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "206",
+    "question": "Les vacuoles et les enclaves hydrophobes sont des inclusions :",
+    "options": [
+      "Vivantes",
+      "Actives",
+      "Inertes",
+      "Organiques"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "207",
+    "question": "Les chondriosomes peuvent avoir la forme de grains, de filaments ou de :",
+    "options": [
+      "Bâtonnets",
+      "Sphères",
+      "Cubes",
+      "Thalles"
+    ],
+    "reponsKorek": 0,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "208",
+    "question": "De quel phénomène les chondriosomes sont-ils le siège ?",
+    "options": [
+      "Photosynthèse",
+      "Respiration cellulaire",
+      "Synthèse d'amidon",
+      "Croissance"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "209",
+    "question": "Pendant la respiration, quel gaz est absorbé par la cellule ?",
+    "options": [
+      "Gaz carbonique",
+      "Oxygène",
+      "Azote",
+      "Hydrogène"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "210",
+    "question": "Qu'est-ce qui est produit lors de la respiration cellulaire ?",
+    "options": [
+      "Amidon",
+      "Chlorophylle",
+      "Énergie",
+      "Lycopène"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "211",
+    "question": "Quelle est la forme la plus courante des plastes ?",
+    "options": [
+      "Cubique",
+      "Filamenteuse",
+      "Sphérique",
+      "Allongée"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "212",
+    "question": "Les amyloplastes sont des plastes qui accumulent de :",
+    "options": [
+      "La chlorophylle",
+      "L'amidon",
+      "Du lycopène",
+      "Du carotène"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "213",
+    "question": "Quelle couleur prennent les amyloplastes lorsqu'ils sont traités à l'eau iodée ?",
+    "options": [
+      "Rouge",
+      "Vert",
+      "Bleu",
+      "Jaune"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "214",
+    "question": "Dans quel légume trouve-t-on souvent des amyloplastes ?",
+    "options": [
+      "Tomate",
+      "Carotte",
+      "Pomme de terre",
+      "Haricot"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "215",
+    "question": "Quelle substance colore les chloroplastes en vert ?",
+    "options": [
+      "La xanthophylle",
+      "Le carotène",
+      "La chlorophylle",
+      "Le lycopène"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "216",
+    "question": "Les chloroplastes sont le siège de quel phénomène ?",
+    "options": [
+      "Respiration",
+      "Photosynthèse",
+      "Digestion",
+      "Fermentation"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "217",
+    "question": "Quel gaz est rejeté par la plante lors de la photosynthèse ?",
+    "options": [
+      "Gaz carbonique",
+      "Azote",
+      "Oxygène",
+      "Vapeur d'eau"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "218",
+    "question": "Quelle couleur est associée à la xanthophylle dans les chromoplastes ?",
+    "options": [
+      "Rouge",
+      "Vert",
+      "Jaune",
+      "Orangé"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "219",
+    "question": "Le carotène donne aux chromoplastes une coloration :",
+    "options": [
+      "Bleue",
+      "Orangée",
+      "Noire",
+      "Blanche"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "220",
+    "question": "Quelle substance donne la couleur rouge à la Tomate mûre ?",
+    "options": [
+      "La chlorophylle",
+      "Le lycopène",
+      "L'amidon",
+      "La cellulose"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "221",
+    "question": "Où rencontre-t-on principalement les chromoplastes ?",
+    "options": [
+      "Dans les racines nues",
+      "Dans les fleurs et fruits mûrs",
+      "Seulement dans les tiges",
+      "Dans les thalles"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "222",
+    "question": "Que deviennent les chloroplastes quand ils perdent leur chlorophylle ?",
+    "options": [
+      "Des amyloplastes",
+      "Des chondriosomes",
+      "Des chromoplastes",
+      "Des noyaux"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "223",
+    "question": "Les chloroplastes peuvent se charger d'amidon pour devenir des :",
+    "options": [
+      "Chromoplastes",
+      "Amyloplastes",
+      "Vacuoles",
+      "Enclaves"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "224",
+    "question": "Dans la Carotte, quel pigment est principalement élaboré par les plastes ?",
+    "options": [
+      "Lycopène",
+      "Chlorophylle",
+      "Carotène",
+      "Xanthophylle"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "225",
+    "question": "Quelle est l'unité anatomique et physiologique de tout végétal ?",
+    "options": [
+      "Le tissu",
+      "L'organe",
+      "La cellule",
+      "Le noyau"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "226",
+    "question": "De quelle taille est généralement la cellule végétale ?",
+    "options": [
+      "Macroscopique",
+      "Gigantesque",
+      "Microscopique",
+      "Visible"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Facile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "227",
+    "question": "Quelle est la double fonction de la cellule au sein du végétal ?",
+    "options": [
+      "Anatomique et structurelle",
+      "Physiologique et motrice",
+      "Anatomique et physiologique",
+      "Nutritive et protectrice"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "228",
+    "question": "De quoi est composé le volume principal de la cellule végétale ?",
+    "options": [
+      "De noyau uniquement",
+      "De cytoplasme",
+      "De paroi cellulosique",
+      "De vacuoles"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "229",
+    "question": "Quelles sont les trois caractéristiques physiques de la membrane cytoplasmique ?",
+    "options": [
+      "Épaisse, rigide et perméable",
+      "Fine, souple et élastique",
+      "Transparente, visqueuse et fixe",
+      "Incolore, dure et sélective"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "230",
+    "question": "Que signifie le terme 'perméabilité sélective' pour la membrane cytoplasmique ?",
+    "options": [
+      "Elle laisse tout passer",
+      "Elle bloque tous les liquides",
+      "Elle exerce un choix sur les substances dissoutes",
+      "Elle ne laisse passer que l'eau pure"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "231",
+    "question": "Quelle est la consistance physique du cytoplasme ?",
+    "options": [
+      "Liquide et transparente",
+      "Solide et élastique",
+      "Visqueuse et transparente",
+      "Gélatineuse et opaque"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "232",
+    "question": "Le cytoplasme contient des molécules organiques fixées à quelle substance ?",
+    "options": [
+      "Aux sels minéraux",
+      "À l'eau",
+      "Aux chondriosomes",
+      "À la chlorophylle"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "233",
+    "question": "Parmi ces sels minéraux, lequel n'est pas cité comme constituant du cytoplasme ?",
+    "options": [
+      "Chlorures",
+      "Sulfates",
+      "Phosphates",
+      "Fluorures"
+    ],
+    "reponsKorek": 3,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "234",
+    "question": "Quels types d'éléments circulent dans le cytoplasme grâce aux courants ?",
+    "options": [
+      "Les noyaux",
+      "Les particules",
+      "Les parois",
+      "L'eau iodée"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "235",
+    "question": "Comment sont classés les chondriosomes et les plastes ?",
+    "options": [
+      "Inclusions inertes",
+      "Inclusions vivantes",
+      "Substances organiques",
+      "Sels minéraux"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "236",
+    "question": "Les vacuoles et les enclaves hydrophobes appartiennent à quelle catégorie ?",
+    "options": [
+      "Inclusions vivantes",
+      "Inclusions inertes",
+      "Organites respiratoires",
+      "Plastes incolores"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "237",
+    "question": "Quelle fonction vitale est assurée par les chondriosomes ?",
+    "options": [
+      "La photosynthèse",
+      "La respiration cellulaire",
+      "La synthèse d'amidon",
+      "La coloration des fruits"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "238",
+    "question": "Quels sont les déchets rejetés lors de la respiration cellulaire ?",
+    "options": [
+      "Oxygène et azote",
+      "Gaz carbonique et eau",
+      "Énergie et amidon",
+      "Sucre et lycopène"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "239",
+    "question": "Les chondriosomes peuvent prendre plusieurs formes, sauf une. Laquelle ?",
+    "options": [
+      "Grains",
+      "Bâtonnets",
+      "Filaments",
+      "Sphères parfaites"
+    ],
+    "reponsKorek": 3,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "240",
+    "question": "Quelle est la fonction principale des amyloplastes ?",
+    "options": [
+      "Produire de l'énergie",
+      "Accumuler de l'amidon",
+      "Capter la lumière",
+      "Colorer les fleurs"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "241",
+    "question": "Dans quel organe végétal trouve-t-on principalement des amyloplastes ?",
+    "options": [
+      "Les feuilles vertes",
+      "Les racines et tiges souterraines",
+      "Les pétales de fleurs",
+      "Le noyau"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "242",
+    "question": "Quelle réaction chimique se produit lorsqu'on traite des amyloplastes à l'eau iodée ?",
+    "options": [
+      "Ils deviennent rouges",
+      "Ils deviennent verts",
+      "Ils se colorent en bleu",
+      "Ils disparaissent"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "243",
+    "question": "Quel pigment donne la couleur verte aux chloroplastes ?",
+    "options": [
+      "La xanthophylle",
+      "Le lycopène",
+      "La chlorophylle",
+      "Le carotène"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "244",
+    "question": "Quel gaz est absorbé par la plante pendant la photosynthèse ?",
+    "options": [
+      "L'oxygène",
+      "L'azote",
+      "Le gaz carbonique",
+      "L'hydrogène"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "245",
+    "question": "La photosynthèse permet la synthèse de quel type de composés ?",
+    "options": [
+      "Minéraux",
+      "Inertes",
+      "Organiques",
+      "Gazeux"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "246",
+    "question": "Quel pigment contenu dans les chromoplastes donne une couleur jaune ?",
+    "options": [
+      "Le carotène",
+      "Le lycopène",
+      "La xanthophylle",
+      "La chlorophylle"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "247",
+    "question": "Le lycopène est responsable de la coloration rouge de quel fruit cité ?",
+    "options": [
+      "L'orange",
+      "Le haricot",
+      "La tomate",
+      "La pomme de terre"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "248",
+    "question": "Quelle couleur est associée au pigment nommé carotène ?",
+    "options": [
+      "Rouge",
+      "Jaune",
+      "Orangée",
+      "Vert"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "249",
+    "question": "Que se passe-t-il physiquement quand un chloroplaste se transforme en amyloplaste ?",
+    "options": [
+      "Il se charge d'amidon",
+      "Il perd sa paroi",
+      "Il meurt",
+      "Il devient rouge"
+    ],
+    "reponsKorek": 0,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "250",
+    "question": "Que reste-t-il dans les plastes lorsqu'ils perdent leur chlorophylle pour devenir des chromoplastes ?",
+    "options": [
+      "L'amidon",
+      "Le noyau",
+      "Xanthophylle et carotène",
+      "L'eau et les sels"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "251",
+    "question": "À quel moment précis les plastes de la tomate élaborent-ils du lycopène ?",
+    "options": [
+      "Pendant la croissance",
+      "Quand la chlorophylle disparaît",
+      "Pendant la respiration",
+      "Sous l'action de l'eau iodée"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "252",
+    "question": "Outre le sodium et le calcium, quel autre métal est présent dans les sels minéraux du cytoplasme ?",
+    "options": [
+      "Fer",
+      "Magnésium",
+      "Zinc",
+      "Cuivre"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "253",
+    "question": "Quelles sont les trois familles de substances organiques citées ?",
+    "options": [
+      "Eau, sels, gaz",
+      "Glucides, lipides, protides",
+      "Amidon, sucre, acide",
+      "Plastes, noyaux, parois"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "254",
+    "question": "Le maintien de la vie cellulaire dépend directement de quelle production des chondriosomes ?",
+    "options": [
+      "Amidon",
+      "Oxygène",
+      "Énergie",
+      "Lycopène"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "255",
+    "question": "Quelle est la forme générale des plastes selon la description ?",
+    "options": [
+      "Toujours cubiques",
+      "Souvent sphériques",
+      "Toujours en bâtonnets",
+      "Irrégulières et dures"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "256",
+    "question": "Les amyloplastes sont décrits comme étant de quelle couleur ?",
+    "options": [
+      "Verts",
+      "Incolores",
+      "Rouges",
+      "Jaunes"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "257",
+    "question": "Où rencontre-t-on principalement les chloroplastes ?",
+    "options": [
+      "Dans les racines",
+      "Dans les cellules des tiges vertes et feuilles",
+      "Dans les fruits mûrs",
+      "Dans les graines sèches"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "258",
+    "question": "La paroi cellulaire double quelle structure spécifique ?",
+    "options": [
+      "Le noyau",
+      "La membrane cytoplasmique",
+      "Les vacuoles",
+      "Les chondriosomes"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "259",
+    "question": "Dans quel type de cellules trouve-t-on le carotène selon les exemples de racines ?",
+    "options": [
+      "La tomate",
+      "Le haricot",
+      "La carotte",
+      "La pomme de terre"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "260",
+    "question": "Comment la cellule se présente-t-elle par rapport à ses semblables ?",
+    "options": [
+      "Toujours isolée",
+      "Toujours associée",
+      "Isolée ou associée à d'autres cellules",
+      "Uniquement en tissus morts"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "261",
+    "question": "Quelle est la fonction principale des chondriosomes ?",
+    "options": [
+      "La photosynthèse",
+      "Le stockage",
+      "La respiration cellulaire",
+      "Coloration"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Intermediaire",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "262",
+    "question": "Quelle structure assure la double protection de la cellule végétale en plus de la membrane cytoplasmique ?",
+    "options": [
+      "Le noyau",
+      "La paroi",
+      "Le chloroplaste",
+      "Le chondriosome"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "263",
+    "question": "La membrane cytoplasmique se distingue par sa perméabilité sélective, ce qui signifie qu'elle :",
+    "options": [
+      "Laisse tout passer",
+      "Exerce un choix sur les substances dissoutes",
+      "Est totalement imperméable",
+      "Ne laisse passer que l'eau"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "264",
+    "question": "Quelle est la nature physique de la substance transparente composant le cytoplasme ?",
+    "options": [
+      "Liquide fluide",
+      "Consistance visqueuse",
+      "Solide élastique",
+      "Gazeuse"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "265",
+    "question": "Les courants circulant dans le cytoplasme ont pour fonction principale d'entraîner :",
+    "options": [
+      "Le noyau",
+      "Les molécules d'eau libre",
+      "Les particules qu'il renferme",
+      "La paroi"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "266",
+    "question": "Sous quelle forme l'eau se trouve-t-elle majoritairement dans le cytoplasme ?",
+    "options": [
+      "Uniquement libre",
+      "Uniquement fixée",
+      "En partie libre et en partie fixée",
+      "Uniquement gazeuse"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "267",
+    "question": "Parmi les sels minéraux du cytoplasme, lesquels sont cités comme étant en faibles proportions ?",
+    "options": [
+      "Chlorures et sulfates uniquement",
+      "Phosphates de sodium et calcium uniquement",
+      "Chlorures, sulfates, phosphates de divers métaux",
+      "Lycopène et carotène"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "268",
+    "question": "Quelles molécules constituent la fraction organique de la substance cytoplasmique ?",
+    "options": [
+      "Eau et sels minéraux",
+      "Glucides, lipides et protides",
+      "Amidon et chlorophylle",
+      "Xanthophylle et lycopène"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "269",
+    "question": "Comment sont classifiées les vacuoles et les enclaves hydrophobes dans l'organisation cellulaire ?",
+    "options": [
+      "Inclusions vivantes",
+      "Inclusions inertes",
+      "Organites respiratoires",
+      "Plastes incolores"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "270",
+    "question": "Quel processus métabolique spécifique se déroule au sein des chondriosomes ?",
+    "options": [
+      "Photosynthèse",
+      "Respiration cellulaire",
+      "Synthèse d'amidon",
+      "Accumulation de lycopène"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "271",
+    "question": "Lors de la respiration cellulaire, quel gaz est absorbé par la cellule ?",
+    "options": [
+      "Gaz carbonique",
+      "Azote",
+      "Oxygène",
+      "Vapeur d'eau"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "272",
+    "question": "Quels sont les produits rejetés suite à l'activité des chondriosomes ?",
+    "options": [
+      "Oxygène et énergie",
+      "Gaz carbonique et eau",
+      "Amidon et chlorophylle",
+      "Protides et lipides"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "273",
+    "question": "L'énergie produite par les chondriosomes est essentielle pour :",
+    "options": [
+      "La coloration des fleurs",
+      "Le maintien de la vie cellulaire",
+      "La formation de l'amidon",
+      "Le durcissement de la paroi"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "274",
+    "question": "Quelle est la forme géométrique prédominante mentionnée pour les plastes ?",
+    "options": [
+      "Bâtonnets",
+      "Filaments",
+      "Souvent sphériques",
+      "Grains irréguliers"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "275",
+    "question": "Quelle est la caractéristique optique principale des amyloplastes ?",
+    "options": [
+      "Verts",
+      "Incolores",
+      "Rouges",
+      "Jaunes"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "276",
+    "question": "Dans quels organes végétaux retrouve-t-on préférentiellement les amyloplastes ?",
+    "options": [
+      "Feuilles et fleurs",
+      "Racines, tiges souterraines et graines",
+      "Fruits mûrs uniquement",
+      "Tiges vertes"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "277",
+    "question": "Quelle réaction chimique se produit lorsqu'on applique de l'eau iodée sur des amyloplastes ?",
+    "options": [
+      "Coloration rouge",
+      "Coloration verte",
+      "Coloration bleue",
+      "Ils deviennent transparents"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "278",
+    "question": "Où se localisent principalement les chloroplastes au sein de la plante ?",
+    "options": [
+      "Dans les racines sombres",
+      "Dans les cellules des tiges vertes et feuilles",
+      "Dans les fruits rouges",
+      "Dans les graines de Haricot"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "279",
+    "question": "Quel est le rôle métabolique fondamental des chloroplastes ?",
+    "options": [
+      "Respiration",
+      "Photosynthèse",
+      "Stockage de sels minéraux",
+      "Production de lycopène"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "280",
+    "question": "Pendant la photosynthèse, quel élément est synthétisé par la plante ?",
+    "options": [
+      "Sels minéraux",
+      "Composés organiques",
+      "Eau iodée",
+      "Gaz carbonique"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "281",
+    "question": "Quel pigment est spécifiquement responsable de la coloration jaune des chromoplastes ?",
+    "options": [
+      "Carotène",
+      "Lycopène",
+      "Xanthophylle",
+      "Chlorophylle"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "282",
+    "question": "Le carotène, présent dans la Carotte, confère quelle couleur aux chromoplastes ?",
+    "options": [
+      "Rouge",
+      "Orangé",
+      "Jaune",
+      "Vert"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "283",
+    "question": "Dans quel fruit mûr le lycopène est-il explicitement mentionné comme pigment dominant ?",
+    "options": [
+      "Pomme de terre",
+      "Haricot",
+      "Tomate",
+      "Carotte"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "284",
+    "question": "Quelle transformation subit un chloroplaste pour devenir un amyloplaste ?",
+    "options": [
+      "Il se charge d'amidon",
+      "Il perd sa membrane",
+      "Il absorbe du lycopène",
+      "Il devient élastique"
+    ],
+    "reponsKorek": 0,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "285",
+    "question": "Que perd un chloroplaste lorsqu'il évolue en chromoplaste ?",
+    "options": [
+      "Sa xanthophylle",
+      "Sa chlorophylle",
+      "Son carotène",
+      "Son eau fixée"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "286",
+    "question": "Quels pigments subsistent dans un chromoplaste après la disparition de la chlorophylle ?",
+    "options": [
+      "Lycopène et amidon",
+      "Xanthophylle et carotène",
+      "Sels minéraux et eau",
+      "Protides et lipides"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "287",
+    "question": "À quel moment précis les plastes de la Tomate élaborent-ils du lycopène ?",
+    "options": [
+      "Pendant la respiration",
+      "Pendant que la chlorophylle disparaît",
+      "Lors de l'absorption d'oxygène",
+      "Au contact de l'eau iodée"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "288",
+    "question": "Les chondriosomes peuvent prendre plusieurs formes, lesquelles ?",
+    "options": [
+      "Sphériques uniquement",
+      "Grains, bâtonnets ou filaments",
+      "Uniquement filaments",
+      "Uniquement grains"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "289",
+    "question": "Quelle est la propriété physique de la membrane cytoplasmique qui lui permet de se déformer ?",
+    "options": [
+      "Sa transparence",
+      "Sa viscosité",
+      "Sa nature souple et élastique",
+      "Sa richesse en sels"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "290",
+    "question": "L'unité de base de tout végétal est définie comme étant à la fois :",
+    "options": [
+      "Anatomique et physiologique",
+      "Morte et inerte",
+      "Uniquement structurelle",
+      "Uniquement chimique"
+    ],
+    "reponsKorek": 0,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "291",
+    "question": "Le noyau est situé à l'intérieur de quelle structure principale ?",
+    "options": [
+      "La paroi",
+      "Le volume de cytoplasme",
+      "La vacuole",
+      "Le chloroplaste"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "292",
+    "question": "Comment se présente la cellule végétale dans l'organisme ?",
+    "options": [
+      "Toujours isolée",
+      "Toujours associée",
+      "Isolée ou associée à d'autres cellules",
+      "Uniquement sous forme de thalle"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "293",
+    "question": "Que se passe-t-il lorsque les chloroplastes deviennent des chromoplastes ?",
+    "options": [
+      "Gardent chlorophylle",
+      "Perdent chlorophylle/gardent xanthophyle",
+      "Incolores",
+      "Vacuoles"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 2",
+    "tip": "Quiz"
+  },
+  {
+    "id": "294",
+    "question": "L'unité anatomique et physiologique de tout Végétal est la _____.",
+    "options": ["cellule"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "295",
+    "question": "La cellule végétale a généralement une taille _____.",
+    "options": ["microscopique"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "296",
+    "question": "La cellule est un volume de _____ renfermant différentes inclusions.",
+    "options": ["cytoplasme"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "297",
+    "question": "Chaque cellule contient des inclusions et un _____.",
+    "options": ["noyau"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "298",
+    "question": "La cellule est entourée par une membrane cytoplasmique doublée d'une _____.",
+    "options": ["paroi"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "299",
+    "question": "La membrane cytoplasmique est une pellicule très _____, souple et élastique.",
+    "options": ["fine"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "300",
+    "question": "La membrane cytoplasmique est _____ à l'eau et aux substances dissoutes.",
+    "options": ["perméable"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "301",
+    "question": "La perméabilité de la membrane cytoplasmique est _____ car elle exerce un choix.",
+    "options": ["sélective"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "302",
+    "question": "Le cytoplasme se compose d'une substance _____, de consistance visqueuse.",
+    "options": ["transparente"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "303",
+    "question": "Le cytoplasme est parcouru de _____ qui entraînent les particules.",
+    "options": ["courants"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "304",
+    "question": "L'_____ est un constituant du cytoplasme, soit libre, soit fixée.",
+    "options": ["eau"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "305",
+    "question": "Les sels _____ se trouvent en faibles proportions dans le cytoplasme.",
+    "options": ["minéraux"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "306",
+    "question": "Les glucides, lipides et protides sont des substances _____ du cytoplasme.",
+    "options": ["organiques"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "307",
+    "question": "Les chondriosomes et les plastes sont des inclusions _____.",
+    "options": ["vivantes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "308",
+    "question": "Les vacuoles et les enclaves hydrophobes sont des inclusions _____.",
+    "options": ["inertes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "309",
+    "question": "Les _____ ont la forme de grains, de bâtonnets ou de filaments.",
+    "options": ["chondriosomes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "310",
+    "question": "Les chondriosomes sont le siège de la _____ cellulaire.",
+    "options": ["respiration"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "311",
+    "question": "La respiration cellulaire produit de l'_____ nécessaire à la vie.",
+    "options": ["énergie"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "312",
+    "question": "Les _____ sont des inclusions de formes diverses, souvent sphériques.",
+    "options": ["plastes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "313",
+    "question": "Les _____ sont des plastes incolores qui accumulent de l'amidon.",
+    "options": ["amyloplastes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "314",
+    "question": "On trouve les amyloplastes dans les racines ou les _____ souterraines.",
+    "options": ["tiges"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "315",
+    "question": "Traités à l'eau iodée, les amyloplastes se colorent en _____.",
+    "options": ["bleu"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "316",
+    "question": "Les chloroplastes sont colorés en vert par la _____.",
+    "options": ["chlorophylle"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "317",
+    "question": "Les chloroplastes sont le siège de la _____.",
+    "options": ["photosynthèse"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "318",
+    "question": "Pendant la photosynthèse, la plante rejette de l'_____.",
+    "options": ["oxygène"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "319",
+    "question": "Les _____ sont des plastes colorés en jaune, orangé ou rouge.",
+    "options": ["chromoplastes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "320",
+    "question": "La _____ colore les chromoplastes en jaune.",
+    "options": ["xanthophylle"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "321",
+    "question": "Le _____ est le pigment qui donne la couleur rouge (ex: Tomate).",
+    "options": ["lycopène"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "322",
+    "question": "Le carotène donne une couleur _____ aux chromoplastes.",
+    "options": ["orangé"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "323",
+    "question": "Les plastes _____ fréquemment d'une forme dans une autre.",
+    "options": ["évoluent"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "324",
+    "question": "Quand les chloroplastes perdent leur chlorophylle, ils deviennent des _____.",
+    "options": ["chromoplastes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "325",
+    "question": "L'unité anatomique et physiologique de tout Végétal est la _____.",
+    "options": ["cellule"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "326",
+    "question": "La cellule représente l'unité _____ et _____ de tout Végétal.",
+    "options": ["anatomique", "physiologique"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "327",
+    "question": "La cellule est un volume de _____ qui renferme un _____ et différentes inclusions.",
+    "options": ["cytoplasme", "noyau"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "328",
+    "question": "Une membrane _____ entoure la cellule, elle-même doublée d'une _____.",
+    "options": ["cytoplasmique", "paroi"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "329",
+    "question": "La membrane cytoplasmique se caractérise par une pellicule très _____, souple et _____.",
+    "options": ["fine", "élastique"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "330",
+    "question": "La membrane cytoplasmique est perméable à l'_____ et aux substances _____.",
+    "options": ["eau", "dissoutes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "331",
+    "question": "La perméabilité de la membrane est dite _____ car elle exerce un _____.",
+    "options": ["sélective", "choix"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "332",
+    "question": "Le cytoplasme est une substance _____, possédant une consistance _____.",
+    "options": ["transparente", "visqueuse"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "333",
+    "question": "Le cytoplasme est parcouru de _____ qui déplacent les _____ qu'il renferme.",
+    "options": ["courants", "particules"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "334",
+    "question": "La substance du cytoplasme contient de l'_____ sous forme _____ ou fixée.",
+    "options": ["eau", "libre"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "335",
+    "question": "Les sels _____ comme les chlorures et les _____ sont présents en faibles proportions.",
+    "options": ["minéraux", "sulfates"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "336",
+    "question": "Le cytoplasme contient des phosphates de _____ et de _____.",
+    "options": ["sodium", "calcium"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "337",
+    "question": "Les substances _____ du cytoplasme incluent les glucides, les _____ et les protides.",
+    "options": ["organiques", "lipides"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "338",
+    "question": "Les chondriosomes et les _____ sont classés comme des inclusions _____.",
+    "options": ["plastes", "vivantes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "339",
+    "question": "Les inclusions _____ regroupent les vacuoles et les enclaves _____.",
+    "options": ["inertes", "hydrophobes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "340",
+    "question": "Les chondriosomes peuvent prendre la forme de _____, de bâtonnets ou de _____.",
+    "options": ["grains", "filaments"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "341",
+    "question": "Les chondriosomes sont le siège de la _____ _____, vitale pour la cellule.",
+    "options": ["respiration", "cellulaire"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "342",
+    "question": "Pendant la respiration, la cellule absorbe de l'_____ et rejette du gaz _____.",
+    "options": ["oxygène", "carbonique"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "343",
+    "question": "La respiration cellulaire produit l'_____ nécessaire au maintien de la _____.",
+    "options": ["énergie", "vie"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "344",
+    "question": "Les plastes sont de formes _____, mais ils sont souvent _____.",
+    "options": ["diverses", "sphériques"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "345",
+    "question": "Les amyloplastes sont des plastes _____ qui accumulent de l'_____.",
+    "options": ["incolores", "amidon"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "346",
+    "question": "On trouve les amyloplastes dans les _____ ou les tiges _____ comme la pomme de terre.",
+    "options": ["racines", "souterraines"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "347",
+    "question": "L'eau _____ colore les amyloplastes en _____.",
+    "options": ["iodée", "bleu"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "348",
+    "question": "La _____ donne aux chloroplastes leur couleur _____.",
+    "options": ["chlorophylle", "verte"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "349",
+    "question": "Les chloroplastes sont le siège de la _____, produisant des composés _____.",
+    "options": ["photosynthèse", "organiques"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "350",
+    "question": "Lors de la photosynthèse, la plante absorbe le _____ et rejette de l'_____.",
+    "options": ["gaz carbonique", "oxygène"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "351",
+    "question": "Les chromoplastes sont colorés en _____ par la xanthophylle ou en _____ par le carotène.",
+    "options": ["jaune", "orangé"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "352",
+    "question": "Le _____ donne une couleur _____ aux chromoplastes de la Tomate.",
+    "options": ["lycopène", "rouge"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "353",
+    "question": "Les chromoplastes se rencontrent dans les _____, les fleurs ou les _____ mûrs.",
+    "options": ["feuilles", "fruits"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "354",
+    "question": "Le rôle des _____ n'a pas encore été _____ précisément.",
+    "options": ["chromoplastes", "défini"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "355",
+    "question": "Les plastes _____ fréquemment d'une _____ dans une autre.",
+    "options": ["évoluent", "forme"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "356",
+    "question": "Un chloroplaste peut se charger d'_____ pour se transformer en _____.",
+    "options": ["amidon", "amyloplaste"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "357",
+    "question": "En perdant leur _____, les chloroplastes peuvent devenir des _____.",
+    "options": ["chlorophylle", "chromoplastes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "358",
+    "question": "Dans la carotte, on trouve des _____ contenant du _____.",
+    "options": ["racines", "carotène"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "359",
+    "question": "Le cytoplasme contient des sels de _____ et de _____ en plus du sodium.",
+    "options": ["calcium", "magnésium"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "360",
+    "question": "La cellule végétale peut se présenter _____ ou _____ à d'autres unités.",
+    "options": ["isolée", "associée"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "361",
+    "question": "Le cytoplasme se compose d'une substance _____, de consistance _____.",
+    "options": ["transparente", "visqueuse"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "362",
+    "question": "La cellule, unité _____ et _____ de tout Végétal, est un volume de _____ renfermant un noyau.",
+    "options": ["anatomique", "physiologique", "cytoplasme"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "363",
+    "question": "La membrane cytoplasmique est une pellicule très _____, _____ et _____.",
+    "options": ["fine", "souple", "élastique"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "364",
+    "question": "Vivante, la membrane cytoplasmique est _____ à l'eau et exerce un _____ sur les substances dissoutes : sa perméabilité est _____.",
+    "options": ["perméable", "choix", "sélective"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "365",
+    "question": "Le cytoplasme se compose d'une substance _____, de consistance _____, dans laquelle sont disséminés de nombreux _____.",
+    "options": ["transparente", "visqueuse", "corpuscules"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "366",
+    "question": "La substance du cytoplasme est constituée d'_____, de sels _____ et de substances _____.",
+    "options": ["eau", "minéraux", "organiques"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "367",
+    "question": "Les sels minéraux sont présents en faibles proportions : _____, _____, phosphates de sodium, de calcium ou de magnésium.",
+    "options": ["chlorures", "sulfates", "phosphates"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "368",
+    "question": "Les substances organiques présentes dans le cytoplasme comprennent les _____, les _____ et les _____.",
+    "options": ["glucides", "lipides", "protides"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "369",
+    "question": "Les principales inclusions vivantes sont les _____ et les _____, tandis que les vacuoles sont des inclusions _____.",
+    "options": ["chondriosomes", "plastes", "inertes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "370",
+    "question": "Les chondriosomes ont la forme de _____, de _____ ou de _____.",
+    "options": ["grains", "bâtonnets", "filaments"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "371",
+    "question": "Le siège de la _____ cellulaire est le chondriosome, phénomène par lequel l'_____ est absorbé.",
+    "options": ["respiration", "oxygène"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "372",
+    "question": "La respiration cellulaire rejette du gaz _____ et de l'_____ tout en produisant de l'_____.",
+    "options": ["carbonique", "eau", "énergie"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "373",
+    "question": "Les plastes sont de formes _____, souvent _____ et accumulent des substances qu'ils _____.",
+    "options": ["diverses", "sphériques", "élaborent"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "374",
+    "question": "Les amyloplastes sont _____ et accumulent de l'_____, notamment dans les _____ des racines.",
+    "options": ["incolores", "amidon", "cellules"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "375",
+    "question": "On trouve des amyloplastes dans les _____ souterraines comme la _____ ou dans certaines graines comme le _____.",
+    "options": ["tiges", "Pomme de terre", "Haricot"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "376",
+    "question": "Traités à l'_____ _____, les amyloplastes se colorent en _____.",
+    "options": ["eau", "iodée", "bleu"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "377",
+    "question": "Les chloroplastes sont colorés en _____ par la _____ et se trouvent dans les tiges _____.",
+    "options": ["vert", "chlorophylle", "vertes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "378",
+    "question": "Les chloroplastes sont le siège de la _____, absorbant le gaz _____ pour synthétiser des composés _____.",
+    "options": ["photosynthèse", "carbonique", "organiques"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "379",
+    "question": "Lors de la photosynthèse, la plante rejette de l'_____ et utilise ses _____ pour capter la lumière.",
+    "options": ["oxygène", "chloroplastes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "380",
+    "question": "Les chromoplastes sont colorés en _____ par la xanthophylle, en _____ par le carotène ou en _____ par le lycopène.",
+    "options": ["jaune", "orangé", "rouge"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "381",
+    "question": "On rencontre le lycopène dans la _____ et le carotène dans certaines racines comme la _____.",
+    "options": ["Tomate", "Carotte"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "382",
+    "question": "Les plastes évoluent : les _____ peuvent se charger d'_____ et devenir des _____.",
+    "options": ["chloroplastes", "amidon", "amyloplastes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "383",
+    "question": "En perdant leur _____, les chloroplastes ne gardent que la _____ et le carotène pour devenir des chromoplastes.",
+    "options": ["chlorophylle", "xanthophylle"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "384",
+    "question": "Dans la _____, les plastes élaborent du _____ au moment où la chlorophylle _____.",
+    "options": ["Tomate", "lycopène", "disparaît"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "385",
+    "question": "Le cytoplasme est parcouru de _____ qui entraînent les _____ qu'il _____.",
+    "options": ["courants", "particules", "renferme"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "386",
+    "question": "La membrane cytoplasmique est doublée d'une _____, et la cellule se présente _____ ou associée à d'autres.",
+    "options": ["paroi", "isolée"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "387",
+    "question": "L'eau dans le cytoplasme est en partie _____ et en partie _____ aux molécules _____.",
+    "options": ["libre", "fixée", "organiques"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "388",
+    "question": "Les _____ et les enclaves _____ sont des exemples d'inclusions inertes du cytoplasme.",
+    "options": ["vacuoles", "hydrophobes"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "389",
+    "question": "Les chondriosomes sont indispensables au maintien de la _____ _____ par la production d'_____.",
+    "options": ["vie", "cellulaire", "énergie"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "390",
+    "question": "Les chromoplastes se trouvent dans les _____, les fleurs et les _____ mûrs.",
+    "options": ["feuilles", "fruits"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "391",
+    "question": "La cellule végétale de taille _____ est entourée d'une membrane _____ doublée d'une paroi.",
+    "options": ["microscopique", "cytoplasmique"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "392",
+    "question": "Les amyloplastes, chloroplastes et chromoplastes sont trois types de _____ différenciés par leur _____ ou leur _____.",
+    "options": ["plastes", "aspect", "fonction"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "393",
+    "question": "La membrane cytoplasmique est une pellicule très _____, _____ et _____.",
+    "options": ["fine", "souple", "élastique"],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  }
+],
+  "Etape 3": [
+    {
+    "id": "394",
+    "question": "Quelles sont ces cavités limitées par une membrane et renfermant un liquide de composition complexe ?",
+    "options": [
+      "Les chloroplastes",
+      "Les vacuoles",
+      "Les noyaux",
+      "Les stomates"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "395",
+    "question": "Comment appelle-t-on spécifiquement le liquide de composition complexe se trouvant à l'intérieur des vacuoles ?",
+    "options": [
+      "Le suc vacuolaire",
+      "Le liquide nucléaire",
+      "Le plasma sanguin",
+      "La sève brute"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "396",
+    "question": "Dans quel type précis de cellules retrouve-t-on systématiquement la présence de vacuoles ?",
+    "options": [
+      "Les cellules animales",
+      "Les cellules minérales",
+      "Les cellules végétales",
+      "Les cellules nerveuses"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "397",
+    "question": "Quelle apparence caractéristique ont les vacuoles lorsqu'elles se trouvent dans des plantes jeunes ?",
+    "options": [
+      "Uniques et géantes",
+      "Invisibles et gazeuses",
+      "Solides et colorées",
+      "Nombreuses et petites"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "398",
+    "question": "Quel processus les vacuoles subissent-elles au fur et à mesure que la cellule végétale vieillit ?",
+    "options": [
+      "Elles se divisent en deux",
+      "Elles grossissent et se fusionnent",
+      "Elles sont expulsées de la cellule",
+      "Elles se transforment en noyau"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "399",
+    "question": "Qu'est-ce qui arrive à la structure d'une cellule morte après la disparition de son noyau et de son cytoplasme ?",
+    "options": [
+      "Elle disparaît complètement",
+      "Elle devient une membrane rigide",
+      "Elle se trouve réduite à une grande vacuole",
+      "Elle se transforme en grain d'aleurone"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "400",
+    "question": "Quel changement physique majeur observe-t-on lorsqu'une graine mûrit ?",
+    "options": [
+      "Elle perd de l'eau",
+      "Elle absorbe de l'oxygène",
+      "Elle double de volume",
+      "Elle perd ses protides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "401",
+    "question": "Que devient le suc vacuolaire sous l'effet de la condensation dans une graine en pleine évolution ?",
+    "options": [
+      "Il devient gazeux",
+      "Il devient transparent",
+      "Il s'évapore",
+      "Il devient solide"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "402",
+    "question": "À quelle structure de forme plus ou moins complexe la vacuole fait-elle place dans une graine mûre ?",
+    "options": [
+      "Un chloroplaste",
+      "Un grain d'aleurone",
+      "Une mitochondrie",
+      "Un oursin de calcium"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "403",
+    "question": "De quelle substance spécifique les grains d'aleurone sont-ils obligatoirement constitués ?",
+    "options": [
+      "De protéides",
+      "De glucides",
+      "D'alcaloïdes",
+      "De lipides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "404",
+    "question": "Lequel de ces éléments représente une substance minérale pouvant être contenue dans le suc vacuolaire ?",
+    "options": [
+      "Le glucose",
+      "La nicotine",
+      "Le chlorure de sodium",
+      "L'acide malique"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "405",
+    "question": "Dans quelle grande catégorie de substances classe-t-on les acides citrique, malique et oxalique ?",
+    "options": [
+      "Substances gazeuses",
+      "Substances organiques",
+      "Substances minérales",
+      "Substances toxiques"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "406",
+    "question": "Sous quelles formes particulières l'oxalate de calcium se présente-t-il lorsqu'il est cristallisé ?",
+    "options": [
+      "En sphère ou en cube",
+      "En spirale ou en étoile",
+      "En liquide ou en gaz",
+      "En bâtonnet ou en oursin"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "407",
+    "question": "À quelle famille de substances organiques appartiennent le glucose, le lévulose et le saccharose ?",
+    "options": [
+      "Les glucides",
+      "Les protides",
+      "Les acides",
+      "Les alcaloïdes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "408",
+    "question": "Quel groupe d'éléments regroupe la cocaïne, la morphine, la nicotine et la caféine ?",
+    "options": [
+      "Les sels",
+      "Les pigments",
+      "Les alcaloïdes",
+      "Les minéraux"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "409",
+    "question": "Quelles sont les trois couleurs caractéristiques associées aux pigments solubles colorés mentionnés ?",
+    "options": [
+      "Verts, bruns, noirs",
+      "Jaunes, rouges, bleus",
+      "Blancs, gris, violets",
+      "Uniquement transparents"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "410",
+    "question": "D'où proviennent les substances du suc vacuolaire qui ne sont pas fabriquées par la plante elle-même ?",
+    "options": [
+      "Elles sont créées par l'eau distillée",
+      "Elles viennent du noyau",
+      "Elles sont générées par la plasmolyse",
+      "Elles sont puisées à l'extérieur"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "411",
+    "question": "Quelle entité est responsable de l'élaboration des substances qui s'accumulent ensuite dans la vacuole ?",
+    "options": [
+      "La matière vivante",
+      "La solution hypertonique",
+      "La membrane cellulosique",
+      "Le grain d'aleurone"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "412",
+    "question": "Sous quelle forme certaines substances rejetées dans la vacuole peuvent-elles y persister indéfiniment ?",
+    "options": [
+      "À l'état de nutriments",
+      "À l'état gazeux",
+      "À l'état de déchets",
+      "À l'état d'énergie pure"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "413",
+    "question": "Quel comportement adopte le cytoplasme lorsqu'on place une cellule dans une solution de saccharose fortement concentrée ?",
+    "options": [
+      "Il se solidifie immédiatement",
+      "Il quitte les angles et s'amasse au centre",
+      "Il traverse la membrane cellulosique",
+      "Il gonfle pour remplir la cellule"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "414",
+    "question": "Quel est le nom scientifique du phénomène où les vacuoles d'une cellule diminuent de volume ?",
+    "options": [
+      "La turgescence",
+      "La photosynthèse",
+      "L'évaporation",
+      "La plasmolyse"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "415",
+    "question": "Comment qualifie-t-on la solution qui provoque la perte d'eau d'une cellule par osmose ?",
+    "options": [
+      "Solution hypertonique",
+      "Solution hypotonique",
+      "Solution isotonique",
+      "Solution distillée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "416",
+    "question": "Par quel phénomène physique précis la cellule cède-t-elle suffisamment d'eau à la solution qui la baigne ?",
+    "options": [
+      "La transpiration",
+      "La condensation",
+      "L'osmose",
+      "La cristallisation"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "417",
+    "question": "Dans quel liquide faut-il plonger une cellule plasmolysée pour qu'elle reprenne son volume primitif ?",
+    "options": [
+      "Du suc vacuolaire",
+      "L'eau distillée",
+      "Une solution de saccharose",
+      "De l'acide citrique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "418",
+    "question": "Quelle est la conséquence sur la membrane cellulosique lorsque l'eau passe de la solution hypotonique dans la cellule ?",
+    "options": [
+      "Elle se rompt complètement",
+      "Elle se rétracte",
+      "Elle est distendue",
+      "Elle devient invisible"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "419",
+    "question": "Quel terme décrit l'état où le cytoplasme s'applique contre la paroi cellulaire avec une certaine force ?",
+    "options": [
+      "Turgescence",
+      "Plasmolyse",
+      "Fusion",
+      "Déshydratation"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "420",
+    "question": "Quel nom donne-t-on à la force que la cellule exerce directement sur la paroi cellulaire ?",
+    "options": [
+      "La pression osmotique",
+      "La pression de turgescence",
+      "La pression atmosphérique",
+      "La pression vasculaire"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "421",
+    "question": "À quelle condition la pression de turgescence devient-elle d'autant plus forte ?",
+    "options": [
+      "Si la solution extérieure est moins hypotonique",
+      "Si la cellule perd son noyau",
+      "Si l'eau distillée s'évapore",
+      "Si la solution extérieure est plus hypotonique"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "422",
+    "question": "Dans quel sens l'eau se déplace-t-elle systématiquement à travers le cytoplasme lors de l'osmose ?",
+    "options": [
+      "De la solution hypotonique vers la solution hypertonique",
+      "De la solution hypertonique vers l'hypotonique",
+      "De la vacuole vers le noyau",
+      "Du noyau vers la membrane"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "423",
+    "question": "Quel est l'aspect visuel des feuilles d'une plante lorsque ses cellules sont parfaitement turgescentes ?",
+    "options": [
+      "Elles sont jaunes",
+      "Elles tombent",
+      "Elles sont étalées",
+      "Elles se fanent"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "424",
+    "question": "Que se passe-t-il extérieurement pour les feuilles lorsqu'une plante perd plus d'eau qu'elle n'en absorbe ?",
+    "options": [
+      "Elles grossissent",
+      "Elles se fanent",
+      "Elles deviennent solides",
+      "Elles s'allongent"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "406",
+    "question": "La vacuole est limitée par quoi ?",
+    "options": [
+      "Une paroi de bois",
+      "Une membrane",
+      "Rien du tout",
+      "Des poils"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "407",
+    "question": "Dans les plantes jeunes, les vacuoles sont :",
+    "options": [
+      "Grosses",
+      "Nombreuses et petites",
+      "Absentes",
+      "Colorées en noir"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "408",
+    "question": "Le noyau peut-il disparaître dans une cellule âgée ?",
+    "options": [
+      "Jamais",
+      "Oui, il peut même disparaître",
+      "Seulement si la plante fleurit",
+      "Seulement dans les racines"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "409",
+    "question": "La graine mûre contient des grains de :",
+    "options": [
+      "Sable",
+      "Aleurone",
+      "Chlorophylle",
+      "Sucre liquide"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "410",
+    "question": "Le nitrate de potassium est une substance :",
+    "options": [
+      "Organique",
+      "Minérale",
+      "Gazeuse",
+      "Animale"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "311",
+    "question": "L'acide citrique se trouve dans :",
+    "options": [
+      "Le noyau",
+      "Le suc vacuaire",
+      "La paroi",
+      "L'air"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "412",
+    "question": "Le lévulose est quel type de substance ?",
+    "options": [
+      "Glucide",
+      "Protide",
+      "Acide",
+      "Selt"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "413",
+    "question": "Où trouve-t-on la caféine dans la cellule ?",
+    "options": [
+      "Dans la paroi",
+      "Dans le suc vacuaire",
+      "Dans le noyau",
+      "Nulle part"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "414",
+    "question": "Quelles couleurs peuvent avoir les pigments solubles ?",
+    "options": [
+      "Vert uniquement",
+      "Jaunes, rouges, bleus",
+      "Noir et blanc",
+      "Incolores"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "415",
+    "question": "Une substance peut-elle provenir de l'extérieur ?",
+    "options": [
+      "Non",
+      "Oui, puisée à l'extérieur",
+      "Uniquement par la pluie",
+      "Seulement le jour"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "416",
+    "question": "La plasmolyse diminue-t-elle le volume des vacuoles ?",
+    "options": [
+      "Non",
+      "Oui",
+      "Elle l'augmente",
+      "Elle le stabilise"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "417",
+    "question": "L'eau distillée est-elle hypotonique ?",
+    "options": [
+      "Oui, par rapport à la cellule",
+      "Non, elle est hypertonique",
+      "Elle est isotonique",
+      "Elle est solide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "418",
+    "question": "La membrane est-elle distendue en turgescence ?",
+    "options": [
+      "Non, elle est relâchée",
+      "Oui, sous la pression du cytoplasme",
+      "Elle disparaît",
+      "Elle devient dure"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "419",
+    "question": "L'osmose implique le passage de l'eau à travers quoi ?",
+    "options": [
+      "Le noyau",
+      "Le cytoplasme",
+      "La paroi seule",
+      "Les pigments"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "420",
+    "question": "Les racines absorbent l'eau quand elle est :",
+    "options": [
+      "En quantité suffisante",
+      "Absente",
+      "Gélée",
+      "Bouillante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "421",
+    "question": "La vacuole occupe quelle place dans une cellule âgée ?",
+    "options": [
+      "Une place minuscule",
+      "La plus grande partie du volume",
+      "Aucune place",
+      "Le centre du noyau"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "422",
+    "question": "Le suc vacuaire peut-il devenir solide ?",
+    "options": [
+      "Jamais",
+      "Oui, dans une graine qui mûrit",
+      "Seulement si on coupe la plante",
+      "Si la plante a trop d'eau"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "423",
+    "question": "L'aleurone contient des protéides ?",
+    "options": [
+      "Non",
+      "Oui, toujours",
+      "Seulement parfois",
+      "Uniquement dans les fleurs"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "424",
+    "question": "Le chlorure de sodium est un sel minéral ?",
+    "options": [
+      "Non",
+      "Oui",
+      "C'est un acide",
+      "C'est un glucide"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "425",
+    "question": "L'acide oxalique est présent dans le suc ?",
+    "options": [
+      "Non",
+      "Oui",
+      "Seulement dans les graines",
+      "C'est un minéral"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "426",
+    "question": "L'oxalate de calcium peut ressembler à un 'oursin' ?",
+    "options": [
+      "Non",
+      "Oui, sous forme cristallisée",
+      "Seulement au microscope électronique",
+      "C'est une erreur du texte"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "427",
+    "question": "Le saccharose est un sucre ?",
+    "options": [
+      "Non",
+      "Oui (glucide)",
+      "C'est un protide",
+      "C'est un alcaloïde"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "428",
+    "question": "La morphine est un alcaloïde ?",
+    "options": [
+      "Non",
+      "Oui",
+      "C'est un pigment",
+      "C'est un sel"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "429",
+    "question": "Les pigments solubles sont dans la vacuole ?",
+    "options": [
+      "Non",
+      "Oui",
+      "Dans la paroi",
+      "Dans le sol"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "430",
+    "question": "La matière vivante peut élaborer des substances ?",
+    "options": [
+      "Non",
+      "Oui, et les accumuler dans la vacuole",
+      "Seulement le noyau",
+      "Seulement les racines"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "431",
+    "question": "La plasmolyse rétracte le cytoplasme ?",
+    "options": [
+      "Non",
+      "Oui, au centre de la cellule",
+      "Il s'étend",
+      "Il explose"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "432",
+    "question": "La turgescence rend la cellule ferme ?",
+    "options": [
+      "Non, elle devient molle",
+      "Oui, elle grossit et devient ferme",
+      "Elle change de couleur",
+      "Elle meurt"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "433",
+    "question": "L'osmose est responsable de la turgescence ?",
+    "options": [
+      "Non",
+      "Oui",
+      "C'est la respiration",
+      "C'est la lumière"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "434",
+    "question": "La transpiration fait perdre de l'eau ?",
+    "options": [
+      "Non",
+      "Oui",
+      "Elle en fait gagner",
+      "Elle n'a aucun effet"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "435",
+    "question": "Une plante fanée a des cellules plasmolysées ?",
+    "options": [
+      "Non",
+      "Oui",
+      "Elles sont turgescentes",
+      "Elles sont en division"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Intermédiaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "436",
+    "question": "Dans quel état se trouve une cellule morte d'après les observations cytologiques mentionnées ?",
+    "options": [
+      "Réduite à un noyau pycnotique",
+      "Réduite à une grande vacuole",
+      "Totalement dépourvue de membrane",
+      "Fragmentée en grains de protides"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "437",
+    "question": "Lors de la maturation d'une graine, que devient le suc vacuolaire après sa condensation ?",
+    "options": [
+      "Un cristal d'oxalate",
+      "Un glucide complexe",
+      "Un lipide de réserve",
+      "Un grain d'aleurone solide"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "438",
+    "question": "Quelle est la nature chimique constante d'un grain d'aleurone ?",
+    "options": [
+      "Glucidique",
+      "Minérale",
+      "Protéidique",
+      "Alcaloïdique"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "439",
+    "question": "Parmi ces substances minérales, laquelle n'est pas explicitement citée comme constituant du suc ?",
+    "options": [
+      "Nitrate de potassium",
+      "Chlorure de sodium",
+      "Phosphate de magnésium",
+      "Sulfate de calcium"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "440",
+    "question": "Sous quelle forme spécifique l'oxalate de calcium peut-il se présenter en 'Fig. 2' ?",
+    "options": [
+      "En bâtonnet ou en 'oursin'",
+      "En rhomboèdre parfait",
+      "En aiguilles de raphides",
+      "En grains amorphes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "441",
+    "question": "Lequel de ces glucides fait partie de la composition du suc vacuolaire ?",
+    "options": [
+      "Amidon",
+      "Cellulose",
+      "Glycogène",
+      "Lévulose"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "442",
+    "question": "Comment sont classées la morphine et la nicotine au sein des substances vacuolaires ?",
+    "options": [
+      "Pigments solubles",
+      "Protides de structure",
+      "Alcaloïdes",
+      "Acides organiques"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "443",
+    "question": "Quelles couleurs sont attribuées aux pigments solubles du suc vacuolaire ?",
+    "options": [
+      "Vert, jaune, rouge",
+      "Bleu, noir, blanc",
+      "Jaune, rouge, bleu",
+      "Violet, orange, brun"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "444",
+    "question": "Une substance accumulée dans la vacuole peut y persister indéfiniment si elle est considérée comme :",
+    "options": [
+      "Une réserve énergétique",
+      "Un déchet rejeté",
+      "Un catalyseur",
+      "Un pigment photosynthétique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "445",
+    "question": "Lorsqu'une cellule est placée dans une solution de saccharose fortement concentrée, quel phénomène initial observe-t-on ?",
+    "options": [
+      "Le noyau migre vers la paroi",
+      "Le cytoplasme quitte les angles de la membrane",
+      "La vacuole double de volume",
+      "La paroi cellulosique se rompt"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "446",
+    "question": "Quelle est la destination du cytoplasme lors d'une plasmolyse complète ?",
+    "options": [
+      "Il se plaque contre la paroi",
+      "Il se fragmente en plusieurs poches",
+      "Il s'amasse au centre de la cellule",
+      "Il s'évapore à travers la membrane"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "447",
+    "question": "La plasmolyse est le résultat d'un transfert d'eau vers quel type de milieu ?",
+    "options": [
+      "Milieu hypotonique",
+      "Milieu isotonique",
+      "Eau distillée",
+      "Solution hypertonique"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "448",
+    "question": "Par quel processus physique l'eau quitte-t-elle la cellule plasmolyse ?",
+    "options": [
+      "Diffusion facilitée",
+      "Osmose",
+      "Transpiration active",
+      "Capillarité"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "449",
+    "question": "Que se passe-t-il si l'on transfère une cellule plasmolysée dans de l'eau distillée ?",
+    "options": [
+      "Elle reste rétractée",
+      "Elle explose immédiatement",
+      "Elle reprend son volume primitif",
+      "Elle perd ses organites"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "450",
+    "question": "Dans le cas de la turgescence, d'où provient l'eau qui entre dans la cellule ?",
+    "options": [
+      "D'une solution hypertonique",
+      "D'une solution hypotonique",
+      "De la condensation interne",
+      "Du noyau cellulaire"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "451",
+    "question": "Comment réagit la membrane cellulosique sous l'effet de la turgescence ?",
+    "options": [
+      "Elle se durcit",
+      "Elle s'épaissit",
+      "Elle se liquéfie",
+      "Elle est distendue"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "452",
+    "question": "Définissez la force exercée par le cytoplasme contre la paroi cellulaire :",
+    "options": [
+      "Pression osmotique négative",
+      "Force de succion",
+      "Pression de turgescence",
+      "Tension superficielle"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "453",
+    "question": "La pression de turgescence est d'autant plus forte que la solution extérieure est :",
+    "options": [
+      "Plus concentrée que le suc",
+      "Plus hypotonique que le suc",
+      "Équivalente au suc vacuolaire",
+      "Riche en alcaloïdes"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "454",
+    "question": "Dans quel sens s'effectue le mouvement de l'eau lors de l'osmose ?",
+    "options": [
+      "Hypertonique vers hypotonique",
+      "Concentré vers dilué",
+      "Hypotonique vers hypertonique",
+      "Statique entre les deux"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "455",
+    "question": "Quel organe assure l'absorption d'eau nécessaire à la turgescence des plantes ?",
+    "options": [
+      "Les feuilles",
+      "La tige",
+      "Les fleurs",
+      "Les racines"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "456",
+    "question": "Quel état morphologique des feuilles indique des cellules turgescentes ?",
+    "options": [
+      "Elles sont fanées",
+      "Elles sont enroulées",
+      "Elles sont étalées",
+      "Elles sont tombantes"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "457",
+    "question": "Que se passe-t-il lorsque la transpiration dépasse l'absorption racinaire ?",
+    "options": [
+      "Les cellules deviennent turgides",
+      "Les cellules se plasmolysent",
+      "La plante fleurit",
+      "Le suc vacuolaire se solidifie"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "458",
+    "question": "L'état de flétrissement (feuilles qui fanent) est directement lié à :",
+    "options": [
+      "La turgescence extrême",
+      "L'accumulation d'amidon",
+      "La plasmolyse des cellules",
+      "L'excès d'eau distillée"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "459",
+    "question": "L'eau traverse quel élément cellulaire pour passer entre les solutions lors de l'osmose ?",
+    "options": [
+      "Le noyau uniquement",
+      "Le cytoplasme",
+      "La paroi ligneuse",
+      "L'aleurone"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "460",
+    "question": "Quels acides organiques sont identifiés comme composants du suc vacuolaire ?",
+    "options": [
+      "Acétique, malique, citrique",
+      "Citrique, malique, oxalique",
+      "Oxalique, acétique, malique",
+      "Malique, citrique, sulfurique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "461",
+    "question": "La composition du suc vacuolaire est qualifiée de :",
+    "options": [
+      "Simple et homogène",
+      "Gélatineuse",
+      "Gazeuse",
+      "Complexe"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "462",
+    "question": "Le saccharose est classé dans quelle catégorie de substances ?",
+    "options": [
+      "Alcaloïdes",
+      "Sels organiques",
+      "Glucides",
+      "Protides"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "463",
+    "question": "Quelle est la troisième provenance possible des substances vacuolaires ?",
+    "options": [
+      "Synthèse nucléaire",
+      "Rejetées à l'état de déchets",
+      "Absorption atmosphérique",
+      "Fusion membranaire"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "464",
+    "question": "Une graine qui mûrit se distingue par :",
+    "options": [
+      "Un gain d'eau massif",
+      "Une perte d'eau",
+      "Une liquéfaction du suc",
+      "Une disparition des protides"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "465",
+    "question": "Dans une cellule âgée, qu'arrive-t-il parfois au noyau et au cytoplasme ?",
+    "options": [
+      "Ils se multiplient",
+      "Ils durcissent",
+      "Ils peuvent disparaître",
+      "Ils migrent dans la paroi"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "466",
+    "question": "Quelle modification structurelle subissent les vacuoles lors de la transition d'une cellule jeune à une cellule âgée ?",
+    "options": [
+      "Elles se fragmentent en petites unités",
+      "Elles disparaissent au profit du noyau",
+      "Elles grossissent et fusionnent en une vacuole unique",
+      "Elles se cristallisent en grains d'aleurone"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "467",
+    "question": "Les cavités limitées par une membrane et contenant un liquide complexe s'appellent des _____.",
+    "options": [
+      "vacuoles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "468",
+    "question": "Le liquide contenu dans la vacuole est appelé suc vacuolaire ou suc _____.",
+    "options": [
+      "cellulaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "469",
+    "question": "Dans les plantes _____, les vacuoles sont nombreuses et petites.",
+    "options": [
+      "jeunes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "470",
+    "question": "En vieillissant, les petites vacuoles peuvent grossir et se _____.",
+    "options": [
+      "fusionner"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "471",
+    "question": "Une cellule morte se trouve souvent réduite à une grande _____.",
+    "options": [
+      "vacuole"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "472",
+    "question": "Lors de son évolution, une graine qui mûrit perd de l'_____.",
+    "options": [
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "473",
+    "question": "Dans une graine mûre, le suc vacuolaire condensé et solide forme un grain d'_____.",
+    "options": [
+      "aleurone"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "474",
+    "question": "Le grain d'aleurone est une structure complexe toujours constituée de _____.",
+    "options": [
+      "protéides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "475",
+    "question": "Le suc vacuolaire contient de l'eau et des substances minérales ou _____.",
+    "options": [
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "476",
+    "question": "Le chlorure de sodium et le nitrate de potassium sont des substances _____ du suc.",
+    "options": [
+      "minérales"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "477",
+    "question": "Le sulfate de _____ est mentionné comme substance minérale de la vacuole.",
+    "options": [
+      "calcium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "478",
+    "question": "L'acide citrique et l'acide malique font partie des acides _____.",
+    "options": [
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "479",
+    "question": "L'oxalate de calcium peut être cristallisé en bâtonnet ou en _____.",
+    "options": [
+      "oursin"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "480",
+    "question": "Le glucose, le lévulose et le saccharose sont classés comme des _____.",
+    "options": [
+      "glucides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "481",
+    "question": "La cocaïne, la morphine, la nicotine et la caféine sont des _____.",
+    "options": [
+      "alcaloïdes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "482",
+    "question": "Les _____ solubles colorent les fleurs en jaune, rouge ou bleu.",
+    "options": [
+      "pigments"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "483",
+    "question": "Les substances de la vacuole ont _____ provenances possibles.",
+    "options": [
+      "trois"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "484",
+    "question": "Certaines substances de la vacuole sont _____ par la plante à l'extérieur.",
+    "options": [
+      "puisées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "485",
+    "question": "D'autres substances sont rejetées à l'état de _____ dans la vacuole.",
+    "options": [
+      "déchets"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "486",
+    "question": "Si une cellule est dans une solution fortement concentrée, le cytoplasme s'amasse au _____ de la cellule.",
+    "options": [
+      "centre"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "487",
+    "question": "La diminution de volume des vacuoles et le décollement du cytoplasme caractérisent la _____.",
+    "options": [
+      "plasmolyse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "488",
+    "question": "La plasmolyse a lieu quand la cellule cède de l'eau à une solution _____ qui la baigne.",
+    "options": [
+      "hypertonique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "489",
+    "question": "Le passage de l'eau à travers le cytoplasme d'un milieu à un autre s'appelle l'_____.",
+    "options": [
+      "osmose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "490",
+    "question": "Si on place une cellule plasmolysée dans l'eau _____, elle reprend peu à peu son volume.",
+    "options": [
+      "distillée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "491",
+    "question": "L'eau qui entre dans la cellule lors de la turgescence provient d'une solution _____.",
+    "options": [
+      "hypotonique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "492",
+    "question": "En cas de turgescence, la membrane est _____ sous la pression du cytoplasme.",
+    "options": [
+      "distendue"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "493",
+    "question": "La force que le cytoplasme exerce contre la paroi s'appelle la pression de _____.",
+    "options": [
+      "turgescence"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "494",
+    "question": "Dans l'osmose, l'eau va toujours de la solution hypotonique vers la solution _____.",
+    "options": [
+      "hypertonique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "495",
+    "question": "La plasmolyse et la turgescence sont des conséquences directes de l'_____.",
+    "options": [
+      "osmose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "496",
+    "question": "Les plantes absorbent l'eau du sol par l'intermédiaire de leurs _____.",
+    "options": [
+      "racines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "497",
+    "question": "Les végétaux rejettent de l'eau dans l'atmosphère par le phénomène de _____.",
+    "options": [
+      "transpiration"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "498",
+    "question": "Lorsque les cellules végétales sont turgescentes, on observe que les feuilles sont _____.",
+    "options": [
+      "étalées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "499",
+    "question": "Si une plante perd plus d'eau qu'elle n'en absorbe, ses cellules se _____.",
+    "options": [
+      "plasmolysent"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "500",
+    "question": "Les vacuoles sont des _____ limitées par une _____.",
+    "options": [
+      "cavités",
+      "membrane"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "501",
+    "question": "Le suc vacuolaire est également appelé _____ _____.",
+    "options": [
+      "suc",
+      "cellulaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "502",
+    "question": "Dans les plantes _____, les vacuoles sont _____ et petites.",
+    "options": [
+      "jeunes",
+      "nombreuses"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "503",
+    "question": "Avec le temps, les vacuoles peuvent _____ et se _____.",
+    "options": [
+      "grossir",
+      "fusionner"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "504",
+    "question": "Dans une cellule _____, le noyau et le _____ peuvent disparaître.",
+    "options": [
+      "âgée",
+      "cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "505",
+    "question": "Une cellule _____ se trouve réduite à une grande _____.",
+    "options": [
+      "morte",
+      "vacuole"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "506",
+    "question": "Une graine qui _____ perd de l'_____.",
+    "options": [
+      "mûrit",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "507",
+    "question": "Chaque vacuole fait place à un grain d'_____ constitué de _____.",
+    "options": [
+      "aleurone",
+      "protéides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "508",
+    "question": "Le suc vacuolaire contient des substances _____ ou _____.",
+    "options": [
+      "minérales",
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "509",
+    "question": "Le chlorure de _____ et le nitrate de _____ sont des substances minérales.",
+    "options": [
+      "sodium",
+      "potassium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "510",
+    "question": "On trouve également du _____ de _____ parmi les substances minérales.",
+    "options": [
+      "sulfate",
+      "calcium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "511",
+    "question": "Les acides _____, malique et _____ sont présents dans le suc.",
+    "options": [
+      "citrique",
+      "oxalique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "512",
+    "question": "L'_____ de _____ peut être cristallisé en bâtonnet ou en oursin.",
+    "options": [
+      "oxalate",
+      "calcium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "513",
+    "question": "Le _____ et le _____ sont des exemples de glucides du suc vacuolaire.",
+    "options": [
+      "glucose",
+      "lévulose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "514",
+    "question": "La _____ et la _____ sont des alcaloïdes mentionnés dans le texte.",
+    "options": [
+      "morphine",
+      "nicotine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "515",
+    "question": "Les _____ solubles donnent des couleurs _____ ou rouges aux fleurs.",
+    "options": [
+      "pigments",
+      "jaunes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "516",
+    "question": "Les substances ont _____ provenances : elles peuvent être _____ par la plante.",
+    "options": [
+      "trois",
+      "puisées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "517",
+    "question": "Elles peuvent être _____ par la matière _____ ou rejetées comme déchets.",
+    "options": [
+      "élaborées",
+      "vivante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "518",
+    "question": "La _____ se produit dans une solution fortement _____ de saccharose.",
+    "options": [
+      "plasmolyse",
+      "concentrée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "519",
+    "question": "Le cytoplasme quitte les _____ de la membrane _____.",
+    "options": [
+      "angles",
+      "cellulosique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "520",
+    "question": "Le cytoplasme s'amasse au _____ de la cellule et les vacuoles _____ de volume.",
+    "options": [
+      "centre",
+      "diminuent"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "521",
+    "question": "La plasmolyse a lieu quand la cellule _____ de l'eau par _____.",
+    "options": [
+      "cède",
+      "osmose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "522",
+    "question": "L'eau sort vers la solution _____ qui _____ la cellule.",
+    "options": [
+      "hypertonique",
+      "baigne"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "523",
+    "question": "Dans l'eau _____, une cellule plasmolysée reprend son volume _____.",
+    "options": [
+      "distillée",
+      "primitif"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "524",
+    "question": "L'eau passe de la solution _____ vers la _____.",
+    "options": [
+      "hypotonique",
+      "cellule"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "525",
+    "question": "La membrane est _____ sous la _____ du cytoplasme.",
+    "options": [
+      "distendue",
+      "pression"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "526",
+    "question": "On parle de _____ lorsque le cytoplasme s'applique contre la _____.",
+    "options": [
+      "turgescence",
+      "paroi"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "527",
+    "question": "La pression de turgescence est plus forte si la solution extérieure est _____.",
+    "options": [
+      "extérieure",
+      "hypotonique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "528",
+    "question": "L'eau va de la solution _____ vers la solution _____.",
+    "options": [
+      "hypotonique",
+      "hypertonique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "529",
+    "question": "Les plantes absorbent l'eau par leurs _____ et la rejettent par _____.",
+    "options": [
+      "racines",
+      "transpiration"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "530",
+    "question": "Quand les cellules sont _____, les _____ sont étalées.",
+    "options": [
+      "turgescentes",
+      "feuilles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "531",
+    "question": "Le signe visible que les cellules d'une plante se plasmolysent est que les feuilles se _____.",
+    "options": [
+      "fanent"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "532",
+    "question": "Les _____ sont des _____ limitées par une membrane, contenant un liquide de composition complexe nommé le suc _____ ou suc cellulaire.",
+    "options": [
+      "vacuoles",
+      "cavités",
+      "vacuolaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "533",
+    "question": "Dans les plantes _____, on remarque que les vacuoles sont à la fois _____ et _____.",
+    "options": [
+      "jeunes",
+      "nombreuses",
+      "petites"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "534",
+    "question": "Chez beaucoup de cellules _____, les vacuoles ont tendance à _____ et se _____ pour n'en former qu'une seule.",
+    "options": [
+      "âgées",
+      "grossir",
+      "fusionner"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "535",
+    "question": "Le _____ et le _____ peuvent finir par disparaître, laissant la cellule _____ réduite à une seule grande vacuole.",
+    "options": [
+      "noyau",
+      "cytoplasme",
+      "morte"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "536",
+    "question": "Une graine qui _____ perd son humidité, entraînant une condensation du suc _____ jusqu'à ce qu'il devienne _____.",
+    "options": [
+      "mûrit",
+      "vacuolaire",
+      "solide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "537",
+    "question": "Chaque vacuole d'une graine mûre cède sa place à un grain d'_____ de structure plus ou moins _____ mais toujours constitué de _____.",
+    "options": [
+      "aleurone",
+      "complexe",
+      "protéides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "538",
+    "question": "Outre l'eau, le suc vacuolaire renferme des substances _____ telles que le chlorure de _____, le nitrate de _____ et le sulfate de calcium.",
+    "options": [
+      "minérales",
+      "sodium",
+      "potassium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "539",
+    "question": "Les substances _____ du suc cellulaire incluent des _____ comme les acides citrique, malique ou _____.",
+    "options": [
+      "organiques",
+      "acides",
+      "oxalique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "540",
+    "question": "L'_____ de calcium cristallisé peut adopter une forme en _____ ou une forme dite en _____.",
+    "options": [
+      "oxalate",
+      "bâtonnet",
+      "oursin"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "541",
+    "question": "Parmi les _____ présents dans la vacuole, le texte cite le _____, le lévulose et le _____.",
+    "options": [
+      "glucides",
+      "glucose",
+      "saccharose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "542",
+    "question": "Les _____ sont représentés dans le suc par la cocaïne, la _____, la nicotine ou encore la _____.",
+    "options": [
+      "alcaloïdes",
+      "morphine",
+      "caféine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "543",
+    "question": "Des _____ solubles _____ sont responsables des colorations _____, rouges ou bleues des fleurs.",
+    "options": [
+      "pigments",
+      "colorés",
+      "jaunes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "544",
+    "question": "Les substances du suc ont _____ provenances : puisées par la _____, élaborées par la matière vivante ou rejetées comme _____.",
+    "options": [
+      "trois",
+      "plante",
+      "déchets"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "545",
+    "question": "Lors d'une expérience avec du _____ concentré, le _____ quitte les angles de la membrane _____.",
+    "options": [
+      "saccharose",
+      "cytoplasme",
+      "cellulosique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "546",
+    "question": "En se décollant, le cytoplasme s'amasse au _____ de la cellule tandis que les _____ voient leur _____ diminuer.",
+    "options": [
+      "centre",
+      "vacuoles",
+      "volume"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "547",
+    "question": "La _____ se produit par _____, lorsque la cellule cède son _____ à une solution hypertonique.",
+    "options": [
+      "plasmolyse",
+      "osmose",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "548",
+    "question": "Placée dans l'eau _____, une cellule plasmolysée voit son _____ reprendre son volume _____.",
+    "options": [
+      "distillée",
+      "cytoplasme",
+      "primitif"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "549",
+    "question": "Sous l'effet de l'eau distillée, les _____ se gonflent et la _____ entière _____.",
+    "options": [
+      "vacuoles",
+      "cellule",
+      "grossit"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "550",
+    "question": "On parle de _____ lorsque le cytoplasme s'exerce contre la _____ cellulaire avec une _____ notable.",
+    "options": [
+      "turgescence",
+      "paroi",
+      "force"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "551",
+    "question": "La _____ exercée par le contenu cellulaire sur la paroi est nommée _____ de _____.",
+    "options": [
+      "pression",
+      "pression",
+      "turgescence"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "552",
+    "question": "La turgescence est d'autant plus _____ que la solution extérieure est _____ par rapport au _____ vacuolaire.",
+    "options": [
+      "forte",
+      "hypotonique",
+      "suc"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "553",
+    "question": "La plasmolyse et la turgescence sont les _____ directes de l'_____ s'opérant au travers du _____.",
+    "options": [
+      "conséquences",
+      "osmose",
+      "cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "554",
+    "question": "L'osmose implique que l'eau se déplace de la solution _____ vers la solution _____ à travers une _____ vivante.",
+    "options": [
+      "hypotonique",
+      "hypertonique",
+      "matière"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "555",
+    "question": "Les végétaux puisent l'eau par leurs _____ et en rejettent une partie par _____ au niveau des _____.",
+    "options": [
+      "racines",
+      "transpiration",
+      "feuilles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "556",
+    "question": "Des cellules _____ permettent aux feuilles d'être bien _____ car elles disposent de suffisamment d'_____.",
+    "options": [
+      "turgescentes",
+      "étalées",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "557",
+    "question": "Si une plante _____ plus d'eau qu'elle n'en _____, ses cellules finissent par se _____.",
+    "options": [
+      "perd",
+      "absorbe",
+      "plasmolyser"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "558",
+    "question": "Le _____ des feuilles est le signe extérieur de la _____ des cellules privées d'_____.",
+    "options": [
+      "fanage",
+      "plasmolyse",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "559",
+    "question": "Les _____ jouent un rôle vital car elles sont des _____ closes par une _____ cytoplasmique.",
+    "options": [
+      "vacuoles",
+      "cavités",
+      "membrane"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "560",
+    "question": "Les substances rejetées à l'état de _____ dans la vacuole peuvent y _____ de manière _____.",
+    "options": [
+      "déchets",
+      "persister",
+      "indéfinie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "561",
+    "question": "Le suc vacuolaire contient des _____, des _____ et divers pigments qui colorent la cellule.",
+    "options": [
+      "glucides",
+      "protides",
+      "pigments"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "562",
+    "question": "Lors de l'entrée d'eau, la membrane cytoplasmique se trouve _____ sous la _____ exercée par le _____.",
+    "options": [
+      "distendue",
+      "pression",
+      "cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  }
 ]
 }
