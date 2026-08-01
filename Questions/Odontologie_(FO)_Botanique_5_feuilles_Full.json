@@ -879,6 +879,426 @@
     "nivo": "Intermédiaire",
     "paj": "Etape 1",
     "tip": "Quiz"
+  },
+  {
+    "id": "64",
+    "question": "Si un organisme végétal présente des vaisseaux et des graines nues, à quel groupe appartient-il ?",
+    "options": [
+      "Angiospermes",
+      "Gymnospermes",
+      "Cryptogames vasculaires",
+      "Thallophytes"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "65",
+    "question": "Quelle est la distinction structurelle majeure entre le glucose et le saccharose ?",
+    "options": [
+      "Le rapport H/O est différent",
+      "Le glucose est une formule globale, le saccharose est brute",
+      "Le nombre d'atomes de carbone est doublé dans le saccharose (moins deux H et un O)",
+      "L'un contient de l'azote et l'autre non"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "66",
+    "question": "Un végétal possédant une tige et des feuilles mais dépourvu de racines est classé comme :",
+    "options": [
+      "Thallophyte",
+      "Bryophyte",
+      "Cryptogame vasculaire",
+      "Monocotylédone"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "67",
+    "question": "Quelle proposition définit mathématiquement la différence entre l'amidon et la cellulose ?",
+    "options": [
+      "La nature des éléments C, H, O",
+      "La valeur de l'indice n dans la formule (C6H10O5)n",
+      "Le rapport entre H2O et le carbone",
+      "La présence de groupements NH2"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "68",
+    "question": "Parmi ces constituants, lequel possède la structure la plus complexe et le nombre d'unités le plus élevé ?",
+    "options": [
+      "Monopeptides",
+      "Lipides complexes",
+      "Protides",
+      "Glucides simples"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "69",
+    "question": "Si une analyse chimique révèle la présence de Phosphore (P) dans un lipide, on peut affirmer que :",
+    "options": [
+      "C'est un lipide simple",
+      "C'est un lipide complexe",
+      "C'est un glucide pectique",
+      "C'est un acide aminé"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "70",
+    "question": "Quelle est la condition nécessaire pour qu'un protéide soit qualifié de 'complexe' ?",
+    "options": [
+      "Avoir plus de 100 acides aminés",
+      "Être onctueux au toucher",
+      "Être combiné à une substance non protidique (ex: Fe)",
+      "Posséder uniquement les groupements COOH et NH2"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "71",
+    "question": "Dans la formule globale des glucides Cn(H2O)m, que signifie la proportion de H et O ?",
+    "options": [
+      "Il y a toujours 2 atomes d'oxygène pour 1 hydrogène",
+      "La proportion est identique à celle de la molécule d'eau",
+      "H et O sont en quantités égales à C",
+      "H et O sont liés par des liaisons soufrées"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "72",
+    "question": "Quel groupe végétal est caractérisé par l'absence totale de différenciation en racine, tige et feuilles ?",
+    "options": [
+      "Bryophytes",
+      "Cryptogames vasculaires",
+      "Thallophytes",
+      "Dicotylédones"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "73",
+    "question": "L'étude de la morphologie externe et de l'organisation interne d'une plante relève de :",
+    "options": [
+      "La physiologie végétale",
+      "La biochimie végétale",
+      "L'anatomie végétale",
+      "La systématique"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "74",
+    "question": "Le groupement NH2 est une caractéristique fondamentale de quelle unité ?",
+    "options": [
+      "Le lévulose",
+      "L'acide aminé",
+      "Le triglycéride",
+      "La cellulose"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "75",
+    "question": "Une graine contenant deux cotylédons et enfermée dans un fruit appartient aux :",
+    "options": [
+      "Angiospermes Dicotylédones",
+      "Angiospermes Monocotylédones",
+      "Gymnospermes",
+      "Cryptogames"
+    ],
+    "reponsKorek": 0,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "76",
+    "question": "Quelle est la différence chimique entre un lipide simple et un monopeptide ?",
+    "options": [
+      "Le lipide simple contient du Soufre",
+      "Le monopeptide contient obligatoirement de l'Azote (N)",
+      "Le lipide simple possède un groupement COOH",
+      "Le monopeptide ne contient pas d'Oxygène"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "77",
+    "question": "Un mélange complexe de glucides qui n'est ni de l'amidon ni de la cellulose correspond aux :",
+    "options": [
+      "Substances pectiques",
+      "Lipides complexes",
+      "Polypeptides",
+      "Saccharoses"
+    ],
+    "reponsKorek": 0,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "78",
+    "question": "Quelle propriété physique permet de distinguer immédiatement les lipides des autres constituants ?",
+    "options": [
+      "Leur solubilité dans l'eau",
+      "Leur onctuosité au toucher",
+      "Leur formule brute",
+      "Leur couleur verte"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "79",
+    "question": "Le groupement carboxyle (COOH) est associé dans les protides au groupement :",
+    "options": [
+      "H3PO4",
+      "NH2",
+      "C6H12O6",
+      "S et P"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "80",
+    "question": "Les Algues sont structurellement définies par la présence d'un :",
+    "options": [
+      "Vaisseau conducteur",
+      "Thalle",
+      "Cotylédon",
+      "Fruit clos"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "81",
+    "question": "Si un chercheur étudie comment les racines absorbent l'eau, il pratique :",
+    "options": [
+      "L'anatomie végétale",
+      "La physiologie végétale",
+      "La morphologie",
+      "La taxonomie"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "82",
+    "question": "Quel élément peut être présent 'en outre' dans certains protides mais n'est pas systématique ?",
+    "options": [
+      "Carbone",
+      "Azote",
+      "Soufre (S)",
+      "Hydrogène"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "83",
+    "question": "Les Graminées se distinguent du Haricot par :",
+    "options": [
+      "Leur mode de reproduction Cryptogame",
+      "Le nombre de cotylédons dans la graine",
+      "L'absence de vaisseaux",
+      "La présence de fleurs nues"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "84",
+    "question": "Une substance onctueuse contenant du Carbone, de l'Azote et du Phosphore est :",
+    "options": [
+      "Un lipide simple",
+      "Un lipide complexe",
+      "Un glucide pectique",
+      "Un monopeptide"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "85",
+    "question": "Les Fougères occupent une position intermédiaire car elles sont :",
+    "options": [
+      "Phanérogames mais sans vaisseaux",
+      "Cryptogames mais avec vaisseaux",
+      "Thallophytes avec racines",
+      "Angiospermes sans fleurs"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "86",
+    "question": "La formule C12H22O11 désigne une molécule où le rapport H/O est :",
+    "options": [
+      "1/1",
+      "2/1",
+      "12/11",
+      "Identique à celui de l'amidon"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "87",
+    "question": "Quelle est la définition exacte d'un polypeptide ?",
+    "options": [
+      "Une chaîne de plusieurs centaines de protéines",
+      "Une combinaison de deux ou quelques acides aminés",
+      "Un mélange de lipides et de glucides",
+      "Une structure contenant du Fer et du Phosphore"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "88",
+    "question": "Les mousses diffèrent des champignons par le fait que les mousses :",
+    "options": [
+      "Sont des Phanérogames",
+      "Possèdent une tige et des feuilles",
+      "Ont des racines profondes",
+      "Sont des lipides simples"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "89",
+    "question": "Le terme 'Protéine' est un synonyme technique utilisé pour les :",
+    "options": [
+      "Acides aminés",
+      "Protéides simples",
+      "Lipides complexes",
+      "Glucides de réserve"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "90",
+    "question": "Dans les protides, l'élément Fer (Fe) intervient généralement dans les :",
+    "options": [
+      "Monopeptides",
+      "Polypeptides",
+      "Protéides complexes",
+      "Protéines simples"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "91",
+    "question": "Quelle est la formule brute commune au glucose et au lévulose ?",
+    "options": [
+      "C6H10O5",
+      "C12H22O11",
+      "C6H12O6",
+      "CnH2On"
+    ],
+    "reponsKorek": 2,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "92",
+    "question": "Les Cryptogames se différencient des Phanérogames par l'absence de :",
+    "options": [
+      "Vaisseaux et tiges",
+      "Fleurs et graines",
+      "C, H, O",
+      "Thalle et thallophytes"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
+  },
+  {
+    "id": "93",
+    "question": "Quelle molécule de réserve est composée de plusieurs centaines d'unités (C6H10O5) ?",
+    "options": [
+      "Le saccharose",
+      "L'amidon",
+      "Le glucose",
+      "La pectine"
+    ],
+    "reponsKorek": 1,
+    "nivo": "Difficile",
+    "paj": "Etape 1",
+    "tip": "Quiz"
   }
 ]
 }
