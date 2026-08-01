@@ -1299,6 +1299,1207 @@
     "nivo": "Difficile",
     "paj": "Etape 1",
     "tip": "Quiz"
+  },
+  {
+    "id": "94",
+    "question": "L'unité anatomique et physiologique de tout Végétal est la _____.",
+    "options": [
+      "cellule"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "95",
+    "question": "La cellule est un volume de _____ renfermant différentes inclusions et un noyau.",
+    "options": [
+      "cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "96",
+    "question": "La membrane cytoplasmique d'une cellule végétale est doublée par une _____.",
+    "options": [
+      "paroi"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "97",
+    "question": "Une cellule peut vivre seule ou être _____ à d'autres cellules.",
+    "options": [
+      "associée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "98",
+    "question": "La pellicule qui entoure le cytoplasme est élastique, souple et très _____.",
+    "options": [
+      "fine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "99",
+    "question": "La membrane exerce un choix sur les substances qui passent, sa _____ est donc sélective.",
+    "options": [
+      "perméabilité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "100",
+    "question": "La substance transparente du cytoplasme a une consistance _____.",
+    "options": [
+      "visqueuse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "101",
+    "question": "Les particules contenues dans le cytoplasme sont entraînées par des _____.",
+    "options": [
+      "courants"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "102",
+    "question": "Dans le cytoplasme, l'eau peut être en partie libre ou fixée aux molécules _____.",
+    "options": [
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "103",
+    "question": "Le magnésium, le calcium et le sodium se trouvent sous forme de sels _____.",
+    "options": [
+      "minéraux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "104",
+    "question": "Les glucides, les lipides et les protides sont des substances _____ du cytoplasme.",
+    "options": [
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "105",
+    "question": "On appelle inclusions _____ les plastes et les chondriosomes.",
+    "options": [
+      "vivantes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "106",
+    "question": "Les enclaves hydrophobes et les vacuoles sont des inclusions _____.",
+    "options": [
+      "inertes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "107",
+    "question": "Les _____ peuvent prendre la forme de bâtonnets, de grains ou de filaments.",
+    "options": [
+      "chondriosomes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "108",
+    "question": "La _____ cellulaire est le phénomène qui absorbe l'oxygène dans les chondriosomes.",
+    "options": [
+      "respiration"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "109",
+    "question": "Pendant la respiration, de l'énergie est produite tandis que de l'_____ et du gaz carbonique sont rejetés.",
+    "options": [
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "110",
+    "question": "Les _____ sont des inclusions capables d'élaborer et d'accumuler diverses substances.",
+    "options": [
+      "plastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "111",
+    "question": "Les plastes qui ne possèdent pas de couleur sont appelés les _____.",
+    "options": [
+      "amyloplastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "112",
+    "question": "L'_____ est la substance principale accumulée par les amyloplastes.",
+    "options": [
+      "amidon"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "113",
+    "question": "On trouve souvent des amyloplastes dans les _____ ou les tiges souterraines comme la pomme de terre.",
+    "options": [
+      "racines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "114",
+    "question": "Pour colorer les amyloplastes en bleu, on utilise de l'eau _____.",
+    "options": [
+      "iodée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "115",
+    "question": "La couleur verte des chloroplastes provient de la _____.",
+    "options": [
+      "chlorophylle"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "116",
+    "question": "Le phénomène de la _____ se déroule principalement dans les chloroplastes.",
+    "options": [
+      "photosynthèse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "117",
+    "question": "Lors de la photosynthèse, la plante rejette de l'_____ dans l'air.",
+    "options": [
+      "oxygène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "118",
+    "question": "La plante utilise le gaz _____ pour synthétiser des composés organiques.",
+    "options": [
+      "carbonique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "119",
+    "question": "Les _____ sont colorés en jaune, orangé ou rouge.",
+    "options": [
+      "chromoplastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "120",
+    "question": "La xanthophylle est le pigment qui donne la couleur _____ aux chromoplastes.",
+    "options": [
+      "jaune"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "121",
+    "question": "Le _____ donne la couleur orangée à la carotte.",
+    "options": [
+      "carotène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "122",
+    "question": "Le pigment rouge trouvé dans la tomate mûre s'appelle le _____.",
+    "options": [
+      "lycopène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "123",
+    "question": "Lorsqu'un chloroplaste perd sa chlorophylle, il peut devenir un _____.",
+    "options": [
+      "chromoplaste"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "124",
+    "question": "L'anatomie végétale étudie la forme et la _____ des plantes.",
+    "options": [
+      "structure"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "125",
+    "question": "L'anatomie végétale étudie la _____ et la _____ des plantes.",
+    "options": [
+      "forme",
+      "structure"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "126",
+    "question": "La _____ végétale se concentre sur le _____ des organes des végétaux.",
+    "options": [
+      "physiologie",
+      "fonctionnement"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "127",
+    "question": "Les _____ sont des plantes caractérisées par la présence de _____ et de graines.",
+    "options": [
+      "Phanérogames",
+      "fleurs"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "128",
+    "question": "Chez les _____, les graines ne sont pas nues mais enfermées dans un _____ clos.",
+    "options": [
+      "Angiospermes",
+      "fruit"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "129",
+    "question": "Une graine à un seul _____ définit les Monocotylédones, comme c'est le cas pour les _____.",
+    "options": [
+      "cotylédon",
+      "Graminées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "130",
+    "question": "Le Haricot possède deux _____ dans sa graine, ce qui en fait une _____.",
+    "options": [
+      "cotylédons",
+      "Dicotylédone"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "131",
+    "question": "Les _____, comme le Pin, se distinguent par le fait qu'ils possèdent des _____ nues.",
+    "options": [
+      "Gymnospermes",
+      "graines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "132",
+    "question": "Les _____ sont définis comme des plantes dépourvues de _____ et de graines.",
+    "options": [
+      "Cryptogames",
+      "fleurs"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "133",
+    "question": "Les Cryptogames _____ possèdent des _____ et des vaisseaux, contrairement aux autres groupes sans graines.",
+    "options": [
+      "vasculaires",
+      "racines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "134",
+    "question": "La Fougère est un exemple de _____ vasculaire, tandis que la Mousse est une _____.",
+    "options": [
+      "Cryptogame",
+      "Bryophyte"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "135",
+    "question": "Les _____ présentent une tige et des feuilles, mais n'ont ni _____ ni vaisseaux.",
+    "options": [
+      "Bryophytes",
+      "racines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "136",
+    "question": "Les _____, tels que les Algues, possèdent un corps simple appelé _____.",
+    "options": [
+      "Thallophytes",
+      "thalle"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "137",
+    "question": "Dans les glucides, les éléments _____ et _____ sont combinés comme dans l'eau.",
+    "options": [
+      "H",
+      "O"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "138",
+    "question": "La formule _____ des glucides est notée Cn(H2O)m, où le _____ est l'un des trois composants.",
+    "options": [
+      "globale",
+      "carbone"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "139",
+    "question": "Le _____ et le lévulose ont une structure identique correspondant à la _____ brute C6H12O6.",
+    "options": [
+      "glucose",
+      "formule"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "140",
+    "question": "Le _____ est un glucide complexe dont la formule chimique est _____.",
+    "options": [
+      "saccharose",
+      "C12H22O11"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "141",
+    "question": "L'_____ et la cellulose ont une composition très proche mais une _____ de 'n' différente.",
+    "options": [
+      "amidon",
+      "valeur"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "142",
+    "question": "Les substances _____ sont décrites comme des _____ très complexes de glucides.",
+    "options": [
+      "pectiques",
+      "mélanges"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "143",
+    "question": "Les _____ sont des corps gras qui se reconnaissent par leur aspect _____ au toucher.",
+    "options": [
+      "lipides",
+      "onctueux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "144",
+    "question": "L'huile et le _____ sont des exemples de mélanges appartenant à la famille des _____.",
+    "options": [
+      "beurre",
+      "lipides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "145",
+    "question": "Un lipide _____ ne contient que C, H et O, alors qu'un lipide _____ contient aussi N et P.",
+    "options": [
+      "simple",
+      "complexe"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "146",
+    "question": "Les lipides complexes intègrent l'_____ (N) et le _____ (P) en plus des trois éléments de base.",
+    "options": [
+      "azote",
+      "phosphore"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "147",
+    "question": "Les _____ sont des molécules organiques qui contiennent obligatoirement l'élément _____ (N).",
+    "options": [
+      "protides",
+      "azote"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "148",
+    "question": "La structure des _____ est très _____ et leur nombre dans le règne végétal est très grand.",
+    "options": [
+      "protides",
+      "complexe"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "149",
+    "question": "Outre les quatre éléments majeurs, les protides peuvent contenir du _____ (S) et du _____ (P).",
+    "options": [
+      "soufre",
+      "phosphore"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "150",
+    "question": "Les monopeptides, aussi appelés _____ _____, possèdent les groupements COOH et NH2.",
+    "options": [
+      "acides",
+      "aminés"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "151",
+    "question": "Les _____ sont formés par la combinaison de deux ou de quelques _____ aminés.",
+    "options": [
+      "polypeptides",
+      "acides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "152",
+    "question": "Les _____ simples, ou protéines, résultent de l'union d'un nombre _____ d'acides aminés.",
+    "options": [
+      "protéides",
+      "élevé"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "153",
+    "question": "Un protéide _____ associe des acides aminés à une _____ non protidique.",
+    "options": [
+      "complexe",
+      "substance"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "154",
+    "question": "Le _____ (Fe) est une substance non protidique que l'on trouve dans certains _____ complexes.",
+    "options": [
+      "fer",
+      "protéides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "155",
+    "question": "Les Champignons sont des _____ car ils ne possèdent ni _____, ni tige, ni feuilles.",
+    "options": [
+      "Thallophytes",
+      "racine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "156",
+    "question": "L'azote et le _____ sont présents dans les lipides _____ mais absents des lipides simples.",
+    "options": [
+      "phosphore",
+      "complexes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "157",
+    "question": "L'_____ iodée permet de colorer l'_____, un glucide dont la valeur de 'n' est élevée.",
+    "options": [
+      "eau",
+      "amidon"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "158",
+    "question": "Les _____ possèdent des graines dans un fruit, alors que les _____ ont des graines nues.",
+    "options": [
+      "Angiospermes",
+      "Gymnospermes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "159",
+    "question": "Le groupement _____ et le groupement _____ (NH2) sont caractéristiques des acides aminés.",
+    "options": [
+      "COOH",
+      "aminé"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "160",
+    "question": "Les _____ sont des Cryptogames sans racines, tandis que les _____ ont un thalle.",
+    "options": [
+      "Bryophytes",
+      "Thallophytes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "161",
+    "question": "La physiologie végétale étudie le _____ de leurs _____.",
+    "options": [
+      "fonctionnement",
+      "organes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "162",
+    "question": "L'_____ végétale étudie la forme et la structure, tandis que la _____ étudie le _____ des organes.",
+    "options": [
+      "anatomie",
+      "physiologie",
+      "fonctionnement"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "163",
+    "question": "Le cytoplasme est entouré d'une pellicule fine, _____ et _____, appelée la _____ cytoplasmique.",
+    "options": [
+      "souple",
+      "élastique",
+      "membrane"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "164",
+    "question": "La substance du cytoplasme est composée d'_____, de sels _____ et de substances _____.",
+    "options": [
+      "eau",
+      "minéraux",
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "165",
+    "question": "Les sels minéraux du cytoplasme incluent des _____, des _____ et des _____ de sodium ou de calcium.",
+    "options": [
+      "chlorures",
+      "sulfates",
+      "phosphates"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "166",
+    "question": "Les substances organiques du cytoplasme regroupent les _____, les _____ et les _____.",
+    "options": [
+      "glucides",
+      "lipides",
+      "protides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "167",
+    "question": "Les inclusions vivantes du cytoplasme sont les _____ et les _____, alors que les _____ sont inertes.",
+    "options": [
+      "chondriosomes",
+      "plastes",
+      "vacuoles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "168",
+    "question": "Les chondriosomes ont la forme de _____, de _____ ou de _____.",
+    "options": [
+      "grains",
+      "bâtonnets",
+      "filaments"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "169",
+    "question": "Pendant la respiration, les chondriosomes absorbent l'_____, rejettent du _____ et produisent de l'_____.",
+    "options": [
+      "oxygène",
+      "gaz carbonique",
+      "énergie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "170",
+    "question": "Les amyloplastes accumulent de l'_____, se trouvent dans les _____ et se colorent en _____ à l'eau iodée.",
+    "options": [
+      "amidon",
+      "racines",
+      "bleu"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "171",
+    "question": "La photosynthèse absorbe le _____, rejette de l'_____ et synthétise des _____ organiques.",
+    "options": [
+      "gaz carbonique",
+      "oxygène",
+      "composés"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "172",
+    "question": "Les chromoplastes contiennent de la _____ (jaune), du _____ (orangé) et du _____ (rouge).",
+    "options": [
+      "xanthophylle",
+      "carotène",
+      "lycopène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "173",
+    "question": "Dans la Tomate, les _____ perdent leur _____ pou élaborer finalement du _____.",
+    "options": [
+      "chloroplastes",
+      "chlorophylle",
+      "lycopène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "174",
+    "question": "Les Phanérogames se divisent en _____ (graines enfermées) et _____ (graines _____).",
+    "options": [
+      "Angiospermes",
+      "Gymnospermes",
+      "nues"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "175",
+    "question": "Les Monocotylédones comme les _____ ont un cotylédon, alors que les _____ comme le _____ en ont deux.",
+    "options": [
+      "Graminées",
+      "Dicotylédones",
+      "Haricot"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "176",
+    "question": "Les Cryptogames _____ possèdent des _____, une tige, des _____, et des vaisseaux.",
+    "options": [
+      "vasculaires",
+      "racines",
+      "feuilles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "177",
+    "question": "Les _____ possèdent une tige et des feuilles, mais n'ont ni _____ ni _____ conducteurs.",
+    "options": [
+      "Bryophytes",
+      "racines",
+      "vaisseaux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "178",
+    "question": "Les Thallophytes comme les _____ ou les _____ possèdent un corps simple appelé _____.",
+    "options": [
+      "Algues",
+      "Champignons",
+      "thalle"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "179",
+    "question": "Les glucides composés de C, H, O répondent à la formule _____ et incluent le _____ et le _____.",
+    "options": [
+      "CnH2Om",
+      "glucose",
+      "lévulose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "180",
+    "question": "L'_____ et la cellulose ont une composition voisine, mais une _____ de _____ différente.",
+    "options": [
+      "amidon",
+      "valeur",
+      "n"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "181",
+    "question": "Les substances _____ sont définies comme des _____ très _____ de glucides.",
+    "options": [
+      "pectiques",
+      "mélanges",
+      "complexes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "182",
+    "question": "Les lipides sont des _____ gras comprenant la _____, l'_____ et le beurre.",
+    "options": [
+      "corps",
+      "graisse",
+      "huile"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "183",
+    "question": "Les lipides _____ ne contiennent que C, H, O, alors que les _____ contiennent aussi _____ et P.",
+    "options": [
+      "simples",
+      "complexes",
+      "N"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "184",
+    "question": "Les protides renferment toujours C, H, O, _____, et souvent du _____ et du _____.",
+    "options": [
+      "N",
+      "S",
+      "P"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "185",
+    "question": "Les _____ possèdent toujours deux groupements chimiques spécifiques : le groupement _____ et le groupement _____.",
+    "options": [
+      "monopeptides",
+      "COOH",
+      "NH2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "186",
+    "question": "Les _____ résultent de la combinaison de deux ou _____ _____ aminés.",
+    "options": [
+      "polypeptides",
+      "quelques",
+      "acides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "187",
+    "question": "Les _____ simples, aussi appelés _____, sont formés d'un nombre _____ d'acides aminés.",
+    "options": [
+      "protéides",
+      "protéines",
+      "élevé"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "188",
+    "question": "Un protéide _____ est une union d'_____ avec une substance non _____.",
+    "options": [
+      "complexe",
+      "acides aminés",
+      "protidique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "189",
+    "question": "Parmi les substances non protidiques, on trouve le _____ (Fe) et l'_____ _____ (H3PO4).",
+    "options": [
+      "fer",
+      "acide",
+      "phosphorique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "190",
+    "question": "Le cytoplasme est une substance _____, de consistance _____, parcourue de _____.",
+    "options": [
+      "transparente",
+      "visqueuse",
+      "courants"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "191",
+    "question": "La membrane cytoplasmique exerce un _____ sur les substances dissoutes, rendant sa _____ _____.",
+    "options": [
+      "choix",
+      "perméabilité",
+      "sélective"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "192",
+    "question": "Les plastes évoluent : les _____ peuvent se charger d'_____ pour devenir des _____.",
+    "options": [
+      "chloroplastes",
+      "amidon",
+      "amyloplastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "193",
+    "question": "Les Cryptogames _____ possèdent des _____, une tige, des _____, et des vaisseaux.",
+    "options": [
+      "vasculaires",
+      "racines",
+      "feuilles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
   }
 ]
 }
