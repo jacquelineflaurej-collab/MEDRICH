@@ -11232,5 +11232,907 @@
     "nivo": "Difficile",
     "tip": "Completer"
   }
+  ],
+  "Etape 6": [
+    {
+      "id": "927",
+      "question": "Par quoi se manifeste la vie de la cellule végétale ?",
+      "options": ["Son irritabilité, sa nutrition, sa croissance et sa multiplication", "Uniquement par sa coloration verte", "Par son immobilité absolue", "Par sa disparition rapide"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "928",
+      "question": "Comment appelle-t-on la propriété de la cellule végétale de réagir aux excitations ?",
+      "options": ["L'irritabilité", "La nutrition", "La croissance", "L'amitose"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "929",
+      "question": "Laquelle des propositions suivantes est une excitation citée dans le texte ?",
+      "options": ["La chaleur", "Le vent", "Le son", "La nuit"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "930",
+      "question": "Comment est qualifié le mouvement de réaction de la cellule végétale aux excitations ?",
+      "options": ["Lent et peu apparent", "Rapide et très visible", "Violent et instantané", "Totalement inexistant"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "931",
+      "question": "Pourquoi n'y a-t-il pas de mouvement d'ensemble lors de la réaction de la cellule ?",
+      "options": ["À cause de la présence de la membrane cellulaire rigide", "À cause de l'absence d'eau dans la cellule", "À cause de la petitesse du noyau", "À cause de la température extérieure"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "932",
+      "question": "À travers quelle membrane la cellule végétale reçoit-elle l'eau et les substances dissoutes ?",
+      "options": ["La membrane pecto-cellulosique perméable", "La membrane nucléaire", "La plaque équatoriale", "Le fuseau chromatique"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "933",
+      "question": "Quelles structures opèrent un choix parmi les substances dissoutes reçues ?",
+      "options": ["La membrane cytoplasmique et le cytoplasme", "Les chromosomes et les filaments", "La membrane nucléaire et le noyau", "Les nucléoles et le centromère"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "934",
+      "question": "Pour quoi sont utilisées les substances absorbées par la cellule végétale ?",
+      "options": ["Pour réaliser la synthèse de substances nouvelles ou produire de l'énergie", "Pour détruire complètement la membrane rigide", "Pour arrêter définitivement le développement cellulaire", "Pour bloquer la pénétration de l'eau"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "935",
+      "question": "Grâce à quoi la cellule végétale s'accroît-elle ?",
+      "options": ["Aux aliments absorbés", "À la rigidité de la membrane", "À l'absence totale de cytoplasme", "À la destruction de ses nucléoles"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "936",
+      "question": "Que fait la cellule végétale quand elle a atteint sa taille limite ?",
+      "options": ["Elle se divise", "Elle s'arrête de vivre", "Elle diminue de taille", "Elle devient imperméable"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "937",
+      "question": "Comment peut être la division ou multiplication cellulaire ?",
+      "options": ["Directe (amitose) ou indirecte (mitose)", "Interne ou externe", "Partielle ou totale", "Lente ou instantanée"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "938",
+      "question": "En quoi consiste principalement l'amitose ?",
+      "options": ["En un étranglement du noyau qui le partage approximativement en deux", "En une disparition complète du noyau cellulaire", "En un gonflement extrême de la membrane pecto-cellulosique", "En une fusion de plusieurs cellules âgées"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "939",
+      "question": "Lors de l'amitose, que fait la masse cytoplasmique après le partage du noyau ?",
+      "options": ["Elle se coupe en deux, chaque moitié emportant un noyau", "Elle disparaît totalement", "Elle se liquéfie et quitte la cellule", "Elle reste entière sans se diviser"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "940",
+      "question": "Dans quels types de cellules observe-t-on le mode de division par amitose ?",
+      "options": ["Dans quelques types de cellules âgées ou dégénérescentes", "Dans toutes les jeunes cellules en pleine croissance", "Exclusivement dans les cellules saines et vigoureuses", "Uniquement dans les cellules animales"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "941",
+      "question": "Quel appareil a révélé que les cellules des végétaux inférieurs se multiplient aussi par mitose ?",
+      "options": ["Le microscope électronique", "Le télescope", "La loupe simple", "Le microscope optique rudimentaire"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "942",
+      "question": "Comment se déroule la mitose selon le texte du document ?",
+      "options": ["D'une manière continue", "D'une manière saccadée", "Uniquement durant la nuit", "De façon instantanée et invisible"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "943",
+      "question": "Combien de phases peut-on distinguer dans le déroulement de la mitose ?",
+      "options": ["Quatre phases", "Deux phases", "Six phases", "Une seule phase"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "944",
+      "question": "Quelle est la première phase de la mitose citée dans le document ?",
+      "options": ["La prophase", "La métaphase", "L'anaphase", "L'amitose"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "945",
+      "question": "Qu'arrive-t-il au noyau au cours de la prophase ?",
+      "options": ["Le noyau se gonfle", "Le noyau rétrécit", "Le noyau se divise immédiatement en deux", "Le noyau devient invisible dès le début"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "946",
+      "question": "Qu'arrive-t-il aux contours du noyau pendant la prophase ?",
+      "options": ["Ils s'estompent progressivement", "Ils deviennent de plus en plus nets", "Ils se colorent en bleu", "Ils restent inchangés"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "947",
+      "question": "Comment évoluent les chromosomes au cours de la prophase ?",
+      "options": ["Ils deviennent de plus en plus visibles", "Ils disparaissent complètement", "Ils se transforment en liquide", "Ils restent inchangés et invisibles"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "948",
+      "question": "Où distingue-t-on d'abord les chromosomes au début de la prophase ?",
+      "options": ["À la périphérie du noyau", "Exactement au centre du noyau", "En dehors de la cellule", "Dans le suc vacuolaire"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "949",
+      "question": "En combien de chromatides les chromosomes se fissurent-ils longitudinalement ?",
+      "options": ["Deux chromatides", "Quatre chromatides", "Trois chromatides", "Une seule chromatide"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "950",
+      "question": "Par quelle structure les deux chromatides demeurent-ils liés ?",
+      "options": ["Le centromère", "Le cytoplasme", "Le filament", "Le nucléole"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "951",
+      "question": "Quelles structures disparaissent complètement pendant la prophase ?",
+      "options": ["Les nucléoles et la membrane nucléaire", "Les chromosomes et le centromère", "La membrane cytoplasmique et la paroi", "Le cytoplasme et le fuseau"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "952",
+      "question": "Qu'est-ce qui s'unit pour former le fuseau chromatique unissant les deux pôles de la cellule ?",
+      "options": ["Des filaments", "Des pores", "Des méats", "Des vacuoles"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "953",
+      "question": "Quelle est la deuxième phase de la mitose décrite dans le texte ?",
+      "options": ["La métaphase", "La prophase", "L'anaphase", "L'amitose"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "954",
+      "question": "Que font les chromosomes lors de la métaphase dans le plan équatorial du fuseau ?",
+      "options": ["Ils s'immobilisent brusquement", "Ils se divisent en quatre", "Ils se mettent à tourner rapidement", "Ils disparaissent tous"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "955",
+      "question": "Quelle structure forment les chromosomes immobilisés dans le plan équatorial du fuseau ?",
+      "options": ["La plaque équatoriale", "Le fuseau chromatique", "Le noyau cellulaire", "La membrane nucléaire"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "956",
+      "question": "Pendant l'anaphase, vers quoi se dirigent les chromatides après s'être séparés ?",
+      "options": ["Chacun vers un pôle de la cellule", "Vers le centre de la plaque équatoriale", "En dehors du cytoplasme", "Vers l'intérieur des nucléoles"],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Facile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "957",
+      "question": "Par quelles manifestations principales se caractérise la vie de la cellule végétale ?",
+      "options": [
+        "Son irritabilité, sa nutrition, sa croissance et sa multiplication",
+        "Sa respiration, sa photosynthèse, sa transpiration et sa mort",
+        "Sa rigidité, sa perméabilité, sa gélification et sa division",
+        "Son absorption, sa synthèse, son clivage et son immobilité"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "958",
+      "question": "Quelles excitations externes peuvent provoquer une réaction d'irritabilité chez la cellule végétale ?",
+      "options": [
+        "La chaleur, la lumière, l'humidité, l'électricité et les chocs",
+        "La pesanteur, le vide, le magnétisme et l'obscurité complète",
+        "L'azote, le carbone, l'hydrogène et les sels minéraux",
+        "L'acidité, l'alcalinité, la déshydratation et la sénescence"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "959",
+      "question": "Comment est qualifié le mouvement de réaction de la cellule végétale face aux excitations ?",
+      "options": [
+        "Lent et peu apparent",
+        "Rapide et très visible",
+        "Instantané et vigoureux",
+        "Inexistant et totalement nul"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "960",
+      "question": "Quelle est la cause de l'absence d'un mouvement d'ensemble lors de la réaction d'irritabilité ?",
+      "options": [
+        "La présence de la membrane cellulaire rigide",
+        "Le manque d'énergie et de nutriments essentiels",
+        "La disparition temporaire du cytoplasme cellulaire",
+        "La taille excessive de la vacuole centrale"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "961",
+      "question": "À travers quelle structure perméable la cellule végétale reçoit-elle l'eau et les substances dissoutes ?",
+      "options": [
+        "Sa membrane pecto-cellulosique",
+        "Sa membrane nucléaire",
+        "La plaque équatoriale",
+        "Le fuseau achromatique"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "962",
+      "question": "Quels éléments cellulaires opèrent un choix (sélection) parmi les substances dissoutes qui traversent la membrane ?",
+      "options": [
+        "La membrane cytoplasmique et le cytoplasme",
+        "La paroi pecto-cellulosique et les pores",
+        "Le noyau et la membrane nucléaire",
+        "Les nucléoles et les chromosomes"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "963",
+      "question": "Pour quelles fonctions principales les substances absorbées par la cellule sont-elles utilisées ?",
+      "options": [
+        "Réaliser la synthèse de substances nouvelles ou produire de l'énergie",
+        "Provoquer l'irritabilité ou détruire la membrane pecto-cellulosique",
+        "Épaissir la cuticule externe ou former des méats d'air",
+        "Bloquer la division cellulaire et solidifier les pores"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "964",
+      "question": "À quel moment précis la cellule végétale se divise-t-elle au cours de sa croissance ?",
+      "options": [
+        "Quand elle a atteint sa taille limite",
+        "Dès qu'elle absorbe les premières substances dissoutes",
+        "Au moment où la membrane cytoplasmique disparaît",
+        "Lorsque le cytoplasme se solidifie en gel"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "965",
+      "question": "Quels sont les deux modes de division ou multiplication cellulaire décrits dans le texte ?",
+      "options": [
+        "L'amitose (directe) et la mitose (indirecte)",
+        "La prophase (directe) et l'anaphase (indirecte)",
+        "La scissiparité (interne) et le bourgeonnement (externe)",
+        "La fusion cellulaire et la gélification membranaire"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "966",
+      "question": "En quoi consiste le mécanisme de l'amitose ?",
+      "options": [
+        "Un étranglement du noyau qui le partage approximativement en deux moitiés",
+        "Une disparition de la membrane nucléaire suivie d'un clivage longitudinal",
+        "Une immobilisation brutale des chromosomes dans le plan équatorial",
+        "Un gonflement du noyau jusqu'à l'éclatement complet de ses contours"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "967",
+      "question": "Que se passe-t-il au niveau de la masse cytoplasmique suite à l'étranglement du noyau dans l'amitose ?",
+      "options": [
+        "Elle se coupe en deux, chaque moitié emportant un noyau",
+        "Elle se dissout entièrement dans le suc nucléaire",
+        "Elle forme un fuseau achromatique reliant les deux pôles",
+        "Elle s'immobilise brusquement sans subir de modification"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "968",
+      "question": "Dans quelles conditions ou types de cellules observe-t-on préférentiellement l'amitose ?",
+      "options": [
+        "Dans quelques types de cellules âgées ou dégénérées",
+        "Dans toutes les cellules jeunes en pleine croissance linéaire",
+        "Exclusivement dans les vaisseaux conducteurs de sève brute",
+        "Uniquement dans les cellules de l'épiderme des jeunes tiges"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "969",
+      "question": "Qu'a révélé le microscope électronique concernant la multiplication des végétaux inférieurs ?",
+      "options": [
+        "Que leurs cellules se multiplient aussi par division indirecte ou mitose",
+        "Que l'amitose est le mode de division exclusif et universel chez eux",
+        "Qu'ils ne possèdent ni noyau ni masse cytoplasmique divisible",
+        "Que leur division cellulaire s'effectue uniquement par gélification"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "970",
+      "question": "De quelle manière se déroule globalement le processus de la mitose ?",
+      "options": [
+        "D'une manière continue",
+        "Par étapes intermittentes et saccadées",
+        "Uniquement en cas d'excitation thermique",
+        "De façon purement aléatoire et imprévisible"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "971",
+      "question": "Combien de phases distinctes peut-on identifier au cours de la mitose d'après le document ?",
+      "options": [
+        "Quatre phases",
+        "Trois phases",
+        "Cinq phases",
+        "Deux phases"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "972",
+      "question": "Quel est le premier événement qui affecte le noyau au cours de la prophase ?",
+      "options": [
+        "Le noyau se gonfle et ses contours s'estompent progressivement",
+        "Le noyau subit un étranglement médian immédiat",
+        "Le noyau migre vers le plan équatorial du fuseau",
+        "Le noyau se divise instantanément en deux noyaux-fils"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "973",
+      "question": "Où distingue-t-il d'abord les chromosomes lorsqu'ils commencent à devenir visibles en prophase ?",
+      "options": [
+        "À la périphérie, puis vers le centre du noyau",
+        "Directement alignés sur la plaque équatoriale",
+        "Uniquement aux deux pôles de la cellule",
+        "À l'extérieur de la cellule, à travers les pores"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "974",
+      "question": "Comment évoluent morphologiquement les chromosomes au cours de la prophase ?",
+      "options": [
+        "Ils s'enroulent en spirales, s'épaississent et se raccourcissent",
+        "Ils s'allongent, s'amincissent et se déroulent complètement",
+        "Ils se fragmentent en petites structures sphériques irrégulières",
+        "Ils fusionnent pour former une masse chromatinienne unique"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "975",
+      "question": "En quoi les chromosomes se fissurent-ils longitudinalement pendant la prophase ?",
+      "options": [
+        "En deux chromatides",
+        "En deux centromères",
+        "En deux nucléoles",
+        "En deux fuseaux achromatiques"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "976",
+      "question": "Par quelle structure spécifique les deux chromatides restent-ils liés lors de leur formation ?",
+      "options": [
+        "Le centromère",
+        "Le filament du fuseau",
+        "La plaque équatoriale",
+        "La membrane nucléaire"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "977",
+      "question": "Quels éléments cellulaires disparaissent complètement vers la fin de la prophase ?",
+      "options": [
+        "Les nucléoles et la membrane nucléaire",
+        "Les chromosomes et les chromatides",
+        "Le cytoplasme et la membrane cytoplasmique",
+        "Le centromère et les filaments polaires"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "978",
+      "question": "Que se passe-t-il pour le cytoplasme et le suc nucléaire lorsque la membrane nucléaire disparaît ?",
+      "options": [
+        "Ils se confondent alors",
+        "Ils se séparent hermétiquement",
+        "Ils s'évaporent hors de la cellule",
+        "Ils se transforment en cutine solide"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "979",
+      "question": "Quelle structure est constituée par l'ensemble des filaments unissant les deux pôles de la cellule ?",
+      "options": [
+        "Le fuseau achromatique",
+        "La plaque équatoriale",
+        "Le chromosome-fils",
+        "L'enveloppe nucléaire"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "980",
+      "question": "Comment les chromosomes fissurés s'attachent-ils aux filaments du fuseau en prophase ?",
+      "options": [
+        "Chacun s'attache à l'un des filaments par leur centromère",
+        "Ils s'enroulent directement autour des pôles de la cellule",
+        "Ils se lient par l'intermédiaire des nucléoles résiduels",
+        "Ils adhèrent librement par leurs bras extérieurs"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "981",
+      "question": "Quel type de mouvements les chromosomes exécutent-ils après leur fixation sur les filaments en prophase ?",
+      "options": [
+        "Des mouvements de va-et-vient",
+        "Des mouvements de rotation continue",
+        "Des mouvements d'étranglement direct",
+        "Aucun mouvement, ils s'immobilisent immédiatement"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "982",
+      "question": "Quel comportement caractéristique adoptent les chromosomes au cours de la métaphase ?",
+      "options": [
+        "Ils s'immobilisent brusquement, les bras vers l'extérieur",
+        "Ils se séparent pour fuir rapidement vers les pôles",
+        "Ils se fissurent longitudinalement pour la première fois",
+        "Ils se mettent à gonfler jusqu'à estomper leurs contours"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "983",
+      "question": "Quelle structure caractéristique forment les chromosomes lorsqu'ils s'alignent au centre du fuseau en métaphase ?",
+      "options": [
+        "La plaque équatoriale",
+        "Le fuseau achromatique",
+        "L'étranglement nucléaire",
+        "La membrane cytoplasmique"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "984",
+      "question": "Quel événement biologique s'achève précisément au début de l'anaphase ?",
+      "options": [
+        "Le clivage de chaque chromosome",
+        "Le gonflement initial du noyau",
+        "L'enroulement en spirale des filaments",
+        "La disparition des nucléoles"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "985",
+      "question": "Que font les chromatides encore accolés au niveau du centromère pendant l'anaphase ?",
+      "options": [
+        "Ils se séparent pour se diriger chacun vers un pôle",
+        "Ils s'unissent pour reformer un chromosome double",
+        "Ils s'immobilisent définitivement au centre du fuseau",
+        "Ils fusionnent directement avec le suc nucléaire"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "986",
+      "question": "Qu'est-ce que le 'chromosome-fils' et quelle est son orientation pendant son déplacement en anaphase ?",
+      "options": [
+        "Chaque chromatide séparé, se mouvant avec le centromère tourné vers le haut",
+        "Le chromosome non clivé restant au centre du plan équatorial",
+        "L'ensemble des filaments du fuseau migrant vers la paroi rigide",
+        "Le noyau issu de l'amitose avant la séparation du cytoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Intermediaire",
+      "tip": "Quiz"
+    },
+    {
+      "id": "987",
+      "question": "Quelle caractéristique structurale intrinsèque de la cellule végétale empêche l'apparition d'un mouvement d'ensemble lors de la réaction d'irritabilité ?",
+      "options": [
+        "La présence de la membrane cellulaire rigide",
+        "La fluidité excessive du cytoplasme périphérique",
+        "L'absence de filaments contractiles dans le suc nucléaire",
+        "La forte pression de turgescence exercée par les méats"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "988",
+      "question": "Parmi les barrières cellulaires traversées lors de la nutrition, lesquelles accomplissent activement une sélection qualitative (un choix) des substances ?",
+      "options": [
+        "La membrane cytoplasmique et le cytoplasme",
+        "La membrane pecto-cellulosique externe uniquement",
+        "Les plasmodesmes et la lame moyenne",
+        "La cuticule hydrophobe et les pores rigides"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "989",
+      "question": "Lors du métabolisme de nutrition, quel est le devenir dual des substances organiques ou minérales définitivement absorbées par le cytoplasme ?",
+      "options": [
+        "Réaliser la synthèse de substances nouvelles ou produire de l'énergie",
+        "Provoquer l'irritabilité membranaire ou initier le clivage du centromère",
+        "Épaissir la plaque équatoriale ou dissoudre les nucléoles",
+        "Alimenter les cavités des méats ou gélifier la cellulose"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "990",
+      "question": "Quel facteur limitant lié au développement physique de la cellule détermine le déclenchement de sa division ou multiplication ?",
+      "options": [
+        "L'atteinte de sa taille limite au cours de sa croissance",
+        "L'épuisement total des réserves d'eau dans la membrane",
+        "La disparition complète des contours du fuseau chromatique",
+        "L'accumulation excessive de cire sur sa face interne"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "991",
+      "question": "Sur le plan morphologique, quel mécanisme précis définit l'étape initiale de l'amitose au niveau du matériel nucléaire ?",
+      "options": [
+        "Un étranglement du noyau qui le partage approximativement en deux moitiés",
+        "Une fissuration longitudinal rigoureuse des chromosomes individualisés",
+        "Une dissolution complète des contours nucléaires par le cytoplasme",
+        "Un alignement symétrique des structures sur une plaque médiane"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "992",
+      "question": "Dans quelles catégories spécifiques de cellules végétales la division directe ou amitose s'observe-t-elle préférentiellement ?",
+      "options": [
+        "Dans quelques types de cellules âgées ou dégénérantes",
+        "Dans les cellules embryonnaires en pleine croissance linéaire",
+        "Dans les vaisseaux ligneux conducteurs de la sève brute",
+        "Dans les cellules épidermiques hautement cutinisées"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "993",
+      "question": "Quelle croyance historique relative aux végétaux inférieurs a été réfutée par l'avènement des observations au microscope électronique ?",
+      "options": [
+        "La croyance que l'amitose était le mode de division général chez eux",
+        "L'hypothèse qu'ils ne possédaient aucune membrane pecto-cellulosique",
+        "L'idée que leurs cellules se multipliaient exclusivement par mitose continue",
+        "La théorie selon laquelle leur noyau ne contenait pas de suc nucléaire"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "994",
+      "question": "Bien que l'étude de la mitose y distingue artificiellement quatre phases successives, comment se déroule ce processus cinétique ?",
+      "options": [
+        "D'une manière continue",
+        "Par étapes disjointes et indépendantes",
+        "De façon discontinue induite par l'électricité",
+        "Par cycles alternatifs de repos et de gélification"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "995",
+      "question": "Quel est le profil de distribution topographique des chromosomes lors de leur apparition initiale en prophase ?",
+      "options": [
+        "On les distingue d'abord à la périphérie, puis vers le centre du noyau",
+        "Ils s'accumulent directement aux pôles opposés de la cellule",
+        "Ils se fixent immédiatement sur la plaque équatoriale du fuseau",
+        "Ils se dispersent uniformément à travers les pores de la membrane"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "996",
+      "question": "Quelles transformations structurales simultanées les chromosomes subissent-ils au cours de la prophase ?",
+      "options": [
+        "Ils s'enroulent en spirales, s'épaississent et se raccourcissent",
+        "Ils s'allongent, s'amincissent et se détachent du centromère",
+        "Ils se rigidifient, se minéralisent et traversent l'enveloppe",
+        "Ils se liquéfient, se fragmentent et se confondent avec le cytoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "997",
+      "question": "De quelle manière géométrique précise s'effectue la fissuration structurale des chromosomes pendant la prophase ?",
+      "options": [
+        "Longitudinalement en deux chromatides",
+        "Transversalement en plusieurs segments isolés",
+        "De façon hélicoïdale autour du nucléole en décomposition",
+        "Par division oblique à partir des pôles du fuseau"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "998",
+      "question": "Par quelle structure de liaison les deux chromatides issus de la fissuration prophasique demeurent-ils connectés ?",
+      "options": [
+        "Le centromère",
+        "Le filament achromatique",
+        "La plaque équatoriale",
+        "Le pore pecto-cellulosique"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "999",
+      "question": "Quel événement cytologique direct découle de la disparition de la membrane nucléaire à la fin de la prophase ?",
+      "options": [
+        "Le cytoplasme et le suc nucléaire se confondent alors",
+        "Les chromatides se transforment immédiatement en chromosomes-fils",
+        "La masse cytoplasmique subit un étranglement médian immédiat",
+        "Les nucléoles migrent vers la périphérie de la membrane rigide"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "1000",
+      "question": "Comment appelle-t-on l'ensemble architectural de filaments formés en prophase qui unissent les deux pôles de la cellule ?",
+      "options": [
+        "Le fuseau chromatique",
+        "La plaque équatoriale",
+        "Le réseau plasmodesmique",
+        "Le système canaliculaire"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    },
+    {
+      "id": "1001",
+      "question": "Quel type d'activité dynamique les chromosomes fissurés exécutent-ils dès qu'ils s'arriment aux filaments du fuseau ?",
+      "options": [
+        "Des mouvements de va-et-vient",
+        "Une rotation hélicoïdale continue autour du noyau",
+        "Une immobilisation absolue et instantanée aux pôles",
+        "Un clivage transversal asymétrique immédiat"
+      ],
+      "reponsKorek": 0,
+      "paj": "Etape 6",
+      "nivo": "Difficile",
+      "tip": "Quiz"
+    }
   ]
 }
