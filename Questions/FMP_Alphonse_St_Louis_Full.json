@@ -1,841 +1,1120 @@
 {
   "Page 2": [
     {
-    "id": "1",
-    "question": "Du point de vue chimique, le cytoplasme est essentiellement formé d'eau et de grosses molécules de _____.",
-    "options": ["protéines"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "2",
-    "question": "Le cytoplasme est très avide d'_____, ce qui en fait un réducteur.",
-    "options": ["oxygène"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "3",
-    "question": "Le cytoplasme est coagulable par la chaleur et par l'_____.",
-    "options": ["alcool"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "4",
-    "question": "Le cytoplasme peut se dissoudre dans l'eau de _____.",
-    "options": ["Javel"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "5",
-    "question": "Dans le cytoplasme, les inclusions inertes sont également appelées _____.",
-    "options": ["paraplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "6",
-    "question": "Le chondriome se présente sous forme de petits corps nommés _____.",
-    "options": ["chondriosomes"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "7",
-    "question": "Les chondriosomes sous forme de petits grains sont appelés _____.",
-    "options": ["mitochondries"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "8",
-    "question": "Les chondriosomes en forme de bâtonnets ou de filaments sont les _____.",
-    "options": ["chondriocontes"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "9",
-    "question": "Les mitochondries sont le siège des _____ cellulaires.",
-    "options": ["oxydations"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "10",
-    "question": "L'appareil de Golgi a été découvert en 1808 par _____.",
-    "options": ["Golgi"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "11",
-    "question": "L'appareil de Golgi se colore en noir après imprégnation à l'_____.",
-    "options": ["argent"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "12",
-    "question": "Les corps de Golgi évoquant des petits bâtonnets ou croissants sont appelés _____.",
-    "options": ["dictyosomes"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "13",
-    "question": "L'appareil de Golgi intervient dans la sécrétion chez les cellules _____.",
-    "options": ["glandulaires"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "14",
-    "question": "Le centrosome est formé d'une partie centrale très colorable appelée _____.",
-    "options": ["centriole"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "15",
-    "question": "Le centriole est entouré d'une masse de protoplasme claire appelée _____.",
-    "options": ["archoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "16",
-    "question": "Le réticulum endoplasmique lisse est responsable de la synthèse des _____.",
-    "options": ["stéroïdes"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "17",
-    "question": "Les ribosomes sont également appelés grains de _____.",
-    "options": ["Palade"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "18",
-    "question": "Les lysosomes sont riches en enzymes _____.",
-    "options": ["digestives"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "19",
-    "question": "L'ensemble des vacuoles forme le _____.",
-    "options": ["vacuome"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "20",
-    "question": "Les glucides de réserve sont représentés par des grains de _____.",
-    "options": ["glycogène"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "21",
-    "question": "Toutes les cellules vivantes possèdent au moins un _____.",
-    "options": ["noyau"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "22",
-    "question": "Le noyau est entouré d'une fine membrane nucléaire _____.",
-    "options": ["élastique"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "23",
-    "question": "La substance visqueuse baignant les organites du noyau est le _____.",
-    "options": ["nucléoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "24",
-    "question": "L'espèce humaine possède _____ chromosomes dans ses cellules.",
-    "options": ["46"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "25",
-    "question": "Les chromosomes contiennent l'information génétique dans les molécules d'_____.",
-    "options": ["ADN"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "26",
-    "question": "Le rapport entre le volume du cytoplasme et celui du noyau est le rapport _____.",
-    "options": ["nucléocytoplasmique"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "27",
-    "question": "L'expérience consistant à sectionner une cellule en deux s'appelle la _____.",
-    "options": ["mérotomie"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "28",
-    "question": "La membrane cytoplasmique a une épaisseur de l'ordre de _____ micromètre.",
-    "options": ["0,01"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "29",
-    "question": "L'absorption de substances liquides par la membrane est la _____.",
-    "options": ["pinocytose"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "30",
-    "question": "L'absorption de particules solides par la membrane est la _____.",
-    "options": ["phagocytose"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "31",
-    "question": "Le mécanisme de rejet de substances à l'extérieur de la cellule est l'_____.",
-    "options": ["exocytose"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Facile",
-    "tip": "Completer"
-  },
-  {
-    "id": "32",
-    "question": "Le cytoplasme est essentiellement formé d'eau et de _____, associées à des lipides, des glucides et des _____.",
-    "options": ["protéines", "enzymes"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "33",
-    "question": "Dans le cytoplasme sont disséminés deux groupes d'inclusions : les inclusions _____ et les inclusions inertes ou _____.",
-    "options": ["vivantes", "paraplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "34",
-    "question": "Lorsque le cytoplasme est transparent, les chondriosomes se présentent sous forme de petits grains nommés _____ ou de bâtonnets nommés _____.",
-    "options": ["mitochondries", "chondriocontes"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "35",
-    "question": "Les chondriosomes sont constitués d'une substance _____ phosphorée et renferment une grande quantité d'_____.",
-    "options": ["lipoprotéique", "enzymes"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "36",
-    "question": "Les mitochondries sont le siège des _____ cellulaires et constituent le centre _____ de la cellule.",
-    "options": ["oxydations", "énergétique"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "37",
-    "question": "L'appareil de Golgi est formé de petits éléments isolés appelés corps de _____ situés au voisinage du _____.",
-    "options": ["Golgi", "noyau"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "38",
-    "question": "L'appareil de Golgi forme parfois un réseau réticulé autour du noyau dans les cellules _____ et agit comme un appareil _____.",
-    "options": ["nerveuses", "excréteur"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "39",
-    "question": "L'appareil de Golgi intervient en coopération avec le réticulum endoplasmique dans la synthèse des _____ dans les glandes _____.",
-    "options": ["glycérides", "intestinales"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "40",
-    "question": "L'appareil de Golgi concentre les _____ formées par l'_____.",
-    "options": ["protéines", "ergastoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "41",
-    "question": "Le centrosome est constitué d'un _____ central entouré d'une masse de protoplasme appelée _____.",
-    "options": ["centriole", "archoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "42",
-    "question": "Le réticulum endoplasmique lisse synthétise les _____, tandis que le réticulum granuleux est associé aux _____.",
-    "options": ["stéroïdes", "ribosomes"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "43",
-    "question": "Le réticulum stocke les _____ formées et les distribue spécialement à l'appareil de _____.",
-    "options": ["protéines", "Golgi"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "44",
-    "question": "Les ribosomes peuvent être dispersés dans le _____ ou collés contre le réticulum endoplasmique pour former l'_____.",
-    "options": ["hyaloplasme", "ergastoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "45",
-    "question": "Les lysosomes sont limités par une _____ simple et sont riches en enzymes _____.",
-    "options": ["membrane", "digestives"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "46",
-    "question": "Dans les leucocytes, les lysosomes sont très actifs et digèrent les _____ _____.",
-    "options": ["microbes", "phagocytés"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "47",
-    "question": "Les enclaves inertes du cytoplasme comprennent le _____ et les _____.",
-    "options": ["vacuome", "réserves"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "48",
-    "question": "Dans les cellules des protozoaires, on observe des vacuoles _____ ou des vacuoles _____.",
-    "options": ["digestives", "pulsatiles"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "49",
-    "question": "Les vacuoles sont remplies de _____ vacuolaire qui contient des produits d'_____ ou de réserves.",
-    "options": ["suc", "excrétion"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "50",
-    "question": "Les réserves glucidiques sont représentées par le _____, abondant dans le foie et les _____.",
-    "options": ["glycogène", "muscles"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "51",
-    "question": "Dans les cellules à sécrétion interne, on trouve des granules ou _____ représentant des inclusions _____.",
-    "options": ["cristalloïdes", "protidiques"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "52",
-    "question": "Le noyau est un corpuscule _____, plus réfringent que le _____.",
-    "options": ["incolore", "cytoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "53",
-    "question": "Les cellules du foie peuvent posséder _____ noyaux, tandis que les cellules de la moelle osseuse en possèdent _____.",
-    "options": ["deux", "plus"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "54",
-    "question": "La membrane nucléaire est perméable et permet des échanges entre le _____ et le _____.",
-    "options": ["noyau", "protoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "55",
-    "question": "À l'intérieur du suc nucléaire se trouvent des _____ et de la _____, substance riche en acides nucléiques.",
-    "options": ["nucléoles", "chromatine"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "56",
-    "question": "Dans le suc nucléaire, les grains de chromatine sont réunis par des filaments achromatiques très _____ et difficiles à _____.",
-    "options": ["fins", "colorer"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "57",
-    "question": "Au moment de la division cellulaire, la chromatine se condense en _____, dont l'ensemble constitue le _____.",
-    "options": ["chromosomes", "caryotype"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "58",
-    "question": "Les 46 chromosomes chez l'homme conditionnent le _____ et transmettent les caractères _____.",
-    "options": ["sexe", "héréditaires"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "59",
-    "question": "Le noyau est particulièrement riche en _____ qui interviennent dans le métabolisme des _____ nucléiques.",
-    "options": ["diastases", "acides"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "60",
-    "question": "La membrane cytoplasmique est constituée de _____ et de _____.",
-    "options": ["protéines", "phospholipides"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "61",
-    "question": "Dans l'endocytose, la _____ concerne l'absorption de liquides, tandis que la _____ concerne l'absorption de solides.",
-    "options": ["pinocytose", "phagocytose"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "62",
-    "question": "La cellule végétale possède une membrane _____ et des plastes, mais elle n'a pas de _____.",
-    "options": ["cellulosique", "centrosomes"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Intermediaire",
-    "tip": "Completer"
-  },
-  {
-    "id": "63",
-    "question": "Du point de vue chimique, le cytoplasme est formé d'eau et de _____ associées à des lipides, des glucides et des _____, tout en agissant comme un _____.",
-    "options": ["protéines", "enzymes", "réducteur"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "64",
-    "question": "Le cytoplasme est coagulable par la _____ et l'_____, mais il se dissout dans l'eau de _____.",
-    "options": ["chaleur", "alcool", "Javel"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "65",
-    "question": "Le chondriome se présente sous forme de petits grains appelés _____ ou de filaments appelés _____, constitués d'une substance _____ phosphorée.",
-    "options": ["mitochondries", "chondriocontes", "lipoprotéique"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "66",
-    "question": "Les mitochondries constituent le centre _____ et énergétique de la cellule, et contiennent des _____ impliquées dans les _____ cellulaires.",
-    "options": ["respiratoire", "enzymes", "oxydations"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "67",
-    "question": "En fournissant de l'_____, le chondriome intervient indirectement dans la _____, la sécrétion et la synthèse d'autres éléments _____.",
-    "options": ["énergie", "croissance", "cellulaires"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "68",
-    "question": "Découvert en 1808 par _____, l'appareil de Golgi s'observe après imprégnation à l'_____ qui le colore en _____.",
-    "options": ["Golgi", "argent", "noir"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "69",
-    "question": "Les corps de Golgi ont la forme de bâtonnets ou de _____ appelés _____, et forment une structure _____ dans les cellules nerveuses.",
-    "options": ["croissants", "dictyosomes", "réticulée"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "70",
-    "question": "L'appareil de Golgi intervient dans la sécrétion des cellules _____, participe à la synthèse des _____ et concentre les protéines de l'_____.",
-    "options": ["glandulaires", "holosides", "ergastoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "71",
-    "question": "Le centrosome ou centre _____ est formé du _____ entouré d'une masse protoplasmique claire appelée _____.",
-    "options": ["cellulaire", "centriole", "archoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "72",
-    "question": "Le centrosome est un centre _____ qui régit les mouvements internes de la _____ cellulaire et les mouvements des cellules _____.",
-    "options": ["cinétique", "division", "ciliées"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "73",
-    "question": "Le réticulum endoplasmique délimite des cavités _____, où la forme lisse synthétise les _____ et la forme granuleuse synthétise les _____.",
-    "options": ["aplaties", "stéroïdes", "protéines"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "74",
-    "question": "Le réticulum stocke, transforme et distribue les _____ à l'appareil de _____, assurant le _____ intracellulaire.",
-    "options": ["protéines", "Golgi", "transport"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "75",
-    "question": "Les ribosomes ou grains de _____ sont situés dans le _____ ou fixés au réticulum pour former l'_____.",
-    "options": ["Palade", "hyaloplasme", "ergastoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "76",
-    "question": "Les lysosomes sont des corpuscules avec une _____ simple, riches en enzymes _____ et agissant comme des catalyseurs _____.",
-    "options": ["membrane", "digestives", "cellulaires"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "77",
-    "question": "Dans les _____, les lysosomes sont très actifs pour digérer les _____ qui ont été _____.",
-    "options": ["leucocytes", "microbes", "phagocytés"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "78",
-    "question": "Le vacuome est formé de petites _____, limitées par une membrane de même nature que la membrane _____, contenant le _____ vacuolaire.",
-    "options": ["vacuoles", "cytoplasmique", "suc"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "79",
-    "question": "Les réserves cytoplasmiques comprennent le _____ dans le foie, les gouttelettes de _____ dans le tissu adipeux et des cristalloïdes _____.",
-    "options": ["glycogène", "graisse", "protidiques"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "80",
-    "question": "Le noyau est un corpuscule _____, plus réfringent que le _____, et généralement de forme _____.",
-    "options": ["incolore", "cytoplasme", "globuleuse"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "81",
-    "question": "Les cellules de la moelle osseuse possèdent _____ noyaux, tandis que les globules rouges sont dépourvus de _____ après leur _____.",
-    "options": ["plusieurs", "noyau", "évolution"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "82",
-    "question": "Le noyau est entouré d'une membrane _____ perméable et contient des organites baignés dans le _____ au sein du suc _____.",
-    "options": ["nucléaire", "nucléoplasme", "nucléaire"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "83",
-    "question": "Dans le suc nucléaire, les _____ sont absents chez les spermatozoïdes, alors que la _____ est riche en acides _____.",
-    "options": ["nucléoles", "chromatine", "nucléiques"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "84",
-    "question": "Les grains de chromatine sont reliés par des filaments _____, et se condensent en _____ lors de la _____ cellulaire.",
-    "options": ["achromatiques", "chromosomes", "division"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "85",
-    "question": "Les 46 chromosomes de l'espèce humaine constituent le _____, déterminent le _____ et transmettent les caractères _____.",
-    "options": ["caryotype", "sexe", "héréditaires"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "86",
-    "question": "Le suc nucléaire contient des _____, de l'eau et des _____, tandis que le noyau est riche en _____.",
-    "options": ["holoprotéines", "phosphatides", "diastases"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "87",
-    "question": "Le noyau est le centre _____ de la cellule, contrôlant son _____, son fonctionnement et sa _____.",
-    "options": ["directeur", "développement", "division"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "88",
-    "question": "Le noyau intervient dans le métabolisme cellulaire via le _____ et la _____, ainsi que dans l'_____ cellulaire.",
-    "options": ["nucléole", "chromatine", "assimilation"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "89",
-    "question": "Le rapport nucléocytoplasmique _____ est plus élevé dans les cellules _____, traduisant les relations entre le noyau et le _____.",
-    "options": ["N/P", "jeunes", "cytoplasme"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "90",
-    "question": "Dans l'expérience de _____, la partie sans noyau est incapable de _____, car le cytoplasme ne peut pas former de _____.",
-    "options": ["mérotomie", "croissance", "noyau"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "91",
-    "question": "La membrane cytoplasmique a une épaisseur de _____ micromètre, elle est _____ et constituée de _____ et de phospholipides.",
-    "options": ["0,01", "déformable", "protéines"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "92",
-    "question": "L'endocytose comprend la _____ pour les liquides et la _____ pour les solides, permettant l'entrée de grandes _____.",
-    "options": ["pinocytose", "phagocytose", "molécules"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  },
-  {
-    "id": "93",
-    "question": "L'exocytose permet de rejeter des _____ à l'extérieur, d'ajouter de la _____ et constitue l'inverse de l'_____.",
-    "options": ["sécrétions", "membrane", "endocytose"],
-    "reponsKorek": 0,
-    "paj": "Page 2",
-    "nivo": "Difficile",
-    "tip": "Completer"
-  }
-]
+      "id": "1",
+      "question": "Du point de vue chimique, le cytoplasme est essentiellement formé d'eau et de grosses molécules de _____.",
+      "options": [
+        "protéines"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "2",
+      "question": "Le cytoplasme est très avide d'_____, ce qui en fait un réducteur.",
+      "options": [
+        "oxygène"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "3",
+      "question": "Le cytoplasme est coagulable par la chaleur et par l'_____.",
+      "options": [
+        "alcool"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "4",
+      "question": "Le cytoplasme peut se dissoudre dans l'eau de _____.",
+      "options": [
+        "Javel"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "5",
+      "question": "Dans le cytoplasme, les inclusions inertes sont également appelées _____.",
+      "options": [
+        "paraplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "6",
+      "question": "Le chondriome se présente sous forme de petits corps nommés _____.",
+      "options": [
+        "chondriosomes"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "7",
+      "question": "Les chondriosomes sous forme de petits grains sont appelés _____.",
+      "options": [
+        "mitochondries"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "8",
+      "question": "Les chondriosomes en forme de bâtonnets ou de filaments sont les _____.",
+      "options": [
+        "chondriocontes"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "9",
+      "question": "Les mitochondries sont le siège des _____ cellulaires.",
+      "options": [
+        "oxydations"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "10",
+      "question": "L'appareil de Golgi a été découvert en 1808 par _____.",
+      "options": [
+        "Golgi"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "11",
+      "question": "L'appareil de Golgi se colore en noir après imprégnation à l'_____.",
+      "options": [
+        "argent"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "12",
+      "question": "Les corps de Golgi évoquant des petits bâtonnets ou croissants sont appelés _____.",
+      "options": [
+        "dictyosomes"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "13",
+      "question": "L'appareil de Golgi intervient dans la sécrétion chez les cellules _____.",
+      "options": [
+        "glandulaires"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "14",
+      "question": "Le centrosome est formé d'une partie centrale très colorable appelée _____.",
+      "options": [
+        "centriole"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "15",
+      "question": "Le centriole est entouré d'une masse de protoplasme claire appelée _____.",
+      "options": [
+        "archoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "16",
+      "question": "Le réticulum endoplasmique lisse est responsable de la synthèse des _____.",
+      "options": [
+        "stéroïdes"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "17",
+      "question": "Les ribosomes sont également appelés grains de _____.",
+      "options": [
+        "Palade"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "18",
+      "question": "Les lysosomes sont riches en enzymes _____.",
+      "options": [
+        "digestives"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "19",
+      "question": "L'ensemble des vacuoles forme le _____.",
+      "options": [
+        "vacuome"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "20",
+      "question": "Les glucides de réserve sont représentés par des grains de _____.",
+      "options": [
+        "glycogène"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "21",
+      "question": "Toutes les cellules vivantes possèdent au moins un _____.",
+      "options": [
+        "noyau"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "22",
+      "question": "Le noyau est entouré d'une fine membrane nucléaire _____.",
+      "options": [
+        "élastique"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "23",
+      "question": "La substance visqueuse baignant les organites du noyau est le _____.",
+      "options": [
+        "nucléoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "24",
+      "question": "L'espèce humaine possède _____ chromosomes dans ses cellules.",
+      "options": [
+        "46"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "25",
+      "question": "Les chromosomes contiennent l'information génétique dans les molécules d'_____.",
+      "options": [
+        "ADN"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "26",
+      "question": "Le rapport entre le volume du cytoplasme et celui du noyau est le rapport _____.",
+      "options": [
+        "nucléocytoplasmique"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "27",
+      "question": "L'expérience consistant à sectionner une cellule en deux s'appelle la _____.",
+      "options": [
+        "mérotomie"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "28",
+      "question": "La membrane cytoplasmique a une épaisseur de l'ordre de _____ micromètre.",
+      "options": [
+        "0,01"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "29",
+      "question": "L'absorption de substances liquides par la membrane est la _____.",
+      "options": [
+        "pinocytose"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "30",
+      "question": "L'absorption de particules solides par la membrane est la _____.",
+      "options": [
+        "phagocytose"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "31",
+      "question": "Le mécanisme de rejet de substances à l'extérieur de la cellule est l'_____.",
+      "options": [
+        "exocytose"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Facile",
+      "tip": "Completer"
+    },
+    {
+      "id": "32",
+      "question": "Le cytoplasme est essentiellement formé d'eau et de _____, associées à des lipides, des glucides et des _____.",
+      "options": [
+        "protéines",
+        "enzymes"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "33",
+      "question": "Dans le cytoplasme sont disséminés deux groupes d'inclusions : les inclusions _____ et les inclusions inertes ou _____.",
+      "options": [
+        "vivantes",
+        "paraplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "34",
+      "question": "Lorsque le cytoplasme est transparent, les chondriosomes se présentent sous forme de petits grains nommés _____ ou de bâtonnets nommés _____.",
+      "options": [
+        "mitochondries",
+        "chondriocontes"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "35",
+      "question": "Les chondriosomes sont constitués d'une substance _____ phosphorée et renferment une grande quantité d'_____.",
+      "options": [
+        "lipoprotéique",
+        "enzymes"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "36",
+      "question": "Les mitochondries sont le siège des _____ cellulaires et constituent le centre _____ de la cellule.",
+      "options": [
+        "oxydations",
+        "énergétique"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "37",
+      "question": "L'appareil de Golgi est formé de petits éléments isolés appelés corps de _____ situés au voisinage du _____.",
+      "options": [
+        "Golgi",
+        "noyau"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "38",
+      "question": "L'appareil de Golgi forme parfois un réseau réticulé autour du noyau dans les cellules _____ et agit comme un appareil _____.",
+      "options": [
+        "nerveuses",
+        "excréteur"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "39",
+      "question": "L'appareil de Golgi intervient en coopération avec le réticulum endoplasmique dans la synthèse des _____ dans les glandes _____.",
+      "options": [
+        "glycérides",
+        "intestinales"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "40",
+      "question": "L'appareil de Golgi concentre les _____ formées par l'_____.",
+      "options": [
+        "protéines",
+        "ergastoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "41",
+      "question": "Le centrosome est constitué d'un _____ central entouré d'une masse de protoplasme appelée _____.",
+      "options": [
+        "centriole",
+        "archoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "42",
+      "question": "Le réticulum endoplasmique lisse synthétise les _____, tandis que le réticulum granuleux est associé aux _____.",
+      "options": [
+        "stéroïdes",
+        "ribosomes"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "43",
+      "question": "Le réticulum stocke les _____ formées et les distribue spécialement à l'appareil de _____.",
+      "options": [
+        "protéines",
+        "Golgi"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "44",
+      "question": "Les ribosomes peuvent être dispersés dans le _____ ou collés contre le réticulum endoplasmique pour former l'_____.",
+      "options": [
+        "hyaloplasme",
+        "ergastoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "45",
+      "question": "Les lysosomes sont limités par une _____ simple et sont riches en enzymes _____.",
+      "options": [
+        "membrane",
+        "digestives"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "46",
+      "question": "Dans les leucocytes, les lysosomes sont très actifs et digèrent les _____ _____.",
+      "options": [
+        "microbes",
+        "phagocytés"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "47",
+      "question": "Les enclaves inertes du cytoplasme comprennent le _____ et les _____.",
+      "options": [
+        "vacuome",
+        "réserves"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "48",
+      "question": "Dans les cellules des protozoaires, on observe des vacuoles _____ ou des vacuoles _____.",
+      "options": [
+        "digestives",
+        "pulsatiles"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "49",
+      "question": "Les vacuoles sont remplies de _____ vacuolaire qui contient des produits d'_____ ou de réserves.",
+      "options": [
+        "suc",
+        "excrétion"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "50",
+      "question": "Les réserves glucidiques sont représentées par le _____, abondant dans le foie et les _____.",
+      "options": [
+        "glycogène",
+        "muscles"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "51",
+      "question": "Dans les cellules à sécrétion interne, on trouve des granules ou _____ représentant des inclusions _____.",
+      "options": [
+        "cristalloïdes",
+        "protidiques"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "52",
+      "question": "Le noyau est un corpuscule _____, plus réfringent que le _____.",
+      "options": [
+        "incolore",
+        "cytoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "53",
+      "question": "Les cellules du foie peuvent posséder _____ noyaux, tandis que les cellules de la moelle osseuse en possèdent _____.",
+      "options": [
+        "deux",
+        "plus"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "54",
+      "question": "La membrane nucléaire est perméable et permet des échanges entre le _____ et le _____.",
+      "options": [
+        "noyau",
+        "protoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "55",
+      "question": "À l'intérieur du suc nucléaire se trouvent des _____ et de la _____, substance riche en acides nucléiques.",
+      "options": [
+        "nucléoles",
+        "chromatine"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "56",
+      "question": "Dans le suc nucléaire, les grains de chromatine sont réunis par des filaments achromatiques très _____ et difficiles à _____.",
+      "options": [
+        "fins",
+        "colorer"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "57",
+      "question": "Au moment de la division cellulaire, la chromatine se condense en _____, dont l'ensemble constitue le _____.",
+      "options": [
+        "chromosomes",
+        "caryotype"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "58",
+      "question": "Les 46 chromosomes chez l'homme conditionnent le _____ et transmettent les caractères _____.",
+      "options": [
+        "sexe",
+        "héréditaires"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "59",
+      "question": "Le noyau est particulièrement riche en _____ qui interviennent dans le métabolisme des _____ nucléiques.",
+      "options": [
+        "diastases",
+        "acides"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "60",
+      "question": "La membrane cytoplasmique est constituée de _____ et de _____.",
+      "options": [
+        "protéines",
+        "phospholipides"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "61",
+      "question": "Dans l'endocytose, la _____ concerne l'absorption de liquides, tandis que la _____ concerne l'absorption de solides.",
+      "options": [
+        "pinocytose",
+        "phagocytose"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "62",
+      "question": "La cellule végétale possède une membrane _____ et des plastes, mais elle n'a pas de _____.",
+      "options": [
+        "cellulosique",
+        "centrosomes"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Intermediaire",
+      "tip": "Completer"
+    },
+    {
+      "id": "63",
+      "question": "Du point de vue chimique, le cytoplasme est formé d'eau et de _____ associées à des lipides, des glucides et des _____, tout en agissant comme un _____.",
+      "options": [
+        "protéines",
+        "enzymes",
+        "réducteur"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "64",
+      "question": "Le cytoplasme est coagulable par la _____ et l'_____, mais il se dissout dans l'eau de _____.",
+      "options": [
+        "chaleur",
+        "alcool",
+        "Javel"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "65",
+      "question": "Le chondriome se présente sous forme de petits grains appelés _____ ou de filaments appelés _____, constitués d'une substance _____ phosphorée.",
+      "options": [
+        "mitochondries",
+        "chondriocontes",
+        "lipoprotéique"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "66",
+      "question": "Les mitochondries constituent le centre _____ et énergétique de la cellule, et contiennent des _____ impliquées dans les _____ cellulaires.",
+      "options": [
+        "respiratoire",
+        "enzymes",
+        "oxydations"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "67",
+      "question": "En fournissant de l'_____, le chondriome intervient indirectement dans la _____, la sécrétion et la synthèse d'autres éléments _____.",
+      "options": [
+        "énergie",
+        "croissance",
+        "cellulaires"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "68",
+      "question": "Découvert en 1808 par _____, l'appareil de Golgi s'observe après imprégnation à l'_____ qui le colore en _____.",
+      "options": [
+        "Golgi",
+        "argent",
+        "noir"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "69",
+      "question": "Les corps de Golgi ont la forme de bâtonnets ou de _____ appelés _____, et forment une structure _____ dans les cellules nerveuses.",
+      "options": [
+        "croissants",
+        "dictyosomes",
+        "réticulée"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "70",
+      "question": "L'appareil de Golgi intervient dans la sécrétion des cellules _____, participe à la synthèse des _____ et concentre les protéines de l'_____.",
+      "options": [
+        "glandulaires",
+        "holosides",
+        "ergastoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "71",
+      "question": "Le centrosome ou centre _____ est formé du _____ entouré d'une masse protoplasmique claire appelée _____.",
+      "options": [
+        "cellulaire",
+        "centriole",
+        "archoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "72",
+      "question": "Le centrosome est un centre _____ qui régit les mouvements internes de la _____ cellulaire et les mouvements des cellules _____.",
+      "options": [
+        "cinétique",
+        "division",
+        "ciliées"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "73",
+      "question": "Le réticulum endoplasmique délimite des cavités _____, où la forme lisse synthétise les _____ et la forme granuleuse synthétise les _____.",
+      "options": [
+        "aplaties",
+        "stéroïdes",
+        "protéines"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "74",
+      "question": "Le réticulum stocke, transforme et distribue les _____ à l'appareil de _____, assurant le _____ intracellulaire.",
+      "options": [
+        "protéines",
+        "Golgi",
+        "transport"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "75",
+      "question": "Les ribosomes ou grains de _____ sont situés dans le _____ ou fixés au réticulum pour former l'_____.",
+      "options": [
+        "Palade",
+        "hyaloplasme",
+        "ergastoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "76",
+      "question": "Les lysosomes sont des corpuscules avec une _____ simple, riches en enzymes _____ et agissant comme des catalyseurs _____.",
+      "options": [
+        "membrane",
+        "digestives",
+        "cellulaires"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "77",
+      "question": "Dans les _____, les lysosomes sont très actifs pour digérer les _____ qui ont été _____.",
+      "options": [
+        "leucocytes",
+        "microbes",
+        "phagocytés"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "78",
+      "question": "Le vacuome est formé de petites _____, limitées par une membrane de même nature que la membrane _____, contenant le _____ vacuolaire.",
+      "options": [
+        "vacuoles",
+        "cytoplasmique",
+        "suc"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "79",
+      "question": "Les réserves cytoplasmiques comprennent le _____ dans le foie, les gouttelettes de _____ dans le tissu adipeux et des cristalloïdes _____.",
+      "options": [
+        "glycogène",
+        "graisse",
+        "protidiques"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "80",
+      "question": "Le noyau est un corpuscule _____, plus réfringent que le _____, et généralement de forme _____.",
+      "options": [
+        "incolore",
+        "cytoplasme",
+        "globuleuse"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "81",
+      "question": "Les cellules de la moelle osseuse possèdent _____ noyaux, tandis que les globules rouges sont dépourvus de _____ après leur _____.",
+      "options": [
+        "plusieurs",
+        "noyau",
+        "évolution"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "82",
+      "question": "Le noyau est entouré d'une membrane _____ perméable et contient des organites baignés dans le _____ au sein du suc _____.",
+      "options": [
+        "nucléaire",
+        "nucléoplasme",
+        "nucléaire"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "83",
+      "question": "Dans le suc nucléaire, les _____ sont absents chez les spermatozoïdes, alors que la _____ est riche en acides _____.",
+      "options": [
+        "nucléoles",
+        "chromatine",
+        "nucléiques"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "84",
+      "question": "Les grains de chromatine sont reliés par des filaments _____, et se condensent en _____ lors de la _____ cellulaire.",
+      "options": [
+        "achromatiques",
+        "chromosomes",
+        "division"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "85",
+      "question": "Les 46 chromosomes de l'espèce humaine constituent le _____, déterminent le _____ et transmettent les caractères _____.",
+      "options": [
+        "caryotype",
+        "sexe",
+        "héréditaires"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "86",
+      "question": "Le suc nucléaire contient des _____, de l'eau et des _____, tandis que le noyau est riche en _____.",
+      "options": [
+        "holoprotéines",
+        "phosphatides",
+        "diastases"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "87",
+      "question": "Le noyau est le centre _____ de la cellule, contrôlant son _____, son fonctionnement et sa _____.",
+      "options": [
+        "directeur",
+        "développement",
+        "division"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "88",
+      "question": "Le noyau intervient dans le métabolisme cellulaire via le _____ et la _____, ainsi que dans l'_____ cellulaire.",
+      "options": [
+        "nucléole",
+        "chromatine",
+        "assimilation"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "89",
+      "question": "Le rapport nucléocytoplasmique _____ est plus élevé dans les cellules _____, traduisant les relations entre le noyau et le _____.",
+      "options": [
+        "N/P",
+        "jeunes",
+        "cytoplasme"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "90",
+      "question": "Dans l'expérience de _____, la partie sans noyau est incapable de _____, car le cytoplasme ne peut pas former de _____.",
+      "options": [
+        "mérotomie",
+        "croissance",
+        "noyau"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "91",
+      "question": "La membrane cytoplasmique a une épaisseur de _____ micromètre, elle est _____ et constituée de _____ et de phospholipides.",
+      "options": [
+        "0,01",
+        "déformable",
+        "protéines"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "92",
+      "question": "L'endocytose comprend la _____ pour les liquides et la _____ pour les solides, permettant l'entrée de grandes _____.",
+      "options": [
+        "pinocytose",
+        "phagocytose",
+        "molécules"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    },
+    {
+      "id": "93",
+      "question": "L'exocytose permet de rejeter des _____ à l'extérieur, d'ajouter de la _____ et constitue l'inverse de l'_____.",
+      "options": [
+        "sécrétions",
+        "membrane",
+        "endocytose"
+      ],
+      "reponsKorek": 0,
+      "paj": "Page 2",
+      "nivo": "Difficile",
+      "tip": "Completer"
+    }
+  ]
 }
