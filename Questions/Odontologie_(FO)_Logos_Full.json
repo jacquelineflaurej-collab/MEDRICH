@@ -1895,5 +1895,54 @@
     "paj": "Etape 1",
     "nivo": "Difficile",
     "tip": "Completer"
+  },
+
+
+
+
+
+
+
+
+
+  
+  {
+    "id": "188",
+    "question": "Ki syans ki etidye fonksyonman ògann yo nan kò yon moun?",
+    "options": [
+      "Anatomi",
+      "Fizyoloji",
+      "Istoloji",
+      "Patoloji"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "189",
+    "question": "Prensip fondamantal lavi a baze sou _____.",
+    "options": [
+      "enèji"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "190",
+    "question": "Kesyon pou paj 3 a...",
+    "options": [
+      "Opt 1",
+      "Opt 2",
+      "Opt 3",
+      "Opt 4"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
   }
 ]
