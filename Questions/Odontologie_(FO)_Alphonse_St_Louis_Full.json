@@ -1314,5 +1314,1090 @@
     "paj": "Etape 1",
     "nivo": "Difficile",
     "tip": "Quiz"
+  },
+  {
+    "id": "95",
+    "question": "L'unité anatomique, fonctionnelle et fondamentale de tout être vivant s'appelle la _____.",
+    "options": [
+      "cellule"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "96",
+    "question": "L'étude de la cellule s'appelle la _____.",
+    "options": [
+      "cytologie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "97",
+    "question": "La cellule animale est constituée de deux parties essentielles: le cytoplasme et le _____.",
+    "options": [
+      "noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "98",
+    "question": "Le cytoplasme est entouré d'une membrane mince et élastique appelée membrane _____.",
+    "options": [
+      "plasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "99",
+    "question": "Le cytoplasme et le noyau constituent le _____.",
+    "options": [
+      "protoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "100",
+    "question": "La membrane plasmique est aussi appelée membrane _____.",
+    "options": [
+      "cytoplasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "101",
+    "question": "La cellule animale ne possède pas de membrane _____.",
+    "options": [
+      "squelettique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "102",
+    "question": "La membrane squelettique est également connue sous le nom de membrane _____.",
+    "options": [
+      "cellulosique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "103",
+    "question": "Parce qu'elle n'a pas de membrane cellulosique, la cellule animale est dite cellule _____.",
+    "options": [
+      "nue"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "104",
+    "question": "Les cellules animales peuvent être isolées ou _____.",
+    "options": [
+      "groupées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "105",
+    "question": "Une cellule qui a la forme d'un cercle est dite _____.",
+    "options": [
+      "sphérique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "106",
+    "question": "Les cellules en forme d'œuf sont qualifiées d'_____.",
+    "options": [
+      "ovoïdes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "107",
+    "question": "Les cellules peuvent se présenter sous forme de _____, fusiformes ou étoilées.",
+    "options": [
+      "croissant"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "108",
+    "question": "En général, les cellules animales sont de _____ taille.",
+    "options": [
+      "petite"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "109",
+    "question": "La taille des cellules animales est souvent de l'ordre de 10 à 15 _____.",
+    "options": [
+      "micromètres"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "110",
+    "question": "Les globules rouges humains mesurent 6 à 7,5 micromètres de _____.",
+    "options": [
+      "diamètre"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "111",
+    "question": "L'ovule humain mesure environ _____ micromètres.",
+    "options": [
+      "200"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "112",
+    "question": "Le jaune d'œuf de la poule a un diamètre de _____ cm.",
+    "options": [
+      "2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "113",
+    "question": "Le prolongement des cellules nerveuses peut atteindre _____ mètre.",
+    "options": [
+      "1"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "114",
+    "question": "Les cellules de très grande taille sont qualifiées de cellules _____.",
+    "options": [
+      "géantes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "115",
+    "question": "Dans la cellule animale, on distingue trois parties essentielles: le cytoplasme, le noyau et la _____.",
+    "options": [
+      "membrane"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "116",
+    "question": "Observé au microscope, le cytoplasme est constitué d'une substance _____, transparente et réfringente.",
+    "options": [
+      "visqueuse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "117",
+    "question": "La substance fondamentale du cytoplasme s'appelle le _____.",
+    "options": [
+      "hyaloplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "118",
+    "question": "À l'état fluide, le cytoplasme est appelé _____.",
+    "options": [
+      "sol"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "119",
+    "question": "Lorsque le cytoplasme devient plus consistant, il prend la forme d'une gelée appelée _____.",
+    "options": [
+      "gel"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "120",
+    "question": "La _____ du cytoplasme varie d'une cellule à une autre.",
+    "options": [
+      "viscosité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "121",
+    "question": "La viscosité du cytoplasme dépend de l'état _____ de la cellule.",
+    "options": [
+      "physiologique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "122",
+    "question": "La viscosité varie avec l'âge de la cellule et avec la _____.",
+    "options": [
+      "température"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "123",
+    "question": "Grâce à la viscosité, on observe des mouvements de _____ entraînant des granulations.",
+    "options": [
+      "brassage"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "124",
+    "question": "Le cytoplasme est une substance un peu plus _____ que l'eau.",
+    "options": [
+      "réfringente"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "125",
+    "question": "La cellule est l'unité _____, fonctionnelle et fondamentale de tout être vivant.",
+    "options": [
+      "anatomique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "126",
+    "question": "La cellule est l'unité _____, fonctionnelle et _____ de tout être vivant.",
+    "options": [
+      "anatomique",
+      "fondamentale"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "127",
+    "question": "L'étude de la _____ s'appelle _____.",
+    "options": [
+      "cellule",
+      "cytologie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "128",
+    "question": "La cellule animale est constituée de deux parties essentielles: le _____ et le _____.",
+    "options": [
+      "cytoplasme",
+      "noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "129",
+    "question": "Le cytoplasme est entouré d'une membrane _____ et ____.",
+    "options": [
+      "mince",
+      "élastique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "130",
+    "question": "La membrane cytoplasmique est aussi appelée membrane _____ ou membrane _____.",
+    "options": [
+      "plasmique",
+      "cytoplasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "131",
+    "question": "Le cytoplasme et le noyau constituent le _____, tandis que la cellule animale est dite _____.",
+    "options": [
+      "protoplasme",
+      "nue"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "132",
+    "question": "La cellule animale ne possède pas de membrane _____ ou membrane _____.",
+    "options": [
+      "squelettique",
+      "cellulosique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "133",
+    "question": "Qu'elles soient isolées ou _____, les cellules peuvent être _____ ou ovoïdes.",
+    "options": [
+      "groupées",
+      "sphériques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "134",
+    "question": "Certaines cellules ont une forme en _____ ou sont _____.",
+    "options": [
+      "croissant",
+      "fusiformes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "135",
+    "question": "Les formes des cellules animales peuvent être _____ ou _____.",
+    "options": [
+      "étoilées",
+      "polyédriques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "136",
+    "question": "Les dimensions des cellules sont _____, mais en général elles sont de _____ taille.",
+    "options": [
+      "variables",
+      "petite"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "137",
+    "question": "Les cellules animales ont souvent des dimensions de l'ordre de _____ à _____ micromètres.",
+    "options": [
+      "10",
+      "15"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "138",
+    "question": "Les globules rouges humains mesurent _____ à _____ micromètres de diamètre.",
+    "options": [
+      "6",
+      "7,5"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "139",
+    "question": "L'ovule humain mesure _____ micromètres tandis que l'ovule de la _____ est bien plus gros.",
+    "options": [
+      "200",
+      "poule"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "140",
+    "question": "Le jaune de l'oeuf de poule a un diamètre de _____ cm et les cellules nerveuses atteignent _____ mètre.",
+    "options": [
+      "2",
+      "1"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "141",
+    "question": "Les cellules dont le prolongement atteint un mètre sont qualifiées de cellules _____.",
+    "options": [
+      "géantes",
+      "nerveuses"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "142",
+    "question": "On distingue dans la cellule animale trois parties essentielles: le _____, le noyau et la _____.",
+    "options": [
+      "cytoplasme",
+      "membrane"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "143",
+    "question": "Observé au microscope, le cytoplasme est constitué d'une substance _____, et _____.",
+    "options": [
+      "visqueuse",
+      "transparente"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "144",
+    "question": "Le cytoplasme est un peu plus _____ que l'eau, il s'appelle le _____.",
+    "options": [
+      "réfringente",
+      "hyaloplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "145",
+    "question": "Fluide, le cytoplasme est à l'état appelé _____, mais il peut devenir plus _____.",
+    "options": [
+      "sol",
+      "consistant"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "146",
+    "question": "Sous sa forme plus consistante, le cytoplasme se présente sous forme d'une _____ ou _____.",
+    "options": [
+      "gelée",
+      "gel"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "147",
+    "question": "La viscosité du cytoplasme varie d'une _____ à une autre et dépend de l'état _____.",
+    "options": [
+      "cellule",
+      "physiologique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "148",
+    "question": "La viscosité varie avec l'âge de la _____ et avec la _____.",
+    "options": [
+      "cellule",
+      "température"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "149",
+    "question": "Grâce à la viscosité, on observe des mouvements de _____ entraînant des _____.",
+    "options": [
+      "brassage",
+      "granulations"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "150",
+    "question": "Le cytoplasme est une substance _____ alors que le hyaloplasme est sa partie _____.",
+    "options": [
+      "visqueuse",
+      "fluide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "151",
+    "question": "La cytologie étudie la _____ qui est l'unité _____ de tout être vivant.",
+    "options": [
+      "cellule",
+      "anatomique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "152",
+    "question": "Le protoplasme est l'union du _____ et du _____.",
+    "options": [
+      "cytoplasme",
+      "noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "153",
+    "question": "La membrane plasmique est à la fois _____ et _____.",
+    "options": [
+      "mince",
+      "élastique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "154",
+    "question": "Les cellules géantes peuvent être des cellules _____ ou des _____ de nerfs.",
+    "options": [
+      "nerveuses",
+      "prolongements"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "155",
+    "question": "Le cytoplasme peut passer de l'état de _____ à l'état de _____.",
+    "options": [
+      "sol",
+      "gel"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "156",
+    "question": "Le hyaloplasme est une substance _____ et un peu _____.",
+    "options": [
+      "transparente",
+      "réfringente"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "157",
+    "question": "La cellule est l'unité _____, fonctionnelle et _____ de tout être vivant.",
+    "options": [
+      "anatomique",
+      "fondamentale"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "158",
+    "question": "L'étude de la cellule s'appelle la _____, elle constitue la base de la _____ moderne.",
+    "options": [
+      "cytologie",
+      "biologie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "159",
+    "question": "La cellule animale est constituée de deux parties essentielles: le _____ et le _____.",
+    "options": [
+      "cytoplasme",
+      "noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "160",
+    "question": "Le cytoplasme est entouré d'une membrane _____ et _____ appelée membrane plasmique.",
+    "options": [
+      "mince",
+      "élastique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "161",
+    "question": "Le cytoplasme et le noyau constituent ensemble le _____, substance de la _____.",
+    "options": [
+      "protoplasme",
+      "vie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "162",
+    "question": "La cellule animale ne possède pas de membrane _____, on dit que c'est une cellule _____.",
+    "options": [
+      "squelettique",
+      "nue"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "163",
+    "question": "La membrane _____ est également appelée membrane _____ dans certaines études.",
+    "options": [
+      "cytoplasmique",
+      "plasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "164",
+    "question": "Les cellules animales peuvent être isolées ou _____, présentant des formes _____.",
+    "options": [
+      "groupées",
+      "différentes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "165",
+    "question": "Certaines cellules ont une forme de _____, alors que d'autres sont _____ ou fusiformes.",
+    "options": [
+      "croissant",
+      "étoilées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "166",
+    "question": "Les cellules peuvent se présenter sous forme _____, ovoïde ou encore _____.",
+    "options": [
+      "sphérique",
+      "polyédriques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "167",
+    "question": "En général, les cellules animales ont une taille de l'ordre de _____ à _____ micromètres.",
+    "options": [
+      "10",
+      "15"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "168",
+    "question": "Les _____ rouges humains mesurent entre _____ à 7,5 micromètres de diamètre.",
+    "options": [
+      "globules",
+      "6"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "169",
+    "question": "L'_____ humain mesure 200 micromètres, tandis que celui de la _____ atteint 2 cm.",
+    "options": [
+      "ovule",
+      "poule"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "170",
+    "question": "Le jaune d'_____ représente une cellule dont le diamètre est de _____ centimètres.",
+    "options": [
+      "oeuf",
+      "2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "171",
+    "question": "Les cellules _____ ou le prolongement des _____ peuvent atteindre 1 mètre.",
+    "options": [
+      "nerveuses",
+      "nerfs"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "172",
+    "question": "Les cellules dont la longueur atteint un mètre sont qualifiées de cellules _____.",
+    "options": [
+      "géantes",
+      "un mètre"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "173",
+    "question": "On distingue trois parties _____: le cytoplasme, le _____ et la membrane.",
+    "options": [
+      "essentielles",
+      "noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "174",
+    "question": "Le cytoplasme est constitué d'une substance _____, transparente et peu plus _____ que l'eau.",
+    "options": [
+      "visqueuse",
+      "réfringente"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "175",
+    "question": "Le _____ est la substance fluide du cytoplasme observée au _____.",
+    "options": [
+      "hyaloplasme",
+      "microscope"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "176",
+    "question": "À l'état fluide, le cytoplasme est appelé _____, mais il peut devenir une gelée appelée _____.",
+    "options": [
+      "sol",
+      "gel"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "177",
+    "question": "La _____ du cytoplasme varie avec l'_____ de la cellule et la température.",
+    "options": [
+      "viscosité",
+      "âge"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "178",
+    "question": "La viscosité dépend également de l'état _____ de la cellule au moment de l'_____.",
+    "options": [
+      "physiologique",
+      "observation"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "179",
+    "question": "Grâce à la fluidité, on observe des mouvements de _____ entraînant des _____ incluses.",
+    "options": [
+      "brassage",
+      "granulations"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "180",
+    "question": "L'étude morphologique et _____ se concentre sur les constituants _____ de la cellule.",
+    "options": [
+      "fonctionnelle",
+      "essentiels"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "181",
+    "question": "La membrane _____ est absente chez l'animal, elle est aussi nommée membrane _____.",
+    "options": [
+      "squelettique",
+      "cellulosique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "182",
+    "question": "Une cellule animale est dite _____ car elle n'a pas de paroi _____ rigide.",
+    "options": [
+      "nue",
+      "squelettique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "183",
+    "question": "Le cytoplasme peut se présenter sous forme de _____ ou de _____, selon sa consistance.",
+    "options": [
+      "gelée",
+      "fluide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "184",
+    "question": "Les formes _____ et globuleuses sont des exemples de la diversité _____ des cellules.",
+    "options": [
+      "ovoïdes",
+      "morphologique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "185",
+    "question": "Les dimensions des cellules sont _____, allant de quelques _____ à un mètre.",
+    "options": [
+      "variables",
+      "micromètres"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "186",
+    "question": "Dans le cytoplasme, les _____ sont transportées par les mouvements du _____.",
+    "options": [
+      "granulations",
+      "hyaloplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "187",
+    "question": "La membrane plasmique est à la fois _____ et _____, protégeant le protoplasme.",
+    "options": [
+      "mince",
+      "élastique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Completer"
   }
 ]
