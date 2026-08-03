@@ -2399,5 +2399,1307 @@
     "paj": "Etape 1",
     "nivo": "Difficile",
     "tip": "Completer"
+  },
+  {
+    "id": "188",
+    "question": "Comment la vie de la cellule se manifeste-t-elle principalement ?",
+    "options": [
+      "Par sa sensibilité, sa nutrition, sa croissance et sa multiplication",
+      "Uniquement par la respiration et la photosynthèse",
+      "Par la locomotion et la production de chaleur",
+      "Par la mitose et la méiose exclusivement"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "189",
+    "question": "Comment appelle-t-on la faculté de la cellule à réagir aux facteurs extérieurs ?",
+    "options": [
+      "Le métabolisme",
+      "La sensibilité ou irritabilité",
+      "La phagocytose",
+      "L'anabolisme"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "190",
+    "question": "Comment réagissent les cellules musculaires lorsqu'elles sont soumises à un excitant ?",
+    "options": [
+      "En se dilatant",
+      "En se divisant",
+      "En se contractant",
+      "En sécrétant du glycogène"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "191",
+    "question": "Quelle est la réaction spécifique des cellules des glandes lacrymales à une excitation ?",
+    "options": [
+      "La contraction",
+      "La sécrétion de salive",
+      "La sécrétion de larmes",
+      "La phagocytose"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "192",
+    "question": "Quel nom porte la réaction de déplacement des protozoaires comme l'amibe aux agents extérieurs ?",
+    "options": [
+      "Tactismes",
+      "Mitose",
+      "Osmose",
+      "Endocytose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "193",
+    "question": "Comment se nomment les prolongements cytoplasmiques émis par l'amibe ?",
+    "options": [
+      "Cils",
+      "Flagelles",
+      "Pseudopodes",
+      "Asters"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "194",
+    "question": "Quel phénomène permet d'absorber et de détruire de petits corps étrangers chez l'amibe ou les globules blancs ?",
+    "options": [
+      "L'osmose",
+      "La phagocytose",
+      "La plasmodiérèse",
+      "La scissiprité"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "195",
+    "question": "Comment appelle-t-on l'échange matériel continu entre la cellule et le milieu extérieur ?",
+    "options": [
+      "La nutrition",
+      "La mitose",
+      "L'irritabilité",
+      "La duplication"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "196",
+    "question": "Sous quelle forme physique la cellule absorbe-t-elle les substances nécessaires à sa nutrition ?",
+    "options": [
+      "Solide",
+      "Gazeuse",
+      "Liquide",
+      "Cristalline"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "197",
+    "question": "Quel savant a mis en évidence le phénomène d'osmose par des expériences ?",
+    "options": [
+      "Pasteur",
+      "Dutrochet",
+      "Mendel",
+      "Hooke"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "198",
+    "question": "Quel terme désigne l'ensemble des transformations chimiques subies par les nutriments dans l'organisme ?",
+    "options": [
+      "Le métabolisme",
+      "La phagocytose",
+      "L'amitose",
+      "La cytodiérèse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "199",
+    "question": "Combien de phases principales comporte le métabolisme cellulaire ?",
+    "options": [
+      "Une phase",
+      "Deux phases",
+      "Trois phases",
+      "Quatre phases"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "200",
+    "question": "Comment s'appelle la phase de synthèse du métabolisme ?",
+    "options": [
+      "Le catabolisme",
+      "L'anabolisme ou assimilation",
+      "La respiration",
+      "La lyse"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "201",
+    "question": "Comment s'appelle la phase de dégradation du métabolisme ?",
+    "options": [
+      "L'anabolisme",
+      "La métaphase",
+      "Le catabolisme ou désassimilation",
+      "L'interphase"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "202",
+    "question": "Quel est le principal sucre de réserve stocké dans le foie ?",
+    "options": [
+      "Le glucose",
+      "Le glycogène",
+      "Le lactose",
+      "Le maltose"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "203",
+    "question": "Sous quelle forme les protides doivent-ils être absorbés avant de former les protéines du protoplasme ?",
+    "options": [
+      "Acides gras",
+      "Acides aminés",
+      "Glucose",
+      "Nucléotides"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "204",
+    "question": "Dans quelles cellules spécialisées sont stockés les lipides de réserve ?",
+    "options": [
+      "Cellules hépatiques",
+      "Cellules adipeuses",
+      "Globules rouges",
+      "Monocytes"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "205",
+    "question": "Que fait une cellule lorsqu'elle atteint sa taille limite après sa croissance ?",
+    "options": [
+      "Elle meurt",
+      "Elle se divise",
+      "Elle stoppe sa nutrition",
+      "Elle perd sa membrane"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "206",
+    "question": "Quels sont les deux grands modes de division cellulaire ?",
+    "options": [
+      "Amitose et Mitose",
+      "Osmose et Diffusion",
+      "Anabolisme et Catabolisme",
+      "Prophase et Télophase"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "207",
+    "question": "Comment qualifie-t-on la division cellulaire directe ?",
+    "options": [
+      "La mitose",
+      "L'amitose",
+      "La méiose",
+      "L'endomitose"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "208",
+    "question": "Combien de phases principales les biologistes distinguent-ils dans la mitose ?",
+    "options": [
+      "2 phases",
+      "3 phases",
+      "4 phases",
+      "5 phases"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "209",
+    "question": "Quelle est la première phase de la mitose ?",
+    "options": [
+      "La métaphase",
+      "La prophase",
+      "L'anaphase",
+      "La télophase"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "210",
+    "question": "Quelle est la deuxième phase de la mitose ?",
+    "options": [
+      "La prophase",
+      "La métaphase",
+      "L'anaphase",
+      "La télophase"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "211",
+    "question": "Quelle est la troisième phase de la mitose ?",
+    "options": [
+      "La télophase",
+      "La prophase",
+      "L'anaphase",
+      "La métaphase"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "212",
+    "question": "Quelle est la quatrième phase de la mitose ?",
+    "options": [
+      "La télophase",
+      "L'anaphase",
+      "La prophase",
+      "L'interphase"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "213",
+    "question": "Comment nomme-t-on le regroupement des chromosomes au centre de la cellule à la métaphase ?",
+    "options": [
+      "La plaque équatoriale",
+      "L'aster",
+      "Le centrosome",
+      "Le nucléole"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "214",
+    "question": "Comment s'appelle la division du cytoplasme proprement dite ?",
+    "options": [
+      "Caryocinèse",
+      "Plasmodiérèse ou cytodiérèse",
+      "Phagocytose",
+      "Endomitose"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "215",
+    "question": "Dans quelles cellules de l'organisme trouve-t-on du fer en réserve ?",
+    "options": [
+      "Cellules du cœur",
+      "Cellules du foie et du duodénum",
+      "Cellules musculaires",
+      "Cellules nerveuses"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "216",
+    "question": "Quelle est la phase la plus courte de la mitose (environ 5 minutes) ?",
+    "options": [
+      "La prophase",
+      "La métaphase",
+      "L'anaphase",
+      "La télophase"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "217",
+    "question": "Quel type de division réductionnelle a lieu lors de la formation des gamètes ?",
+    "options": [
+      "L'amitose",
+      "La méiose",
+      "L'endomitose",
+      "La cytodiérèse"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "218",
+    "question": "Où se trouvent les corps protidiques de réserve chez les animaux ?",
+    "options": [
+      "Dans le foie et le vitellus de l'œuf",
+      "Dans les cellules adipeuses uniquement",
+      "Dans les globules rouges",
+      "Dans la membrane plasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "219",
+    "question": "Pourquoi la perméabilité de la membrane cytoplasmique est-elle qualifiée de sélective ?",
+    "options": [
+      "Parce qu'elle laisse passer toutes les substances indistinctement",
+      "Parce qu'elle modifie sa perméabilité à chaque instant selon les besoins de la cellule",
+      "Parce qu'elle est totalement imperméable aux liquides",
+      "Parce qu'elle ne fonctionne que lors de la mitose"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "220",
+    "question": "Dans l'expérience d'osmose de Dutrochet, comment est qualifiée la solution d'eau salée au départ ?",
+    "options": [
+      "Isotonique",
+      "Hypotonique",
+      "Hypertonique",
+      "Aneutre"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "221",
+    "question": "Lors du phénomène d'osmose, dans quel sens se déplacent les molécules d'eau ?",
+    "options": [
+      "Du milieu le plus concentré en eau vers le moins concentré en eau",
+      "Du milieu le plus concentré en soluté vers le moins concentré en soluté",
+      "Uniquement de l'extérieur vers le noyau",
+      "Dans les deux sens de manière strictement identique sans arrêt"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "222",
+    "question": "Pourquoi l'équilibre osmotique n'est-il jamais atteint dans une cellule vivante ?",
+    "options": [
+      "Car la membrane se rompt avant",
+      "Car la matière pénétrée est transformée dans le protoplasme",
+      "Car la cellule ne contient pas d'eau",
+      "Car l'osmose s'arrête à la prophase"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "223",
+    "question": "Quel nom portent les facteurs chimiques (diastases, vitamines, hormones) qui interviennent dans le métabolisme ?",
+    "options": [
+      "Biocatalyseurs",
+      "Pseudopodes",
+      "Chromatides",
+      "Asters"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "224",
+    "question": "Quelle est la caractéristique thermique essentielle des réactions de l'anabolisme ?",
+    "options": [
+      "Elles dégagent de la chaleur (exothermiques)",
+      "Elles exigent des quantités importantes d'énergie (endothermiques)",
+      "Elles ne consomment ni ne produisent d'énergie",
+      "Elles détruisent l'énergie chimique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "225",
+    "question": "Quels sont les principaux produits issus de la combustion des glucides, protides et lipides lors du catabolisme ?",
+    "options": [
+      "Glucose et glycogène",
+      "CO2, H2O et NH3",
+      "O2 et azote pur",
+      "Protéines et lipides"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "226",
+    "question": "À partir de quel composé issu de l'hydrolyse des lipides les cellules hépatiques fabriquent-elles du glycogène ?",
+    "options": [
+      "Les acides aminés",
+      "Le glycérol (glycérine)",
+      "Le CO2",
+      "L'amidon"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "227",
+    "question": "Par quel mode de division directe l'amibe et la paramécie se multiplient-elles ?",
+    "options": [
+      "La scissiprité",
+      "La méiose",
+      "La gemmation",
+      "L'endomitose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "228",
+    "question": "Que deviennent les nucléoles au cours de la prophase ?",
+    "options": [
+      "Ils se multiplient par deux",
+      "Ils se fixent sur la membrane",
+      "Ils disparaissent",
+      "Ils forment les asters"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "229",
+    "question": "Comment s'appellent les deux moitiés identiques issues de la fissuration longitudinale d'un chromosome ?",
+    "options": [
+      "Les centromères",
+      "Les chromatides",
+      "Les asters",
+      "Les spicules"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "230",
+    "question": "Par quelle structure spécifique les deux chromatides restent-elles réunies pendant la prophase ?",
+    "options": [
+      "Le centromère (constriction primaire)",
+      "Le centrosome",
+      "Le nucléole",
+      "La membrane nucléaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "231",
+    "question": "Quel organite de la cellule se divise en deux pour donner naissance aux deux asters ?",
+    "options": [
+      "Le centriole (du centrosome)",
+      "Le dictyosome",
+      "Le chondriosome",
+      "Le vacuome"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "232",
+    "question": "Pourquoi le fuseau de la mitose est-il appelé 'achromatique' ?",
+    "options": [
+      "Parce qu'il a une couleur rouge vif",
+      "Parce qu'il ne prend pas les colorants",
+      "Parce qu'il contient des pigments vert",
+      "Parce qu'il détruit les chromosomes"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "233",
+    "question": "Que devient la membrane nucléaire vers la fin de la prophase ?",
+    "options": [
+      "Elle s'épaissit fortement",
+      "Elle s'estompe progressivement et finit par disparaître",
+      "Elle se divise en deux membranes filles",
+      "Elle entoure les asters"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "234",
+    "question": "Comment chaque chromosome est-il relié aux fibres du fuseau lors de la métaphase ?",
+    "options": [
+      "Par son centromère",
+      "Par ses deux extrémités",
+      "Par le nucléole",
+      "Par la membrane plasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "235",
+    "question": "Quel événement se produit au niveau du centromère à la fin de la métaphase ?",
+    "options": [
+      "Il disparaît complètement",
+      "Il se fissure pour séparer les chromatides",
+      "Il fusionne avec les asters",
+      "Il forme la membrane nucléaire"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "236",
+    "question": "Que désigne le terme d'« ascension polaire » durant l'anaphase ?",
+    "options": [
+      "La montée du cytoplasme vers le haut",
+      "Le glissement des chromosomes-fils vers les pôles opposés",
+      "La disparition du noyau",
+      "L'absorption d'eau par osmose"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "237",
+    "question": "Que font les chromosomes arrivés aux pôles au cours de la télophase ?",
+    "options": [
+      "Ils se condensent encore plus",
+      "Ils se tassent et se déspiralisent en un réseau de chromatine",
+      "Ils quittent la cellule",
+      "Ils se détruisent"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "238",
+    "question": "Où réapparaissent les nucléoles lors de la télophase ?",
+    "options": [
+      "Autour des centrioles",
+      "Au niveau des organisateurs nucléolaires des chromosomes",
+      "Dans le milieu extérieur",
+      "Sur la membrane plasmique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "239",
+    "question": "À partir de quelle structure intracellulaire s'élabore la nouvelle membrane nucléaire à la télophase ?",
+    "options": [
+      "Le réticulum endoplasmique",
+      "Les mitochondries",
+      "Les lysosomes",
+      "Les pseudopodes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "240",
+    "question": "Où et quand commence l'étranglement équatorial qui conduit à la séparation des cellules filles ?",
+    "options": [
+      "Au milieu de la prophase",
+      "Dès le milieu de l'anaphase dans la région équatoriale",
+      "À la fin de l'interphase",
+      "Pendant la méiose uniquement"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "241",
+    "question": "Où s'accumulent les réserves de protides sous forme de corpuscules protidiques ?",
+    "options": [
+      "Dans les cellules adipeuses",
+      "Dans le foie et dans l'ovule des animaux (vitellus)",
+      "Dans le sang",
+      "Dans la membrane plasmique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "242",
+    "question": "Quelle est la durée totale moyenne de la mitose ?",
+    "options": [
+      "10 à 15 minutes",
+      "1 à 3 heures",
+      "24 à 48 heures",
+      "Plusieurs jours"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "243",
+    "question": "Quelles sont les deux phases les plus longues de la mitose ?",
+    "options": [
+      "La métaphase et l'anaphase",
+      "La première (prophase) et la dernière (télophase)",
+      "La prophase et la métaphase",
+      "L'anaphase et la télophase"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "244",
+    "question": "Comment appelle-t-on le phénomène où le nombre de chromosomes augmente au sein d'une cellule ?",
+    "options": [
+      "La méiose",
+      "L'endomitose",
+      "L'amitose",
+      "La phagocytose"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "245",
+    "question": "Que se passe-t-il d'essentiel pour la masse d'ADN pendant l'interphase ?",
+    "options": [
+      "Elle est divisée par deux",
+      "Elle est dupliquée",
+      "Elle est détruite",
+      "Elle reste inerte sans aucune synthèse"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "246",
+    "question": "Quelle différence distingue l'anabolisme du catabolisme au niveau énergétique ?",
+    "options": [
+      "L'anabolisme consomme de l'énergie (endothermique) tandis que le catabolisme en libère",
+      "L'anabolisme libère de l'énergie et le catabolisme en absorbe",
+      "Tous deux consomment de la lumière",
+      "Aucun des deux n'implique d'énergie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "247",
+    "question": "Quelle est la réaction spécifique des globules blancs (monocytes) face aux microbes ?",
+    "options": [
+      "Ils se contractent",
+      "Ils effectuent la phagocytose pour détruire les microbes",
+      "Ils sécrètent des larmes",
+      "Ils se transforment en hématies"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "248",
+    "question": "Quelle est la fonction défensive des pseudopodes chez l'amibe placée dans un milieu défavorable ?",
+    "options": [
+      "Permettre à l'amibe de fuir la lumière, la chaleur ou les agents chimiques",
+      "Multiplier la cellule par mitose",
+      "Produire du glycogène",
+      "Synthétiser des protéines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "249",
+    "question": "Comment s'effectue la division du noyau au cours de l'amitose ?",
+    "options": [
+      "Par formation d'un fuseau achromatique",
+      "Par étirement, étranglement et coupe en deux noyaux-fils",
+      "Par réduction méiotique",
+      "Par duplication d'ADN sans séparation"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "250",
+    "question": "Si une vessie remplie d'eau salée hypertonique est plongée dans de l'eau hypotonique, quel mouvement de liquides s'établit à travers la membrane ?",
+    "options": [
+      "L'eau salée entre massivement et l'eau pure sort",
+      "Un double courant s'établit où l'eau ordinaire entre plus abondamment, gonflant la vessie",
+      "Aucun mouvement car la membrane est imperméable",
+      "Le sel sort totalement en asséchant la vessie"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "251",
+    "question": "Analysez la réaction chimique de l'anabolisme : CO2 + H2O + énergie -> sucre. Pourquoi est-elle qualifiée d'endothermique ?",
+    "options": [
+      "Parce qu'elle dégage de la chaleur dans le milieu",
+      "Parce qu'elle absorbe et nécessite un apport d'énergie pour synthétiser une molécule complexe",
+      "Parce qu'elle produit de l'eau",
+      "Parce qu'elle détruit le sucre formé"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "252",
+    "question": "Quelle est l'équation chimique simplifiée représentant le catabolisme des sucres selon le document ?",
+    "options": [
+      "Sucre -> H2O + CO2 + énergie",
+      "CO2 + H2O + énergie -> Sucre",
+      "Protéines -> Acides aminés + énergie",
+      "Glycogène -> Glycérol + O2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "253",
+    "question": "Pourquoi l'échange de matière reste-t-il continu dans la cellule vivante alors que l'expérience in vitro atteint l'équilibre osmotique ?",
+    "options": [
+      "Parce que la membrane vivante se détruit continuellement",
+      "Parce que les nutriments entrés sont assimilés et transformés dans le protoplasme",
+      "Parce que la cellule vivante n'utilise pas l'osmose",
+      "Parce que le milieu extérieur s'épuise immédiatement"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "254",
+    "question": "Au niveau du foie, que devient le glycogène lors des réactions de catabolisme (dédoublement) ?",
+    "options": [
+      "Il se transforme en protéines",
+      "Il se transforme en glucose avec un faible dégagement d'énergie",
+      "Il se transforme en acides gras",
+      "Il se transforme en fer"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "255",
+    "question": "En quoi la division du noyau diffère-t-elle fondamentalement entre l'amitose et la mitose ?",
+    "options": [
+      "L'amitose utilise des chromosomes visibles et la mitose non",
+      "L'amitose se fait par simple étranglement direct sans apparition de chromosomes ni fuseau",
+      "La mitose ne divise jamais le noyau",
+      "L'amitose nécessite la formation d'un fuseau achromatique complexe"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "256",
+    "question": "Comment évolue la chromatine nucléaire au cours de la prophase ?",
+    "options": [
+      "Elle reste amorphe et dissoute",
+      "Les grains s'unissent, forment des filaments enchevêtrés qui se spiralisent et s'épaississent en chromosomes (2n)",
+      "Elle est expulsée hors de la cellule",
+      "Elle se transforme directement en centrioles"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "257",
+    "question": "Comment s'organise le système achromatique lors de la prophase ?",
+    "options": [
+      "Le centriole se divise en deux, formant deux asters qui migrent aux pôles opposés reliés par les fibres du fuseau",
+      "Le nucléole se divise pour former les asters",
+      "La membrane plasmique génère des fibres vers le centre",
+      "Les chromosomes fabriquent le fuseau achromatique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "258",
+    "question": "Quel est l'état du milieu nucléaire à la fin de la prophase une fois la membrane nucléaire disparue ?",
+    "options": [
+      "Le nucléoplasme et le cytoplasme sont confondus et il ne subsiste du noyau que les chromosomes",
+      "Le noyau se transforme en vacuole",
+      "Le cytoplasme devient totalement solide",
+      "Les chromosomes se dissolvent dans le liquide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "259",
+    "question": "Pendant la métaphase, quelle est la disposition exacte des bras des chromatides lorsque le centromère se fissure ?",
+    "options": [
+      "Ils sont dirigés vers le centre de la plaque",
+      "Leurs bras sont orientés vers l'extérieur dans la région équatoriale",
+      "Ils sont collés aux centrioles",
+      "Ils forment une ligne verticale unique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "260",
+    "question": "Quel mécanisme physique permet le déplacement des chromosomes-fils vers les pôles opposés à l'anaphase ?",
+    "options": [
+      "Ils sont expulsés par phagocytose",
+      "Ils glissent le long des filaments du fuseau achromatique (ascension polaire)",
+      "Ils sont poussés par le cytoplasme en contraction",
+      "Ils nagent grâce à des pseudopodes"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "261",
+    "question": "Décrivez l'inversion des transformations chromosomiques qui s'opère lors de la télophase.",
+    "options": [
+      "Les chromosomes s'épaississent et se multiplient",
+      "Les chromosomes se tassent, perdent leur individualité par déspiralisation et redeviennent un fin réseau de chromatine",
+      "Les chromosomes se séparent en quatre chromatides",
+      "Les chromosomes sont détruits par le réticulum"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "262",
+    "question": "Comment la plasmodiérèse assure-t-elle que chaque cellule fille reçoive un équipement fonctionnel complet ?",
+    "options": [
+      "En ne divisant que le noyau",
+      "En répartissant de manière à peu près égale le cytoplasme et les éléments figurés (chondriosomes, dictyosomes)",
+      "En détruisant les organites anciens pour en créer de nouveaux",
+      "En fusionnant deux cellules mères"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "263",
+    "question": "Quel rôle jouent les chondriosomes et dictyosomes lors de la cytodiérèse ?",
+    "options": [
+      "Ils se dissolvent complètement dans l'eau",
+      "Ils peuvent se diviser au préalable puis être répartis entre les deux cellules filles",
+      "Ils forment le fuseau achromatique",
+      "Ils bloquent la séparation du cytoplasme"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "264",
+    "question": "Si une cellule effectue une endomitose au lieu d'une mitose classique, qu'advient-il de sa quantité de matériel génétique ?",
+    "options": [
+      "Le nombre de chromosomes diminue de moitié",
+      "Le nombre de chromosomes augmente au sein de la même cellule",
+      "La cellule perd tout son ADN",
+      "Le nombre de chromosomes reste rigoureusement inchangé sans duplication"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "265",
+    "question": "Quelle est la conséquence génétique majeure de la méiose par rapport à la mitose équationnelle ?",
+    "options": [
+      "Elle double le nombre de chromosomes",
+      "Elle réduit le nombre de chromosomes de moitié lors de la formation des gamètes",
+      "Elle maintient exactement le même nombre de chromosomes (2n)",
+      "Elle stoppe la synthèse des protéines"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "266",
+    "question": "Quelle activité fondamentale se déroule dans la cellule pendant l'interphase entre deux divisions ?",
+    "options": [
+      "La cellule est au repos total sans métabolisme",
+      "L'essentiel de l'activité cellulaire a lieu : synthèses organiques, croissance et duplication de l'ADN",
+      "La cellule élimine tout son cytoplasme",
+      "La membrane nucléaire disparaît définitivement"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "267",
+    "question": "Quelle différence essentielle existe entre la réaction d'une amibe (protozoaire) et celle d'un muscle pluricellulaire face à un excitant ?",
+    "options": [
+      "L'amibe réagit par des mouvements nommés tactismes tandis que le muscle réagit par contraction",
+      "L'amibe ne réagit jamais aux excitants",
+      "Le muscle se déplace avec des pseudopodes",
+      "L'amibe se contracte comme un muscle"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "268",
+    "question": "Quel lien existe-t-il entre l'émission de pseudopodes et la phagocytose chez l'amibe ?",
+    "options": [
+      "Les pseudopodes permettent de contourner, englober et absorber les petits corps étrangers pour les détruire",
+      "Les pseudopodes empêchent la phagocytose",
+      "La phagocytose détruit les pseudopodes",
+      "Les pseudopodes servent uniquement à la mitose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "269",
+    "question": "Pourquoi la combustion catabolique des protides produit-elle du NH3 en plus du CO2 et de H2O ?",
+    "options": [
+      "Parce que les protides contiennent de l'azote dans leurs acides aminés",
+      "Parce que les protides contiennent du fer",
+      "Parce que les protides sont des glucides complexes",
+      "Parce que l'oxygène se transforme en azote"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "270",
+    "question": "Comment l'anabolisme participe-t-il à la réparation et au maintien de la cellule ?",
+    "options": [
+      "En produisant de la nouvelle matière vivante pour réparer l'usure et assurer la croissance",
+      "En dégradant le cytoplasme usé",
+      "En bloquant la perméabilité membranaire",
+      "En expulsant l'eau par osmose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "271",
+    "question": "Quelle est la définition d'un milieu isotonique lors des échanges cellulaires ?",
+    "options": [
+      "Un milieu où la concentration en solutés est égale à celle de la cellule",
+      "Un milieu plus concentré que le milieu cellulaire",
+      "Un milieu dépourvu de tout soluté",
+      "Un milieu où l'osmose est impossible"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "272",
+    "question": "À quel moment exact s'amorce la séparation physique du cytoplasme lors de la mitose ?",
+    "options": [
+      "Dès le milieu de l'anaphase par un étranglement équatorial",
+      "Uniquement à la fin de l'interphase",
+      "Au début de la prophase",
+      "Après la reconstitution complète des organismes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "273",
+    "question": "Quel est le rôle du centromère (constriction primaire) lors du chevauchement des phases de mitose ?",
+    "options": [
+      "Maintenir les chromatides mères ensemble puis se fissurer pour permettre leur séparation ordonnée",
+      "Produire de l'énergie thermique",
+      "Synthétiser le glycogène",
+      "Absorber les liquides par diffusion"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "274",
+    "question": "Comment la perméabilité membranaire s'ajuste-t-elle selon les besoins de la cellule ?",
+    "options": [
+      "La membrane cytoplasmique vivante peut modifier sa perméabilité à chaque instant pour certaines substances",
+      "La membrane devient totalement solide",
+      "La perméabilité est fixée définitivement à la naissance de la cellule",
+      "La perméabilité dépend uniquement de la lumière"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "275",
+    "question": "Si une cellule ne formait pas de fuseau achromatique pendant la mitose, quel serait l'impact direct ?",
+    "options": [
+      "Les chromosomes ne pourraient pas migrer de façon ordonnée vers les pôles opposés",
+      "La membrane nucléaire ne disparaîtrait pas",
+      "L'anabolisme s'arrêterait immédiatement",
+      "Le cytoplasme se diviserait plus rapidement"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "276",
+    "question": "Chez quelles cellules humaines retrouve-t-on la division directe par amitose selon le texte ?",
+    "options": [
+      "Les globules blancs (monocytes)",
+      "Les globules rouges (hématies)",
+      "Les neurones",
+      "Les cellules adipeuses"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "277",
+    "question": "Comment se résume le bilan entre assimilation (anabolisme) et désassimilation (catabolisme) chez une jeune cellule en croissance ?",
+    "options": [
+      "L'assimilation l'emporte sur la désassimilation, permettant l'augmentation du protoplasme",
+      "La désassimilation est supérieure à l'assimilation",
+      "Les deux sont totalement à l'arrêt",
+      "La cellule perd de la masse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "278",
+    "question": "Quel est le rôle spécifique des organisateurs nucléolaires situés sur certains chromosomes à la télophase ?",
+    "options": [
+      "Permettre la réapparition et la réélaboration des nucléoles",
+      "Former les centrioles des asters",
+      "Détruire la membrane cytoplasmique",
+      "Dégrader les lipides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "279",
+    "question": "Quel organite intracellulaire participe activement à la réélaboration de la membrane nucléaire à la télophase ?",
+    "options": [
+      "Le réticulum endoplasmique",
+      "Les dictyosomes",
+      "Les centrioles",
+      "Les pseudopodes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "280",
+    "question": "Comment la mitose équationnelle garantit-elle que les deux cellules filles possèdent rigoureusement le même nombre de chromosomes (2n) que la cellule mère ?",
+    "options": [
+      "Par la duplication préalable des chromosomes suivie de leur séparation égale (fissuration des centromères)",
+      "Par la division directe du noyau sans réplication",
+      "Par la réduction de moitié du nombre de chromosomes",
+      "Par fusion des chromatides avec le cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
   }
 ]
