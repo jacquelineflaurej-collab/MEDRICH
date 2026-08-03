@@ -1,0 +1,1318 @@
+[
+  {
+    "id": "1",
+    "question": "Comment appelle-t-on l'étude de la cellule ?",
+    "options": [
+      "La biologie",
+      "La cytologie",
+      "L'anatomie",
+      "La physiologie"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "2",
+    "question": "La cellule est l'unité anatomique, fonctionnelle et quoi d'autre ?",
+    "options": [
+      "Structurelle",
+      "Fondamentale",
+      "Chimique",
+      "Végétale"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "3",
+    "question": "Quelles sont les deux parties essentielles de la cellule animale ?",
+    "options": [
+      "Membrane et noyau",
+      "Cytoplasme et noyau",
+      "Cytoplasme et membrane",
+      "Protoplasme et noyau"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "4",
+    "question": "Comment appelle-t-on l'ensemble formé par le cytoplasme et le noyau ?",
+    "options": [
+      "Le hyaloplasme",
+      "Le protoplasme",
+      "La membrane",
+      "Le gel"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "5",
+    "question": "Quelle membrane entoure le cytoplasme de la cellule animale ?",
+    "options": [
+      "Membrane squelettique",
+      "Membrane cytoplasmique",
+      "Membrane cellulosique",
+      "Membrane rigide"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "6",
+    "question": "La cellule animale possède-t-elle une membrane squelettique ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Parfois",
+      "Seulement les cellules géantes"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "7",
+    "question": "Quel adjectif qualifie une cellule qui n'a pas de membrane squelettique ?",
+    "options": [
+      "Mince",
+      "Élastique",
+      "Nue",
+      "Libre"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "8",
+    "question": "Quelle est la forme d'une cellule globuleuse ?",
+    "options": [
+      "Sphérique",
+      "Allongée",
+      "En croissant",
+      "Fusiforme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "9",
+    "question": "Parmi ces formes, laquelle n'est pas mentionnée pour la cellule animale ?",
+    "options": [
+      "Fusiforme",
+      "Étoilée",
+      "Carrée",
+      "Ovoïde"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "10",
+    "question": "Quelle est la taille moyenne des cellules animales en général ?",
+    "options": [
+      "1 à 5 micromètres",
+      "10 à 15 micromètres",
+      "50 à 100 micromètres",
+      "1 millimètre"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "11",
+    "question": "Quel est le diamètre des globules rouges humains ?",
+    "options": [
+      "2 à 4 micromètres",
+      "6 à 7,5 micromètres",
+      "10 micromètres",
+      "15 micromètres"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "12",
+    "question": "Quelle cellule humaine peut mesurer jusqu'à 200 micromètres ?",
+    "options": [
+      "Le globule rouge",
+      "Le neurone",
+      "L'ovule",
+      "La cellule musculaire"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "13",
+    "question": "Quel est le diamètre de l'ovule de poule ?",
+    "options": [
+      "2 mm",
+      "2 cm",
+      "10 cm",
+      "200 micromètres"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "14",
+    "question": "Quelle cellule peut atteindre une longueur de 1 mètre ?",
+    "options": [
+      "La cellule nerveuse",
+      "Le globule rouge",
+      "L'ovule",
+      "La cellule épithéliale"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "15",
+    "question": "Comment qualifie-t-on les cellules qui mesurent 1 mètre ?",
+    "options": [
+      "Cellules longues",
+      "Cellules géantes",
+      "Cellules macroscopiques",
+      "Cellules élastiques"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "16",
+    "question": "Quelles sont les trois parties essentielles de la cellule animale ?",
+    "options": [
+      "Noyau, Membrane, Vacuole",
+      "Cytoplasme, Noyau, Membrane",
+      "Cytoplasme, Noyau, Paroi",
+      "Hyaloplasme, Noyau, Membrane"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "17",
+    "question": "Comment apparaît le cytoplasme lorsqu'on l'observe au microscope ?",
+    "options": [
+      "Solide et opaque",
+      "Visqueux et transparent",
+      "Gazeux",
+      "Coloré et rigide"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "18",
+    "question": "Comment appelle-t-on le cytoplasme lorsqu'il est fluide ?",
+    "options": [
+      "Gel",
+      "Sol",
+      "Hyaloplasme",
+      "Protoplasme"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "19",
+    "question": "Quel est l'autre nom donné au hyaloplasme ?",
+    "options": [
+      "Sol",
+      "Gelée",
+      "Le cytoplasme lui-même",
+      "Le noyau"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "20",
+    "question": "Sous quelle forme se présente le cytoplasme lorsqu'il devient consistant ?",
+    "options": [
+      "Liquide",
+      "Gaz",
+      "Gelée ou gel",
+      "Cristal"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "21",
+    "question": "De quoi dépend la viscosité du cytoplasme ?",
+    "options": [
+      "De l'état physiologique",
+      "De la couleur",
+      "De la forme",
+      "De la cytologie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "22",
+    "question": "L'âge de la cellule influence-t-il la viscosité du cytoplasme ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Seulement chez les animaux",
+      "Seulement dans le noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "23",
+    "question": "Quel facteur physique fait varier la viscosité du cytoplasme ?",
+    "options": [
+      "La pression",
+      "La température",
+      "La lumière",
+      "Le son"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "24",
+    "question": "Que peut-on observer grâce à la viscosité du cytoplasme ?",
+    "options": [
+      "La division",
+      "Des mouvements de brassage",
+      "La mort cellulaire",
+      "La membrane cellulosique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "25",
+    "question": "Qu'est-ce qui est entraîné par les mouvements de brassage du cytoplasme ?",
+    "options": [
+      "Le noyau",
+      "Des granulations incluses",
+      "La membrane",
+      "L'ovule"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "26",
+    "question": "La membrane plasmique est décrite comme étant mince et quoi d'autre ?",
+    "options": [
+      "Rigide",
+      "Élastique",
+      "Épaisse",
+      "Squelettique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "27",
+    "question": "La cellule animale est-elle une unité anatomique ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Seulement les neurones",
+      "Seulement les ovules"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "28",
+    "question": "Quelle partie de la cellule est plus réfringente que l'eau ?",
+    "options": [
+      "Le noyau",
+      "La membrane",
+      "Le hyaloplasme",
+      "La paroi"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "29",
+    "question": "Quelle est la forme d'une cellule fusiforme ?",
+    "options": [
+      "En forme de sphère",
+      "En forme de fuseau",
+      "En forme d'étoile",
+      "En forme de croissant"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "30",
+    "question": "Les cellules nerveuses sont-elles considérées comme des cellules géantes ?",
+    "options": [
+      "Oui",
+      "Non",
+      "Parfois",
+      "Jamais"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "31",
+    "question": "Quelle branche de la biologie s'occupe spécifiquement de l'étude de la cellule ?",
+    "options": [
+      "L'histologie",
+      "La cytologie",
+      "La physiologie",
+      "L'anatomie"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "32",
+    "question": "Outre l'aspect anatomique et fonctionnel, la cellule est l'unité ____ de tout être vivant.",
+    "options": [
+      "Structurelle",
+      "Fondamentale",
+      "Élémentaire",
+      "Chimique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "33",
+    "question": "Le cytoplasme et le noyau forment ensemble une structure nommée :",
+    "options": [
+      "Le hyaloplasme",
+      "Le protoplasme",
+      "Le nucléoplasme",
+      "La vacuole"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "34",
+    "question": "Quelle caractéristique définit la membrane qui entoure le cytoplasme animal ?",
+    "options": [
+      "Rigide et épaisse",
+      "Mince et élastique",
+      "Imperméable",
+      "Squelettique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "35",
+    "question": "Pourquoi dit-on que la cellule animale est une « cellule nue » ?",
+    "options": [
+      "Elle n'a pas de noyau",
+      "Elle n'a pas de membrane cytoplasmique",
+      "Elle ne possède pas de membrane squelettique",
+      "Elle est transparente"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "36",
+    "question": "Quel terme est synonyme de membrane squelettique dans le texte ?",
+    "options": [
+      "Membrane plasmique",
+      "Membrane cellulosique",
+      "Membrane nucléaire",
+      "Paroi cytoplasmique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "37",
+    "question": "Laquelle de ces formes n'est pas attribuée aux cellules animales ?",
+    "options": [
+      "Sphérique",
+      "Ovoïde",
+      "Fusiforme",
+      "Cubique"
+    ],
+    "reponsKorek": 3,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "38",
+    "question": "Quelle forme prend une cellule animale qui ressemble à un fuseau ?",
+    "options": [
+      "Globuleuse",
+      "Étoilée",
+      "Fusiforme",
+      "Polyédrique"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "39",
+    "question": "Les cellules animales peuvent se présenter sous deux modes de regroupement, lesquels ?",
+    "options": [
+      "Isolées ou groupées",
+      "Fixes ou mobiles",
+      "Simples ou complexes",
+      "Vives ou mortes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "40",
+    "question": "Quelle est la taille approximative de la majorité des cellules animales ?",
+    "options": [
+      "1 à 5 micromètres",
+      "10 à 15 micromètres",
+      "50 à 100 micromètres",
+      "200 micromètres"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "41",
+    "question": "Quel est le diamètre d'un globule rouge humain ?",
+    "options": [
+      "10 micromètres",
+      "6 à 7,5 micromètres",
+      "200 micromètres",
+      "1 mètre"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "42",
+    "question": "Quelle cellule atteint un diamètre exceptionnel de 200 micromètres ?",
+    "options": [
+      "Le neurone",
+      "L'ovule humain",
+      "Le globule rouge",
+      "La cellule épithéliale"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "43",
+    "question": "L'ovule de poule (jaune d'œuf) présente un diamètre de :",
+    "options": [
+      "2 mm",
+      "20 mm",
+      "2 cm",
+      "0,2 cm"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "44",
+    "question": "Jusqu'à quelle longueur les prolongements des nerfs peuvent-ils s'étendre ?",
+    "options": [
+      "10 cm",
+      "50 cm",
+      "1 mètre",
+      "10 mètres"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "45",
+    "question": "Comment nomme-t-on les cellules nerveuses ayant une très grande longueur ?",
+    "options": [
+      "Cellules longues",
+      "Cellules géantes",
+      "Macro-cellules",
+      "Cellules étendues"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "46",
+    "question": "Quels sont les trois constituants morphologiques essentiels de la cellule animale ?",
+    "options": [
+      "Noyau, vacuole, membrane",
+      "Cytoplasme, noyau, membrane",
+      "Hyaloplasme, noyau, paroi",
+      "Mitochondrie, noyau, membrane"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "47",
+    "question": "Quelle est la consistance physique habituelle du cytoplasme ?",
+    "options": [
+      "Solide",
+      "Gazeuse",
+      "Visqueuse",
+      "Cristalline"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "48",
+    "question": "Comment qualifie-t-on l'aspect visuel du cytoplasme au microscope ?",
+    "options": [
+      "Opaque",
+      "Transparent",
+      "Sombre",
+      "Granuleux"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "49",
+    "question": "Par rapport à l'eau, comment est la réfrangibilité du hyaloplasme ?",
+    "options": [
+      "Identique",
+      "Moins réfrangente",
+      "Un peu plus réfrangente",
+      "Très opaque"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "50",
+    "question": "Quel terme désigne l'état fluide du cytoplasme ?",
+    "options": [
+      "Gel",
+      "Sol",
+      "Liquide",
+      "Vapeur"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "51",
+    "question": "Lorsque le cytoplasme devient plus consistant, il passe à l'état de :",
+    "options": [
+      "Sol",
+      "Cristal",
+      "Gelée ou gel",
+      "Gaz"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "52",
+    "question": "La viscosité du cytoplasme est-elle constante pour toutes les cellules ?",
+    "options": [
+      "Oui, elle est fixe",
+      "Non, elle varie d'une cellule à l'autre",
+      "Seulement chez les jeunes cellules",
+      "Seulement selon la taille"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "53",
+    "question": "Pour une même cellule, de quel état dépend principalement la viscosité ?",
+    "options": [
+      "L'état chimique",
+      "L'état physiologique",
+      "L'état de repos",
+      "L'état de division"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "54",
+    "question": "Outre l'état physiologique, quels autres facteurs influencent la viscosité ?",
+    "options": [
+      "Le poids et la taille",
+      "La couleur et la forme",
+      "L'âge et la température",
+      "L'espèce et le sexe"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "55",
+    "question": "Quel phénomène peut être observé facilement grâce à la viscosité du cytoplasme ?",
+    "options": [
+      "La respiration",
+      "Des mouvements de brassage",
+      "La digestion",
+      "La mort du noyau"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "56",
+    "question": "Qu'est-ce que les mouvements de brassage entraînent dans le cytoplasme ?",
+    "options": [
+      "Le noyau entier",
+      "La membrane",
+      "Des granulations incluses",
+      "L'eau extérieure"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "57",
+    "question": "L'étude morphologique de la cellule animale porte sur combien de parties ?",
+    "options": [
+      "Une seule",
+      "Deux parties",
+      "Trois parties",
+      "Quatre parties"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "58",
+    "question": "Une cellule en forme de croissant est classée dans quelle catégorie ?",
+    "options": [
+      "Dimensions",
+      "Formes",
+      "Définitions",
+      "Constituants"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "59",
+    "question": "L'adjectif 'polyédrique' se rapporte à quelle propriété de la cellule ?",
+    "options": [
+      "Sa taille",
+      "Sa couleur",
+      "Sa forme",
+      "Sa fonction"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "60",
+    "question": "Quel est l'autre nom de la membrane cytoplasmique ?",
+    "options": [
+      "Membrane cellulosique",
+      "Membrane plasmique",
+      "Paroi squelettique",
+      "Enveloppe nucléaire"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "61",
+    "question": "Les cellules animales de 10 à 15 micromètres sont considérées comme de :",
+    "options": [
+      "Grande taille",
+      "Taille variable",
+      "Petite taille",
+      "Taille géante"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "62",
+    "question": "Le hyaloplasme est une substance qui se trouve dans quelle partie ?",
+    "options": [
+      "Le noyau",
+      "La membrane",
+      "Le cytoplasme",
+      "La paroi"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "63",
+    "question": "Quelle est la différence de diamètre entre un globule rouge humain et un ovule humain ?",
+    "options": [
+      "192,5 à 194 µm",
+      "100 µm",
+      "10 à 15 µm",
+      "50 µm"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "64",
+    "question": "Quel est le rapport approximatif de taille entre l'ovule de poule (2 cm) et l'ovule humain (200 µm) ?",
+    "options": [
+      "10 fois",
+      "100 fois",
+      "1000 fois",
+      "500 fois"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "65",
+    "question": "Si une cellule mesure 12 micromètres, dans quelle catégorie de taille se situe-t-elle ?",
+    "options": [
+      "Grande taille",
+      "Taille géante",
+      "Petite taille",
+      "Taille macroscopique"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "66",
+    "question": "Lequel de ces éléments constitue la partie fluide du cytoplasme appelée 'sol' ?",
+    "options": [
+      "Le protoplasme",
+      "Le hyaloplasme",
+      "Le noyau",
+      "La membrane plasmique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "67",
+    "question": "Quelle structure est absente de la cellule animale, la rendant 'nue' ?",
+    "options": [
+      "Membrane plasmique",
+      "Membrane cytoplasmique",
+      "Membrane squelettique",
+      "Noyau"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "68",
+    "question": "Comment évolue la viscosité du cytoplasme avec l'âge de la cellule ?",
+    "options": [
+      "Elle reste constante",
+      "Elle varie",
+      "Elle disparaît",
+      "Elle devient gazeuse"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "69",
+    "question": "Quelle est la limite maximale de longueur que peut atteindre une cellule nerveuse ?",
+    "options": [
+      "200 micromètres",
+      "2 centimètres",
+      "1 mètre",
+      "7,5 micromètres"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "70",
+    "question": "Le protoplasme est défini techniquement comme l'union de quelles structures ?",
+    "options": [
+      "Cytoplasme et membrane",
+      "Noyau et membrane",
+      "Cytoplasme et noyau",
+      "Hyaloplasme et granulations"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "71",
+    "question": "Quelle propriété physique distingue le hyaloplasme de l'eau pure ?",
+    "options": [
+      "Sa transparence",
+      "Sa fluidité",
+      "Sa réfrangibilité plus élevée",
+      "Sa couleur"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "72",
+    "question": "Sous quel état physique se trouve le cytoplasme lorsqu'il ressemble à une gelée ?",
+    "options": [
+      "État de sol",
+      "État de gel",
+      "État liquide",
+      "État solide"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "73",
+    "question": "La membrane plasmique est décrite par deux adjectifs spécifiques, lesquels ?",
+    "options": [
+      "Épaisse et rigide",
+      "Mince et élastique",
+      "Transparente et fixe",
+      "Visqueuse et fluide"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "74",
+    "question": "Quel phénomène biologique est facilité par la viscosité du cytoplasme ?",
+    "options": [
+      "La division nucléaire",
+      "Les mouvements de brassage",
+      "La rigidité cellulaire",
+      "La formation de la paroi"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "75",
+    "question": "Quelle est l'unité de mesure utilisée pour définir la taille des globules rouges ?",
+    "options": [
+      "Millimètre",
+      "Centimètre",
+      "Micromètre",
+      "Nanomètre"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "76",
+    "question": "Lequel de ces termes désigne la même structure que la membrane plasmique ?",
+    "options": [
+      "Membrane cellulosique",
+      "Membrane cytoplasmique",
+      "Membrane squelettique",
+      "Paroi cellulaire"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "77",
+    "question": "La cellule est définie comme étant l'unité anatomique, fonctionnelle et _____.",
+    "options": [
+      "Élémentaire",
+      "Fondamentale",
+      "Physiologique",
+      "Cytologique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "78",
+    "question": "Quelle forme cellulaire est spécifiquement comparée à un 'croissant' ?",
+    "options": [
+      "Fusiforme",
+      "Étoilée",
+      "En croissant",
+      "Ovoïde"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "79",
+    "question": "Quelles sont les trois parties morphologiques essentielles étudiées dans la cellule ?",
+    "options": [
+      "Noyau, vacuole, membrane",
+      "Cytoplasme, noyau, membrane",
+      "Protoplasme, sol, gel",
+      "Membrane, paroi, noyau"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "80",
+    "question": "De quoi dépend la viscosité pour une seule et même cellule ?",
+    "options": [
+      "De sa forme",
+      "De son état physiologique",
+      "De sa dimension",
+      "De sa cytologie"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "81",
+    "question": "Quel est le diamètre maximal mentionné pour un globule rouge humain ?",
+    "options": [
+      "6 µm",
+      "7 µm",
+      "7,5 µm",
+      "10 µm"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "82",
+    "question": "Comment appelle-t-on techniquement une cellule nerveuse de très grande taille ?",
+    "options": [
+      "Cellule étendue",
+      "Cellule géante",
+      "Cellule longue",
+      "Macro-neurone"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "83",
+    "question": "Le cytoplasme est entouré par une membrane qui n'est PAS _____.",
+    "options": [
+      "Mince",
+      "Élastique",
+      "Squelettique",
+      "Plasmique"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "84",
+    "question": "Laquelle de ces formes n'est PAS mentionnée dans la liste des formes cellulaires ?",
+    "options": [
+      "Polyédrique",
+      "Fusiforme",
+      "Cylindrique",
+      "Globuleuse"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "85",
+    "question": "Quelle substance constitue le cytoplasme observé au microscope ?",
+    "options": [
+      "Une substance gazeuse",
+      "Une substance visqueuse",
+      "Une substance solide",
+      "De l'eau pure"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "86",
+    "question": "Qu'est-ce qui est entraîné par les mouvements de brassage cytoplasmique ?",
+    "options": [
+      "Le noyau",
+      "La membrane",
+      "Les granulations incluses",
+      "Le protoplasme"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "87",
+    "question": "Quel est le diamètre de l'ovule humain exprimé en micromètres ?",
+    "options": [
+      "10 µm",
+      "15 µm",
+      "200 µm",
+      "6 µm"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "88",
+    "question": "Quel synonyme le texte donne-t-il à la membrane squelettique ?",
+    "options": [
+      "Membrane plasmique",
+      "Membrane cellulosique",
+      "Membrane élastique",
+      "Membrane nucléaire"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "89",
+    "question": "Outre l'âge et l'état physiologique, quel facteur fait varier la viscosité ?",
+    "options": [
+      "La lumière",
+      "La température",
+      "La pression",
+      "L'humidité"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "90",
+    "question": "Une cellule de 12 micromètres est considérée par le texte comme étant de _____.",
+    "options": [
+      "Grosse taille",
+      "Taille moyenne",
+      "Petite taille",
+      "Taille invisible"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "91",
+    "question": "La cytologie est définie précisément comme _____.",
+    "options": [
+      "L'étude du vivant",
+      "L'étude de la cellule",
+      "L'étude du noyau",
+      "L'étude des tissus"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "92",
+    "question": "Quelle est la forme géométrique évoquée par le terme 'polyédrique' ?",
+    "options": [
+      "Plusieurs faces",
+      "Une sphère",
+      "Une étoile",
+      "Un œuf"
+    ],
+    "reponsKorek": 0,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "93",
+    "question": "Quelle structure interne est baignée dans le cytoplasme ?",
+    "options": [
+      "La paroi",
+      "Le noyau",
+      "La membrane cellulosique",
+      "L'unité anatomique"
+    ],
+    "reponsKorek": 1,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "94",
+    "question": "Quel constituant cellulaire peut passer de l'état de 'sol' à l'état de 'gel' ?",
+    "options": [
+      "Le noyau",
+      "La membrane",
+      "Le cytoplasme",
+      "La membrane squelettique"
+    ],
+    "reponsKorek": 2,
+    "paj": "Etape 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  }
+]
