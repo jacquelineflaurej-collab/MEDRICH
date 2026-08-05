@@ -1115,6 +1115,897 @@
       "paj": "Page 2",
       "nivo": "Difficile",
       "tip": "Completer"
-    }
+    },
+  {
+    "id": "94",
+    "question": "Du point de vue chimique, le cytoplasme est essentiellement formé d'eau et de grosses molécules de :",
+    "options": ["Protéines", "Glucides", "Lipides", "Vitamines"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "95",
+    "question": "Le cytoplasme est très avide de quel élément ?",
+    "options": ["Azote", "Oxygène", "Hydrogène", "Carbone"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "96",
+    "question": "Par rapport à son comportement avec l'oxygène, le cytoplasme est qualifié de :",
+    "options": ["Oxydant", "Réducteur", "Neutre", "Acide"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "97",
+    "question": "Le cytoplasme est coagulable par la chaleur et :",
+    "options": ["L'eau", "L'alcool", "L'huile", "Le sel"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "98",
+    "question": "Dans quel produit chimique le cytoplasme peut-il se dissoudre ?",
+    "options": ["L'acide chlorhydrique", "L'eau de Javel", "Le vinaigre", "L'éthanol"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "99",
+    "question": "Combien de groupes d'inclusions sont disséminés dans le cytoplasme ?",
+    "options": ["Un", "Deux", "Trois", "Quatre"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "100",
+    "question": "Les inclusions cytoplasmiques sont également appelées :",
+    "options": ["Noyaux", "Organites", "Membranes", "Vacuoles"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "101",
+    "question": "Comment nomme-t-on les inclusions inertes du cytoplasme ?",
+    "options": ["Chondriome", "Paraplasme", "Dictyosome", "Ergastoplasme"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "102",
+    "question": "Les inclusions vivantes du cytoplasme comprennent notamment le :",
+    "options": ["Réticulum", "Chondriome", "Paraplasme", "Noyau"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "103",
+    "question": "Les petits corps nommés chondriosomes sont aussi appelés :",
+    "options": ["Dictyosomes", "Mitochondries", "Ribosomes", "Lysosomes"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "104",
+    "question": "Par rapport au cytoplasme, les chondriosomes sont :",
+    "options": ["Moins réfringents", "Plus réfringents", "Aussi réfringents", "Transparents"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "105",
+    "question": "Sous quelle forme se présentent les chondriosomes sous forme de petits grains ?",
+    "options": ["Chondriocontes", "Mitochondries", "Dictyosomes", "Enclaves"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "106",
+    "question": "Sous forme de bâtonnets ou de filaments, les chondriosomes sont appelés :",
+    "options": ["Mitochondries", "Chondriocontes", "Paraplasmes", "Organites"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "107",
+    "question": "Les mitochondries constituent le centre respiratoire et _____ de la cellule.",
+    "options": ["Pectoral", "Énergétique", "Digestif", "Circulatoire"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "108",
+    "question": "En quelle année l'appareil de Golgi a-t-il été découvert ?",
+    "options": ["1708", "1808", "1908", "1880"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "109",
+    "question": "L'appareil de Golgi est-il fréquemment ou rarement visible sur la cellule vivante ?",
+    "options": ["Toujours visible", "Rarement visible", "Jamais visible", "Seulement la nuit"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "110",
+    "question": "Quel métal utilise-t-on pour imprégner et observer l'appareil de Golgi ?",
+    "options": ["L'or", "L'argent", "Le cuivre", "Le fer"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "111",
+    "question": "Quelle couleur prend l'appareil de Golgi après imprégnation à l'argent ?",
+    "options": ["Rouge", "Noir", "Bleu", "Jaune"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "112",
+    "question": "Où se trouvent généralement les corps de Golgi par rapport à la cellule ?",
+    "options": ["À l'extérieur", "Au voisinage du noyau", "Dans la membrane", "Dans le nucléole"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "113",
+    "question": "Quel autre nom donne-t-on aux corps de Golgi ?",
+    "options": ["Chondriosomes", "Dictyosomes", "Lysosomes", "Ribosomes"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "114",
+    "question": "L'appareil de Golgi est un appareil :",
+    "options": ["Moteur", "Excréteur", "Sensoriel", "Reproducteur"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "115",
+    "question": "Dans quelles cellules l'appareil de Golgi intervient-il dans la sécrétion ?",
+    "options": ["Cellules musculaires", "Cellules glandulaires", "Nerveuses seulement", "Sanguines"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "116",
+    "question": "L'appareil de Golgi joue un rôle dans la synthèse des :",
+    "options": ["Lipides purs", "Holosides", "Protéines brutes", "Acides nucléiques"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "117",
+    "question": "Les mitochondries renferment une très grande quantité de :",
+    "options": ["Sucre", "Enzymes", "Eau salée", "Graisses"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "118",
+    "question": "Le cytoplasme est le siège de la plupart des réactions de la :",
+    "options": ["Matière minérale", "Matière vivante", "Matière inerte", "Matière gazeuse"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "119",
+    "question": "Les cellules glandulaires sont également appelées :",
+    "options": ["Cellules réceptrices", "Cellules sécrétrices", "Cellules nerveuses", "Cellules sanguines"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "120",
+    "question": "L'appareil de Golgi concentre les protéines formées par :",
+    "options": ["Le noyau", "L'ergastoplasme", "Le centrosome", "La membrane"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "121",
+    "question": "Les corps de Golgi peuvent évoquer la forme de petits bâtonnets, d'écailles ou de :",
+    "options": ["Sphères", "Croissants", "Cubiques", "Pyramides"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "122",
+    "question": "Les inclusions du cytoplasme sont divisées en inclusions vivantes et inclusions :",
+    "options": ["Mégas", "Inertes", "Actives", "Solides"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "123",
+    "question": "Le chondriome fournit à la cellule de :",
+    "options": ["L'eau", "L'énergie", "Du sang", "De la lumière"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "124",
+    "question": "Dans quelles cellules l'appareil de Golgi forme-t-il une forme réticulée ?",
+    "options": ["Cellules musculaires", "Cellules nerveuses", "Cellules osseuses", "Cellules végétales"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "125",
+    "question": "Les chondriosomes interviennent dans le métabolisme de quelles molécules ?",
+    "options": ["Des sels", "Des lipides", "Du calcium", "Du fer"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "126",
+    "question": "Où se situe l'appareil de Golgi en forme réticulée ?",
+    "options": ["Dans la paroi", "Autour du noyau", "Dans le nucléole", "Dans les vacuoles"],
+    "reponsKorek": 1,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "127",
+    "question": "Quels sont les composants associés aux grosses molécules de protéines dans le cytoplasme ?",
+    "options": ["Lipides, glucides et enzymes", "Minéraux, vitamines et fer", "Eau lourde et gaz", "Acides chlorhydriques"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "128",
+    "question": "De quelle substance chimique sont constitués les chondriosomes ?",
+    "options": ["Substance lipoprotéique phosphorée", "Substance glucidique minérale", "Protéine pure non hydrolysée", "Lipide complexe hydrofuge"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "129",
+    "question": "Dans quel processus biologique les mitochondries sont-elles le siège principal ?",
+    "options": ["Oxydations cellulaires", "Photosynthèse", "Fermentation alcoolique", "Mitose"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "130",
+    "question": "Avec quel organite l'appareil de Golgi coopère-t-il dans les glandes intestinales ?",
+    "options": ["Réticulum endoplasmique", "Centrosome", "Lysosome", "Chondriome"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "131",
+    "question": "Dans la synthèse de quoi l'appareil de Golgi et le réticulum endoplasmique coopèrent-ils ?",
+    "options": ["Glycérides", "Holosides", "Chondriosomes", "Enzymes digestives"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "132",
+    "question": "Quand peut-on facilement observer les chondriosomes sur la cellule vivante ?",
+    "options": ["Lorsque le cytoplasme est transparent", "Lorsque la cellule meurt", "Après coloration à l'argent", "Sous lumière ultraviolette"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "133",
+    "question": "Quel est le rôle indirect du chondriome grâce à la fourniture d'énergie ?",
+    "options": ["Intervenir dans les synthèses liées à la croissance", "Fixer l'oxygène atmosphérique", "Colorer le noyau en noir", "Dissoudre les lipides"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "134",
+    "question": "Quelle est la forme typique des éléments constituant l'appareil de Golgi ?",
+    "options": ["Petits éléments isolés de taille moyenne", "Grands filaments continus", "Grosses molécules d'eau", "Sphères opaques géantes"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "135",
+    "question": "Les chondriosomes interviennent dans la synthèse de quelles macromolécules ?",
+    "options": ["Protéines", "Glucides complexes", "Acides nucléiques", "Amidon"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "136",
+    "question": "Quelles formes peuvent prendre les chondriosomes selon le texte ?",
+    "options": ["Grains, bâtonnets ou filaments", "Sphères, cubes ou réseaux", "Écailles, croissants ou étoiles", "Plaques, anneaux ou spirales"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "137",
+    "question": "Où s'effectue la coopération entre l'appareil de Golgi et le réticulum endoplasmique ?",
+    "options": ["Dans les glandes intestinales", "Dans le noyau", "Dans les cellules nerveuses", "Dans le milieu extracellulaire"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "138",
+    "question": "Comment s'appelle la forme de l'appareil de Golgi qui entoure le noyau dans les cellules nerveuses ?",
+    "options": ["Forme réticulée", "Forme granulaire", "Forme filamenteuse", "Forme alvéolaire"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "139",
+    "question": "Quel organite est qualifié de 'centre respiratoire et énergétique de la cellule' ?",
+    "options": ["Les mitochondries", "L'appareil de Golgi", "L'ergastoplasme", "Le paraplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "140",
+    "question": "Par quoi le cytoplasme peut-il être coagulé ?",
+    "options": ["Par la chaleur et l'alcool", "Par l'eau de Javel et l'argent", "Par le froid et l'oxygène", "Par la lumière et le glucose"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "141",
+    "question": "Parmi ces éléments, lequel est une inclusion inerte ?",
+    "options": ["Le paraplasme", "Le chondriome", "L'appareil de Golgi", "La mitochondrie"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "142",
+    "question": "Quelle action le chondriome exerce-t-il sur la sécrétion d'autres éléments cellulaires ?",
+    "options": ["Il y intervient indirectement", "Il la bloque complètement", "Il la remplace totalement", "Il n'a aucun rapport"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "143",
+    "question": "Que fait l'appareil de Golgi vis-à-vis des protéines formées par l'ergastoplasme ?",
+    "options": ["Il les concentre", "Il les détruit", "Il les transforme en glucides", "Il les rejette hors du cytoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "144",
+    "question": "Le terme 'organites' désigne dans le texte :",
+    "options": ["Les enclaves ou inclusions cytoplasmiques", "Seulement le noyau", "Les molécules d'eau de Javel", "Les protéines de l'ergastoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "145",
+    "question": "Les chondriosomes jouent un grand rôle dans :",
+    "options": ["L'élaboration de certaines substances", "La division du noyau", "La dissolution de l'alcool", "La coagulation de la cellule"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "146",
+    "question": "Parmi ces formes, laquelle N'EST PAS attribuée aux corps de Golgi ?",
+    "options": ["Spirales géantes", "Petits bâtonnets", "Écailles", "Croissants"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "147",
+    "question": "Pourquoi le cytoplasme est-il considéré comme un réducteur ?",
+    "options": ["Parce qu'il est très avide d'oxygène", "Parce qu'il se dissout dans l'eau", "Parce qu'il contient des enzymes", "Parce qu'il est transparent"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "148",
+    "question": "Quel type d'inclusions constitue le chondriome ?",
+    "options": ["Inclusions vivantes", "Inclusions inertes", "Paraplasme", "Inclusions minérales"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "149",
+    "question": "L'appareil de Golgi est décrit comme un appareil excréteur car :",
+    "options": ["Il intervient dans la sécrétion chez les cellules glandulaires", "Il absorbe l'oxygène", "Il détruit les mitochondries", "Il coagule à la chaleur"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "150",
+    "question": "Les mitochondries sont riches en quelles substances d'après le texte ?",
+    "options": ["Enzymes", "Eau de Javel", "Sels de sodium", "Cellulose"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "151",
+    "question": "L'imprégnation à l'argent permet de rendre visible quel organite habituellement peu visible ?",
+    "options": ["L'appareil de Golgi", "Les mitochondries", "Le paraplasme", "Les enzymes"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "152",
+    "question": "Dans la cellule vivante, les chondriocontes ont la forme de :",
+    "options": ["Bâtonnets ou filaments", "Petits grains", "Croissants", "Réseau réticulé"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "153",
+    "question": "La croissance cellulaire dépend indirectement du chondriome car il fournit :",
+    "options": ["De l'énergie", "Des holosides", "De l'alcool", "De l'argent"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "154",
+    "question": "Où se trouvent les inclusions (organites) dans la cellule ?",
+    "options": ["Disséminées dans le cytoplasme", "Fixées uniquement au noyau", "Dans l'eau de Javel", "Dans la membrane plasmique"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "155",
+    "question": "Les molécules associées aux protéines dans le cytoplasme comprennent :",
+    "options": ["Lipides, glucides, enzymes", "Uniquement de l'eau", "Argent et phosphate", "Paraplasme et alcool"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "156",
+    "question": "Quelle structure forme un réseau autour du noyau des cellules nerveuses ?",
+    "options": ["L'appareil de Golgi sous sa forme réticulée", "Le chondriome sous forme de chondriocontes", "Le paraplasme inerte", "L'ergastoplasme seul"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "157",
+    "question": "Quel est l'effet de la chaleur sur le cytoplasme ?",
+    "options": ["Il le coagule", "Il le dissout", "Il le rend plus réfringent", "Il le transforme en argent"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "158",
+    "question": "En quelle matière est fait l'ergastoplasme par rapport au Golgi ?",
+    "options": ["Il forme les protéines que l'appareil de Golgi va concentrer", "Il sécrète les glycérides directement", "Il détruit les chondriosomes", "Il constitue le paraplasme inerte"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "159",
+    "question": "Quelle différence de réfringence existe-t-il entre le cytoplasme et les chondriosomes ?",
+    "options": ["Les chondriosomes sont plus réfringents que le cytoplasme", "Le cytoplasme est plus réfringent que les chondriosomes", "Ils ont exactement la même réfringence", "Aucun des deux n'a de réfringence"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "160",
+    "question": "Analyse fonctionnelle : Si une cellule subit une altération du chondriome, quelle fonction fondamentale sera directement affectée en premier ?",
+    "options": ["La fourniture d'énergie et la respiration cellulaire", "La coloration à l'argent de l'appareil de Golgi", "La dissolution dans l'eau de Javel", "La formation de paraplasme inerte"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "161",
+    "question": "Quelle distinction précise le texte fait-il entre mitochondries et chondriocontes ?",
+    "options": ["Les mitochondries sont en petits grains, les chondriocontes en bâtonnets ou filaments", "Les mitochondries sont inertes, les chondriocontes sont vivants", "Les mitochondries contiennent de l'argent, les chondriocontes du phosphore", "Les mitochondries sont dans le noyau, les chondriocontes dans le Golgi"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "162",
+    "question": "Quelle est la chaîne d'action correcte concernant la synthèse et concentration des protéines ?",
+    "options": ["L'ergastoplasme forme les protéines, puis l'appareil de Golgi les concentre", "L'appareil de Golgi forme les protéines, puis le paraplasme les concentre", "Le chondriome forme les protéines, puis l'eau de Javel les dissout", "Le noyau concentre les protéines formées par les dictyosomes"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "163",
+    "question": "Quelle affirmation est VRAIE concernant la constitution chimique des chondriosomes ?",
+    "options": ["Ils sont constitués d'une substance lipoprotéique phosphorée", "Ils sont uniquement faits d'eau et d'alcool", "Ils contiennent seulement des holosides purifiés", "Ils sont constitués d'eau de Javel coagulée"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "164",
+    "question": "Comment s'articule le rôle du chondriome dans la croissance cellulaire ?",
+    "options": ["En fournissant de l'énergie, il intervient indirectement dans les synthèses de croissance", "En absorbant l'alcool, il stoppe la croissance", "En synthétisant des holosides réticulés", "En éliminant l'ergastoplasme de la cellule"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "165",
+    "question": "Quelle est la relation spécifique entre le réticulum endoplasmique et l'appareil de Golgi ?",
+    "options": ["Ils coopèrent dans la synthèse des glycérides dans les glandes intestinales", "Ils se dissolvent mutuellement sous l'action de la chaleur", "Le réticulum transforme l'appareil de Golgi en dictyosomes", "Ils forment le paraplasme inerte du cytoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "166",
+    "question": "Pourquoi la forme réticulée de l'appareil de Golgi est-elle remarquable ?",
+    "options": ["Elle forme un réseau autour du noyau spécifique aux cellules nerveuses", "Elle n'apparaît que lorsqu'on chauffe la cellule", "Elle est composée exclusivement de chondriocontes", "Elle est visible sans aucune technique de coloration"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "167",
+    "question": "Quelle propriété physico-chimique du cytoplasme explique sa destruction par l'eau de Javel ?",
+    "options": ["Sa capacité à se dissoudre dans ce réactif", "Son pouvoir de coagulation par le froid", "Sa nature lipoprotéique phosphorée", "Sa transformation immédiate en argent"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "168",
+    "question": "En quoi le rôle de l'appareil de Golgi diffère-t-il dans les cellules glandulaires par rapport à son rôle général ?",
+    "options": ["Il y agit spécifiquement comme un appareil excréteur de sécrétion", "Il y remplace les mitochondries pour produire de l'énergie", "Il s'y transforme en paraplasme inerte", "Il y devient un siège d'oxydation cellulaire"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "169",
+    "question": "Parmi les rôles suivants, lequel appartient AU CHONDRIOME et NON à l'appareil de Golgi ?",
+    "options": ["Être le siège des oxydations cellulaires", "La synthèse des holosides", "La concentration des protéines de l'ergastoplasme", "La coopération pour la synthèse des glycérides"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "170",
+    "question": "Parmi les rôles suivants, lequel appartient À L'APPAREIL DE GOLGI et NON au chondriome ?",
+    "options": ["La synthèse des holosides", "L'élaboration du centre respiratoire", "Le métabolisme des lipides", "La fourniture directe d'énergie à la cellule"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "171",
+    "question": "Quelle est la particularité optique permettant d'observer les chondriosomes sur du cytoplasme vivant ?",
+    "options": ["La transparence du cytoplasme couplée à la plus forte réfringence des chondriosomes", "L'imprégnation préalable à l'eau de Javel", "La coagulation thermique du cytoplasme", "La présence de réseau réticulé noir"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "172",
+    "question": "Si l'on cherche à synthétiser des holosides dans la cellule, quel organite est sollicité ?",
+    "options": ["L'appareil de Golgi", "Le chondriome", "Le paraplasme", "Les chondriocontes"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "173",
+    "question": "Quel est le rapport d'appellation entre dictyosomes et corps de Golgi ?",
+    "options": ["Les corps de Golgi en forme de bâtonnets, d'écailles ou de croissants sont appelés dictyosomes", "Les dictyosomes sont les inclusions inertes des corps de Golgi", "Les corps de Golgi sont des fragments de chondriocontes", "Les dictyosomes sont l'eau de Javel fixée sur le noyau"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "174",
+    "question": "Quelle est la différence fondamentale de classification entre le chondriome et le paraplasme ?",
+    "options": ["Le chondriome est une inclusion vivante, le paraplasme est une inclusion inerte", "Le chondriome est dans le noyau, le paraplasme est dans le Golgi", "Le chondriome est coagulable, le paraplasme est gazeux", "Le chondriome dégage de l'oxygène, le paraplasme en consomme"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "175",
+    "question": "Pourquoi qualifie-t-on le cytoplasme de réducteur sur le plan chimique ?",
+    "options": ["En raison de sa très grande avidité pour l'oxygène", "Parce qu'il réduit la taille des protéines", "Car il diminue la quantité d'eau de Javel", "Parce qu'il empêche la formation d'enzymes"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "176",
+    "question": "Quel organite interagit directement avec l'ergastoplasme selon le texte ?",
+    "options": ["L'appareil de Golgi", "Le chondrioconte", "Le paraplasme", "La mitochondrie isolée"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "177",
+    "question": "Dans le processus de sécrétion des cellules sécrétrices, l'appareil de Golgi se distingue comme :",
+    "options": ["Un appareil excréteur", "Un centre respiratoire", "Une inclusion inerte", "Un réducteur d'oxygène"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "178",
+    "question": "Quelle est la composition biochimique globale du cytoplasme énoncée dans le texte ?",
+    "options": ["Eau + grosses molécules de protéines associées aux lipides, glucides et enzymes", "Eau pure + métaux d'argent phosphorés", "Paraplasme + eau de Javel + alcool", "Holosides + glycérides + lipides purs sans enzymes"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "179",
+    "question": "Quelle est la conséquence directe de l'action de l'alcool sur le cytoplasme ?",
+    "options": ["La coagulation du cytoplasme", "La dissolution complète", "La coloration en noir", "La transformation en dictyosomes"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "180",
+    "question": "Sur le plan morphologique, que deviennent les chondriosomes lorsqu'ils sont sous forme de bâtonnets ?",
+    "options": ["Des chondriocontes", "Des mitochondries en grains", "Des dictyosomes", "Des corps de Golgi"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "181",
+    "question": "Quel lien existe-t-il entre le chondriome et le métabolisme des lipides ?",
+    "options": ["Le chondriome intervient directement dans le métabolisme des lipides", "Le chondriome détruit les lipides grâce à l'eau de Javel", "Les lipides remplacent le chondriome dans le noyau", "Les lipides empêchent le chondriome de produire des enzymes"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "182",
+    "question": "Comment l'argent permet-il de révéler l'appareil de Golgi ?",
+    "options": ["Par imprégnation qui le colore en noir", "Par dissolution de sa membrane", "En le coagulant sous l'effet de la chaleur", "En le transformant en chondrioconte"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "183",
+    "question": "Quel terme regroupe à la fois les mitochondries et les chondriocontes ?",
+    "options": ["Les chondriosomes", "Les dictyosomes", "Le paraplasme", "Les holosides"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "184",
+    "question": "Que contiennent spécifiquement les mitochondries en très grande quantité ?",
+    "options": ["Des enzymes", "De l'alcool", "Des glycérides", "De l'argent"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "185",
+    "question": "Où est situé l'appareil de Golgi par rapport à la structure cellulaire générale ?",
+    "options": ["Au voisinage du noyau", "A l'intérieur même du nucléole", "Dans les inclusions inertes uniquement", "Fixé sur les mitochondries"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "186",
+    "question": "Dans le métabolisme cellulaire, quel organite intervient dans la synthèse des protéines ET des lipides ?",
+    "options": ["Le chondriome (chondriosomes)", "Le paraplasme", "L'eau de Javel", "Les dictyosomes isolés"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "187",
+    "question": "Quelle est la caractéristique morphologique commune des éléments formant l'appareil de Golgi ?",
+    "options": ["Petits éléments isolés de forme typique et de taille moyenne", "Fils très longs ondulant dans toute la cellule", "Masse compacte et indissociable", "Gouttes liquides transparentes sans forme"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "188",
+    "question": "Quel impact le chondriome a-t-il sur la sécrétion d'autres éléments cellulaires ?",
+    "options": ["Un rôle indirect en fournissant l'énergie nécessaire", "Un rôle direct en fabriquant l'eau de Javel", "Un rôle d'inhibition de la sécrétion", "Aucun rôle, c'est le paraplasme qui s'en charge"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "189",
+    "question": "Pourquoi est-il difficile d'observer l'appareil de Golgi sans préparation spécifique ?",
+    "options": ["Parce qu'il est rarement visible sur la cellule vivante", "Parce qu'il se dissout instantanément dans l'eau", "Parce qu'il est trop réfringent", "Parce qu'il est masque par le paraplasme inerte"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "190",
+    "question": "Quel lien fonctionnel existe-t-il entre les glandes intestinales et l'appareil de Golgi ?",
+    "options": ["L'appareil de Golgi y synthétise les glycérides en coopération avec le réticulum endoplasmique", "L'appareil de Golgi y détruit les cellules sécrétrices", "L'appareil de Golgi s'y transforme en chondriocontes", "L'appareil de Golgi y coagule le cytoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "191",
+    "question": "Quelle substance spécifique entre dans la composition chimique des chondriosomes mais pas du cytoplasme de base ?",
+    "options": ["La substance lipoprotéique phosphorée", "L'eau salée", "Les protéines simples", "Les glucides solubles"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "192",
+    "question": "Quelle est la définition globale des enclaves ou inclusions cytoplasmiques selon le texte ?",
+    "options": ["Deux groupes d'inclusions (vivantes et inertes) disséminés dans le cytoplasme", "Des gouttes d'eau de Javel piégées dans la cellule", "Uniquement des composants du noyau", "Des molécules d'oxygène concentrées par l'argent"],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  }
   ]
 }
