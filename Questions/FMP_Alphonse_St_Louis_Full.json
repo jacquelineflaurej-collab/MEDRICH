@@ -2007,5 +2007,4324 @@
     "nivo": "Difficile",
     "tip": "Quiz"
   }
-  ]
+  ],
+  "Page 3": [
+    {
+    "id": "193",
+    "question": "Le centrosome est encore appelé centre cellulaire ou :",
+    "options": ["Sphère directrice", "Réticulum", "Vacuome", "Ergastoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "194",
+    "question": "Où se situe le centrosome dans la cellule ?",
+    "options": ["Près du noyau", "À l'extérieur de la cellule", "Dans les vacuoles", "Dans les lysosomes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "195",
+    "question": "Comment s'appelle la partie centrale très colorable du centrosome ?",
+    "options": ["Le centriole", "L'archoplasme", "Le vacuome", "Le ribosome"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "196",
+    "question": "Comment s'appelle la masse de protoplasme clair, homogène et dense entourant le centriole ?",
+    "options": ["L'archoplasme", "Le hyaloplasme", "Le paraplasme", "Le cytoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "197",
+    "question": "Le centrosome est un centre cinétique qui contrôle :",
+    "options": ["Les mouvements de la cellule", "La couleur de la cellule", "La digestion des microbes", "La synthèse des stéroïdes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "198",
+    "question": "Quel autre nom donne-t-on au réticulum endoplasmique ?",
+    "options": ["Ergastoplasme", "Centrosome", "Vacuome", "Sphère directrice"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "199",
+    "question": "Le réticulum endoplasmique est constitué de membranes délimitant un ensemble de :",
+    "options": ["Cavités aplaties", "Grains sphériques", "Microbes phagocytés", "Tubes rigides"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "200",
+    "question": "Le réticulum endoplasmique lisse ne possède pas de :",
+    "options": ["Ribosomes", "Membranes", "Cavités", "Stéroïdes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "201",
+    "question": "Le réticulum endoplasmique lisse est responsable de la synthèse des :",
+    "options": ["Stéroïdes", "Protéines", "Lysosomes", "Suc vacuolaires"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "202",
+    "question": "Les stéroïdes sont des composés de quelle nature ?",
+    "options": ["Lipidique", "Protéique", "Glucidique", "Minérale"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "203",
+    "question": "Le réticulum granuleux est un réticulum associé aux :",
+    "options": ["Ribosomes", "Centrioles", "Lysosomes", "Vacuoles"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "204",
+    "question": "Quel organite est responsable du rôle de synthèse dévolu aux protéines ?",
+    "options": ["Les ribosomes", "Les centrioles", "Les vacuoles", "Le vacuome"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "205",
+    "question": "À quel organite le réticulum distribue-t-il spécialement les protéines formées ?",
+    "options": ["À l'appareil de Golgi", "Au centrosome", "Aux lysosomes", "Aux vacuoles"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "206",
+    "question": "Quel autre nom donne-t-on aux ribosomes ?",
+    "options": ["Grains de Palade", "Inclusions inertes", "Dictyosomes", "Sphères directrices"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "207",
+    "question": "Les ribosomes peuvent être dispersés dans le :",
+    "options": ["Hyaloplasme", "Centriole", "Noyau", "Vacuome"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "208",
+    "question": "Les lysosomes sont délimités par une membrane :",
+    "options": ["Simple", "Double", "Triple", "Absente"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "209",
+    "question": "Les lysosomes sont de petits :",
+    "options": ["Corpuscules", "Grains de Palade", "Centrioles", "Stéroïdes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "210",
+    "question": "Les lysosomes sont riches en enzymes :",
+    "options": ["Digestives (hydrolytiques)", "Oxydantes", "Synthétiques", "Lipidiques"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "211",
+    "question": "Dans quelles cellules les lysosomes sont-ils particulièrement actifs pour digérer les microbes ?",
+    "options": ["Les leucocytes", "Les hépatocytes", "Les cellules ciliées", "Les protozoaires"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "212",
+    "question": "Comment appelle-t-on les enclaves inertes du cytoplasme ?",
+    "options": ["Paraplasme", "Archoplasme", "Hyaloplasme", "Ergastoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "213",
+    "question": "L'ensemble des vacuoles forme le :",
+    "options": ["Vacuome", "Centrosome", "Chondriome", "Hyaloplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "214",
+    "question": "Les enclaves inertes comprennent les vacuoles et les :",
+    "options": ["Réserves", "Ribosomes", "Centrioles", "Lysosomes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "215",
+    "question": "Les vacuoles sont de petites cavités limitées par une membrane de même nature que :",
+    "options": ["La membrane cytoplasmique", "La membrane nucléaire", "La membrane lysosomale", "L'archoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "216",
+    "question": "Rencontre-t-on souvent les vacuoles dans la cellule animale ?",
+    "options": ["Rarement", "Toujours", "Très fréquemment", "Jamais"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "217",
+    "question": "Quand elles existent dans la cellule animale, les vacuoles sont :",
+    "options": ["Peu nombreuses et très petites", "Très grandes et nombreuses", "Colorées en noir", "Aussi grandes que le noyau"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "218",
+    "question": "Dans quelles cellules d'organismes simples observe-t-on des vacuoles digestives ou pulsatiles ?",
+    "options": ["Les protozoaires", "Les leucocytes", "Les cellules flagellées", "Les stéroïdes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "219",
+    "question": "De quelle substance liquide les vacuoles sont-elles remplies ?",
+    "options": ["Le suc vacuolaire", "L'archoplasme", "Le hyaloplasme", "Les stéroïdes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "220",
+    "question": "Les réserves se présentent sous la forme d'enclaves glucidiques, protidiques ou :",
+    "options": ["Lipidiques", "Minérales", "Hydriques", "Nerveuses"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "221",
+    "question": "Que digèrent les lysosomes dans les leucocytes ?",
+    "options": ["Les microbes phagocytés", "Les stéroïdes", "Le suc vacuolaire", "L'archoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "222",
+    "question": "Par quel constituant sont élaborées les substances qui forment les réserves dans le suc vacuolaire ?",
+    "options": ["Le protoplasme", "Le centriole", "Les stéroïdes", "Les cils"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "223",
+    "question": "Où peut-on observer des vacuoles dans les cellules du foie humain ?",
+    "options": ["Dans les cellules hépatiques", "Dans les leucocytes", "Dans les cils", "Dans les flagelles"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "224",
+    "question": "Outre les mouvements internes, quels autres mouvements le centrosome dépend-il ?",
+    "options": ["Les mouvements externes", "La synthèse des protéines", "La digestion des stéroïdes", "La formation de suc vacuolaire"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "225",
+    "question": "Les cils et flagelles sont des exemples de structures cellulaires dépendant du :",
+    "options": ["Centrosome", "Réticulum", "Vacuome", "Lysosome"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "226",
+    "question": "Quels types de mouvements internes sont placés sous la dépendance du centrosome ?",
+    "options": ["Les mouvements de la division cellulaire", "La circulation du suc vacuolaire", "La contraction des stéroïdes", "La digestion des microbes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "227",
+    "question": "Quels exemples de cellules possédant des mouvements externes dépendants du centrosome sont cités ?",
+    "options": ["Les cellules ciliées et flagellées", "Les cellules hépatiques et leucocytes", "Les protozoaires et les bactéries", "Les ergastoplasmes et ribosomes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "228",
+    "question": "Quelle est la chaîne d'actions réalisée par le réticulum endoplasmique sur les protéines formées ?",
+    "options": ["Il les stocke, les transforme et les distribue", "Il les phagocyte, les digère et les élimine", "Il les dissout dans l'eau et les évacue", "Il les colore en noir et les détruit"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "229",
+    "question": "Quel rôle global de transport le réticulum endoplasmique assure-t-il ?",
+    "options": ["Un transport des substances absorbées à l'intérieur du cytoplasme", "Un transport de l'oxygène vers l'extérieur", "Un transport des microbes vers le noyau", "Un transport des centrioles vers les cils"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "230",
+    "question": "Où se trouvent localisés les ribosomes lorsqu'ils forment l'ergastoplasme ?",
+    "options": ["Collés contre les membranes du réticulum endoplasmique", "Libres au centre du centriole", "À l'intérieur des lysosomes", "Dans le suc vacuolaire"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "231",
+    "question": "Quelle est la fonction essentielle qui s'effectue au niveau des ribosomes ?",
+    "options": ["La synthèse des protéines", "La digestion des glucides", "La formation de la membrane plasmique", "Le mouvement des flagelles"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "232",
+    "question": "Pourquoi qualifie-t-on les lysosomes de 'catalyseurs cellulaires énergiques' ?",
+    "options": ["Parce qu'ils sont riches en enzymes digestives (hydrolytiques)", "Parce qu'ils contiennent des stéroïdes", "Parce qu'ils fabriquent des grains de Palade", "Parce qu'ils se déplacent grâce à des flagelles"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "233",
+    "question": "De quoi est composé le suc vacuolaire contenu dans les vacuoles ?",
+    "options": ["De produits d'excrétion ou de substances élaborées formant des réserves", "D'enzymes hydrolytiques et de stéroïdes", "De centrioles et d'archoplasme", "De ribosomes et de grains de Palade"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "234",
+    "question": "Quels sont les deux types de vacuoles spécifiques mentionnés chez les protozoaires ?",
+    "options": ["Vacuoles digestives et vacuoles pulsatiles", "Vacuoles stéroïdes et vacuoles protidiques", "Vacuoles phagocytaires et vacuoles de Palade", "Vacuoles cellulaires et vacuoles granuleuses"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "235",
+    "question": "Sous quelles formes chimiques les réserves cellulaires peuvent-elles se présenter ?",
+    "options": ["Glucidiques, protidiques ou lipidiques", "Hydrolytiques, catalytiques ou cinétiques", "Archoplasmiques, hyaloplasmiques ou nucléaires", "Granuleuses, lisses ou réticulées"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "236",
+    "question": "Quelle différence fondamentale existe-t-il entre le réticulum lisse et le réticulum granuleux ?",
+    "options": ["Le lisse est sans ribosomes (synthèse des stéroïdes), le granuleux a des ribosomes (synthèse des protéines)", "Le lisse contient des lysosomes, le granuleux contient des centrioles", "Le lisse est inerte, le granuleux est un centre cinétique", "Le lisse est dans les vacuoles, le granuleux est dans le noyau"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "237",
+    "question": "Que constituent les vacuoles et les réserves au sein du cytoplasme ?",
+    "options": ["Les enclaves inertes ou paraplasme", "Les organites du centre cinétique", "L'archoplasme très colorable", "Le réseau réticulé de Golgi"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "238",
+    "question": "Quels sont les deux états ou emplacements des ribosomes dans le hyaloplasme ?",
+    "options": ["Dispersés libres ou collés contre les membranes du réticulum", "Enfermés dans les lysosomes ou dans le centriole", "Fixés dans le suc vacuolaire ou dans l'archoplasme", "Transformés en stéroïdes ou en réserves lipidiques"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "239",
+    "question": "Quelle est la structure anatomique interne du centrosome ?",
+    "options": ["Un centriole central entouré d'archoplasme", "Un ensemble de cavités aplaties délimitées par une membrane", "Une vacuole remplie de suc vacuolaire", "Un corpuscule limité par une membrane simple avec des enzymes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "240",
+    "question": "Quelle est la fonction des lysosomes spécifique aux leucocytes ?",
+    "options": ["La digestion des microbes phagocytés", "La synthèse des composés lipidiques", "La production d'énergie cinétique", "La formation de la membrane cytoplasmique"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "241",
+    "question": "À quoi correspond le terme 'ergastoplasme' lorsqu'il est lié aux ribosomes ?",
+    "options": ["Au réticulum endoplasmique granuleux dont les membranes ont des ribosomes collés", "À l'ensemble des vacuoles digestives d'un protozoaire", "À la masse de protoplasme clair qui entoure le centriole", "Aux produits d'excrétion contenus dans le vacuome"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "242",
+    "question": "Comment décrirait-on la fréquence et la taille des vacuoles chez la cellule animale ?",
+    "options": ["Rares, peu nombreuses et à peine visibles", "Abondantes, géantes et très colorées", "Constantes, occupant tout le centre cellulaire", "Totalement absentes sans aucune exception"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "243",
+    "question": "L'archoplasme se distingue du centriole par sa consistance et son aspect. Il est :",
+    "options": ["Clair, homogène et dense", "Très colorable et granuleux", "Riche en enzymes hydrolytiques", "Constitué de cavités aplaties"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "244",
+    "question": "Quelle relation existe-t-il entre les stéroïdes et les lipides ?",
+    "options": ["Les stéroïdes sont des composés lipidiques", "Les stéroïdes sont des protéines synthétisées par les ribosomes", "Les stéroïdes sont des enzymes hydrolytiques", "Les stéroïdes sont des glucides de réserve"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "245",
+    "question": "En dehors des protozoaires, quelle autre cellule animale spécifique mentionne-t-on pour la présence de vacuoles ?",
+    "options": ["Les cellules hépatiques", "Les cellules flagellées", "Les leucocytes", "Les cellules ciliées"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "246",
+    "question": "Quel organite sert d'intermédiaire en recevant les protéines du réticulum avant leur distribution ?",
+    "options": ["L'appareil de Golgi", "Le centrosome", "Le lysosome", "Le vacuome"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "247",
+    "question": "Les enzymes contenues dans les lysosomes sont qualifiées de :",
+    "options": ["Hydrolytiques", "Cinétiques", "Archoplasmiques", "Stéroïdiens"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "248",
+    "question": "Le terme 'centre cinétique' attribué au centrosome renvoie à sa capacité à :",
+    "options": ["Régir et diriger les mouvements cellulaires", "Produire des stéroïdes de réserve", "Digérer les bactéries de l'environnement", "Former des réserves protidiques"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "249",
+    "question": "Comment se nomme la substance fluide présente dans les cavités des vacuoles ?",
+    "options": ["Le suc vacuolaire", "Le hyaloplasme", "L'archoplasme", "Le stéroïde"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "250",
+    "question": "Si une cellule synthétise activement des stéroïdes, quel organite sera particulièrement développé ?",
+    "options": ["Le réticulum endoplasmique lisse", "Le réticulum granuleux", "Les grains de Palade libres", "Les lysosomes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "251",
+    "question": "Quelle est la caractéristique de la membrane qui entoure les vacuoles ?",
+    "options": ["Elle est de même nature que la membrane cytoplasmique", "Elle est double et rigide", "Elle est constituée d'archoplasme colorable", "Elle est absente chez les protozoaires"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "252",
+    "question": "Les produits d'excrétion cellulaire peuvent être stockés temporairement dans :",
+    "options": ["Les vacuoles (dans le suc vacuolaire)", "Le centriole", "Les grains de Palade", "L'archoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "253",
+    "question": "Quel organite est qualifié de 'granulation située près du noyau' ?",
+    "options": ["Le centrosome", "Le lysosome", "Le ribosome", "Le vacuome"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "254",
+    "question": "Les mouvements de division cellulaire dépendent directement de quelle structure ?",
+    "options": ["Du centrosome", "Des lysosomes", "Du vacuome", "Des grains de Palade"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "255",
+    "question": "Analyse fonctionnelle : Une cellule incapable d'effectuer la digestion intra-cellulaire des microbes phagocytés présente un dysfonctionnement de quel organite ?",
+    "options": ["Des lysosomes", "Du centrosome", "Du réticulum endoplasmique lisse", "Du vacuome"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "256",
+    "question": "Désignation croisée : Quelle est la distinction exacte entre l'archoplasme et le centriole au sein du centrosome ?",
+    "options": ["Le centriole est la partie centrale très colorable, l'archoplasme est la masse de protoplasme clair et homogène qui l'entoure", "Le centriole est liquide et inerte, l'archoplasme est une membrane simple", "Le centriole est un stéroïde, l'archoplasme est une enzyme digestif", "Le centriole synthétise les protéines, l'archoplasme digère les microbes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "257",
+    "question": "Enchaînement métabolique : Quel est le trajet et le traitement des protéines à partir de leur lieu de synthèse dans l'ergastoplasme ?",
+    "options": ["Synthétisées par les ribosomes, stockées et transformées par le réticulum, puis distribuées à l'appareil de Golgi", "Fabriquées par le centriole, envoyées dans les lysosomes, puis excrétées par les cils", "Produites par le vacuome, stockées dans l'archoplasme, puis transformées en stéroïdes", "Sécrétées par les lysosomes, modifiées par le centrosome, puis éliminées par les vacuoles"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "258",
+    "question": "Analyse comparative : Quelle opposition fonctionnelle existe-t-il entre le réticulum endoplasmique lisse et le réticulum granuleux ?",
+    "options": ["Le lisse est dépourvu de ribosomes et synthétise des lipides (stéroïdes), tandis que le granuleux possède des ribosomes et participe à la synthèse des protéines", "Le lisse digère les microbes grâce aux enzymes hydrolytiques, le granuleux assure la division cellulaire", "Le lisse est une enclave inerte du paraplasme, le granuleux est un centre cinétique externe", "Le lisse entoure le noyau, le granuleux forme les cils et flagelles"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "259",
+    "question": "Logique d'organisation : Pourquoi l'ergastoplasme et les grains de Palade sont-ils intimement liés dans la fonction de synthèse protidique ?",
+    "options": ["Parce que l'ergastoplasme est formé par les membranes du réticulum auxquelles sont collés les grains de Palade (ribosomes)", "Parce que les grains de Palade sont stockés à l'intérieur du centriole dans l'archoplasme", "Parce que l'ergastoplasme est un produit d'excrétion stocké dans le suc vacuolaire", "Parce que les grains de Palade se transforment en lysosomes lors de la synthèse"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "260",
+    "question": "Analyse de structure : Qu'est-ce qui différencie la membrane des lysosomes de celle des vacuoles ?",
+    "options": ["Les lysosomes possèdent une membrane simple isolant des enzymes digestives, alors que la membrane des vacuoles est de même nature que la membrane cytoplasmique", "Les lysosomes n'ont pas de membrane, alors que les vacuoles ont une double membrane rigide", "La membrane des lysosomes est formée d'archoplasme dense, celle des vacuoles de stéroïdes", "Il n'y a aucune différence, toutes deux délimitent du suc vacuolaire"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "261",
+    "question": "Déduction cytologique : Si une cellule musculaire ou épithéliale présente des cils ou des flagelles battant de manière synchrone, quel organite est directement responsable de la coordination cinétique de ces structures ?",
+    "options": ["Le centrosome (sphère directrice)", "Le vacuome", "L'ergastoplasme granuleux", "Les grains de Palade"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "262",
+    "question": "Rôle du protoplasme : Dans la dynamique du vacuome, quelle est la provenance exacte des réserves contenues dans le suc vacuolaire ?",
+    "options": ["Ce sont des substances élaborées par le protoplasme", "Ce sont des stéroïdes importés directement par les lysosomes", "Ce sont des produits de décomposition de l'archoplasme", "Ce sont des centrioles dégradés par les cils"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "263",
+    "question": "Classification des éléments : Pourquoi range-t-on les vacuoles et les réserves dans le 'paraplasme' plutôt que parmi les organites vivants ?",
+    "options": ["Parce qu me ce sont des enclaves inertes du cytoplasme", "Parce qu'elles contiennent des enzymes hydrolytiques actives", "Parce qu'elles dirigent la division cellulaire", "Parce qu'elles sont composées d'archoplasme très colorable"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "264",
+    "question": "Mécanisme de transport intra-cytoplasmique : Comment le réticulum endoplasmique participe-t-il à la nutrition ou au métabolisme cellulaire ?",
+    "options": ["En assurant un véritable transport à l'intérieur du cytoplasme des substances absorbées", "En digérant les microbes phagocytés à l'aide de suc vacuolaire", "En expulsant le centriole hors de la membrane cytoplasmique", "En transformant l'archoplasme en cils et flagelles"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "265",
+    "question": "Spécificité cellulaire : Quelle différence majeure constate-t-on quant à la présence des vacuoles entre un protozoaire et une cellule animale supérieure ?",
+    "options": ["Chez les protozoaires elles sont bien développées (digestives/pulsatiles), alors que chez l'animal elles sont rares, peu nombreuses et à peine visibles", "Chez l'animal elles occupent tout le cytoplasme, alors qu'elles sont absentes chez le protozoaire", "Les protozoaires n'ont que des vacuoles à stéroïdes, l'animal a des vacuoles d'archoplasme", "Chez le protozoaire elles sont colorables à l'argent, chez l'animal elles sont granuleuses"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "266",
+    "question": "Interprétation biologique : Dans le processus de phagocytose chez le leucocyte, quelle est la séquence logique d'action des lysosomes ?",
+    "options": ["Englobement du microbe puis catalyse/digestion par les enzymes hydrolytiques du lysosome", "Synthèse de stéroïdes pour étouffer le microbe dans l'archoplasme", "Transport du microbe par les flagelles jusqu'au centriole", "Stockage du microbe sous forme de réserves glucidiques dans le vacuome"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "267",
+    "question": "Analyse terminologique : Quel regroupement de termes désignent exactement les MÊMES entités cellulaires ?",
+    "options": ["Ribosomes = Grains de Palade ; Centrosome = Centre cellulaire / Sphère directrice", "Réticulum lisse = Ergastoplasme ; Lysosomes = Paraplasme", "Vacuome = Archoplasme ; Centriole = Suc vacuolaire", "Stéroïdes = Enzymes hydrolytiques ; Leucocytes = Protozoaires"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "268",
+    "question": "Analyse de composition : Le suc vacuolaire peut contenir deux catégories d'éléments distincts. Lesquelles ?",
+    "options": ["Des produits d'excrétion et des substances élaborées formant des réserves", "Des centrioles et de l'archoplasme", "Des stéroïdes et des enzymes hydrolytiques", "Des grains de Palade et du hyaloplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "269",
+    "question": "Physiologie cellulaire : Si le centrosome subit une destruction accidentelle, quel processus fondamental de la vie cellulaire sera immédiatement stoppé ?",
+    "options": ["La division cellulaire (mouvements internes de division)", "La synthèse des stéroïdes lipidiques", "La digestion des protéines par les hydrolysats", "L'absorption des substances par le vacuome"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "270",
+    "question": "Relation structure-fonction : Pourquoi la présence de cavités aplaties communiquant entre elles est-elle adaptée au rôle du réticulum endoplasmique ?",
+    "options": ["Cela facilite le stockage, la transformation et le transport des substances à travers le cytoplasme", "Cela permet de bloquer le déplacement du centriole", "Cela assure la digestion directe des microbes sans l'aide des lysosomes", "Cela permet de maintenir la cellule rigide sans membrane cytoplasmique"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "271",
+    "question": "Intégration métabolique : Quel lien existe-t-il entre les ribosomes et le rôle distributeur du réticulum endoplasmique ?",
+    "options": ["Les ribosomes fabriquent les protéines que le réticulum charge ensuite de modifier, stocker et distribuer", "Les ribosomes détruisent les protéines transportées par le réticulum", "Les ribosomes transforment le réticulum en composé lipidique", "Les ribosomes sécrètent le suc vacuolaire transporté par le réticulum"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "272",
+    "question": "Biochimie des enclaves : Les réserves contenues dans le paraplasme se composent de trois grandes familles biomoléculaires. Lesquelles ?",
+    "options": ["Enclaves glucidiques, protidiques et lipidiques", "Enclaves stéroïdietiques, hydrolytiques et cinétiques", "Enclaves archoplasmiques, centriolaires et vacuolaires", "Enclaves leucocytaires, amibiennes et flagellées"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "273",
+    "question": "Analyse d'image/texte : Quelle structure entoure directement le centriole pour former le centrosome ?",
+    "options": ["Une masse de protoplasme clair, homogène et dense appelée archoplasme", "Une membrane simple d'enzymes hydrolytiques", "Un réseau de cavités aplaties chargées de ribosomes", "Une couche de stéroïdes et de glucides de réserve"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "274",
+    "question": "Corrélation fonctionnelle : Quel organite cellulaire agit comme un catalyseur biologique lors de la dégradation des molécules intrazellulaires ?",
+    "options": ["Le lysosome (grâce à ses enzymes hydrolytiques)", "Le centrosome (grâce au centriole)", "Le réticulum lisse (grâce aux stéroïdes)", "Le vacuome (grâce aux réserves glucidiques)"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "275",
+    "question": "Logique d'organisation : Quel est le rapport entre le hyaloplasme et les grains de Palade ?",
+    "options": ["Le hyaloplasme est le milieu dans lequel certains grains de Palade sont dispersés à l'état libre", "Le hyaloplasme est fabriqué par les grains de Palade", "Le hyaloplasme est la membrane qui délimite les grains de Palade", "Les grains de Palade détruisent le hyaloplasme par hydrolyse"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "276",
+    "question": "Déduction biomédicale : Pourquoi les leucocytes sont-ils particulièrement riches en lysosomes actifs ?",
+    "options": ["Car leur fonction principale est la phagocytose et la destruction enzymatique des microbes", "Car ils doivent fabriquer de grandes quantités de stéroïdes", "Car ils se déplacent uniquement grâce à des centrioles", "Car ils stockent le sucre sous forme de suc vacuolaire"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "277",
+    "question": "Analyse de la motilité : Comment s'articule le rôle du centrosome dans la locomotion externe des cellules ?",
+    "options": ["En contrôlant la dynamique et les mouvements des cils et des flagelles", "En expulsant le suc vacuolaire sous pression", "En synthétisant des protéines motrices dans les lysosomes", "En rétractant les cavités aplaties du réticulum"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "278",
+    "question": "Synthèse architecturale : Si l'on observe une cellule présentant une très forte activité de synthèse protidique ET d'exportation vers l'appareil de Golgi, quelle combinaison d'organites sera la plus prédominante ?",
+    "options": ["Réticulum endoplasmique granuleux riche en ribosomes", "Centrosomes multiples entourés d'archoplasme", "Vacuoles pulsatiles remplies de suc vacuolaire", "Inclusions inertes de paraplasme lipidique"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "279",
+    "question": "Identification de rôles : Quel organite s'occupe du transport intracellulaire des substances absorbées ?",
+    "options": ["Le réticulum endoplasmique", "Le centrosome", "Le lysosome", "Le centriole"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "280",
+    "question": "Question de synthèse : Parmi les propositions suivantes, laquelle récapitule exactement la définition du vacuome ?",
+    "options": ["C'est l'ensemble des cavités ou vacuoles limitées par une membrane, formant un groupe d'enclaves inertes", "C'est la masse homogène d'archoplasme entourant le centriole", "C'est l'ensemble des membranes associées aux ribosomes", "C'est le réseau de cils et flagelles responsable des mouvements cellulaires"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "281",
+    "question": "Distinction biologique : Quelle différence majeure existe entre le rôle des lysosomes et celui des vacuoles de réserve ?",
+    "options": ["Les lysosomes ont un rôle actif de dégradation enzymatique, tandis que les vacuoles de réserve ont un rôle inerte de stockage de substances", "Les lysosomes fabriquent les stéroïdes, alors que les vacuoles stockent l'archoplasme", "Les lysosomes sont des centres cinétiques, alors que les vacuoles régulent la division", "Les lysosomes se trouvent dans les protozoaires, alors que les vacuoles n'existent que chez l'homme"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "282",
+    "question": "Deduction fonctionnelle : Quel est le devenir des substances absorbées par la cellule une fois prises en charge par le réticulum endoplasmique ?",
+    "options": ["Elles sont transportées à travers le cytoplasme", "Elles sont immédiatement transformées en centrioles", "Elles sont coagulées dans l'archoplasme", "Elles sont expulsées par les flagelles"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "283",
+    "question": "Mise en relation des termes : L'expression 'grains de Palade' est le synonyme historique et scientifique de quel organite ?",
+    "options": ["Les ribosomes", "Les centrioles", "Les lysosomes", "Les stéroïdes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "284",
+    "question": "Caractérisation des stéroïdes : Comment sont qualifiés les stéroïdes produits par le réticulum lisse sur le plan biochimique ?",
+    "options": ["Composés lipidiques", "Composés hydrolytiques", "Protéines granuleuses", "Enzymes digestives"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "285",
+    "question": "Analyse de la zone centrosomale : Qu'obtient-on si l'on associe le centriole et l'archoplasme ?",
+    "options": ["Le centrosome", "Le hyaloplasme", "L'ergastoplasme", "Le paraplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "286",
+    "question": "La cellule végétale possède une membrane _____ et des plastes, mais elle n'a pas de _____.",
+    "options": [
+      "cellulosique",
+      "centrosomes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "287",
+    "question": "Du point de vue chimique, le cytoplasme est formé d'eau et de _____ associées à des lipides, des glucides et des _____, tout en agissant comme un _____.",
+    "options": [
+      "protéines",
+      "enzymes",
+      "réducteur"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "2",
+    "question": "Appelé encore centre cellulaire ou sphère directrice, le centrosome est une granulation située près du _____.",
+    "options": [
+      "noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "3",
+    "question": "Le centrosome est formé d'une partie centrale très colorable appelée le _____.",
+    "options": [
+      "centriole"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "4",
+    "question": "Le centriole est entouré d'une masse de protoplasme clair et homogène, dense, appelée _____.",
+    "options": [
+      "archoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "5",
+    "question": "Le centrosome est un centre _____ qui tient sous sa dépendance les différents mouvements de la cellule.",
+    "options": [
+      "cinétique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "6",
+    "question": "Parmi les mouvements cellulaires sous la dépendance du centrosome figurent les mouvements internes de la division _____.",
+    "options": [
+      "cellulaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "7",
+    "question": "Les mouvements externes dépendant du centrosome concernent les cellules ciliées et _____.",
+    "options": [
+      "flagellées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "8",
+    "question": "Un autre nom donné au réticulum endoplasmique est l'_____.",
+    "options": [
+      "ergastoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "9",
+    "question": "Le réticulum endoplasmique est constitué de membranes délimitant un ensemble de cavités _____ communiquant entre elles.",
+    "options": [
+      "aplaties"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "10",
+    "question": "Le réticulum endoplasmique lisse est dépourvu de _____.",
+    "options": [
+      "ribosomes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "11",
+    "question": "Le réticulum endoplasmique lisse est responsable de la synthèse des _____.",
+    "options": [
+      "stéroïdes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "12",
+    "question": "Les stéroïdes sont qualifiés de composés _____.",
+    "options": [
+      "lipidiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "13",
+    "question": "Le réticulum granuleux est un réticulum associé aux _____.",
+    "options": [
+      "ribosomes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "14",
+    "question": "Le réticulum granuleux synthétise les _____.",
+    "options": [
+      "protéines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "15",
+    "question": "Le réticulum stocke, transforme et distribue spécialement les protéines formées à l'appareil de _____.",
+    "options": [
+      "Golgi"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "16",
+    "question": "Le réticulum assure un véritable transport à l'intérieur du cytoplasme des substances _____.",
+    "options": [
+      "absorbées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "17",
+    "question": "Les ribosomes sont aussi appelés grains de _____.",
+    "options": [
+      "Palade"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "18",
+    "question": "Les ribosomes sont dispersés dans le _____ ou collés contre les membranes du réticulum.",
+    "options": [
+      "hyaloplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "19",
+    "question": "C'est au niveau des ribosomes que s'effectue la synthèse des _____.",
+    "options": [
+      "protéines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "20",
+    "question": "Les lysosomes sont de petits corpuscules limités par une membrane _____.",
+    "options": [
+      "simple"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "21",
+    "question": "Les lysosomes sont particulièrement riches en enzymes _____.",
+    "options": [
+      "digestives"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "22",
+    "question": "Les enzymes digestives contenues dans les lysosomes sont aussi dites _____.",
+    "options": [
+      "hydrolytiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "23",
+    "question": "Les lysosomes sont considérés comme des catalyseurs cellulaires _____.",
+    "options": [
+      "énergiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "24",
+    "question": "Dans les leucocytes, les lysosomes digèrent les microbes _____.",
+    "options": [
+      "phagocytés"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "25",
+    "question": "Les enclaves inertes du cytoplasme sont également appelées le _____.",
+    "options": [
+      "paraplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "26",
+    "question": "L'ensemble des vacuoles forme ce qu'on appelle le _____.",
+    "options": [
+      "vacuome"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "27",
+    "question": "Les enclaves inertes du cytoplasme sont les vacuoles et les _____.",
+    "options": [
+      "réserves"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "28",
+    "question": "Les vacuoles sont limitées par une membrane de même nature que la membrane _____.",
+    "options": [
+      "cytoplasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "29",
+    "question": "On rencontre _____ les vacuoles dans la cellule animale.",
+    "options": [
+      "rarement"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "30",
+    "question": "On observe facilement les vacuoles digestives ou pulsatiles dans les cellules des _____.",
+    "options": [
+      "protozoaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "31",
+    "question": "Les vacuoles sont remplies d'une substance appelée suc _____.",
+    "options": [
+      "vacuolaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "32",
+    "question": "Le suc vacuolaire constitue soit des produits d'excrétion, soit des substances élaborées par le _____.",
+    "options": [
+      "protoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "33",
+    "question": "Les réserves se présentent sous la forme d'enclaves glucidiques, protidiques ou _____.",
+    "options": [
+      "lipidiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "34",
+    "question": "Le centrosome est un centre _____ qui tient sous sa dépendance les différents _____ de la cellule.",
+    "options": [
+      "cinétique",
+      "mouvements"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "35",
+    "question": "Le centrosome est formé d'une partie centrale appelée _____ entourée d'une masse de protoplasme appelée _____.",
+    "options": [
+      "centriole",
+      "archoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "36",
+    "question": "L'archoplasme est décrit comme un protoplasme _____ et _____.",
+    "options": [
+      "clair",
+      "homogène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "37",
+    "question": "Le centrosome régule les mouvements internes de la _____ ainsi que les mouvements externes des cellules _____.",
+    "options": [
+      "division cellulaire",
+      "ciliées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "38",
+    "question": "Le réticulum endoplasmique est constitué de _____ délimitant un ensemble de _____ aplaties.",
+    "options": [
+      "membranes",
+      "cavités"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "39",
+    "question": "Le réticulum endoplasmique lisse synthétise les _____, qui sont des composés _____.",
+    "options": [
+      "stéroïdes",
+      "lipidiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "40",
+    "question": "Le réticulum granuleux est associé aux _____ pour assurer la synthèse des _____.",
+    "options": [
+      "ribosomes",
+      "protéines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "41",
+    "question": "Le réticulum stocke et transforme les protéines formées puis les distribue spécialement à _____ de _____.",
+    "options": [
+      "l'appareil",
+      "Golgi"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "42",
+    "question": "Le réticulum assure un véritable _____ à l'intérieur du cytoplasme des substances _____.",
+    "options": [
+      "transport",
+      "absorbées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "43",
+    "question": "Les ribosomes sont aussi nommés grains de _____, et sont des organites plus _____.",
+    "options": [
+      "Palade",
+      "nombreux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "44",
+    "question": "Les ribosomes peuvent se trouver dispersés dans le _____ ou collés aux membranes du _____.",
+    "options": [
+      "hyaloplasme",
+      "réticulum"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "45",
+    "question": "Lorsque les ribosomes sont collés au réticulum endoplasmique, l'ensemble forme l'_____ où s'effectue la synthèse des _____.",
+    "options": [
+      "ergastoplasme",
+      "protéines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "46",
+    "question": "Les lysosomes sont de petits _____ limités par une membrane _____.",
+    "options": [
+      "corpuscules",
+      "simple"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "47",
+    "question": "Les lysosomes sont riches en enzymes _____, également appelées enzymes _____.",
+    "options": [
+      "digestives",
+      "hydrolytiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "48",
+    "question": "Les lysosomes agissent comme des _____ cellulaires énergiques, particulièrement actifs dans les _____.",
+    "options": [
+      "catalyseurs",
+      "leucocytes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "49",
+    "question": "Dans les leucocytes, les lysosomes sont très actifs et digèrent les _____ _____.",
+    "options": [
+      "microbes",
+      "phagocytés"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "50",
+    "question": "Les enclaves _____ du cytoplasme constituent le paraplasme et comprennent les _____ et les réserves.",
+    "options": [
+      "inertes",
+      "vacuoles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "51",
+    "question": "L'ensemble des vacuoles forme le _____, constituant une partie des enclaves _____.",
+    "options": [
+      "vacuome",
+      "inertes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "52",
+    "question": "Les vacuoles sont des petites _____ limitées par une membrane de même nature que la membrane _____.",
+    "options": [
+      "cavités",
+      "cytoplasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "53",
+    "question": "Dans la cellule animale, les vacuoles sont _____ rencontrées et sont de très _____ taille.",
+    "options": [
+      "rarement",
+      "petite"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "54",
+    "question": "Chez les protozoaires, on peut observer deux types de vacuoles : les vacuoles _____ ou _____.",
+    "options": [
+      "digestives",
+      "pulsatiles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "55",
+    "question": "Les vacuoles sont remplies de suc _____, contenant des produits _____ ou de réserve.",
+    "options": [
+      "vacuolaire",
+      "d'excrétion"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "56",
+    "question": "Le suc vacuolaire peut contenir des substances élaborées par le _____ pour former des _____.",
+    "options": [
+      "protoplasme",
+      "réserves"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "57",
+    "question": "Les réserves cellulaires se présentent sous forme d'enclaves glucidiques, _____ ou _____.",
+    "options": [
+      "protidiques",
+      "lipidiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "58",
+    "question": "Le centrosome est aussi désigné sous le nom de centre _____ ou sphère _____.",
+    "options": [
+      "cellulaire",
+      "directrice"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "59",
+    "question": "La partie centrale du centrosome est le centriole qui est très _____, entouré par l'_____.",
+    "options": [
+      "colorable",
+      "archoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "60",
+    "question": "Le réticulum endoplasmique granuleux possède des _____ et a pour rôle la synthèse des _____.",
+    "options": [
+      "ribosomes",
+      "protéines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "61",
+    "question": "Les ribosomes peuvent être fixés contre les _____ du réticulum endoplasmique, formant ainsi l'_____.",
+    "options": [
+      "membranes",
+      "ergastoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "62",
+    "question": "Les lysosomes renferment des enzymes _____ capables de détruire les _____ phagocytés.",
+    "options": [
+      "digestives",
+      "microbes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "63",
+    "question": "On retrouve de petites vacuoles très peu nombreuses dans les cellules de l'homme, par exemple dans les cellules _____.",
+    "options": [
+      "hépatiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "64",
+    "question": "Les enclaves du paraplasme sont qualifiées d'_____ et incluent le _____.",
+    "options": [
+      "inertes",
+      "vacuome"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "65",
+    "question": "Le réticulum lisse est caractérisé par l'absence de _____ et la capacité de fabriquer des _____.",
+    "options": [
+      "ribosomes",
+      "stéroïdes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "66",
+    "question": "Les mouvements des cellules flagellées et des cellules _____ dépendent directement du _____.",
+    "options": [
+      "ciliées",
+      "centrosome"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "67",
+    "question": "Le centrosome est aussi appelé _____ ou _____, et constitue une granulation située près du _____.",
+    "options": [
+      "centre cellulaire",
+      "sphère directrice",
+      "noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "68",
+    "question": "Le centrosome comprend une partie centrale très colorable appelée _____, baignant dans une masse claire et dense nommée _____ entourée de _____.",
+    "options": [
+      "centriole",
+      "archoplasme",
+      "protoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "69",
+    "question": "Considéré comme un centre _____, le centrosome régule la division _____ ainsi que les mouvements des cellules ciliées et _____.",
+    "options": [
+      "cinétique",
+      "cellulaire",
+      "flagellées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "70",
+    "question": "Le réticulum endoplasmique, ou _____, est formé de _____ délimitant des cavités _____.",
+    "options": [
+      "ergastoplasme",
+      "membranes",
+      "aplaties"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "71",
+    "question": "Le réticulum endoplasmique lisse est sans _____, et assure la synthèse des _____, qui sont des composés _____.",
+    "options": [
+      "ribosomes",
+      "stéroïdes",
+      "lipidiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "72",
+    "question": "Le réticulum granuleux est associé aux _____, synthétise les _____ et les achemine vers l'appareil de _____.",
+    "options": [
+      "ribosomes",
+      "protéines",
+      "Golgi"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "73",
+    "question": "Le réticulum endoplasmique stocke les protéines _____, les _____ et les distribue à l'appareil de Golgi.",
+    "options": [
+      "formées",
+      "transforme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "74",
+    "question": "Le réticulum assure un véritable _____ intracellulaire des substances _____ à travers le _____.",
+    "options": [
+      "transport",
+      "absorbées",
+      "cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "75",
+    "question": "Les ribosomes, ou grains de _____, sont des organites très _____ situés dans le _____ ou fixés aux membranes.",
+    "options": [
+      "Palade",
+      "nombreux",
+      "hyaloplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "76",
+    "question": "Lorsque les ribosomes sont fixés aux membranes du réticulum, ils forment l'_____, le lieu majeur de synthèse des _____ de la _____.",
+    "options": [
+      "ergastoplasme",
+      "protéines",
+      "cellule"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "77",
+    "question": "Les lysosomes sont de petits _____ entourés d'une membrane _____ et riches en enzymes _____.",
+    "options": [
+      "corpuscules",
+      "simple",
+      "digestives"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "78",
+    "question": "Les enzymes des lysosomes sont qualifiées d'_____, faisant de ces organites de véritables _____ cellulaires _____.",
+    "options": [
+      "hydrolytiques",
+      "catalyseurs",
+      "énergiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "79",
+    "question": "Particulièrement actifs dans les _____, les lysosomes y assurent la digestion des _____ qui ont été _____.",
+    "options": [
+      "leucocytes",
+      "microbes",
+      "phagocytés"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "80",
+    "question": "Les enclaves _____ du cytoplasme forment le _____, qui inclut les vacuoles et les _____.",
+    "options": [
+      "inertes",
+      "paraplasme",
+      "réserves"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "81",
+    "question": "L'ensemble des vacuoles forme le _____, constitué de cavités limitées par une membrane identique à la membrane _____.",
+    "options": [
+      "vacuome",
+      "cytoplasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "82",
+    "question": "Dans la cellule animale, les vacuoles sont _____ rencontrées, très peu _____ et à peine _____.",
+    "options": [
+      "rarement",
+      "nombreuses",
+      "visibles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "83",
+    "question": "Chez les protozoaires, on trouve des vacuoles _____ ou _____, alors que chez l'homme on en trouve dans les cellules _____.",
+    "options": [
+      "digestives",
+      "pulsatiles",
+      "hépatiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "84",
+    "question": "Les vacuoles contiennent du suc _____, formé de produits d'_____ ou de substances élaborées par le _____.",
+    "options": [
+      "vacuolaire",
+      "excrétion",
+      "protoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "85",
+    "question": "Les substances de réserve contenues dans le paraplasme se divisent en trois catégories : _____, protidiques ou _____.",
+    "options": [
+      "glucidiques",
+      "lipidiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "86",
+    "question": "Le centriole est une structure centrale très _____ enveloppée par l'_____, l'ensemble formant le _____.",
+    "options": [
+      "colorable",
+      "archoplasme",
+      "centrosome"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "87",
+    "question": "Le réticulum endoplasmique comprend une partie lisse synthétisant les _____ et une partie granuelle associée aux _____ qui produit des _____.",
+    "options": [
+      "stéroïdes",
+      "ribosomes",
+      "protéines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "88",
+    "question": "Au niveau du réticulum, les protéines subissent trois étapes successives : elles sont _____, _____ puis distribuées à l'appareil de Golgi.",
+    "options": [
+      "stockées",
+      "transformées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "89",
+    "question": "Les ribosomes sont soit libres dans le _____, soit fixés au réticulum pour former l'_____, siège de la synthèse des _____.",
+    "options": [
+      "hyaloplasme",
+      "ergastoplasme",
+      "protéines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "90",
+    "question": "Les lysosomes, qualifiés de _____ cellulaires, agissent par leurs enzymes _____ pour digérer les microbes chez les _____.",
+    "options": [
+      "catalyseurs",
+      "hydrolytiques",
+      "leucocytes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "91",
+    "question": "Les enclaves inertes regroupent le _____ et les réserves, ces dernières pouvant être de nature _____, protidique ou lipidique.",
+    "options": [
+      "vacuome",
+      "glucidique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  }
+],
+  "Page 4": [
+  {
+    "id": "385",
+    "question": "Par quoi les glucides sont-ils représentés dans la cellule ?",
+    "options": [
+      "Par des grains de glycogène",
+      "Par des gouttelettes de graisses",
+      "Par des cristalloïdes",
+      "Par des granulations de chromatine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "386",
+    "question": "Les grains de glycogène constituent une réserve de quel type ?",
+    "options": [
+      "Nutritive",
+      "Énergétique purement minérale",
+      "Hormonale",
+      "Enzymatique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "387",
+    "question": "Dans quelles cellules les grains de glycogène sont-ils particulièrement abondants ?",
+    "options": [
+      "Dans les cellules du foie et des muscles",
+      "Dans les globules rouges et les globules blancs",
+      "Dans les cellules nerveuses uniquement",
+      "Dans les spermatozoïdes uniquement"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "388",
+    "question": "De quoi sont formées les gouttelettes de graisses ?",
+    "options": [
+      "De divers lipides",
+      "De protides simples",
+      "D'acides nucléiques",
+      "De diastases"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "389",
+    "question": "Quel tissu est formé lorsque les gouttelettes de graisses remplissent toute la cellule ?",
+    "options": [
+      "Tissu adipeux",
+      "Tissu musculaire",
+      "Tissu nerveux",
+      "Tissu conjonctif derme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "390",
+    "question": "Que trouve-t-on dans les cellules à sécrétion interne ?",
+    "options": [
+      "Des granules ou cristalloïdes",
+      "Uniquement du glycogène",
+      "Des globules rouges",
+      "Des hépatocytes libres"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "391",
+    "question": "Que représentent les granules ou cristalloïdes des cellules à sécrétion interne ?",
+    "options": [
+      "Des inclusions protidiques",
+      "Des inclusions lipidiques",
+      "Des réserves glucidiques",
+      "Des déchets minéraux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "392",
+    "question": "Comment est décrit le noyau par rapport au cytoplasme sur le plan optique ?",
+    "options": [
+      "Plus réfringent que le cytoplasme",
+      "Moins réfringent que le cytoplasme",
+      "Opaque et très sombre",
+      "Totalement invisible"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "393",
+    "question": "Quelle est la coloration naturelle du noyau ?",
+    "options": [
+      "Incolore",
+      "Rouge",
+      "Jaune",
+      "Bleue"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "394",
+    "question": "Peut-on observer directement le noyau sur une cellule vivante ?",
+    "options": [
+      "Oui",
+      "Non, jamais",
+      "Uniquement après fixation à l'acide",
+      "Uniquement lors de la mort cellulaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "395",
+    "question": "Combien de noyau trouve-t-on en général par cellule ?",
+    "options": [
+      "Un seul noyau",
+      "Deux noyaux obligatoirement",
+      "Une dizaine de noyaux",
+      "Aucun noyau dans 90% des cellules"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "396",
+    "question": "Quelles cellules sont citées comme exemple pouvant avoir deux noyaux ?",
+    "options": [
+      "Les cellules du foie",
+      "Les globules rouges",
+      "Les spermatozoïdes",
+      "Les cellules adipeuses"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "397",
+    "question": "Où trouve-t-on des cellules pouvant avoir plusieurs noyaux (plus de deux) ?",
+    "options": [
+      "Dans la moelle osseuse",
+      "Dans le sang circulating",
+      "Dans le tissu adipeux",
+      "Dans les nucléoles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "398",
+    "question": "Quelle est la forme générale la plus fréquente du noyau ?",
+    "options": [
+      "Globuleuse",
+      "Strictement cubique",
+      "Triangulaire",
+      "Pramidale"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "399",
+    "question": "Quelles cellules possèdent un noyau lobé ?",
+    "options": [
+      "Les globules blancs",
+      "Les globules rouges",
+      "Les cellules du foie",
+      "Les cellules musculaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "400",
+    "question": "Par quoi le noyau est-il entouré ?",
+    "options": [
+      "Par une fine membrane nucléaire",
+      "Par une épaisse paroi rigide",
+      "Par une couche de glycogène",
+      "Par des chromosomes caryotypiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "401",
+    "question": "Comment est qualifiée la consistance de la membrane nucléaire ?",
+    "options": [
+      "Élastique mais très visqueuse",
+      "Rigide et cassante",
+      "Liquide et complètement imperméable",
+      "Sèche et solide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "402",
+    "question": "La membrane nucléaire est-elle perméable ?",
+    "options": [
+      "Oui, elle permet des échanges entre le noyau et le protoplasme",
+      "Non, elle est totalement étanche",
+      "Uniquement chez les spermatozoïdes",
+      "Uniquement pendant la mitose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "403",
+    "question": "Comment s'appelle la substance visqueuse et homogène dans laquelle baignent les organites du noyau ?",
+    "options": [
+      "Le nucléoplasme",
+      "Le cytoplasme",
+      "L'archoplasme",
+      "Le vacuome"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "404",
+    "question": "Comment appelle-t-on la masse située à l'intérieur du noyau (très fluide ou en gelée) ?",
+    "options": [
+      "Le suc nucléaire",
+      "Le suc vacuolaire",
+      "Le suc digestif",
+      "Le plasma sanguin"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "405",
+    "question": "Quels corpuscules arrondis et réfringents se trouvent en suspension dans le suc nucléaire ?",
+    "options": [
+      "Les nucléoles",
+      "Les ribosomes",
+      "Les lysosomes",
+      "Les centrosomes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "406",
+    "question": "Dans quelles cellules les nucléoles peuvent-ils être absents ?",
+    "options": [
+      "Dans les cellules embryonnaires animales et les spermatozoïdes",
+      "Dans les cellules du foie et des muscles",
+      "Dans les globules blancs et la moelle osseuse",
+      "Dans toutes les cellules adultes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "407",
+    "question": "De quoi est constituée la chromatine ?",
+    "options": [
+      "D'une substance riche en acides nucléiques",
+      "De lipides purs",
+      "De glycogène et d'eau",
+      "De cristalloïdes basiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "408",
+    "question": "Par quels colorants les grains de chromatine sont-ils colorables ?",
+    "options": [
+      "Par les colorants basiques",
+      "Par les colorants acides uniquement",
+      "Par l'eau distillée",
+      "Ils sont incolorables"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "409",
+    "question": "Comment appelle-t-on les filaments très fins et difficiles à colorer qui relient les grains de chromatine ?",
+    "options": [
+      "Filaments achromatiques",
+      "Filaments chromatiques",
+      "Chromosomes",
+      "Astères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "410",
+    "question": "Sous quelle forme apparaît la chromatine au moment de la division cellulaire ?",
+    "options": [
+      "Sous forme d'un réseau de filaments : les chromosomes",
+      "Sous forme de gouttelettes de graisse",
+      "Sous forme de liquide complètement transparent",
+      "Sous forme de cristaux de calcium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "411",
+    "question": "Qu'est-ce que le caryotype d'une espèce ?",
+    "options": [
+      "L'ensemble des caractères définis de forme et de nombre des chromosomes",
+      "La quantité de glycogène dans le foie",
+      "Le nombre total de noyaux dans le tissu adipeux",
+      "La masse totale du nucléoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "412",
+    "question": "Combien de chromosomes compte-t-on chez l'Homme ?",
+    "options": [
+      "46",
+      "23",
+      "12",
+      "98"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "413",
+    "question": "De quoi les chromosomes sont-ils responsables ?",
+    "options": [
+      "De la transmission des caractères héréditaires et du sexe",
+      "De la synthèse des lipides uniquement",
+      "De la digestion des microbes",
+      "De la réserve d'eau dans la cellule"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "414",
+    "question": "De quoi est constitué le suc nucléaire au niveau chimique ?",
+    "options": [
+      "De holoprotéines, de molécules d'eau et de phosphatides",
+      "Uniquement de calcium et de fer",
+      "De lipides et de stéroïdes",
+      "De glycogène et de diastases digestives"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "415",
+    "question": "De quoi est constituée la chromatine sur le plan chimique ?",
+    "options": [
+      "De protéines complexes (nucléoprotéines), calcium, magnésium et fer",
+      "De holoprotéines pures et d'eau",
+      "De gouttelettes de graisses neutres",
+      "De cristalloïdes de sodium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "416",
+    "question": "De quoi les protéines complexes de la chromatine sont-elles riches ?",
+    "options": [
+      "En phosphore",
+      "En potassium",
+      "En chlore",
+      "En iode"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "417",
+    "question": "Le noyau est particulièrement riche en quelle substance intervenant dans le métabolisme des acides nucléiques ?",
+    "options": [
+      "En diastases",
+      "En glycogène",
+      "En lipides",
+      "En hémoglobine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "418",
+    "question": "Quelle est l'origine évolutive des globules rouges concernant leur structure nucléaire ?",
+    "options": [
+      "Ce sont d'anciennes cellules nucléées dont le noyau a disparu au cours de l'évolution",
+      "Ce sont des cellules qui n'ont jamais eu de matière génétique",
+      "Ce sont des cellules créées par la fusion de deux noyaux",
+      "Ce sont des fragmentations directes du nucléoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "419",
+    "question": "Quelles variations de forme le noyau peut-il présenter selon les cellules ?",
+    "options": [
+      "Globuleuse, allongée ou lobée",
+      "Uniquement circulaire ou carrée",
+      "Toujours cylindrique ou stellaire",
+      "Uniquement filiforme ou cristalline"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "420",
+    "question": "Quelle est la double caractéristique physique de la membrane nucléaire ?",
+    "options": [
+      "Élastique et très visqueuse",
+      "Rigide et imperméable",
+      "Solide et cassante",
+      "Fluide et totalement dissoute"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "421",
+    "question": "Quels sont les rôles des deux types de réserves lipidiques et glucidiques cités en début de texte ?",
+    "options": [
+      "Les grains de glycogène forment une réserve nutritive et les lipides peuvent remplir le tissu adipeux",
+      "Les lipides forment le noyau et le glycogène constitue la membrane",
+      "Les deux servent exclusivement à la synthèse des pigments",
+      "Ils constituent la structure rigide des chromosomes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "422",
+    "question": "Entre quelles parties de la cellule la membrane nucléaire permet-elle des échanges ?",
+    "options": [
+      "Entre le noyau et le protoplasme",
+      "Entre le sang et le tissu adipeux",
+      "Entre le nucléole et le chromosome uniquement",
+      "Entre la cellule et le milieu extérieur directement"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "423",
+    "question": "Comment se présentent les éléments chromatiques présents dans le suc nucléaire ?",
+    "options": [
+      "Des grains de chromatine reliés entre eux par de très fins filaments achromatiques",
+      "Des grosses gouttes de graisses suspendues dans l'eau",
+      "Des cristalloïdes de magnésium libres",
+      "Des blocs rigides de holoprotéines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "424",
+    "question": "Quelle modification majeure subit la chromatine lors de la division cellulaire ?",
+    "options": [
+      "Elle devient plus colorable et apparaît sous forme d'un réseau de filaments (chromosomes)",
+      "Elle se transforme en gouttelettes de graisse",
+      "Elle disparaît complètement sans laisser de trace",
+      "Elle devient le suc vacuolaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "425",
+    "question": "Quels deux états différents représentent les chromosomes dans le matériel cellulaire ?",
+    "options": [
+      "La chromatine et les chromosomes eux-mêmes",
+      "Le noyau et le cytoplasme",
+      "Le nucléoplasme et le nucléole",
+      "Les holoprotéines et les phosphatides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "426",
+    "question": "Quels sont les deux rôles essentiels des chromosomes mentionnés dans le texte ?",
+    "options": [
+      "Conditionner le sexe et transmettre les caractères héréditaires",
+      "Produire du glycogène et stocker les graisses",
+      "Synthétiser des diastases et digérer les microbes",
+      "Colorer le noyau et sécréter de l'eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "427",
+    "question": "Comment la composition chimique du noyau se compare-t-elle à celle du cytoplasme ?",
+    "options": [
+      "Elle est voisine de celle du cytoplasme",
+      "Elle est totalement opposée et incompatible",
+      "Elle est composée uniquement de minéraux",
+      "Elle est constituée exclusivement d'eau pure"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "428",
+    "question": "Quels sont les composants organiques du suc nucléaire ?",
+    "options": [
+      "Des holoprotéines et des phosphatides",
+      "Des nucléoprotéines et du glycogène",
+      "Des stéroïdes et du calcium",
+      "Des diastases et des lipides adipeux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "429",
+    "question": "Quels éléments minéraux sont intégrés à la structure de la chromatine ?",
+    "options": [
+      "Du calcium, du magnésium et du fer",
+      "Du sodium, du chlore et du potassium",
+      "Du cuivre, du zinc et de l'or",
+      "Du carbone, de l'azote et de l'hydrogène gazeux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "430",
+    "question": "Quel est le rôle spécifique des diastases très abondantes dans le noyau ?",
+    "options": [
+      "Elles interviennent dans le métabolisme des acides nucléiques",
+      "Elles transforment le glycogène en graisses",
+      "Elles détruisent la membrane nucléaire",
+      "Elles colorent les filaments achromatiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "431",
+    "question": "Quelle est la différence de coloration entre les grains de chromatine et les filaments qui les relient ?",
+    "options": [
+      "Les grains sont colorables par les colorants basiques, les filaments achromatiques sont très fins et difficiles à colorer",
+      "Les grains sont incolores, les filaments sont rouges",
+      "Les grains sont achromatiques, les filaments sont basiques",
+      "Il n'y a aucune différence de coloration"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "432",
+    "question": "Où se situent les inclusions protidiques et sous quelle forme ?",
+    "options": [
+      "Dans les cellules à sécrétion interne, sous forme de granules ou cristalloïdes",
+      "Dans les globules rouges, sous forme de noyau",
+      "Dans la moelle osseuse, sous forme de liquide fluide",
+      "Dans le tissu adipeux, sous forme de gouttelettes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "433",
+    "question": "Pourquoi la forme et le nombre des chromosomes sont-ils importants ?",
+    "options": [
+      "Car ils sont bien définis pour toutes les cellules d'une même espèce et constituent le caryotype",
+      "Car ils changent à chaque heure de la journée",
+      "Car ils déterminent la taille du tissu adipeux",
+      "Car ils permettent la dissolution de l'eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "434",
+    "question": "Dans quel état physique peut se trouver le suc nucléaire ?",
+    "options": [
+      "Soit très fluide, soit à l'état de gelée",
+      "Soit solide comme de la pierre, soit gazeux",
+      "Toujours cristallin et sec",
+      "Toujours sous forme de gouttelettes d'huile"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "435",
+    "question": "Quels sont les deux types de cellules spécialisées citées pour avoir un nombre de noyaux particulier (2 ou plus) ?",
+    "options": [
+      "Cellules du foie (parfois 2) et cellules de la moelle osseuse (plusieurs)",
+      "Globules rouges (2) et spermatozoïdes (plusieurs)",
+      "Cellules adipeuses (2) et leucocytes (plusieurs)",
+      "Cellules embryonnaires (2) et cellules nerveuses (plusieurs)"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "436",
+    "question": "Comment appelle-t-on les protéines complexes qui constituent la chromatine ?",
+    "options": [
+      "Les nucléoprotéines",
+      "Les holoprotéines",
+      "Les phosphatides",
+      "Les diastases"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "437",
+    "question": "Comment se nomme la substance fondamentale homogène du noyau qui baigne les organites ?",
+    "options": [
+      "Le nucléoplasme",
+      "Le cytoplasme",
+      "Le caryotype",
+      "Le protoplasme externe"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "438",
+    "question": "Quelle différence majeure existe entre les globules rouges et leurs cellules ancêtres ?",
+    "options": [
+      "Les ancêtres étaient des cellules nucléées, alors que les globules rouges mûrs ont perdu leur noyau",
+      "Les ancêtres n'avaient pas de cytoplasme",
+      "Les globules rouges ont deux noyaux alors que leurs ancêtres n'en avaient qu'un",
+      "Les ancêtres étaient uniquement constitués de tissu adipeux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "439",
+    "question": "Que contiennent en suspension les sucs nucléaires montrant des éléments réfringents en filaments ?",
+    "options": [
+      "La chromatine",
+      "Des gouttelettes de graisses",
+      "Des grains de glycogène",
+      "Des granules de sécrétion externe"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "440",
+    "question": "Les nucléoles sont décrits comme des corpuscules :",
+    "options": [
+      "Arrondis et réfringents",
+      "Aplaties et incolorables",
+      "Filamenteux et rigides",
+      "Cubiques et opalescents"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "441",
+    "question": "La chromatine est une substance particulièrement riche en :",
+    "options": [
+      "Acides nucléiques",
+      "Glycogène",
+      "Lipides neutres",
+      "Minéraux de sodium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "442",
+    "question": "Quelle est la nature chimique des phosphatides trouvés dans le suc nucléaire ?",
+    "options": [
+      "Des composés lipidiques complexes",
+      "Des acides nucléiques purs",
+      "Des glucides de réserve",
+      "Des minéraux de calcium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "443",
+    "question": "En quoi les cellules de la moelle osseuse se distinguent-elles quant à leur noyau ?",
+    "options": [
+      "Elles possèdent souvent plus de deux noyaux",
+      "Elles n'ont jamais de membrane nucléaire",
+      "Elles contiennent uniquement du tissu adipeux",
+      "Elles n'ont pas de chromatine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "444",
+    "question": "Dans le tissu adipeux, quelle est la disposition des graisses ?",
+    "options": [
+      "Elles peuvent former de très grosses gouttelettes et remplir toute la cellule",
+      "Elles sont bloquées dans les nucléoles",
+      "Elles entourent la membrane nucléaire sous forme de filaments",
+      "Elles sont dissoutes dans le suc nucléaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "445",
+    "question": "Quelle relation existe-t-il entre la division cellulaire et la visibilité des chromosomes ?",
+    "options": [
+      "Au moment de la division, la chromatine devient plus colorable et s'organise en chromosomes bien définis",
+      "La division cellulaire fait disparaître totalement les chromosomes",
+      "Les chromosomes se dissolvent dans le tissu adipeux pendant la division",
+      "Les chromosomes se changent en nucléoles fluorescents"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "446",
+    "question": "Quel composant chimique du noyau contient du phosphore en grande quantité ?",
+    "options": [
+      "Les nucléoprotéines (protéines complexes de la chromatine)",
+      "Les holoprotéines du suc nucléaire",
+      "Les gouttelettes de graisse",
+      "Le magnésium libre"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "447",
+    "question": "Quelles sont les deux formes d'inclusions cytoplasmiques figurant au tout début du texte de la Page 4 ?",
+    "options": [
+      "Les réserves glucidiques/lipidiques et les inclusions protidiques",
+      "Les chromosomes et la chromatine",
+      "Le suc nucléaire et le nucléoplasme",
+      "Les holoprotéines et les diastases"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "448",
+    "question": "Analyse structurale de la chromatine à l'état de repos : comment s'organise le réseau chromatique selon le texte ?",
+    "options": [
+      "Des grains de chromatine colorables par les colorants basiques, réunis entre eux par un réseau de filaments achromatiques très fins",
+      "Des blocs massifs de nucléoprotéines flottant sans liaisons dans du glycogène",
+      "Des filaments de phosphatides liés à des cristalloïdes de calcium et de fer",
+      "Une masse homogène de holoprotéines complètement indifférenciée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "449",
+    "question": "Comparaison chimique entre le suc nucléaire et la chromatine : quelles sont leurs constitutions respectives ?",
+    "options": [
+      "Le suc nucléaire contient des holoprotéines, eau et phosphatides; la chromatine contient des nucléoprotéines riches en phosphore, calcium, magnésium et fer",
+      "Le suc nucléaire contient des nucléoprotéines et du fer; la chromatine contient uniquement du glycogène et des diastases",
+      "Le suc nucléaire est formé de lipides adipeux; la chromatine est formée d'eau et de phosphatides basiques",
+      "Les deux ont exactement la même formule chimique sans aucune nuance minérale ou protidique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "450",
+    "question": "Quelle déduction évolutive et fonctionnelle fait le texte concernant les globules rouges (hématies) ?",
+    "options": [
+      "Ce sont d'anciennes cellules nucléées ayant perdu leur noyau au cours de leur évolution spécialisée",
+      "Ce sont des structures d'origine lipidique créées par le tissu adipeux",
+      "Ce sont des cellules dont le noyau a fusionné avec le nucléoplasme des leucocytes",
+      "Ce sont des inclusions protidiques sécrétées par les cellules du foie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "451",
+    "question": "Quelle est la double transition (morphologique et tinctoriale) subie par le matériel génétique au moment de la division cellulaire ?",
+    "options": [
+      "La chromatine devient plus colorable et se condense d'un réseau diffus vers des filaments individualisés appelés chromosomes",
+      "Les chromosomes se dissolvent dans le suc nucléaire et deviennent totalement incolorables",
+      "Le nucléole se transforme en filaments achromatiques riches en diastases",
+      "La membrane nucléaire s'épaissit pour devenir le caryotype officiel"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "452",
+    "question": "En quoi consiste la notion de « caryotype » telle qu'explicitée dans le document ?",
+    "options": [
+      "En l'ensemble des caractères de forme et de nombre bien définis des chromosomes pour toutes les cellules d'une même espèce",
+      "En la quantité totale d'acides nucléiques présente dans le cytoplasme adipeux",
+      "En l'équilibre chimique entre le calcium, le magnésium et le fer nucléaire",
+      "En la somme des inclusions protidiques et glucidiques du foie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "453",
+    "question": "Quelle distinction le texte établit-il entre les réserves nutritives glucidiques, lipidiques et protidiques ?",
+    "options": [
+      "Glucidiques = glycogène (foie/muscles) ; Lipidiques = gouttelettes de graisses (tissu adipeux) ; Protidiques = granules/cristalloïdes (sécrétion interne)",
+      "Glucidiques = cristalloïdes ; Lipidiques = glycogène ; Protidiques = gouttelettes adipeuses",
+      "Glucidiques = holoprotéines ; Lipidiques = phosphatides ; Protidiques = diastases",
+      "Toutes ces réserves se trouvent exclusivement sous forme de nucléoles dans le noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "454",
+    "question": "Quels rôles majeurs sont attribués aux 46 chromosomes de l'espèce humaine dans le paragraphe sur la structure du noyau ?",
+    "options": [
+      "Éléments caractéristiques du noyau, ils conditionnent le sexe de chaque individu et sont responsables de la transmission des caractères héréditaires",
+      "Ils assurent la synthèse des diastases et règlent la perméabilité de la membrane nucléaire",
+      "Ils stockent les gouttelettes de graisses et fabriquent le glycogène du foie",
+      "Ils transportent le fer et le magnésium du cytoplasme vers le protoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "455",
+    "question": "Quelle est la spécificité enzymatique du noyau soulignée à la fin du texte sur sa composition chimique ?",
+    "options": [
+      "Il est particulièrement riche en diastases qui interviennent directement dans le métabolisme des acides nucléiques",
+      "Il ne contient aucune enzyme mais uniquement des minéraux inactifs",
+      "Il sécrète des diastases digestives hydrolytiques pour détruire le cytoplasme",
+      "Ses diastases servent à transformer le calcium en magnésium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "456",
+    "question": "Dans quelles conditions précises les nucléoles sont-ils absents du suc nucléaire selon les observations mentionnées ?",
+    "options": [
+      "Dans les cellules embryonnaires animales et dans les spermatozoïdes",
+      "Dans les cellules adipeuses et les hépatocytes à deux noyaux",
+      "Dans les globules blancs à noyau lobé et la moelle osseuse",
+      "Dans toutes les cellules au moment exact de la métabolisme des diastases"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "457",
+    "question": "Comment s'articulent la membrane nucléaire, le nucléoplasme et le protoplasme d'après le texte ?",
+    "options": [
+      "La membrane nucléaire élastique/visqueuse filtre les échanges entre le noyau et le protoplasme, tandis que le nucléoplasme baigne les organites internes",
+      "Le protoplasme entoure le nucléole et la membrane nucléaire se trouve au centre du noyau",
+      "Le nucléoplasme est rejeté à l'extérieur de la cellule par la membrane nucléaire",
+      "Il n'y a pas de séparation physique entre le protoplasme et le suc nucléaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "458",
+    "question": "Quelle relation existe-t-il entre la chromatine et les nucléoprotéines sur le plan biochimique ?",
+    "options": [
+      "La chromatine est constituée de protéines complexes associées aux acides nucléiques (nucléoprotéines), riches en phosphore",
+      "Les nucléoprotéines sont des graisses neutres qui entourent la chromatine inorganique",
+      "La chromatine est une holoprotéine simple dépourvue de phosphore",
+      "Les nucléoprotéines se trouvent uniquement dans les granules de sécrétion interne"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "459",
+    "question": "Quelle corrélation le texte établit-il entre le nombre de noyaux et le type de tissu ou cellule ?",
+    "options": [
+      "En général 1 par cellule ; parfois 2 dans les cellules du foie ; plus de 2 dans la moelle osseuse ; 0 dans les globules rouges évolués",
+      "Toujours 2 dans les muscles ; 1 dans la moelle osseuse ; aucun dans le foie",
+      "10 noyaux dans les spermatozoïdes ; 1 dans le tissu adipeux ; aucun dans les globules blancs",
+      "Le nombre de noyaux est totalement aléatoire et sans aucun rapport avec le type cellulaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "460",
+    "question": "Quelle est la définition exacte du nucléoplasme et en quoi diffère-t-il du suc nucléaire ?",
+    "options": [
+      "Le nucléoplasme est la substance visqueuse/homogène baignant les organites ; le suc nucléaire est la masse très fluide ou en gelée contenant les nucléoles et la chromatine",
+      "Le nucléoplasme est situé dans le cytoplasme adipeux ; le suc nucléaire est dans les globules rouges",
+      "Le nucléoplasme est constitué de minéraux (fer, calcium) ; le suc nucléaire est constitué exclusivement de graisses",
+      "Il s'agit de deux termes strictement synonymes désignant la membrane nucléaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "461",
+    "question": "Si l'on observe une cellule présentant un noyau lobé, de quel type cellulaire s'agit-il selon les exemples du texte ?",
+    "options": [
+      "D'un globule blanc",
+      "D'un globule rouge",
+      "D'une cellule du foie",
+      "D'une cellule de la moelle osseuse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "462",
+    "question": "Quelle est la présence des minéraux (calcium, magnésium, fer) dans l'architecture nucléaire ?",
+    "options": [
+      "Ils font partie intégrante de la structure chimique de la chromatine",
+      "Ils sont dissous exclusivement dans les gouttelettes de graisses du tissu adipeux",
+      "Ils forment la membrane nucléaire externe pour la rendre rigide",
+      "Ils sont absents du noyau et présents uniquement dans les muscles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "463",
+    "question": "Que traduit la forte présence de diastases dans le noyau par rapport à son activité biochimique ?",
+    "options": [
+      "Une activité métabolique intense liée à la transformation et au maintien des acides nucléiques",
+      "Une capacité à stocker le glycogène sous forme de tissu adipeux",
+      "La destruction systématique des 46 chromosomes au repos",
+      "La transformation du suc nucléaire en membrane cytoplasmique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "464",
+    "question": "Comment le texte décrit-il la propriété d'élasticité de la membrane nucléaire ?",
+    "options": [
+      "Elle est fine, élastique mais très visqueuse, et perméable aux échanges avec le protoplasme",
+      "Elle est rigide, cassante et empêche tout passage de molécules",
+      "Elle est composée de grains de glycogène empilés de manière imperméable",
+      "Elle se dissout entièrement dès que la cellule est en vie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "465",
+    "question": "Quelle est la particularité physique des nucléoles lorsqu'on les observe dans le suc nucléaire ?",
+    "options": [
+      "Ce sont des corpuscules arrondis et réfringents",
+      "Ce sont des bâtonnets opalescents et stricts",
+      "Ce sont des cavités vides remplies d'air",
+      "Ce sont des membranes aplaties et sombres"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "466",
+    "question": "Quelle est la forme biochimique sous laquelle le phosphore est principalement accumulé dans le noyau ?",
+    "options": [
+      "Ancre dans les nucléoprotéines de la chromatine",
+      "Libre sous forme de gaz dans le suc nucléaire",
+      "Cristallisé dans les granules protidiques du tissu adipeux",
+      "Lié uniquement aux holoprotéines du cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "467",
+    "question": "Quelle est la relation entre les phosphatides et les holoprotéines dans le suc nucléaire ?",
+    "options": [
+      "Ils constituent ensemble, avec les molécules d'eau, la composition chimique du suc nucléaire",
+      "Les phosphatides détruisent les holoprotéines pour former des diastases",
+      "Les holoprotéines sont des lipides et les phosphatides des glucides de réserve",
+      "Ils n'existent pas dans le noyau mais seulement dans la moelle osseuse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "468",
+    "question": "Pourquoi la réfringence du noyau est-elle soulignée dès l'introduction de sa description ?",
+    "options": [
+      "Parce que le noyau est plus réfringent que le cytoplasme, ce qui permet de l'observer directement sur la cellule vivante",
+      "Parce qu'il est totalement sombre et qu'il absorbe toute la lumière du microscope",
+      "Parce que sa réfringence empêche de voir les 46 chromosomes",
+      "Parce qu'elle indique qu'il est constitué exclusivement de graisses adipeuses"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "469",
+    "question": "Quel rôle jouent les granules ou cristalloïdes dans les cellules à sécrétion interne ?",
+    "options": [
+      "Ils représentent des inclusions protidiques stockées par la cellule",
+      "Ils servent de moteurs pour déplacer le noyau dans le cytoplasme",
+      "Ils détruisent les acides nucléiques en excès",
+      "Ils remplissent le rôle de membrane nucléaire secondaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "470",
+    "question": "En résumant la section sur la structure, quels sont tous les éléments figurés ou organites contenus dans le noyau ?",
+    "options": [
+      "Le nucléoplasme, le suc nucléaire, les nucléoles, la chromatine (grains et filaments achromatiques) et les chromosomes",
+      "Le centrosome, le réticulum lisse, l'ergastoplasme et les vacuomes",
+      "Les gouttelettes de graisses, le glycogène, les cristalloïdes et le tissu adipeux",
+      "Les leucocytes, les hépatocytes, les spermatozoïdes et la moelle osseuse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "471",
+    "question": "Quelle est la nuance entre « chromatine » et « chromosomes » selon la vision intégrée du texte ?",
+    "options": [
+      "Ce sont deux états différents d'un même matériel : la chromatine est l'état diffus/réseau et les chromosomes sont l'état condensé lors de la division",
+      "La chromatine est faite de lipides alors que les chromosomes sont faits de glucides",
+      "La chromatine est dans le cytoplasme alors que les chromosomes sont dans le nucléole",
+      "Il n'y a aucune relation, ce sont deux structures chimiques totalement indépendantes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "472",
+    "question": "Pourquoi la présence de 46 chromosomes chez l'homme est-elle fondamentale dans le caryotype ?",
+    "options": [
+      "Parce que ce nombre est bien défini pour l'espèce humaine et conditionne le sexe ainsi que l'hérédité",
+      "Parce qu'il varie d'une cellule à l'autre dans le même corps humain",
+      "Parce qu'il indique la quantité d'eau présente dans le suc nucléaire",
+      "Parce qu'il permet de fabriquer du glycogène dans le foie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "473",
+    "question": "En analysant le texte, quelle est la trajectoire d'une cellule adipeuse lorsqu'elle accumule des graisses ?",
+    "options": [
+      "Les gouttelettes de graisses (lipides) grossissent et peuvent finir par remplir toute la cellule",
+      "Les graisses se transforment en cristalloïdes protidiques puis en nucléoles",
+      "Le noyau se multiplie pour former plusieurs noyaux de moelle osseuse",
+      "Les graisses sont expulsées à travers la membrane nucléaire sous forme d'eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "474",
+    "question": "Quelle conclusion globale peut-on tirer sur la composition chimique du noyau comparée à celle du cytoplasme ?",
+    "options": [
+      "Elles sont voisines, mais le noyau se distingue par sa richesse en nucléoprotéines (phosphore), en minéraux spécifiques (Ca, Mg, Fe) et en diastases des acides nucléiques",
+      "Le noyau est exclusivement composé d'eau alors que le cytoplasme est fait de métal",
+      "Le noyau ne contient aucune protéine contrairement au cytoplasme",
+      "Le cytoplasme est plus riche en chromosomes et en nucléoles que le noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "475",
+    "question": "Quelle est la caractéristique des filaments achromatiques reliant les grains de chromatine ?",
+    "options": [
+      "Ce sont des filaments très fins et difficiles à colorer",
+      "Ce sont des fibres épaisses très facilement colorables par l'eau",
+      "Ce sont des chaînes de glycogène très abondantes dans le foie",
+      "Ce sont des canaux permettant le passage des hématies"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "476",
+    "question": "Si l'on synthétise l'organisation du noyau, de l'extérieur vers l'intérieur, quel est l'ordre correct des structures ?",
+    "options": [
+      "Membrane nucléaire -> Nucléoplasme -> Suc nucléaire -> Chromatine / Nucléoles",
+      "Nucléole -> Chromatine -> Membrane nucléaire -> Cytoplasme",
+      "Chromosomes -> Membrane nucléaire -> Tissu adipeux -> Suc nucléaire",
+      "Suc nucléaire -> Membrane nucléaire -> Protoplasme -> Diastases"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "477",
+    "question": "Quel composant biochimique assure le rôle de catalyseur dans le métabolisme des acides nucléiques au sein du noyau ?",
+    "options": [
+      "Les diastases",
+      "Les holoprotéines",
+      "Les phosphatides",
+      "Les cristalloïdes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+
+
+
+
+
+
+
+
+    
+  {
+    "id": "478",
+    "question": "Les glucides sont représentés par des grains de _____ qui constituent une réserve nutritive.",
+    "options": ["glycogène"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "479",
+    "question": "Les grains de glycogène sont abondants dans les cellules du foie et des _____.",
+    "options": ["muscles"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "480",
+    "question": "Les gouttelettes de graisses sont formées de divers _____.",
+    "options": ["lipides"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "481",
+    "question": "Lorsque les gouttelettes de graisses deviennent très grosses et remplissent toute la cellule, on parle de tissu _____.",
+    "options": ["adipeux"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "482",
+    "question": "Dans les cellules à sécrétion interne, on trouve des granules ou cristalloïdes qui représentent des inclusions _____.",
+    "options": ["protidiques"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "483",
+    "question": "Le noyau est un corpuscule incolore, plus réfringent que le _____.",
+    "options": ["cytoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "484",
+    "question": "On peut observer directement le noyau sur la cellule _____.",
+    "options": ["vivante"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "485",
+    "question": "Toutes les cellules ont au moins un _____.",
+    "options": ["noyau"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "486",
+    "question": "Les globules rouges sont d'anciennes cellules _____ qui ont évolué.",
+    "options": ["nucléées"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "487",
+    "question": "Les cellules du foie possèdent parfois _____ noyaux.",
+    "options": ["deux"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "488",
+    "question": "Les cellules de la moelle osseuse possèdent même _____ noyaux.",
+    "options": ["plusieurs"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "489",
+    "question": "La forme du noyau est généralement _____.",
+    "options": ["globuleuse"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "490",
+    "question": "Dans les globules blancs, la forme du noyau peut être _____.",
+    "options": ["lobée"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "491",
+    "question": "Le noyau est entouré d'une membrane nucléaire élastique et très _____.",
+    "options": ["visqueuse"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "492",
+    "question": "La membrane nucléaire est _____ et permet des échanges entre le noyau et le protoplasme.",
+    "options": ["perméable"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "493",
+    "question": "Les organites du noyau sont baignés dans une substance visqueuse et homogène appelée le _____.",
+    "options": ["nucléoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "494",
+    "question": "A l'intérieur du noyau se trouve le suc nucléaire contenant en suspension un ou plusieurs corpuscules arrondis appelés _____.",
+    "options": ["nucléoles"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "495",
+    "question": "Les nucléoles peuvent être absents dans les cellules embryonnaires et les _____.",
+    "options": ["spermatozoïdes"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "496",
+    "question": "La chromatine est une substance riche en acides _____.",
+    "options": ["nucléiques"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "497",
+    "question": "Les grains de chromatine sont colorables par les colorants _____.",
+    "options": ["basiques"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "498",
+    "question": "Les grains de chromatine sont réunis par des filaments très fins et difficiles à colorer appelés filaments _____.",
+    "options": ["achromatiques"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "499",
+    "question": "Au moment de la division cellulaire, la chromatine apparaît sous forme d'un réseau de filaments appelés _____.",
+    "options": ["chromosomes"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "500",
+    "question": "L'ensemble des caractères des chromosomes constitue le _____.",
+    "options": ["caryotype"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "501",
+    "question": "La chromatine et les chromosomes représentent deux états différents d'un même _____.",
+    "options": ["matériel"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "502",
+    "question": "Chez l'homme, on compte _____ chromosomes.",
+    "options": ["46"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "503",
+    "question": "Les chromosomes conditionnent le _____ de chaque individu.",
+    "options": ["sexe"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "504",
+    "question": "Les chromosomes sont responsables de la transmission des caractères _____.",
+    "options": ["héréditaires"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "505",
+    "question": "La composition chimique du noyau est voisine de celle du _____.",
+    "options": ["cytoplasme"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "506",
+    "question": "Le suc nucléaire est constitué par des holoprotéines, des molécules d'eau et des _____.",
+    "options": ["phosphatides"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "507",
+    "question": "La chromatine est constituée par des protéines complexes appelées _____.",
+    "options": ["nucléoprotéides"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "508",
+    "question": "Les nucléoprotéides sont riches en _____.",
+    "options": ["phosphore"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "509",
+    "question": "Outre le phosphore, la chromatine contient du calcium, du magnésium et du _____.",
+    "options": ["fer"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "510",
+    "question": "Le noyau est particulièrement riche en _____ qui interviennent dans le métabolisme des acides nucléiques.",
+    "options": ["diastases"],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "511",
+    "question": "Les glucides sont représentés par des grains de _____ qui sont abondants dans les cellules du foie et des _____.",
+    "options": [
+      "glycogène",
+      "muscles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "512",
+    "question": "Les gouttelettes de graisses sont formées de divers _____ et remplissent toute la cellule dans le tissu _____.",
+    "options": [
+      "lipides",
+      "adipeux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "513",
+    "question": "Dans les cellules à sécrétion interne, on trouve des granules ou _____ représentant des inclusions _____.",
+    "options": [
+      "cristalloïdes",
+      "protidiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "514",
+    "question": "Le noyau est un corpuscule incolore, plus _____ que le _____.",
+    "options": [
+      "réfringent",
+      "cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "515",
+    "question": "Les globules rouges sont d'anciennes cellules _____ où le noyau a _____ au cours de l'évolution.",
+    "options": [
+      "nucléées",
+      "disparu"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "516",
+    "question": "Généralement il y a un noyau par cellule, mais on en trouve parfois deux dans les cellules du _____ et plus dans la _____ osseuse.",
+    "options": [
+      "foie",
+      "moelle"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "517",
+    "question": "La forme du noyau est généralement _____, mais elle peut être _____ dans les globules blancs.",
+    "options": [
+      "globuleuse",
+      "lobée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "518",
+    "question": "La membrane nucléaire est _____ et très visqueuse, elle est _____ et permet des échanges.",
+    "options": [
+      "élastique",
+      "perméable"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "519",
+    "question": "La membrane nucléaire permet des échanges entre le _____ et le _____.",
+    "options": [
+      "noyau",
+      "protoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "520",
+    "question": "Le noyau renferme des organites baignés dans une substance visqueuse et homogène appelée le _____.",
+    "options": [
+      "nucléoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "521",
+    "question": "Le suc nucléaire contient en suspension des corpuscules arrondis et réfringents appelés les _____.",
+    "options": [
+      "nucléoles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "522",
+    "question": "Les nucléoles peuvent être absents dans les cellules _____ et les _____.",
+    "options": [
+      "embryonnaires",
+      "spermatozoïdes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "523",
+    "question": "Dans le suc nucléaire, la chromatine est une substance riche en _____.",
+    "options": [
+      "acides nucléiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "524",
+    "question": "Les grains de chromatine sont colorables par les colorants _____ et réunis par des filaments _____.",
+    "options": [
+      "basiques",
+      "achromatiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "525",
+    "question": "Les filaments achromatiques relient les grains de _____ et sont très difficiles à _____.",
+    "options": [
+      "chromatine",
+      "colorer"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "526",
+    "question": "Au moment de la division cellulaire, la chromatine devient plus _____ et forme les _____.",
+    "options": [
+      "colorable",
+      "chromosomes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "527",
+    "question": "La forme et le nombre des chromosomes sont bien définis pour toutes les cellules d'une même _____.",
+    "options": [
+      "espèce"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "528",
+    "question": "L'ensemble des caractères des chromosomes constitue le _____, où chromatine et chromosomes sont deux _____ d'un même matériel.",
+    "options": [
+      "caryotype",
+      "états"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "529",
+    "question": "Les chromosomes sont au nombre de _____ chez l'homme et jouent un rôle _____ dans la cellule.",
+    "options": [
+      "46",
+      "essentiel"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "530",
+    "question": "Les chromosomes conditionnent le _____ et sont responsables de la transmission des caractères _____.",
+    "options": [
+      "sexe",
+      "héréditaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "531",
+    "question": "La composition chimique du noyau est _____ de celle du _____.",
+    "options": [
+      "voisine",
+      "cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "532",
+    "question": "Le suc nucléaire est constitué de holoprotéines, d'eau et de _____.",
+    "options": [
+      "phosphatides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "533",
+    "question": "La chromatine est formée de protéines complexes riches en phosphore appelées _____.",
+    "options": [
+      "nucléoprotéides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "534",
+    "question": "Outre les protéines, la chromatine contient du calcium, du _____ et du _____.",
+    "options": [
+      "magnésium",
+      "fer"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "535",
+    "question": "Le noyau est particulièrement riche en _____ qui interviennent dans le métabolisme des _____ nucléiques.",
+    "options": [
+      "diastases",
+      "acides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "536",
+    "question": "Les réserves de glucides sont des grains de _____ très abondants dans le _____ et les muscles.",
+    "options": [
+      "glycogène",
+      "foie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "537",
+    "question": "Le noyau est un corpuscule _____, qu'on peut observer directement sur la cellule _____.",
+    "options": [
+      "incolore",
+      "vivante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "538",
+    "question": "Toutes les cellules possèdent au moins un noyau, à l'exception des _____ rouges qui l'ont _____.",
+    "options": [
+      "globules",
+      "perdu"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "539",
+    "question": "Généralement la forme du noyau est _____, mais elle est allongée ou _____ selon le type cellulaire.",
+    "options": [
+      "globuleuse",
+      "lobée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "540",
+    "question": "La membrane nucléaire est _____ et visqueuse, permettant le passage de substances vers le _____.",
+    "options": [
+      "perméable",
+      "protoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "541",
+    "question": "Le suc nucléaire peut se trouver soit à l'état très _____, soit à l'état de _____.",
+    "options": [
+      "fluide",
+      "gelée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "542",
+    "question": "Les chromosomes sont des éléments caractéristiques du _____, au nombre de _____ chez l'homme.",
+    "options": [
+      "noyau",
+      "46"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "543",
+    "question": "Les nucléoprotéides forment la _____ et sont des protéines complexes riches en _____.",
+    "options": [
+      "chromatine",
+      "phosphore"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "544",
+    "question": "Les glucides sont des grains de _____ constituant une réserve nutritive, très abondants dans le _____ et les muscles.",
+    "options": [
+      "glycogène",
+      "foie"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "545",
+    "question": "Les gouttelettes de graisses sont formées de _____ et peuvent remplir toute la cellule dans le tissu _____.",
+    "options": [
+      "lipides",
+      "adipeux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "546",
+    "question": "Dans les cellules à _____ interne, on trouve des granules ou _____ représentant des inclusions _____.",
+    "options": [
+      "sécrétion",
+      "cristalloïdes",
+      "protidiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "547",
+    "question": "Le noyau est un corpuscule _____, plus réfringent que le _____, observable directement sur la cellule _____.",
+    "options": [
+      "incolore",
+      "cytoplasme",
+      "vivante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "548",
+    "question": "Toutes les cellules ont au moins un noyau, excepté les _____ rouges qui sont d'anciennes cellules _____ ayant perdu leur noyau au cours de l'_____.",
+    "options": [
+      "globules",
+      "nucléées",
+      "évolution"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "549",
+    "question": "En général il y a 1 noyau par cellule, parfois 2 dans les cellules du _____ et plus dans les cellules de la _____ _____.",
+    "options": [
+      "foie",
+      "moelle",
+      "osseuse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "550",
+    "question": "La forme du noyau est très variable : généralement _____, elle peut être allongée ou _____ dans les globules _____.",
+    "options": [
+      "globuleuse",
+      "lobée",
+      "blancs"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "551",
+    "question": "La membrane nucléaire est fine, _____ et très visqueuse; elle est _____ et permet des échanges entre le noyau et le _____.",
+    "options": [
+      "élastique",
+      "perméable",
+      "protoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "552",
+    "question": "Le noyau renferme des organites baignés dans une substance _____ et homogène, le _____.",
+    "options": [
+      "visqueuse",
+      "nucléoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "553",
+    "question": "A l'intérieur du noyau, le suc nucléaire peut être très _____ ou à l'état de _____, et contient des corpuscules nommés _____.",
+    "options": [
+      "fluide",
+      "gelée",
+      "nucléoles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "554",
+    "question": "Les nucléoles sont des corpuscules _____ et réfringents, pouvant être absents dans les cellules _____ et les _____.",
+    "options": [
+      "arrondis",
+      "embryonnaires",
+      "spermatozoïdes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "555",
+    "question": "Dans le suc nucléaire, la _____ est une substance très riche en acides _____.",
+    "options": [
+      "chromatine",
+      "nucléiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "556",
+    "question": "On observe dans le suc nucléaire des grains de chromatine colorables par les colorants _____, réunis par de fins filaments _____.",
+    "options": [
+      "basiques",
+      "achromatiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "557",
+    "question": "Les filaments achromatiques relient les grains de _____ entre eux et sont très _____ à colorer.",
+    "options": [
+      "chromatine",
+      "difficiles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "558",
+    "question": "Au moment de la division _____, la chromatine devient plus _____ et apparaît sous forme d'un réseau de filaments appelés _____.",
+    "options": [
+      "cellulaire",
+      "colorable",
+      "chromosomes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "559",
+    "question": "La forme et le nombre des chromosomes sont bien _____ pour toutes les cellules d'une _____ espèce.",
+    "options": [
+      "définis",
+      "même"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "560",
+    "question": "L'ensemble des caractères des chromosomes constitue le _____; chromatine et chromosomes sont deux _____ d'un même _____.",
+    "options": [
+      "caryotype",
+      "états",
+      "matériel"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "561",
+    "question": "Les chromosomes, au nombre de _____ chez l'homme, sont des éléments caractéristiques du _____ et jouent un rôle _____.",
+    "options": [
+      "46",
+      "noyau",
+      "essentiel"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "562",
+    "question": "Les chromosomes conditionnent le _____ de chaque individu et sont responsables de la _____ des caractères _____.",
+    "options": [
+      "sexe",
+      "transmission",
+      "héréditaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "563",
+    "question": "La composition chimique du noyau est _____ de celle du cytoplasme; on y distingue le suc nucléaire, la _____ et les diastases.",
+    "options": [
+      "voisine",
+      "chromatine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "564",
+    "question": "Le suc nucléaire est constitué par des _____, des molécules d'eau et des _____.",
+    "options": [
+      "holoprotéines",
+      "phosphatides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "565",
+    "question": "La chromatine est constituée par des protéines _____ appelées nucléoprotéides, très riches en _____.",
+    "options": [
+      "complexes",
+      "phosphore"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "566",
+    "question": "Les nucléoprotéides de la chromatine contiennent du phosphore, du _____, du magnésium et du _____.",
+    "options": [
+      "calcium",
+      "fer"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "567",
+    "question": "Le noyau est particulièrement riche en _____ qui interviennent directement dans le _____ des acides _____.",
+    "options": [
+      "diastases",
+      "métabolisme",
+      "nucléiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "568",
+    "question": "Les grains de _____ sont des glucides abondants dans le _____ et les _____, servant de réserve nutritive.",
+    "options": [
+      "glycogène",
+      "foie",
+      "muscles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "569",
+    "question": "Des gouttelettes de _____ formées de divers lipides peuvent emplir toute la cellule et former le tissu _____.",
+    "options": [
+      "graisses",
+      "adipeux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "572",
+    "question": "Dans le sang, les _____ rouges sont dépourvues de noyau mais dérivent d'anciennes cellules _____.",
+    "options": [
+      "globules", "nucléées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "573",
+    "question": "La membrane nucléaire est _____, visqueuse et _____, permettant le passage de substances entre le noyau et le _____.",
+    "options": [
+      "élastique",
+      "perméable",
+      "protoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "574",
+    "question": "Dans le suc nucléaire, on trouve en suspension des corpuscules nommés _____ qui peuvent manquer dans les _____.",
+    "options": [
+      "nucléoles",
+      "spermatozoïdes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "575",
+    "question": "Les grains de chromatine sont liés par des filaments _____ très fins et très _____ à colorer.",
+    "options": [
+      "achromatiques",
+      "difficiles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "576",
+    "question": "Le caryotype représente l'ensemble des caractères des _____, qui portent 46 unités chez _____.",
+    "options": [
+      "chromosomes",
+      "l'homme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 4",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  }
+],
+  "Page 5": [
+    
 }
