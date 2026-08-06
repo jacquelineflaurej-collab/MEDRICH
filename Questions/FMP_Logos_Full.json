@@ -1,32 +1,796 @@
 {
   "Page 2": [
     {
-      "id": "1050","question": "Ki syans ki etidye fonksyonman ògann yo nan kò yon moun?",
-      "options": ["Anatomi", "Fizyoloji", "Istoloji", "Patoloji"],
-      "reponse": 1,
-      "difficulte": "Facile",
-      "paj": "Page 2",
-      "tip": "Quiz"
-    },
-    {
-      "id": "1051",
-      "question": "Prensip fondamantal lavi a baze sou _____.",
-      "options": ["enèji"],
-      "reponse": 0,
-      "difficulte": "Intermediaire",
-      "paj": "Page 2",
-      "tip": "Completer"
-    }
-  ],
-  "Page 3": [
-    {
-      "id": "1100",
-      "question": "Kesyon pou paj 3 a...",
-      "options": ["Opt 1", "Opt 2", "Opt 3", "Opt 4"],
-      "reponse": 0,
-      "difficulte": "Difficile",
-      "paj": "Page 3",
-      "tip": "Quiz"
-    }
-  ]
+    "id": "1",
+    "question": "Combien d'éléments chimiques environ constituent le monde des êtres vivants ?",
+    "options": ["10", "26", "50", "100"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "2",
+    "question": "Quel pourcentage de la masse est occupé par les quatre macroéléments majeurs ?",
+    "options": ["50%", "75%", "96%", "10%"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "3",
+    "question": "Lequel de ces éléments est un macroélément majeur ?",
+    "options": ["Fer", "Zinc", "Carbone", "Iode"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "4",
+    "question": "Quel est le symbole chimique de l'Azote ?",
+    "options": ["A", "Az", "N", "Ni"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "5",
+    "question": "Quel élément occupe 65% du poids corporel ?",
+    "options": ["Carbone", "Oxygène", "Hydrogène", "Azote"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "6",
+    "question": "Les 22 éléments occupying moins de 4% de la masse sont divisés en combien de catégories ?",
+    "options": ["2", "3", "4", "5"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "7",
+    "question": "Combien d'oligoéléments compte-t-on parmi les 22 éléments moins abondants ?",
+    "options": ["4", "7", "15", "26"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "8",
+    "question": "Quel est le pourcentage exact des macroéléments majeurs selon le tableau ?",
+    "options": ["96,2%", "3,7%", "0,1%", "18,5%"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "9",
+    "question": "Quel est le symbole chimique du Carbone ?",
+    "options": ["Ca", "C", "Co", "Cr"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "10",
+    "question": "Quel est le pourcentage du poids corporel pour l'Azote ?",
+    "options": ["65%", "18,5%", "9,5%", "3,2%"],
+    "reponsKorek": 3,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "11",
+    "question": "Quel est le symbole chimique du Calcium ?",
+    "options": ["C", "Cl", "Ca", "Cu"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "12",
+    "question": "Lequel de ces éléments est un macroélément mineur ?",
+    "options": ["Oxygène", "Magnésium", "Azote", "Carbone"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "13",
+    "question": "Quel est le symbole chimique du Phosphore ?",
+    "options": ["Ph", "F", "P", "K"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "14",
+    "question": "Quel est le pourcentage du poids corporel pour le Calcium ?",
+    "options": ["1,5%", "1%", "0,4%", "0,2%"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "15",
+    "question": "Le symbole 'K' correspond à quel élément chimique ?",
+    "options": ["Krypton", "Potassium", "Chlore", "Soufre"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "16",
+    "question": "Quel est le pourcentage du poids corporel pour le Soufre ?",
+    "options": ["0,1%", "0,2%", "0,3%", "0,4%"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "17",
+    "question": "Quel est le symbole chimique du Sodium ?",
+    "options": ["S", "So", "Na", "Sd"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "18",
+    "question": "Quel élément représente 0,2% du poids corporel avec le Sodium ?",
+    "options": ["Chlore", "Fer", "Zinc", "Magnésium"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "19",
+    "question": "Quel est le symbole chimique du Magnésium ?",
+    "options": ["M", "Ma", "Mn", "Mg"],
+    "reponsKorek": 3,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "20",
+    "question": "Quel est le pourcentage total des macroéléments mineurs ?",
+    "options": ["96,2%", "3,7%", "0,1%", "4%"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "21",
+    "question": "Comment appelle-t-on aussi les microéléments ?",
+    "options": ["Macroéléments", "Oligoéléments", "Coenzymes", "Éléments majeurs"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "22",
+    "question": "Quel est le pourcentage du poids corporel occupé par les 15 oligoéléments ?",
+    "options": ["1,5%", "0,1%", "3,7%", "9,5%"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "23",
+    "question": "Les oligoéléments servent principalement de quoi dans les réactions ?",
+    "options": ["Substrat", "Produit", "Coenzymes", "Inhibiteurs"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "24",
+    "question": "Lequel de ces éléments est cité comme un oligoélément ?",
+    "options": ["Calcium", "Soufre", "Zinc", "Chlore"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "25",
+    "question": "Quel est le symbole chimique du Fer ?",
+    "options": ["F", "Fe", "Fr", "I"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "26",
+    "question": "Le symbole 'I' représente quel oligoélément ?",
+    "options": ["Iode", "Irridium", "Indium", "Fer"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "27",
+    "question": "Quel est le symbole du Cobalt ?",
+    "options": ["C", "Ca", "Co", "Cl"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "28",
+    "question": "Combien de macroéléments mineurs sont listés dans le tableau ?",
+    "options": ["4", "7", "15", "22"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "29",
+    "question": "Quel élément occupe 9,5% du poids corporel ?",
+    "options": ["Oxygène", "Carbone", "Hydrogène", "Azote"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "30",
+    "question": "Quel est le symbole du Fluor ?",
+    "options": ["Fl", "F", "Fe", "Fu"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "31",
+    "question": "Quel groupe d'éléments représente à lui seul plus de 96% de la masse vivante ?",
+    "options": ["Les oligoéléments", "Les macroéléments majeurs", "Les macroéléments mineurs", "Les microéléments"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "32",
+    "question": "Quelle est la fonction principale des 15 oligoéléments dans l'organisme ?",
+    "options": ["Servir de coenzymes", "Former la structure osseuse", "Produire de l'énergie", "Transporter l'oxygène"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "33",
+    "question": "En dehors des 4 éléments majeurs, quel est le pourcentage de masse restant ?",
+    "options": ["10%", "1%", "Moins de 4%", "Plus de 15%"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "34",
+    "question": "Lequel de ces éléments n'est pas classé comme macroélément majeur ?",
+    "options": ["Carbone", "Azote", "Calcium", "Hydrogène"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "35",
+    "question": "Quelle est la somme totale du pourcentage des macroéléments majeurs (C, H, O, N) ?",
+    "options": ["90%", "96,2%", "98%", "99,9%"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "36",
+    "question": "Quel élément chimique arrive en deuxième position après l'oxygène en termes de poids ?",
+    "options": ["L'azote", "Le carbone", "L'hydrogène", "Le calcium"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "37",
+    "question": "Les éléments 'moins abondants' au nombre de 7 sont classés comme :",
+    "options": ["Oligoéléments", "Macroéléments mineurs", "Macroéléments majeurs", "Éléments traces"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "38",
+    "question": "Quel est le pourcentage massique total des macroéléments mineurs ?",
+    "options": ["0,1%", "1%", "3,7%", "4%"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "39",
+    "question": "Quels sont les deux éléments qui occupent chacun 0,2% du poids corporel ?",
+    "options": ["Sodium et Chlore", "Soufre et Sodium", "Magnésium et Chlore", "Potassium et Soufre"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "40",
+    "question": "Le symbole 'Fe' appartient à quelle catégorie d'éléments ?",
+    "options": ["Macroéléments majeurs", "Macroéléments mineurs", "Oligoéléments", "Substances organiques"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "41",
+    "question": "Quel macroélément mineur possède le pourcentage le plus élevé dans sa catégorie ?",
+    "options": ["Le phosphore", "Le calcium", "Le potassium", "Le magnésium"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "42",
+    "question": "Lequel de ces symboles représente un oligoélément intervenant dans les réactions enzymatiques ?",
+    "options": ["Ca", "Zn", "Mg", "Na"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "43",
+    "question": "Quel élément représente exactement 1% du poids corporel ?",
+    "options": ["Le calcium", "Le potassium", "Le phosphore", "Le soufre"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "44",
+    "question": "Combien d'éléments au total sont considérés comme macroéléments (majeurs et mineurs) ?",
+    "options": ["4", "7", "11", "26"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "45",
+    "question": "Quel élément majeur a le pourcentage le plus faible (3,2%) ?",
+    "options": ["Oxygène", "Carbone", "Hydrogène", "Azote"],
+    "reponsKorek": 3,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "46",
+    "question": "À quel élément le symbole 'S' fait-il référence ?",
+    "options": ["Sodium", "Soufre", "Silicium", "Sélénium"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "47",
+    "question": "Quel groupe d'éléments intervient principalement comme coenzymes ?",
+    "options": ["Les oligoéléments", "Les macroéléments", "Les substances minérales", "L'oxygène"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "48",
+    "question": "Si l'on additionne l'Oxygène (65%) et le Carbone (18,5%), quel pourcentage obtient-on ?",
+    "options": ["70,5%", "83,5%", "80%", "90,2%"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "49",
+    "question": "Quel est le symbole du Potassium dans la liste des macroéléments mineurs ?",
+    "options": ["P", "Po", "K", "Pt"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "50",
+    "question": "Quel élément représente seulement 0,1% du poids corporel dans le tableau des mineurs ?",
+    "options": ["Sodium", "Chlore", "Magnésium", "Soufre"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "51",
+    "question": "Lequel de ces éléments est un oligoélément ?",
+    "options": ["Phosphore", "Potassium", "Cobalt", "Magnésium"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "52",
+    "question": "Quel pourcentage global du poids corporel occupent les 15 oligoéléments ?",
+    "options": ["0,1%", "1%", "3,7%", "4%"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "53",
+    "question": "Le symbole 'Cl' désigne quel élément ?",
+    "options": ["Calcium", "Chlore", "Cobalt", "Carbone"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "54",
+    "question": "Combien d'éléments chimiques naturels constituent environ le monde vivant ?",
+    "options": ["4", "11", "15", "26"],
+    "reponsKorek": 3,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "55",
+    "question": "Quelle catégorie regroupe le Carbone, l'Hydrogène, l'Oxygène et l'Azote ?",
+    "options": ["Microéléments", "Macroéléments majeurs", "Oligoéléments", "Composés minéraux"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "56",
+    "question": "Quel est le symbole chimique du Manganèse ?",
+    "options": ["Mg", "Mn", "Ma", "Me"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "57",
+    "question": "Lequel de ces éléments occupe 0,4% du poids corporel ?",
+    "options": ["Sodium", "Potassium", "Soufre", "Chlore"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "58",
+    "question": "Dans quel type de processus les oligoéléments jouent-ils un rôle clé ?",
+    "options": ["Structure des os", "Réactions enzymatiques", "Hydratation", "Respiration cellulaire"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "59",
+    "question": "Le symbole 'I' représente quel élément intervenant dans le corps ?",
+    "options": ["Fer", "Iode", "Zinc", "Fluor"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "60",
+    "question": "Quelle est la principale différence entre macroéléments et oligoéléments ?",
+    "options": ["La taille", "Leur abondance en masse", "Leur couleur", "Leur état physique"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "63",
+    "question": "Quelle est la somme totale du pourcentage massique de l'Oxygène et du Carbone ?",
+    "options": ["75,5%", "83,5%", "82,5%", "85,5%"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "64",
+    "question": "Quel est le pourcentage combiné de l'Hydrogène et de l'Azote dans le corps humain ?",
+    "options": ["12,7%", "11,5%", "13,2%", "10,8%"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "65",
+    "question": "Combien d'éléments au total constituent la catégorie des macroéléments (majeurs et mineurs) ?",
+    "options": ["4", "7", "11", "26"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "66",
+    "question": "Quel pourcentage de la masse totale les 22 éléments moins abondants occupent-ils ?",
+    "options": ["Moins de 4%", "Exactement 4%", "3,7%", "0,1%"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "67",
+    "question": "Lequel de ces éléments n'appartient pas à la catégorie des 7 macroéléments mineurs ?",
+    "options": ["Soufre", "Chlore", "Cobalt", "Magnésium"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "68",
+    "question": "Si l'on additionne le Calcium et le Phosphore, quel pourcentage du poids obtient-on ?",
+    "options": ["2%", "2,5%", "3,1%", "1,8%"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "69",
+    "question": "Quel est le rapport numérique entre les macroéléments mineurs et les oligoéléments ?",
+    "options": ["4 pour 15", "7 pour 22", "7 pour 15", "4 pour 7"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "70",
+    "question": "Le Magnésium (Mg) représente quel pourcentage précis du poids corporel ?",
+    "options": ["1%", "0,1%", "0,01%", "0,2%"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "71",
+    "question": "Parmi les oligoéléments, lequel est spécifiquement cité comme servant de coenzyme ?",
+    "options": ["Calcium", "Fer", "Azote", "Potassium"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "72",
+    "question": "Quel élément mineur a une présence massique exactement deux fois supérieure au Magnésium ?",
+    "options": ["Sodium", "Soufre", "Chlore", "Aucune de ces réponses"],
+    "reponsKorek": 3,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "73",
+    "question": "Quel groupe d'éléments occupe environ 0,1% du poids corporel total ?",
+    "options": ["Les 15 microéléments", "Le Magnésium seul", "Le Soufre", "Les 7 macroéléments mineurs"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "74",
+    "question": "Le Potassium (K) et le Soufre (S) représentent ensemble quel pourcentage ?",
+    "options": ["0,5%", "0,7%", "0,9%", "1,1%"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "75",
+    "question": "Quel est le symbole chimique exact du Manganèse cité parmi les oligoéléments ?",
+    "options": ["Mg", "Mn", "Ma", "M"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "76",
+    "question": "Lequel de ces éléments majeurs possède la masse la plus proche de celle de l'Azote ?",
+    "options": ["Oxygène", "Carbone", "Hydrogène", "Calcium"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "77",
+    "question": "Quelle catégorie d'éléments est définie par une présence massique de 3,7% ?",
+    "options": ["Macroéléments majeurs", "Macroéléments mineurs", "Oligoéléments", "Microéléments"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "78",
+    "question": "Quel est le pourcentage massique total des 26 éléments chimiques de la matière vivante ?",
+    "options": ["96,2%", "99,9%", "100%", "98,5%"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "79",
+    "question": "Le symbole 'Na' désigne un élément représentant quel pourcentage du poids ?",
+    "options": ["0,1%", "0,2%", "0,3%", "0,4%"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "80",
+    "question": "Combien d'oligoéléments sont mentionnés comme intervenant dans les réactions enzymatiques ?",
+    "options": ["4", "7", "11", "15"],
+    "reponsKorek": 3,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "81",
+    "question": "Quel élément chimique majeur est présent à hauteur de 18,5% ?",
+    "options": ["Oxygène", "Carbone", "Azote", "Hydrogène"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "82",
+    "question": "L'iode (I) et le Zinc (Zn) font partie de quelle sous-classification ?",
+    "options": ["Macroéléments majeurs", "Macroéléments mineurs", "Microéléments", "Substances minérales"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "83",
+    "question": "Quelle est la somme des pourcentages du Sodium, du Chlore et du Magnésium ?",
+    "options": ["0,5%", "0,4%", "0,6%", "0,3%"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "84",
+    "question": "Quel macroélément mineur possède le symbole 'P' ?",
+    "options": ["Potassium", "Phosphore", "Plomb", "Fluor"],
+    "reponsKorek": 1,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "85",
+    "question": "Quel élément représente 9,5% de la masse corporelle ?",
+    "options": ["Azote", "Carbone", "Hydrogène", "Oxygène"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "86",
+    "question": "Le Cobalt (Co) est classé parmi quel type de constituants ?",
+    "options": ["Macroéléments majeurs", "Macroéléments mineurs", "Oligoéléments", "Substances organiques"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "87",
+    "question": "Quel élément mineur a un pourcentage massique égal à celui du Sodium ?",
+    "options": ["Chlore", "Soufre", "Potassium", "Magnésium"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "88",
+    "question": "Quel est le pourcentage massique cumulé de l'Azote et du Calcium ?",
+    "options": ["4,7%", "3,2%", "1,5%", "5,2%"],
+    "reponsKorek": 0,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "89",
+    "question": "Lequel de ces éléments n'est pas un microélément ?",
+    "options": ["Fluor", "Zinc", "Fer", "Magnésium"],
+    "reponsKorek": 3,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "90",
+    "question": "Quel élément constitue la majorité de la masse des macroéléments majeurs ?",
+    "options": ["Carbone", "Azote", "Oxygène", "Hydrogène"],
+    "reponsKorek": 2,
+    "paj": "Page 1",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  }
+]
 }
