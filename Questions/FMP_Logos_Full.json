@@ -1897,5 +1897,1832 @@
     "nivo": "Difficile",
     "tip": "Completer"
   }
-]
+],
+  "Page 3": [
+    {
+    "id": "188",
+    "question": "Comment sont qualifiés les acides aminés quant à leur complexité ?",
+    "options": ["Très complexes", "Relativement peu complexes", "Extrêmement complexes", "Non organiques"],
+    "reponsKorek": 1,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "189",
+    "question": "Quelle est la saveur du glycocolle ?",
+    "options": ["Amère", "Acide", "Sucrée", "Salée"],
+    "reponsKorek": 2,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "190",
+    "question": "Quelle est la saveur de la leucine ?",
+    "options": ["Sucrée", "Amère", "Acide", "Neutre"],
+    "reponsKorek": 1,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "191",
+    "question": "Par quelle fonction les acides aminés sont-ils acides ?",
+    "options": ["Fonction amine NH2", "Fonction COOH", "Fonction R", "Fonction hydrogène"],
+    "reponsKorek": 1,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "192",
+    "question": "Par quelle fonction les acides aminés sont-ils basiques ?",
+    "options": ["Fonction COOH", "Fonction amine NH2", "Fonction acide", "Fonction hydroxyle"],
+    "reponsKorek": 1,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "193",
+    "question": "Comment appelle-t-on les corps comme les acides aminés qui possèdent des fonctions acides et basiques ?",
+    "options": ["Des colloïdes", "Des ampholytes", "Des polypeptides", "Des glucides"],
+    "reponsKorek": 1,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "194",
+    "question": "De quoi résulte la formation des polypeptides ?",
+    "options": ["De l'union de deux ou plusieurs acides aminés", "De la division de protéines", "De l'hydratation de lipides", "De la précipitation de sels"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "195",
+    "question": "Quel phénomène accompagne la synthèse des polypeptides entre deux acides aminés ?",
+    "options": ["La perte d'une molécule d'eau", "L'ajout d'une molécule d'eau", "La libération d'ammoniaque", "La coagulation thermique"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "196",
+    "question": "Laquelle de ces hormones pancréatiques est hypoglycémiante ?",
+    "options": ["Le glutathion", "L'insuline", "L'albumine", "La globine"],
+    "reponsKorek": 1,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "197",
+    "question": "Laquelle de ces hormones pancréatiques est hyperglycémiante ?",
+    "options": ["L'insuline", "Le glutathion", "Le glycocolle", "La leucine"],
+    "reponsKorek": 1,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "198",
+    "question": "Comment qualifie-t-on les molécules constituant les protéides ou protéines ?",
+    "options": ["De petites molécules", "De grosses molécules", "Des molécules volatiles", "Des molécules minérales"],
+    "reponsKorek": 1,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "199",
+    "question": "Quel type de solutions les protéides donnent-ils en général avec l'eau ?",
+    "options": ["Des solutions colloïdales", "Des solutions acides pures", "Des solutions cristallines pures", "Des suspensions sèches"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "200",
+    "question": "Sur quoi n'est PAS basée la classification des protéides ?",
+    "options": ["Sur leur constitution", "Sur leur solubilité", "Sur leur caractère neutre ou basique", "Sur la précipitation par les sels"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "201",
+    "question": "En quoi subdivise-t-on principalement les protéides ?",
+    "options": ["En holoprotéides et hétéroprotéides", "En acides aminés et polypeptides", "En insuline et glutathion", "En albumines et globulines"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "202",
+    "question": "Que libèrent les holoprotéides lorsqu'ils sont hydrolysés ?",
+    "options": ["Uniquement des acides aminés", "Uniquement de l'eau", "Des glucides simples", "Des acides gras"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "203",
+    "question": "En quoi les holoprotéides sont-ils classés selon leur solubilité ?",
+    "options": ["En protéines solubles et insolubles", "En protéines sucrées et amères", "En protéines animales et végétales", "En protéines neutres et acides"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "204",
+    "question": "Quel composant protéique de l'hémoglobine les globines forment-elles ?",
+    "options": ["La partie protéique", "La partie glucidique", "La partie lipidique", "La partie minérale"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "205",
+    "question": "Par quel réactif les globines solubles dans l'eau peuvent-elles être précipitées ?",
+    "options": ["Par l'ammoniaque", "Par le vinaigre", "Par l'eau pure", "Par le sel marin"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "206",
+    "question": "Comment est généralement la masse molaire des albumines ?",
+    "options": ["Élevée", "Faible", "Nulle", "Inexistante"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "207",
+    "question": "Où trouve-t-on l'ovalbumine ?",
+    "options": ["Dans le blanc d'œuf", "Dans le lait", "Dans le pois", "Dans le sérum sanguin"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "208",
+    "question": "Où trouve-t-on la lactalbumine ?",
+    "options": ["Dans le lait", "Dans le blanc d'œuf", "Dans la glande thyroïde", "Dans le plasma"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "209",
+    "question": "Où trouve-t-on la léguméline ?",
+    "options": ["Dans le pois", "Dans le sang", "Dans la corne", "Dans les poils"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "210",
+    "question": "Par quoi les globulines sont-elles toutes coagulables ?",
+    "options": ["Par la chaleur", "Par le froid glacial", "Par l'ammoniaque seule", "Par l'eau distillée"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "211",
+    "question": "Où trouve-t-on le fibrinogène ?",
+    "options": ["Dans le plasma sanguin", "Dans la glande thyroïde", "Dans le blanc d'œuf", "Dans le lait"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "212",
+    "question": "Où trouve-t-on la tyréoglobuline ?",
+    "options": ["Dans la glande thyroïde", "Dans le plasma sanguin", "Dans les ongles", "Dans les poils"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "213",
+    "question": "Quelles protéines forment les constituants des ongles et des poils ?",
+    "options": ["Les kératines", "Les globines", "Les albumines", "Les insulines"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "214",
+    "question": "De quel animal la corne contient-elle des kératines ?",
+    "options": ["Des mammifères", "Des poissons", "Des amphibiens", "Des reptiles uniquement"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "215",
+    "question": "Comment les kératines se comportent-elles face à l'eau froide ?",
+    "options": ["Elles y sont insolubles", "Elles s'y dissolvent totalement", "Elles s'y transforment en acides", "Elles y forment un gaz"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "216",
+    "question": "Quel type de solutions forment les albumines dans l'eau ?",
+    "options": ["Une solution colloïdale", "Une solution solide", "Un précipité total", "Une solution gazeuse"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "217",
+    "question": "Parmi ces propositions, laquelle est un acide aminé cité dans le texte ?",
+    "options": ["La lysine", "L'albumine", "La kératine", "Le fibrinogène"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "218",
+    "question": "Quel autre acide aminé fait partie de la liste du texte avec la lysine ?",
+    "options": ["La valine", "L'insuline", "La globine", "Le glutathion"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "219",
+    "question": "Quel acide aminé possède une saveur sucrée selon le texte ?",
+    "options": ["Le glycocolle", "La leucine", "La lysine", "La cystéine"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "220",
+    "question": "Quel acide aminé possède une saveur amère selon le texte ?",
+    "options": ["La leucine", "Le glycocolle", "L'alanine", "La valine"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "221",
+    "question": "Les acides aminés sont-ils des corps colloïdaux ?",
+    "options": ["Non, ils sont non colloïdaux", "Oui, entièrement colloïdaux", "Seulement dans l'eau chaude", "Seulement sous forme de sels"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "222",
+    "question": "Sous quelle forme physique se présentent les acides aminés ?",
+    "options": ["Sous forme de cristaux incolores", "Sous forme de liquides visqueux", "Sous forme de gaz colorés", "Sous forme de poudres amorphes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "223",
+    "question": "Comment qualifie-t-on la solubilité des cristaux d'acides aminés dans l'eau ?",
+    "options": ["Plus ou moins solubles", "Totalement insolubles", "Instantanément solubles à 100%", "Insolubles à froid et solubles à chaud uniquement"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "224",
+    "question": "Quelle est la structure chimique générale partagée par les acides aminés dans le document ?",
+    "options": ["R-CH(NH2)-COOH", "R-COOH-OH", "NH2-CH2-CHO", "R-CO-NH-R"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "225",
+    "question": "Comment les polypeptides se comportent-ils vis-à-vis de l'eau ?",
+    "options": ["Ils sont plus ou moins solubles dans l'eau", "Ils sont totalement insolubles dans l'eau", "Ils se dissolvent uniquement dans l'acide", "Ils réagissent en explosant"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "226",
+    "question": "Comment reconnaît-on aisément les solutions protéiques avec l'eau ?",
+    "options": ["Par les réactions de coagulation", "Par un changement de couleur instantané", "Par l'apparition d'un gaz carbonique", "Par une cristallisation spontanée"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "227",
+    "question": "Quels exemples de coagulation de protéines sont explicitement mentionnés dans le texte ?",
+    "options": [
+      "Le sérum sanguin, le lait écrémé et l'albumine",
+      "Le blanc d'œuf, l'urine et la bile",
+      "La corne de mammifère, les poils et les ongles",
+      "L'insuline, le glutathion et l'hémoglobine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "228",
+    "question": "Sur quel type de caractères s'appuie la classification des protéides ?",
+    "options": ["Des caractères secondaires", "Des caractères constitutionnels majeurs uniquement", "Des caractères génétiques héréditaires", "Des caractères purement quantitatifs"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "229",
+    "question": "Quel est le comportement acido-basique des holoprotéides hydrolysés ?",
+    "options": ["Ils sont amphotères ou ampholytes", "Ils sont exclusivement acides", "Ils sont strictement basiques et neutres", "Ils perdent toute propriété ionique"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "230",
+    "question": "Quelles sont les deux grandes catégories de protéines dans la classification des holoprotéides solubles et insolubles ?",
+    "options": ["Les protéines solubles et les protéines insolubles", "Les protéines simples et les hétéroprotéides", "Les acides aminés et les polypeptides", "Les hormones et les enzymes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "231",
+    "question": "Quel est le rôle biologique précis de l'insuline mentionné dans le texte ?",
+    "options": ["Hormone pancréatique hypoglycémiante", "Hormone pancréatique hyperglycémiante", "Protéine constitutive des poils", "Coenzyme de coagulation sanguine"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "232",
+    "question": "Quel est le rôle biologique précis du glutathion mentionné dans le texte ?",
+    "options": ["Hormone pancréatique hyperglycémiante", "Hormone pancréatique hypoglycémiante", "Enzyme de synthèse des lipides", "Anticorps du sérum sanguin"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "233",
+    "question": "Comment les albumines se dissolvent-elles dans les solutions étendues ?",
+    "options": ["Dans les solutions étendues d'acides, de bases et de sels", "Uniquement dans l'eau pure distillée", "Uniquement dans l'ammoniaque concentrée", "Dans l'éthanol pur à 95%"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "234",
+    "question": "Quelle est la particularité des globulines face à la chaleur ?",
+    "options": ["Elles sont toutes coagulables par la chaleur", "Elles résistent à des températures extrêmes", "Elles se liquéfient sous l'effet de la chaleur", "Elles libèrent de l'ammoniaque en chauffant"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "235",
+    "question": "Quels types de solvants ne parviennent pas à dissoudre les kératines selon la fin du texte ?",
+    "options": [
+      "L'eau froide, les solutions diluées d'acides, de bases et de sels",
+      "L'eau chaude et l'ammoniaque bouillante",
+      "Les solutions concentrées de sels minéraux",
+      "Le sérum sanguin et le lait écrémé"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "236",
+    "question": "Quels acides aminés spécifiques sont cités textuellement après la tyrosine et la cystéine ?",
+    "options": ["La lysine et la valine", "L'insuline et le glutathion", "L'ovalbumine et la léguméline", "Le fibrinogène et la globuline"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "237",
+    "question": "Parmi les exemples d'acides aminés cités au début du document, on trouve :",
+    "options": ["Le glycocolle et la tyrosine", "L'albumine et la globine", "Le fibrinogène et l'insuline", "La kératine et la tyréoglobuline"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "238",
+    "question": "Quel lien le texte établit-il entre les acides aminés et les holoprotéides hydrolysés ?",
+    "options": ["Les holoprotéides hydrolysés ne libèrent que des acides aminés", "Les acides aminés se transforment en lipides complexes", "Les acides aminés inhibent l'hydrolyse des holoprotéides", "Il n'y a aucun lien chimique décrit"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "239",
+    "question": "Quelle substance forme spécifiquement la partie protéique de l'hémoglobine ?",
+    "options": ["Les globines", "Les kératines", "Les albumines", "Les polypeptides"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "240",
+    "question": "Quelles protéines du lait et du pois sont citées parmi les albumines ?",
+    "options": ["La lactalbumine et la léguméline", "La tyréoglobuline et le fibrinogène", "La leucine et le glycocolle", "L'insuline et le glutathion"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "241",
+    "question": "Quels composants du sang et du lait sont inclus dans les exemples de globulines ?",
+    "options": ["Le fibrinogène du plasma sanguin et les globulines du lait", "L'ovalbumine et la lactalbumine", "La kératine des poils et des ongles", "Le glutathion et l'insuline"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "242",
+    "question": "Comment le texte qualifie-t-il la nature chimique générale des acides aminés au-delà de leur simple fonction ?",
+    "options": ["Ce sont des corps organiques azotés", "Ce sont des corps minéraux oxygénés", "Ce sont des lipides complexes", "Ce sont des glucides simples insaturés"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "243",
+    "question": "Quel est l'état de solubilité des globulines dans l'eau d'après la section sur les protéines solubles ?",
+    "options": ["Elles sont plus ou moins solubles dans l'eau", "Elles sont totalement insolubles dans l'eau", "Elles se dissolvent instantanément sans limite", "Elles se dissolvent uniquement dans l'alcool pur"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "244",
+    "question": "Que provoquent les réactions de coagulation pour les solutions protéiques naturelles ?",
+    "options": ["Elles permettent de les reconnaître aisément en solution", "Elles détruisent totalement les liaisons peptidiques", "Elles transforment les protéines en glucides", "Elles dissolvent les cristaux d'acides aminés"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "245",
+    "question": "Quelle est la classification alternative mentionnée pour les hétéroprotéides aux côtés des holoprotéides ?",
+    "options": ["Les hétéroprotéides (ou hoprotéides selon les variations typographiques du texte)", "Les polypeptides simples", "Les acides aminés libres", "Les solutions colloïdales pures"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "246",
+    "question": "Quels types de liaisons ou structures unissent les acides aminés pour former les polypeptides ?",
+    "options": ["Une union en chaînes plus ou moins longues par perte d'une molécule d'eau", "Une liaison ionique par ajout de sels minéraux", "Une cristallisation en milieu ammoniacal", "Une précipitation thermique par la chaleur"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "247",
+    "question": "Parmi les substances suivantes, laquelle illustre une protéine insoluble citée dans le document ?",
+    "options": ["La kératine", "L'albumine", "La globine", "Le fibrinogène"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "248",
+    "question": "Quelle glande est associée à la tyréoglobuline dans le texte ?",
+    "options": ["La glande thyroïde", "Le pancréas", "La glande pituitaire", "Les glandes surrénales"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "249",
+    "question": "Comment les protéines se distinguent-elles des corps simples par la taille de leurs composants ?",
+    "options": ["Ce sont des composés naturels à grosses molécules", "Ce sont des cristaux atomiques très légers", "Ce sont des molécules gazeuses microscopiques", "Ce sont des ions monoatomiques isolés"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "250",
+    "question": "Quel est le statut exact des acides aminés en tant que corps amphlytes vis-à-vis de leurs fonctions ?",
+    "options": ["Ils sont acides par la fonction COOH et basiques par la fonction amine NH2", "Ils sont neutres par la fonction R et acides par l'eau", "Ils sont basiques par l'oxygène et acides par l'hydrogène", "Ils n'ont aucune fonction ionisable"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "251",
+    "question": "De quelle manière précise les acides aminés se présentent-ils initialement dans leur aspect physique ?",
+    "options": ["Sous forme de cristaux incolores plus ou moins solubles dans l'eau", "Sous forme de gels colloïdaux amorphes et colorés", "Sous forme de solutions aqueuses hautement visqueuses", "Sous forme de polypeptides à longue chaîne repliée"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "252",
+    "question": "Quelle dualité fonctionnelle caractérise les corps amphlytes que sont les acides aminés ?",
+    "options": ["Une acidité portée par le groupement COOH couplée à une basicité due au groupement amine NH2", "Une neutralité thermique associée à une solubilité totale dans l'ammoniaque", "Une structure peptidique cyclique liée à une masse molaire élevée", "Une capacité à coaguler sous l'action de la chaleur du sérum"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "253",
+    "question": "Quel mécanisme chimique exact préside à la genèse des polypeptides à partir des acides aminés ?",
+    "options": ["La condensation par élimination d'une molécule d'eau unissant plusieurs monomères en chaînes", "La hydrolyse totale libérant des fonctions acides et basiques dissociées", "La précipitation saline sélective par le biais de solutions étendues de bases", "La formation de solutions colloïdales stables en milieu neutre"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "254",
+    "question": "Comment s'articule la classification des protéides au regard de leurs critères d'identification ?",
+    "options": ["Elle s'affranchit de la constitution chimique stricte pour se fonder sur des critères secondaires tels que la solubilité ou la précipitation", "Elle repose exclusivement sur le poids moléculaire des chaînes d'acides aminés", "Elle se base uniquement sur la présence d'hormones régulatrices de la glycémie", "Elle classe les molécules selon leur aptitude à former des cristaux incolores"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "255",
+    "question": "Quelle est la signification structurelle et fonctionnelle des holoprotéides lorsqu'ils subissent une hydrolyse complète ?",
+    "options": ["Ils libèrent exclusivement des acides aminés tout en conservant des propriétés amphotères inhérentes", "Ils se scindent en fractions lipidiques insolubles dans l'eau froide", "Ils forment des solutions colloïdales coagulables par la chaleur du lait écrémé", "Ils génèrent des polypeptides complexes dotés de propriétés hyperglycémiantes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "256",
+    "question": "Quels critères distinctifs permettent d'isoler les globines au sein des protéines solubles ?",
+    "options": ["Elles constituent la fraction protéique de l'hémoglobine et affichent une précipitation en présence d'ammoniaque", "Elles possèdent une masse molaire élevée et se dissolvent dans les solutions de sels", "Elles forment les tissus cornés des mammifères totalement insolubles à froid", "Elles agissent comme des hormones pancréatiques de régulation glycémique"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "257",
+    "question": "Quelles particularités physico-chimiques distinguent les albumines des autres constituants protéiques solubles ?",
+    "options": ["Une masse molaire généralement élevée couplée à une solubilité dans l'eau, les milieux salins et les solutions étendues d'acides ou de bases", "Une insolubilité absolue dans l'eau froide et une résistance accrue aux agents de coagulation", "Une structure en chaînes courtes dérivées directement du glycocolle et de la leucine", "Une fonction hormonale exclusive localisée dans la glande thyroïde et le plasma"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "258",
+    "question": "En quoi les globulines se différencient-elles fonctionnellement et par leur comportement thermique ?",
+    "options": ["Elles présentent une solubilité relative dans l'eau tout en manifestant une coagulation systématique sous l'effet de la chaleur", "Elles se caractérisent par une absence totale de réaction face aux variations thermiques", "Elles agissent comme des coenzymes majeurs dans les réactions des acides aminés", "Elles forment le squelette rigide des phanères et des ongles de mammifères"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "259",
+    "question": "Quel profil de résistance chimique caractérise les protéines insolubles de type kératinique ?",
+    "options": ["Une inertie totale face à l'eau froide ainsi qu'aux solutions diluées d'acides, de bases et de sels", "Une solubilité instantanée dans les solutions colloïdales de sérum sanguin", "Une hydrolyse spontanée libérant des acides aminés à saveur sucrée ou amère", "Une sensibilité marquée aux réactifs de coagulation thermique de l'albumine"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "260",
+    "question": "Comment se manifeste concrètement l'état colloïdal des protéides en solution aqueuse selon le texte ?",
+    "options": ["Par l'obtention de solutions naturelles à grosses molécules identifiables par des réactions de coagulation caractéristiques", "Par la formation de cristaux incolores à saveur variable selon la nature des acides aminés", "Par l'interruption des chaînes peptidiques sous l'effet de la perte d'eau", "Par la précipitation sélective de l'ammoniaque sur les fractions globuliniques"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "261",
+    "question": "Quelle est la relation exacte établie entre les acides aminés et la structure générale de leur formule organique ?",
+    "options": ["Ils possèdent un squelette central où le carbone porte un groupement amine NH2 et un groupement acide COOH", "Ils s'organisent en anneaux aromatiques fermés par des liaisons hydrogène", "Ils comportent des chaînes carbonées saturées dépourvues de fonctions azotées", "Ils forment des polymères insolubles identiques aux kératines"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "262",
+    "question": "Quels contrastes gustatifs spécifiques le texte attribue-t-il aux premiers acides aminés référencés ?",
+    "options": ["Une saveur sucrée pour le glycocolle et une saveur amère pour la leucine", "Une saveur acide pour la lysine et basique pour la valine", "Une absence totale de goût pour l'ensemble des corps organiques azotés", "Une saveur sucrée pour la cystéine et amère pour la tyrosine"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "263",
+    "question": "De quelle manière les hormones pancréatiques influencent-elles la classification ou les exemples protéiques?",
+    "options": ["Elles illustrent la diversité fonctionnelle des polypeptides en opposant l'insuline hypoglycémiante au glutathion hyperglycémiant", "Elles définissent la catégorie des protéines insolubles de la corne des mammifères", "Elles servent de réactifs de base pour identifier la coagulation du sérum sanguin", "Elles constituent la structure de base des globines de l'hémoglobine"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "264",
+    "question": "Quelle est la portée de la subdivision des holoprotéides en sous-groupes solubles et insolubles ?",
+    "options": ["Elle permet de ranger des composés précis comme les globines, albumines, globulines d'une part et les kératines d'autre part", "Elle sépare définitivement les acides aminés simples des polypeptides complexes", "Elle classe les hormones pancréatiques selon leur capacité à se dissoudre dans l'eau", "Elle détermine le taux de sucre ou d'amertume des cristaux organiques"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "265",
+    "question": "Quel rôle jouent les solutions étendues d'acides, de bases et de sels vis-à-vis des albumines ?",
+    "options": ["Elles constituent des milieux dans lesquels les albumines à masse molaire élevée se dissolvent", "Elles provoquent leur coagulation thermique immédiate et irréversible", "Elles empêchent la formation de liaisons peptidiques entre les acides aminés", "Elles agissent comme des agents précipitants spécifiques de l'ammoniaque"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "266",
+    "question": "Comment se caractérisent les globulines du lait et le fibrinogène du plasma au sein des protéines solubles ?",
+    "options": ["Ce sont des exemples spécifiques de globulines qui affichent une solubilité modérée et une coagulation thermique", "Ce sont des protéines insolubles constituant la base des kératines", "Ce sont des polypeptides de faible masse molaire à saveur sucrée", "Ce sont des acides aminés ampholytes dépourvus de fonction amine"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "267",
+    "question": "Quelle est l'implication des kératines dans la constitution anatomique des espèces de mammifères ?",
+    "options": ["Elles forment les structures rigides et protectrices des ongles, des poils et de la corne", "Elles assurent la régulation hormonale de la glycémie sanguine", "Elles agissent comme partie protéique active au sein de l'hémoglobine", "Elles constituent le sérum sanguin et le lait écrémé sous forme colloïdale"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "268",
+    "question": "De quelle manière les réactions de coagulation du sérum ou de l'albumine servent-elles d'indicateurs ?",
+    "options": ["Elles permettent de reconnaître de façon aisée la présence de solutions protéiques et colloïdales", "Elles mesurent précisément la concentration en acides aminés libres de type leucine", "Elles déterminent le caractère acide ou basique de la fonction R", "Elles évaluent le degré de complexité organique des polypeptides"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "269",
+    "question": "Quel est le devenir structural des acides aminés lorsqu'ils s'associent pour engendrer des polypeptides ?",
+    "options": ["Ils s'unissent en longues chaînes par élimination d'une molécule d'eau entre deux unités", "Ils se cristallisent sous forme de cristaux incolores peu solubles", "Ils adoptent une structure globulaire à haute masse molaire coagulable", "Ils se dissolvent instantanément dans l'eau froide et l'ammoniaque"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "270",
+    "question": "En quoi consiste la nature non colloïdale initiale attribuée aux corps organiques azotés du début de la page ?",
+    "options": ["Ils se présentent sous forme de cristaux distincts plutôt que de suspensions colloïdales complexes", "Ils affichent une insolubilité totale dans l'ensemble des solvants aqueux", "Ils se composent uniquement de chaînes peptidiques très étendues", "Ils réagissent immédiatement par coagulation thermique en présence de sels"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "271",
+    "question": "Quelle est la particularité de la classification des protéides concernant la distinction entre holoprotéides et hétéroprotéides ?",
+    "options": ["Elle s'effectue en aval d'une classification guidée par des caractères secondaires comme la solubilité", "Elle repose exclusivement sur la quantité d'eau perdue lors de la synthèse peptidique", "Elle classe les protéines selon leur saveur sucrée ou amère caractéristique", "Elle ignore totalement les propriétés amphotères des acides aminés constitutifs"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "272",
+    "question": "Quels rôles respectifs jouent l'ovalbumine, la lactalbumine et la léguméline dans la classification?",
+    "options": ["Elles illustrent la diversité des sources d'albumines solubles (blanc d'œuf, lait, pois)", "Elles représentent les types majeurs de kératines insolubles des mammifères", "Elles constituent les hormones pancréatiques régulatrices de la glycémie", "Elles forment les fractions globuliniques coagulables du plasma sanguin"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "273",
+    "question": "Quel lien structural unit la tyréoglobuline et le fibrinogène au sein de la sous-catégorie des globulines ?",
+    "options": ["Ce sont des protéines globulaires solubles mais sujettes à une coagulation thermique inévitable", "Ce sont des polypeptides synthétisés par la perte d'une molécule d'eau intracellulaire", "Ce sont des constituants rigides et insolubles de la corne et des poils", "Ce sont des acides aminés ampholytes caractérisés par une fonction amine terminale"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "274",
+    "question": "Comment s'exprime la propriété amphotère des holoprotéides hydrolisés par rapport à leur origine ?",
+    "options": ["À l'instar des acides aminés, ils conservent des fonctions acides et basiques leur conférant un comportement d'ampholytes", "Ils perdent toute réactivité ionique pour se transformer en lipides neutres", "Ils adoptent une structure cristalline incolore hautement soluble dans l'eau froide", "Ils acquièrent une fonction hyperglycémiante semblable au glutathion"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "275",
+    "question": "De quelle manière l'ammoniaque interagit-elle spécifiquement avec les globines de l'hémoglobine ?",
+    "options": ["Elle provoque la précipitation de cette partie protéique soluble", "Elle induit sa dissolution totale sous forme de solution colloïdale", "Elle déclenche une réaction de coagulation thermique instantanée", "Elle hydrolyse ses chaînes en libérant du glycocolle"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "276",
+    "question": "Quel est l'impact de la structure des kératines sur leur interaction avec les acides et les bases dilués ?",
+    "options": ["Aucun, les kératines demeurent complètement insolubles face à ces solutions diluées", "Elles se dissolvent en formant des solutions colloïdales homogènes", "Elles subissent une hydrolyse rapide libérant des acides aminés libres", "Elles se dilatent pour former un gel semblable à l'ovalbumine"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "277",
+    "question": "Quelle est la signification de la mention de la tyrosine et de la cystéine aux côtés de la lysine et de la valine ?",
+    "options": ["Elles complètent l'énumération des exemples types d'acides aminés organiques azotés", "Elles illustrent la classe des polypeptides complexes à action hormonale", "Elles constituent les protéines insolubles caractéristiques de la corne", "Elles représentent les fractions albumines du blanc d'œuf et du lait"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "278",
+    "question": "En quoi la notion de 'grosses molécules' s'applique-t-elle aux protéides par opposition aux acides aminés?",
+    "options": ["Les protéides forment des structures macromoléculaires à l'origine de solutions colloïdales, contrairement aux monomères cristallins", "Les protéides sont des cristaux incolores de faible masse molaire", "Les protéides se dissolvent instantanément dans l'eau froide sans nécessiter de liaisons", "Les protéides sont des corps simples non azotés et non colloïdaux"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "279",
+    "question": "Quel rôle joue l'élimination d'une molécule d'eau dans la nomenclature et la formation des polypeptides ?",
+    "options": ["Elle matérialise la liaison de condensation unissant les acides aminés en chaînes", "Elle provoque la précipitation thermique immédiate des protéines solubles", "Elle transforme les holoprotéides en hétéroprotéides par hydrolyse", "Elle confère le caractère sucré ou amère aux cristaux d'acides aminés"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "280",
+    "question": "De quelle manière les caractéristiques de solubilité structurent-elles l'ensemble de la classification des holoprotéides ?",
+    "options": ["Elles permettent de dichotomiser les protéines en deux grands blocs distincts : solubles d'une part et insolubles d'autre part", "Elles déterminent si un acide aminé est porteur d'une fonction COOH ou amine", "Elles évaluent la quantité exacte de glycocolle libérée lors de la coagulation", "Elles classent les hormones pancréatiques selon leur masse molaire"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "281",
+    "question": "Quelle est la portée exacte de la description des acides aminés en tant que corps ampholytes dans le texte ?",
+    "options": ["Elle démontre leur aptitude à réagir à la fois comme des acides et des bases grâce à leurs groupements fonctionnels respectifs", "Elle prouve qu'ils se dissolvent exclusivement dans l'eau chaude sous forme de colloïdes", "Elle indique qu'ils forment des chaînes de polypeptides par hydratation", "Elle explique leur résistance totale face aux solutions étendues de sels"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "282",
+    "question": "Comment s'organisent les exemples de protéines solubles fournis pour illustrer les albumines et les globulines ?",
+    "options": ["Par l'énumération de substances biologiques concrètes telles que l'ovalbumine, le fibrinogène ou la tyréoglobuline", "Par la description des acides aminés constitutifs comme la leucine et le glycocolle", "Par l'analyse des propriétés thermiques des kératines de la corne de mammifères", "Par la mesure de la masse molaire des hormones pancréatiques insuliniques"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "283",
+    "question": "Quel rapport fonctionnel existe-t-il entre la formule générale R-CH(NH2)-COOH et la définition des acides aminés ?",
+    "options": ["Elle formalise la disposition structurale de la chaîne carbonée porteuse des fonctions amine et acide caractéristiques", "Elle schématise la perte d'une molécule d'eau lors de la synthèse des polypeptides", "Elle représente la structure macromoléculaire colloïdale des protéines insolubles", "Elle traduit la formule chimique exacte des hormones pancréatiques hyperglycémiantes"],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+    {
+    "id": "284",
+    "question": "Les acides aminés sont des corps organiques azotés relativement peu complexes et non _____.",
+    "options": [
+      "colloïdaux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "285",
+    "question": "Les acides aminés se présentent sous forme de cristaux incolores plus ou moins solubles dans l'_____.",
+    "options": [
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "286",
+    "question": "Les acides aminés ont une saveur variable : sucrée pour le glycocolle, amère pour la _____.",
+    "options": [
+      "leucine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "287",
+    "question": "Les acides aminés sont des corps ampholytes, c'est-à-dire qu'ils sont acides par la fonction COOH et basiques par la fonction amine _____.",
+    "options": [
+      "NH2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "288",
+    "question": "Comme acides aminés on peut citer : le glycocolle, la tyrosine, la cystéine, la lysine, la _____.",
+    "options": [
+      "valine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "289",
+    "question": "La formule générale des acides aminés est R - CH - COOH relié à _____.",
+    "options": [
+      "NH2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "290",
+    "question": "Les polypeptides résultent de l'union de deux ou plusieurs acides aminés en chaînes plus ou moins _____.",
+    "options": [
+      "longues"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "291",
+    "question": "La synthèse des polypeptides se fait par perte d'une molécule d'_____ entre deux acides aminés.",
+    "options": [
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "292",
+    "question": "Parmi les polypeptides les plus importants, on peut citer l'insuline ou hormone pancréatique, _____.",
+    "options": [
+      "hypoglycémiante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "293",
+    "question": "Le glutathion est une hormone pancréatique _____.",
+    "options": [
+      "hyperglycémiante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "294",
+    "question": "Les protides ou protéines sont des composés naturels à grosses _____.",
+    "options": [
+      "molécules"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "295",
+    "question": "Les protides donnent en général des solutions colloïdales avec l'_____.",
+    "options": [
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "296",
+    "question": "En solution, on reconnait aisément les protides par les réactions de _____.",
+    "options": [
+      "coagulation"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "297",
+    "question": "La classification des protides est basée non pas sur leur constitution, mais sur des caractères _____.",
+    "options": [
+      "secondaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "298",
+    "question": "On subdivise les protides en holoprotides et en _____.",
+    "options": [
+      "hétéroprotides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "299",
+    "question": "Les holoprotides hydrolysés ne libèrent que des acides _____.",
+    "options": [
+      "aminés"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "300",
+    "question": "Ayant des fonctions acides et des fonctions basiques, les holoprotides sont comme les acides aminés, amphotères ou _____.",
+    "options": [
+      "ampholytes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "301",
+    "question": "Les holoprotides sont classés en protéines solubles et en protéines _____.",
+    "options": [
+      "insolubles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "302",
+    "question": "Les globines forment la partie protéique de l'_____.",
+    "options": [
+      "hémoglobine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "303",
+    "question": "Les globines sont solubles dans l'eau et peuvent être précipitées par l'_____.",
+    "options": [
+      "ammoniaque"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "304",
+    "question": "Les albumines ont une masse molaire généralement _____.",
+    "options": [
+      "élevée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "305",
+    "question": "Comme exemples d'albumines, on peut citer l'ovalbumine du blanc d'œuf, la lactalbumine du lait, et la _____ du pois.",
+    "options": [
+      "léguméline"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "306",
+    "question": "Les globulines plus ou moins solubles dans l'eau sont toutes coagulables par la _____.",
+    "options": [
+      "chaleur"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "307",
+    "question": "Parmi les globulines, on peut citer le fibrinogène du plasma sanguin, les sérum-globulines, les globulines du lait et la tyréoglobuline de la glande _____.",
+    "options": [
+      "thyroïde"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "308",
+    "question": "Les kératines sont des protéines insolubles qui constituent les ongles, les poils et la corne des _____.",
+    "options": [
+      "mammifères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "309",
+    "question": "Les protéines insolubles comme les kératines sont insolubles dans l'eau froide et dans les solutions diluées d'acides, de bases et de _____.",
+    "options": [
+      "sels"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "310",
+    "question": "Les acides aminés possèdent une saveur sucrée pour le glycocolle et amère pour la _____.",
+    "options": [
+      "leucine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "311",
+    "question": "Les polypeptides résultent de l'union de deux ou plusieurs acides aminés en chaînes par perte d'une molécule d'_____.",
+    "options": [
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "312",
+    "question": "L'insuline est une hormone pancréatique _____.",
+    "options": [
+      "hypoglycémiante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "313",
+    "question": "Le glutathion est une hormone pancréatique _____.",
+    "options": [
+      "hyperglycémiante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "314",
+    "question": "La classification des protides se base sur des caractères secondaires tels que la solubilité, le caractère acide, neutre ou basique, et la _____ par les sels.",
+    "options": [
+      "précipitabilité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "315",
+    "question": "Les globines qui forment la partie protéique de l'hémoglobine sont solubles dans l'eau et précipitées par l'_____.",
+    "options": [
+      "ammoniaque"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "316",
+    "question": "Les kératines entrent dans la constitution des ongles, des poils et de la corne des _____.",
+    "options": [
+      "mammifères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "317",
+    "question": "Les acides aminés sont des corps organiques azotés relativement peu complexes et non _____ présentés sous forme de cristaux solubles dans l'_____.",
+    "options": [
+      "colloïdaux",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "318",
+    "question": "Du point de vue de leur saveur, les acides aminés sont sucrés pour le ______ et amères pour la _____.",
+    "options": [
+      "glycocolle",
+      "leucine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "319",
+    "question": "En tant que corps ampholytes, les acides aminés possèdent des fonctions acides par le groupe _____ et basiques par le groupement _____.",
+    "options": [
+      "COOH",
+      "NH2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "320",
+    "question": "La synthèse des polypeptides s'effectue par l'union de plusieurs _______ en chaînes longues avec perte d'une molécule d'_____.",
+    "options": [
+      "acides aminés",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "321",
+    "question": "Parmi les polypeptides importants, on retrouve _______ qui est hypoglycémiante et le glutathion qui est _____.",
+    "options": [
+      "insuline",
+      "hyperglycémiante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "322",
+    "question": "Les protides simples ou ______ sont des composés naturels à grosses molécules qui forment des solutions colloïdales avec l'_____.",
+    "options": [
+      "proteines",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "323",
+    "question": "La classification des protides repose sur des caractères secondaires tels que la _________ et la _____ par les sels.",
+    "options": [
+      "solubilité",
+      "précipitabilité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "324",
+    "question": "Les protides se subdivisent en holoprotides, qui libèrent par ________ uniquement des acides aminés, et en _____.",
+    "options": [
+      "hydrolyse",
+      "hétéroprotides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "325",
+    "question": "Ayant des fonctions acides et basiques, les holoprotides se comportent comme les ____________ en étant des corps amphotères ou _____.",
+    "options": [
+      "acides aminés",
+      "ampholytes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "326",
+    "question": "Les ____ constituent la partie protéique de l'hémoglobine, étant solubles dans l'eau et précipitées par l'_____.",
+    "options": [
+      "globine",
+      "ammoniaque"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "327",
+    "question": "Les albumines possèdent une masse molaire généralement élevée et comprennent l'ovalbumine, la lactalbumine et la _____.",
+    "options": [
+      "élevée",
+      "léguméline"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "328",
+    "question": "Les globulines sont plus ou moins ______ dans l'eau et sont toutes coagulables par la _____.",
+    "options": [
+      "solubles",
+      "chaleur"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "329",
+    "question": "Le _________ du plasma sanguin et la tyréoglobuline de la glande thyroïde font partie des _____.",
+    "options": [
+      "fibrinogène",
+      "globulines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "330",
+    "question": "Les protéines insolubles comprennent les ____ qui forment les ongles, les poils et la corne des _____.",
+    "options": [
+      "kératines",
+      "mammifères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "331",
+    "question": "Les kératines sont insolubles dans l'eau froide ainsi que dans les solutions diluées d'acides, de bases et de _____.",
+    "options": [
+      "sels"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "332",
+    "question": "Les acides aminés sont des corps organiques azotés non colloïdaux qui se présentent sous forme de cristaux solubles dans l'_____ et doués d'une saveur _____.",
+    "options": [
+      "eau",
+      "variable"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "333",
+    "question": "Possédant une fonction acide COOH et une fonction basique NH2, les acides aminés agissent en tant que corps _____ et _____.",
+    "options": [
+      "fonction COOH",
+      "ampholythes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "334",
+    "question": "Parmi les exemples d'acides aminés cités figurent le glycocolle, la tyrosine, la cystéine, la lysine et la _____.",
+    "options": [
+      "valine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "335",
+    "question": "Les polypeptides naissent de l'union de plusieurs _____ avec perte d'une _____, incluant l'insuline et le _____.",
+    "options": [
+      "acides aminés",
+      "molécule d'eau",
+      "glutathion"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "336",
+    "question": "Les protides donnent des solutions _____ avec l'eau et se reconnaissent par des _____ comme celle du sérum sanguin ou du lait _____.",
+    "options": [
+      "colloïdales",
+      "réactions de coagulation",
+      "écrémé"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "337",
+    "question": "La classification des protides se fonde sur des _____ tels que la _____, le caractère acido-basique et la précipitabilité par les _____.",
+    "options": [
+      "caractères secondaires",
+      "solubilité",
+      "sels"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "338",
+    "question": "Les _____ hydrolysés libèrent uniquement des _____ et sont classés en protéines solubles et protéines _____.",
+    "options": [
+      "holoprotides",
+      "acides aminés",
+      "insolubles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "339",
+    "question": "Les _____ forment la partie protéique de l'_____ et peuvent être précipitées par l'action de l'_____.",
+    "options": [
+      "globines",
+      "hémoglobine",
+      "ammoniaque"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "340",
+    "question": "Les albumines à _____ élevée comprennent l'ovalbumine du blanc d'œuf, la _____ du lait et la léguméline du _____.",
+    "options": [
+      "masse molaire",
+      "lactalbumine",
+      "pois"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "341",
+    "question": "Les globulines _____ dans l'eau sont coagulables par la _____ et comprennent le fibrinogène du plasma ainsi que la tyréoglobuline de la glande _____.",
+    "options": [
+      "solubles",
+      "chaleur",
+      "thyroïde"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "342",
+    "question": "Les protéines _____, représentées par les _____, constituent les ongles, les poils et la corne des _____.",
+    "options": [
+      "insolubles",
+      "kératines",
+      "mammifères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "343",
+    "question": "Les acides aminés sont des corps organiques _____ non colloïdaux caractérisés par des _____ solubles dans l'eau, une saveur variable et une formule générale comprenant les groupements COOH et _____.",
+    "options": [
+      "azotés",
+      "cristaux",
+      "NH2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "344",
+    "question": "Agissant en tant que _____ grâce à leurs fonctions acides COOH et basiques NH2, les acides aminés comprennent le _____ au goût sucré et la leucine au goût _____.",
+    "options": [
+      "corps ampholytes",
+      "glycocolle",
+      "amère"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "345",
+    "question": "Parmi la liste des acides aminés présentés figurent le glycocolle, la tyrosine, la _____, la lysine et la _____, dont la formule générale comporte la chaîne _____.",
+    "options": [
+      "cystéine",
+      "valine",
+      "R - CH - COOH"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "336",
+    "question": "Les protides donnent des solutions colloïdales avec l'eau et se reconnaissent par des réactions de coagulation comme celle du sérum sanguin ou du lait _____.",
+    "options": [
+      "colloïdales",
+      "réactions de coagulation",
+      "écrémé"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "337",
+    "question": "La classification des protides se fonde sur des critères secondaires tels que la solubilité, le caractère acido-basique et la précipitabilité par les _____.",
+    "options": [
+      "caractères secondaires",
+      "solubilité",
+      "sels"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "338",
+    "question": "Les holoprotides hydrolysés libèrent uniquement des acides aminés et sont classés en protéines solubles et protéines _____.",
+    "options": [
+      "holoprotides",
+      "acides aminés",
+      "insolubles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "339",
+    "question": "Les globines forment la partie protéique de l'hémoglobine et peuvent être précipitées par l'action de l'_____.",
+    "options": [
+      "globines",
+      "hémoglobine",
+      "ammoniaque"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "340",
+    "question": "Les albumines à masse molaire élevée comprennent l'ovalbumine du blanc d'œuf, la lactalbumine du lait et la léguméline du _____.",
+    "options": [
+      "masse molaire",
+      "lactalbumine",
+      "pois"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "341",
+    "question": "Les globulines solubles dans l'eau sont coagulables par la chaleur et comprennent le fibrinogène du plasma ainsi que la tyréoglobuline de la glande _____.",
+    "options": [
+      "solubles",
+      "chaleur",
+      "thyroïde"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "342",
+    "question": "Les protéines insolubles, représentées par les kératines, constituent les ongles, les poils et la corne des _____.",
+    "options": [
+      "insolubles",
+      "kératines",
+      "mammifères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "343",
+    "question": "Les acides aminés sont des corps organiques azotés non colloïdaux caractérisés par des cristaux solubles dans l'eau, une saveur variable et une formule générale comprenant les groupements COOH et _____.",
+    "options": [
+      "azotés",
+      "cristaux",
+      "NH2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "344",
+    "question": "Agissant en tant que corps ampholytes grâce à leurs fonctions acides COOH et basiques NH2, les acides aminés comprennent le glycocolle au goût sucré et la leucine au goût _____.",
+    "options": [
+      "corps ampholytes",
+      "glycocolle",
+      "amère"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "345",
+    "question": "Parmi la liste des acides aminés présentés figurent le glycocolle, la tyrosine, la cystéine, la lysine et la valine, dont la formule générale comporte la chaîne _____.",
+    "options": [
+      "cystéine",
+      "valine",
+      "R - CH - COOH"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "346",
+    "question": "Les polypeptides proviennent de la liaison de plusieurs _________ par élimination d'une molécule d'eau, et incluent l'_________ hypoglycémiante ainsi que le glutathion _____.",
+    "options": [
+      "acides aminés",
+      "insuline",
+      "hyperglycémiante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "347",
+    "question": "Les _________ ou protéines forment de grosses molécules naturelles donnant des solutions colloïdales avec l'eau, reconnaissables par des phénomènes de coagulation comme dans le sérum ou le lait _____.",
+    "options": [
+      "protides",
+      "écrémé"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "348",
+    "question": "La classification des protides ne dépend pas de leur constitution chimique mais de critères secondaires tels que la solubilité, le caractère acido-basique et la précipitabilité par les _____.",
+    "options": [
+      "sels"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "349",
+    "question": "Les __________, subdivisés en protéines solubles et insolubles, libèrent uniquement des acides aminés lors de leur hydrolyse et se comportent comme des corps _____.",
+    "options": [
+      "holoprotides",
+      "amphotères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "350",
+    "question": "Les globines composent la partie protéique de _________, affichant une solubilité dans l'eau et une possibilité de précipitation par l'action de l'_____.",
+    "options": [
+      "l'hémoglobine",
+      "ammoniaque"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "351",
+    "question": "Les albumines à masse molaire élevée se trouvent en solution ______ dans l'eau et comprennent l'ovalbumine, la ________ du lait et la léguméline du _____.",
+    "options": [
+      "colloïdale",
+      "lactalbumine",
+      "pois"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "352",
+    "question": "Les globulines plus ou moins solubles dans  sont coagulables par la ____ et englobent le fibrinogène sanguin, les sérum-globulines, les globulines du lait et la tyréoglobuline _____.",
+    "options": [
+      "l'eau",
+      "chaleur",
+      "thyroïde"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "353",
+    "question": "Les protéines insolubles ou ______ forment les ongles, les poils et la corne des _______, restant réfractaires à l'eau froide et aux solutions diluées d'acides, de bases et de _____.",
+    "options": [
+      "kératines",
+      "mammifères",
+      "sels"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 3",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  }
+],
+  "Page 4": [
+    
 }
