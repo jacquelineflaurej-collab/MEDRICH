@@ -3542,5 +3542,4914 @@
     "nivo": "Difficile",
     "tip": "Completer"
   }
+],
+  "Page 7": [
+    {
+    "id": "161",
+    "question": "Quelle est la durée totale de la mitose ?",
+    "options": ["10 à 30 minutes", "Une demi-heure à deux heures", "3 à 5 heures", "24 heures"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "162",
+    "question": "Que deviennent les nucléoles et la membrane nucléaire à la télophase ?",
+    "options": ["Ils disparaissent définitivement", "Ils se reforment", "Ils se liquéfient", "Ils se divisent en quatre"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "163",
+    "question": "Comment sont assemblés les chromosomes à chaque pôle au début de la télophase ?",
+    "options": ["En cercle", "En éventail", "En ligne droite", "En spirale"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "164",
+    "question": "Comment s'appelle l'ensemble de cellules jeunes toutes semblables produites par l'œuf ?",
+    "options": ["Un tissu", "Un méristème", "Un organe", "Un pôle"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "165",
+    "question": "De quoi provient le corps des végétaux ?",
+    "options": ["De la division d'une cellule unique ou œuf", "De la fusion de plusieurs tissus", "De l'accumulation de vacuoles", "De la différenciation des enclaves"],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "166",
+    "question": "Dans quelles régions de la plante adulte des méristèmes subsistent-ils ?",
+    "options": ["Les fleurs et les fruits", "Les sommets de la tige et de la racine", "Les feuilles et l'écorce", "Le centre du tronc uniquement"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "167",
+    "question": "Que se passe-t-il pour le fuseau lors de la télophase ?",
+    "options": ["Il se multiplie", "Il devient plus rigide", "Il s'estompe", "Il se colore"],
+    "reponsKorek": 2,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "168",
+    "question": "En quoi se groupent les cellules qui se sont spécialisées par différenciation ?",
+    "options": ["En vacuoles", "En tissus", "En méristèmes", "En chondriosomes"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "169",
+    "question": "Quels constituants vivants se divisent également au cours de la division du noyau ?",
+    "options": ["Les enclaves hydrophobes", "Les chondriosomes et les plastes", "Les parois cellulaires", "Les constituants inertes"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "170",
+    "question": "Quel type de croissance les méristèmes assurent-ils chez la plante adulte ?",
+    "options": ["En longueur et en épaisseur", "Uniquement en hauteur", "Uniquement au niveau des feuilles", "En volume d'eau uniquement"],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "171",
+    "question": "Où s'édifie la nouvelle membrane à la fin de la télophase ?",
+    "options": ["Au sommet de la cellule", "Dans le plan équatorial du fuseau disparu", "Autour des chondriosomes", "Dans les vacuoles"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "172",
+    "question": "Quelles sont les caractéristiques des cellules jeunes composant le méristème ?",
+    "options": ["Cellules mortes et vides", "Cytoplasme dense, gros noyau, se divisant et restant assemblées", "Cellules allongées sans noyau", "Enclaves hydrophobes abondantes"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "173",
+    "question": "Comment sont qualifiés les vacuoles et les enclaves hydrophobes ?",
+    "options": ["Des constituants vivants qui se divisent", "Des constituants inertes qui ne se divisent pas", "Des organes reproducteurs", "Des structures nucléaires"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "174",
+    "question": "En quoi consiste la différenciation cellulaire ?",
+    "options": ["La disparition complète du noyau", "Des modifications de forme et de structure leur permettant de remplir une fonction déterminée", "La fusion de deux cellules en une seule", "La destruction du cytoplasme"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "175",
+    "question": "Que font les chromosomes à chaque pôle au cours de la télophase ?",
+    "options": ["Ils se tassent et deviennent indistincts", "Ils se multiplient par deux", "Ils s'échappent de la cellule", "Ils prennent une forme sphérique"],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "176",
+    "question": "Que sépare la nouvelle membrane formée à la fin de la télophase ?",
+    "options": ["Les deux nouvelles cellules", "Les plastes des chondriosomes", "Le noyau du cytoplasme", "Les méristèmes des tissus"],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "177",
+    "question": "Pourquoi les chondriosomes et les plastes sont-ils qualifiés de constituants vivants ?",
+    "options": ["Parce qu'ils contiennent de l'eau", "Parce qu'ils se divisent au cours de la division du noyau", "Parce qu'ils forment la membrane nucléaire", "Parce qu'ils fabriquent des graines"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "178",
+    "question": "Que produit l'œuf par ses divisions répétées chez la plupart des plantes ?",
+    "options": ["Un ensemble de cellules jeunes toutes semblables", "Un tissu adulte spécialisé", "Directement des fleurs et racines", "Des enclaves hydrophobes"],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "179",
+    "question": "Quel est le rôle des méristèmes subsistant chez la plante adulte ?",
+    "options": ["Sécréter des enclaves hydrophobes", "Assurer la croissance de la plante en longueur et en épaisseur", "Produire la membrane nucléaire", "Détruire les tissus anciens"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "180",
+    "question": "À quel moment précis la membrane séparant les deux nouvelles cellules s'édifie-t-elle ?",
+    "options": ["Au début de la prophase", "À la fin de la télophase", "Pendant la formation du méristème", "Lors de la différenciation"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "181",
+    "question": "Que se passe-t-il pour les cellules lorsqu'elles commencent à devenir différentes les unes des autres à partir du méristème ?",
+    "options": ["Elles meurent immédiatement", "Elles se spécialisent en subissant une différenciation", "Elles fusionnent avec le fuseau", "Elles cessent toute fonction"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "182",
+    "question": "Parmi les éléments suivants, lesquels sont considérés comme des constituants inertes ?",
+    "options": ["Les chondriosomes et les plastes", "Les vacuoles et les enclaves hydrophobes", "Les chromosomes et le noyau", "Les cellules jeunes du méristème"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "183",
+    "question": "Quelle est la différence de comportement entre les chondriosomes et les enclaves hydrophobes lors de la mitose ?",
+    "options": ["Les chondriosomes sont inertes et se divisent, les enclaves sont vivantes", "Les chondriosomes se divisent (constituants vivants), tandis que les enclaves hydrophobes ne se divisent pas (constituants inertes)", "Les enclaves se divisent dans le plan équatorial, les chondriosomes s'estompent", "Aucune différence, tous deux s'estompent à la télophase"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "184",
+    "question": "Laquelle de ces séquences d'événements caractérise la télophase ?",
+    "options": ["Le fuseau apparaît, les chromosomes se séparent, le noyau s'efface", "Le fuseau s'estompe, les chromosomes se tassent et deviennent indistincts, les nucléoles et la membrane nucléaire se reforment", "Les cellules se spécialisent, forment des tissus puis créent des méristèmes", "La cellule unique devient un œuf puis se divise en enclaves hydrophobes"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "185",
+    "question": "Dans l'organisation d'un végétal, quelle est la trajectoire évolutive correcte des cellules à partir de l'œuf ?",
+    "options": ["Cellule unique (œuf) -> Méristème (cellules jeunes semblables) -> Différenciation -> Tissus", "Tissus -> Méristème -> Cellule unique -> Enclaves hydrophobes", "Méristème -> Cellule unique -> Fuseau -> Tissus", "Chondriosomes -> Tissus -> Méristème -> Œuf"],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "186",
+    "question": "Quelle structure cellulaire garantit la croissance continue en longueur et en épaisseur chez la plante adulte ?",
+    "options": ["Les enclaves hydrophobes", "Les méristèmes subsistant aux sommets de la tige et de la racine", "Les vacuoles non divisées", "Le fuseau disparu"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "187",
+    "question": "Où s'édifie la nouvelle membrane séparant les deux cellules filles à la fin de la télophase ?",
+    "options": ["Dans le plan équatorial du fuseau disparu", "Au sommet de la racine", "À l'intérieur des enclaves hydrophobes", "Autour des vacuoles"],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "188",
+    "question": "Parmi les affirmations suivantes, laquelle est exacte ?",
+    "options": ["La durée totale de la mitose est de 24 heures", "Les nucléoles disparaissent définitivement pendant la télophase", "Une membrane s'édifie dans le plan équatorial du fuseau disparu pour séparer les deux nouvelles cellules", "Les plastes sont des constituants inertes qui ne se divisent jamais"],
+    "reponsKorek": 2,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "189",
+    "question": "Comment nomme-t-on le processus où les cellules subissent des modifications de forme et de structure pour remplir une fonction déterminée ?",
+    "options": ["La télophase", "La différenciation", "La mitose", "L'édification équatoriale"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "190",
+    "question": "Quels éléments cellulaires se reforment à la télophase ?",
+    "options": ["Le fuseau et les chromosomes", "Les nucléoles et la membrane nucléaire", "Les vacuoles et les enclaves hydrophobes", "Le méristème et les tissus"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "191",
+    "question": "Quel est le comportement des plastes durant la division du noyau ?",
+    "options": ["Ils s'estompent avec le fuseau", "Ils se divisent également car ce sont des constituants vivants", "Ils restent inertes et ne se divisent pas", "Ils se regroupent uniquement dans le plan équatorial"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "192",
+    "question": "Quelle est la description exacte du méristème initial produit par l'œuf ?",
+    "options": ["Grandes cellules spécialisées sans noyau", "Ensemble de cellules jeunes toutes semblables, à cytoplasme dense, à gros noyau, se divisant et restant assemblées", "Cellules inertes remplies d'enclaves hydrophobes", "Cellules mortes entourées d'une membrane rigide"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "193",
+    "question": "Quelle est la disposition des chromosomes à chaque pôle avant qu'ils ne se tassent et deviennent indistincts lors de la télophase ?",
+    "options": ["Ils sont dispersés au hasard", "Ils sont assemblés en éventail", "Ils sont empilés au centre du cytoplasme", "Ils sont attachés aux vacuoles"],
+    "reponsKorek": 1,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+    {
+    "id": "194",
+    "question": "Au cours de la télophase, le fuseau _____.",
+    "options": [
+      "s'estompe"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "195",
+    "question": "À la télophase, les chromosomes sont assemblés en _____ à chaque pôle.",
+    "options": [
+      "éventail"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "196",
+    "question": "Les nucléoles et la membrane _____ se reforment au cours de la télophase.",
+    "options": [
+      "nucléaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "197",
+    "question": "À la fin de la télophase, une membrane s'édifie dans le plan _____ du fuseau disparu.",
+    "options": [
+      "équatorial"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "198",
+    "question": "La durée totale de la mitose peut varier d'une demi-heure à deux _____.",
+    "options": [
+      "heures"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "199",
+    "question": "Les corps des végétaux proviennent de la division d'une cellule unique ou _____.",
+    "options": [
+      "œuf"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "200",
+    "question": "L'ensemble de cellules jeunes toutes semblables produit par l'œuf est un _____.",
+    "options": [
+      "méristème"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "201",
+    "question": "En se spécialisant, les cellules se groupent en _____.",
+    "options": [
+      "tissus"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "202",
+    "question": "Dans la plante adulte, des méristèmes subsistent dans les régions de _____.",
+    "options": [
+      "croissance"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "203",
+    "question": "Les méristèmes assurent la croissance de la plante en longueur et en _____.",
+    "options": [
+      "épaisseur"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "204",
+    "question": "Au cours de la division du noyau, les chondriosomes et les plastes sont des constituants _____.",
+    "options": [
+      "vivants"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "205",
+    "question": "Pendant la télophase, les chromosomes assemblés en éventail à chaque pôle se _____ et deviennent _____.",
+    "options": [
+      "tassent",
+      "indistincts"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "206",
+    "question": "À la fin de la télophase, une membrane s'édifie dans le plan _____ du fuseau disparu, séparant ainsi les deux nouvelles _____.",
+    "options": [
+      "équatorial",
+      "cellules"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "207",
+    "question": "Au cours de la division du noyau, les _____ et les _____ se divisent également.",
+    "options": [
+      "chondriosomes",
+      "plastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "208",
+    "question": "Les corps des végétaux proviennent de la division d'une cellule _____ ou _____.",
+    "options": [
+      "unique",
+      "œuf"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "209",
+    "question": "Chez la plupart des plantes, l'œuf produit un ensemble de cellules jeunes à cytoplasme _____ et à gros _____.",
+    "options": [
+      "dense",
+      "noyau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "210",
+    "question": "Les cellules du méristème se caractérisent par un cytoplasme dense, se divisant et restant _____ ; cet ensemble est un _____.",
+    "options": [
+      "assemblées",
+      "méristème"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "211",
+    "question": "À partir du méristème, les cellules se spécialisent en subissant une _____, c'est-à-dire des modifications de forme et de _____.",
+    "options": [
+      "différenciation",
+      "structure"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "212",
+    "question": "La différenciation permet aux cellules de remplir une _____ déterminée et de se grouper en _____.",
+    "options": [
+      "fonction",
+      "tissus"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "213",
+    "question": "Chez la plante adulte, des méristèmes subsistent aux sommets de la _____ et de la _____.",
+    "options": [
+      "tige",
+      "racine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "214",
+    "question": "La durée totale de la mitose peut varier d'une _____ à deux _____.",
+    "options": [
+      "demi-heure",
+      "heures"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "215",
+    "question": "Au cours de la télophase, les _____ et la membrane nucléaire se _____.",
+    "options": [
+      "nucléoles",
+      "reforment"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "216",
+    "question": "Pendant la télophase, le fuseau _____, les nucléoles et la membrane _____ se _____.",
+    "options": [
+      "s'estompe",
+      "nucléaire",
+      "reforment"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "217",
+    "question": "À la fin de la télophase, une membrane s'édifie dans le plan _____ du fuseau _____, séparant ainsi les deux nouvelles _____.",
+    "options": [
+      "équatorial",
+      "disparu",
+      "cellules"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "218",
+    "question": "Au cours de la division du noyau, les _____ et les _____ se divisent également; ce sont des constituants _____.",
+    "options": [
+      "chondriosomes",
+      "plastes",
+      "vivants"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "219",
+    "question": "L'œuf, par ses divisions répétées, produit un ensemble de cellules jeunes à cytoplasme _____, à gros _____, se divisant et restant _____.",
+    "options": [
+      "dense",
+      "noyau",
+      "assemblées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "220",
+    "question": "Les cellules se spécialisent en subissant une _____, c'est-à-dire des modifications de _____ et de _____.",
+    "options": [
+      "différenciation",
+      "forme",
+      "structure"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "221",
+    "question": "Grâce à la différenciation, les cellules subissent des modifications de _____ et de _____, leur permettant de remplir une _____ déterminée.",
+    "options": [
+      "forme",
+      "structure",
+      "fonction"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "222",
+    "question": "Dans la plante adulte, des méristèmes subsistent aux sommets de la _____ et de la _____, assurant la croissance en longueur et en _____.",
+    "options": [
+      "tige",
+      "racine",
+      "épaisseur"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "223",
+    "question": "Pendant la télophase, les chromosomes assemblés en _____ à chaque pôle se _____, puis deviennent _____.",
+    "options": [
+      "éventail",
+      "tassent",
+      "indistincts"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "224",
+    "question": "Chez la plupart des plantes, l'_____ produit par ses divisions répétées des cellules jeunes assemblées formant un _____, à partir duquel les cellules subissent une _____.",
+    "options": [
+      "œuf",
+      "méristème",
+      "différenciation"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "225",
+    "question": "Les méristèmes situés aux sommets de la tige et de la racine assurent la _____ de la plante en _____ et en _____.",
+    "options": [
+      "croissance",
+      "longueur",
+      "épaisseur"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "226",
+    "question": "Au cours de la division, les chondriosomes sont des constituants _____, tandis que les enclaves hydrophobes sont des constituants _____ qui ne se _____ pas.",
+    "options": [
+      "vivants",
+      "inertes",
+      "divisent"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 7",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  }
+],
+  "Page 8": [
+    {
+    "id": "227",
+    "question": "Chez quelles plantes les cellules sont-elles groupées en tissus ?",
+    "options": ["Chez les plantes supérieures", "Chez les algues unicellulaires", "Chez les champignons", "Chez toutes les bactéries"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "228",
+    "question": "Comment définit-on un tissu végétal ?",
+    "options": ["Un groupe d'organes isolés", "Un ensemble de cellules accomplissant des fonctions déterminées", "Une seule cellule géante", "Un assemblage de molécules d'eau"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "229",
+    "question": "Quels tissus donnent naissance à tous les autres tissus ?",
+    "options": ["Les tissus de soutien", "Les tissus de croissance", "Les tissus conducteurs", "Les tissus sécréteurs"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "230",
+    "question": "Quel autre nom donne-t-on aux tissus de croissance ?",
+    "options": ["Les parenchymes", "Les méristèmes", "Les stomates", "Les lacunes"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "231",
+    "question": "Quel nom porte l'ensemble des tissus de nutrition ?",
+    "options": ["Les épidermes", "Les parenchymes", "Les lièges", "Les méristèmes"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "232",
+    "question": "Quels tissus sont qualifiés d'essentiellement vivants chez les plantes ?",
+    "options": ["Les tissus de nutrition", "Les tissus de protection", "Le liège", "Les tissus conducteurs mortifiés"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "233",
+    "question": "Comment sont rangées les hautes cellules du parenchyme palissadique ?",
+    "options": ["Au hasard", "En cercle", "En palissade, les unes à côté des autres", "En pyramide"],
+    "reponsKorek": 2,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "234",
+    "question": "Quels organites sont très abondants dans le parenchyme palissadique ?",
+    "options": ["Les vacuoles d'air", "Les chloroplastes", "Les stomates", "Les noyaux géants"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "235",
+    "question": "Que sont les trous situés entre les cellules du parenchyme lacuneux ?",
+    "options": ["Des stomates", "Des lacunes", "Des vacuoles", "Des méristèmes"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "236",
+    "question": "Que permettent d'assurer les lacunes du parenchyme lacuneux ?",
+    "options": ["La circulation des gaz", "La synthèse des sucres", "L'absorption de la lumière", "La rigidité de la tige"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "237",
+    "question": "Quelle est la présence des chloroplastes dans le parenchyme de réserve ?",
+    "options": ["Ils sont très abondants", "Ils sont absents", "Ils sont géants", "Ils sont fluorescents"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "238",
+    "question": "Quelles substances sont accumulées dans le parenchyme de réserve ?",
+    "options": ["Du gaz carbonique et de la cutine", "De l'amidon, du sucre, de l'huile", "De la chlorophylline pure", "Du liège et du bois"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "239",
+    "question": "Quel type de parenchyme de réserve caractérise les plantes grasses ?",
+    "options": ["Parenchyme palissadique", "Parenchyme aquifère", "Parenchyme lacuneux", "Parenchyme libérien"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "240",
+    "question": "De quoi sont riches les grandes vacuoles des plantes grasses ?",
+    "options": ["D'huile", "D'eau", "D'amidon", "D'air"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "241",
+    "question": "Quel est le rôle fondamental des tissus de protection ?",
+    "options": ["Assurer la croissance", "Envelopper et protéger les organes contre les agents extérieurs", "Fabriquer de la chlorophylle", "Conduire la sève"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "242",
+    "question": "Quels sont les deux principaux tissus de protection ?",
+    "options": ["Le méristème et le parenchyme", "L'épiderme et le liège", "Les stomates et les lacunes", "Les racines et les graines"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "243",
+    "question": "De combien d'assises de cellules est constitué l'épiderme ?",
+    "options": ["Une seule assise", "Deux assises", "Trois assises", "Plusieurs dizaines d'assises"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "244",
+    "question": "Les cellules de l'épiderme contiennent-elles des chloroplastes ?",
+    "options": ["Oui, elles en sont remplies", "Non, elles en sont dépourvues", "Uniquement pendant la nuit", "Seulement dans les graines"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "245",
+    "question": "Comment est la membrane des cellules épidermiques sur la face externe ?",
+    "options": ["Mince et perméable", "Épaissie et cutinisée", "Remplie de trous lacuneux", "Liquide et transparente"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "246",
+    "question": "Quelles parties de la plante sont recouvertes par l'épiderme ?",
+    "options": ["Les racines uniquement", "Les feuilles, les jeunes tiges et les pièces florales", "Le bois adulte", "Les graines enterrées"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "247",
+    "question": "Comment nomme-t-on les perforations présentes sur l'épiderme ?",
+    "options": ["Les lacunes", "Les stomates", "Les parenchymes", "Les méristèmes"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "248",
+    "question": "Quels sont les deux types de stomates mentionnés ?",
+    "options": ["Stomates aérifères et stomates aquifères", "Stomates chlorophylliens et stomates lacuneux", "Stomates de surface et stomates profonds", "Stomates vivants et stomates morts"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "249",
+    "question": "Quel type de stomate assure les échanges gazeux ?",
+    "options": ["Les stomates aquifères", "Les stomates aérifères", "Les stomates de réserve", "Les stomates méristématiques"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "250",
+    "question": "Combien de catégories de tissus distingue-t-on suivant leurs fonctions ?",
+    "options": ["Deux", "Quatre", "Six", "Dix"],
+    "reponsKorek": 2,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "251",
+    "question": "Comment est la membrane des cellules des tissus de nutrition ?",
+    "options": ["Épaissie et cutinisée", "Mince", "Rigide et boisée", "Absente"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "252",
+    "question": "Quelle est la taille générale des cellules des tissus de nutrition ?",
+    "options": ["Microscopique et invisible", "Généralement de grande taille", "Toujours très petite", "Variable de minute en minute"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "253",
+    "question": "Où se trouvent principalement les tissus de réserve ?",
+    "options": ["Dans les fleurs uniquement", "Dans les racines, graines et certaines tiges", "Sur la surface externe des feuilles", "Dans les stomates aérifères"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "254",
+    "question": "Quel parenchyme se trouve dans le tissu des feuilles et présente des trous entre les cellules ?",
+    "options": ["Le parenchyme chlorophyllien lacuneux", "Le parenchyme de réserve", "Le liège", "Le méristème"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "255",
+    "question": "Qu'est-ce qui rend la face externe de la membrane épidermique imperméable ?",
+    "options": ["Les lacunes", "La cutinisation", "Les chloroplastes", "L'amidon"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "256",
+    "question": "L'épiderme est-il un tissu vivant ou inerte ?",
+    "options": ["Un tissu inerte", "Un tissu vivant", "Un tissu totalement mort", "Un tissu minéral"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "257",
+    "question": "Que permettent les stomates situés sur l'épiderme ?",
+    "options": ["Des échanges entre la plante et l'extérieur", "La fabrication d'amidon", "Le blocage total de l'air", "La croissance en épaisseur de la racine"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "258",
+    "question": "Par quoi se font les échanges gazeux au niveau épidermique ?",
+    "options": ["Par les stomates aérifères", "Par les vacuoles d'eau", "Par le liège imperméable", "Par le parenchyme de réserve"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "259",
+    "question": "Quel tissu protège la plante contre les agents extérieurs tout en étant résistant et imperméable ?",
+    "options": ["Les tissus de nutrition", "Les tissus de protection", "Les méristèmes", "Les stomates"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "260",
+    "question": "Quelles sont les six fonctions servant à classer les tissus végétaux ?",
+    "options": ["Croissance, nutrition, protection, soutien, conduction, sécrétion", "Respiration, digestion, marche, protection, croissance, vision", "Photosynthèse, germination, floraison, pollinisation, mitose, méiose", "Absorption, évaporation, sudation, digestion, sécrétion, excrétion"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "261",
+    "question": "Pourquoi le parenchyme palissadique donne-t-il leur coloration aux parties vertes de la plante ?",
+    "options": ["Parce qu'il contient du liège vert", "Par transparence de ses abondants chloroplastes à travers l'épiderme", "Parce que sa membrane est teinte en vert", "Par l'effet des stomates aquifères"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "262",
+    "question": "Où s'accomplissent les phénomènes chimiques liés à l'activité du cytoplasme et des inclusions vivantes ?",
+    "options": ["Dans les cellules des tissus de nutrition", "Dans le liège mort", "Dans les stomates uniquement", "À l'extérieur de la plante"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "263",
+    "question": "Quelle différence existe-t-il pour le parenchyme lacuneux entre les feuilles et les tiges ?",
+    "options": ["Il est toujours dépourvu de chloroplastes dans les feuilles", "Il est toujours chlorophyllien dans les feuilles, mais peut être plus ou moins dépourvu de chloroplastes dans les tiges", "Il n'existe jamais dans les tiges", "Il ne contient pas de lacunes dans les feuilles"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "264",
+    "question": "Quelle est la particularité des cellules composant le parenchyme de réserve aquifère ?",
+    "options": ["Elles n'ont pas de noyau", "Elles possèdent de grandes vacuoles très riches en eau", "Elles sont remplies de chloroplastes", "Elles ont une membrane cutinisée"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "265",
+    "question": "Comment les tissus de protection parviennent-ils à concilier imperméabilité et échanges ?",
+    "options": ["En se dissolvant dans l'eau", "Grâce à des dispositifs (stomates) rendant possibles les échanges de gaz et d'eau", "En détruisant leur membrane externe", "En se transformant en méristèmes"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "266",
+    "question": "Quelles sont les formes et caractéristiques des cellules des tissus de nutrition ?",
+    "options": ["Généralement de grande taille, membrane mince et forme plus ou moins régulière", "Petites cellules allongées à paroi très épaisse", "Cellules mortes sans cytoplasme", "Cellules sphériques très dures et imperméables"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "267",
+    "question": "Comment sont agencées les cellules du parenchyme chlorophyllien palissadique ?",
+    "options": ["Régulièrement rangées les unes à côté des autres, en palissade", "Dispersées aléatoirement avec de grands trous", "Empilées en couches étanches sans chloroplastes", "Groupées en réseau de tubes conducteurs"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "268",
+    "question": "Quels sont les trois exemples de réserves accumulées par la plante dans le parenchyme de réserve ?",
+    "options": ["Amidon, sucre, huile", "Eau, air, cutine", "Chlorophylle, liège, bois", "Sève, stomates, lacunes"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "269",
+    "question": "Quels organes sont recouverts spécifiquement par l'épiderme ?",
+    "options": ["Les racines uniquement", "Les feuilles, les jeunes tiges et les pièces florales", "Les graines et le bois mort", "Toutes les parties internes de la racine"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "270",
+    "question": "Pourquoi les parenchymes sont-ils essentiels à la vie végétale ?",
+    "options": ["Car ce sont les tissus de nutrition où s'accomplissent les phénomènes chimiques de l'activité cytoplasmique", "Car ils fabriquent la cutine de l'épiderme", "Car ils empêchent toute pénétration d'eau", "Car ils forment la structure en bois dur"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "271",
+    "question": "En quoi l'épiderme diffère-t-il des parenchymes chlorophylliens ?",
+    "options": ["L'épiderme a plusieurs assises et beaucoup de chloroplastes", "L'épiderme est constitué d'une seule assise de cellules dépourvues de chloroplastes", "L'épiderme est un tissu de réserve de sucre", "L'épiderme est formé de cellules mortes sans membrane"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "272",
+    "question": "Quelle est la fonction spécifique des lacunes dans le parenchyme lacuneux ?",
+    "options": ["Assurer la circulation des gaz dans les tissus", "Stocker de l'huile et du sucre", "Empêcher le passage de la lumière", "Fabriquer des stomates"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "273",
+    "question": "Combien d'assises de cellules forment l'épiderme et quel est son état biologique ?",
+    "options": ["Plusieurs assises, tissu inerte", "Une seule assise, tissu vivant", "Trois assises, tissu mort", "Aucune assise, tissu synthétique"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "274",
+    "question": "Quels tissus constituent le pôle d'activité métabolique et chimique chez les plantes ?",
+    "options": ["Les tissus de nutrition (parenchymes)", "Les tissus de protection (liège)", "Les stomates aquifères", "Les cellules cutinisées"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "275",
+    "question": "Quel est le lien entre méristèmes et tissus de croissance ?",
+    "options": ["Ce sont deux choses opposées", "Les tissus de croissance sont des méristèmes", "Les méristèmes détruisent les tissus de croissance", "Les méristèmes n'existent que chez les animaux"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "276",
+    "question": "Quel organe ou structure épidermique permet spécifiquement la réalisation des échanges gazeux ?",
+    "options": ["Le stomate aérifère", "La membrane cutinisée", "Le stomate aquifère", "La vacuole d'eau"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "277",
+    "question": "Dans quels organes le parenchyme de réserve existe-t-il surtout ?",
+    "options": ["Dans les fleurs et feuilles uniquement", "Dans les racines, graines et certaines tiges", "Dans le liège et l'épiderme", "Dans les stomates aérifères"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "278",
+    "question": "D'où proviennent les phénomènes chimiques accomplis dans les cellules de nutrition ?",
+    "options": ["De l'activité du cytoplasme et de ses inclusions vivantes", "De la membrane cutinisée", "De la décomposition du liège", "De l'air retenu dans les stomates"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "279",
+    "question": "Comment se présente la forme des cellules des parenchymes ?",
+    "options": ["Toujours parfaitement hexagonale", "Plus ou moins régulière", "Totalement filiforme et tordue", "Strictement triangulaire"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "280",
+    "question": "Quelles propriétés physiques caractérisent les tissus de protection ?",
+    "options": ["Fragiles et perméables", "Résistants et imperméables", "Mous et absorbants", "Transparents et élastiques"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "281",
+    "question": "Comment s'appelle le parenchyme de réserve des plantes grasses et de quoi est-il composé ?",
+    "options": ["Parenchyme lacuneux, composé de trous d'air", "Parenchyme aquifère, composé de cellules à grandes vacuoles riches en eau", "Parenchyme palissadique, composé de chloroplastes", "Parenchyme protecteur, composé de liège"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "282",
+    "question": "À travers quel tissu s'observe la coloration verte produite par le parenchyme palissadique ?",
+    "options": ["Le liège", "L'épiderme", "Le méristème", "Le parenchyme de réserve"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "283",
+    "question": "Pourquoi le parenchyme de réserve ne participe-t-il pas directement à la coloration verte de la plante ?",
+    "options": ["Car il est recouvert de liège noir", "Car les chloroplastes y sont absents", "Car il ne contient que de l'eau claire", "Car ses cellules sont trop petites"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "284",
+    "question": "Quel est le rôle des perforations appelées stomates sur l'épiderme ?",
+    "options": ["Permettre les échanges entre la plante et l'extérieur", "Fixer la plante au sol", "Produire de l'amidon et du sucre", "Rendre la plante complètement rigide"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "285",
+    "question": "Qu'est-ce qui caractérise le parenchyme chlorophyllien lacuneux ?",
+    "options": ["La présence de hautes cellules très serrées", "La présence de lacunes ('trous') entre les cellules", "L'absence totale de chlorophylle", "Une membrane externe cutinisée"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "286",
+    "question": "Quel type de plantes possède des cellules à grandes vacuoles très riches en eau ?",
+    "options": ["Les plantes aquatiques uniquement", "Les plantes grasses", "Les méristèmes", "Les plantes sans feuilles"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "287",
+    "question": "De quoi protègent les tissus de protection ?",
+    "options": ["De la croissance en longueur", "Des agents extérieurs", "De la circulation des gaz", "De la fabrication des réserves"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "288",
+    "question": "Quelle est la principale fonction des méristèmes ?",
+    "options": ["Donner naissance aux autres tissus", "Recouvrir la feuille", "Accumuler du sucre et de l'huile", "Réaliser les échanges gazeux"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "289",
+    "question": "Où se trouvent les trous ou lacunes dans le parenchyme lacuneux ?",
+    "options": ["À l'intérieur du noyau", "Entre les cellules", "Dans la membrane cutinisée", "Au centre des chloroplastes"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "290",
+    "question": "Quels sont les deux sous-types de stomates cités ?",
+    "options": ["Aérifères et aquifères", "Palissadiques et lacuneux", "Méristématiques et épidermiques", "Réservoirs et conducteurs"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "291",
+    "question": "Quel traitement naturel subit la face externe de la membrane épidermique ?",
+    "options": ["Elle est dissoute dans le cytoplasme", "Elle est épaissie et cutinisée", "Elle est remplie d'amidon", "Elle est transformée en lacunes"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "292",
+    "question": "Quel tissu vivant entoure les pièces florales et les jeunes tiges ?",
+    "options": ["Le liège", "L'épiderme", "Le parenchyme de réserve", "Le méristème"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "293",
+    "question": "Laquelle des propositions suivantes définit le plus exactement un tissu chez les plantes supérieures ?",
+    "options": ["Un groupe d'organes spécialisés dans la reproduction", "Un ensemble de cellules, d'une ou plusieurs espèces, agencées suivant un mode particulier, accomplissant des fonctions déterminées", "Une juxtaposition anarchique de cellules vivantes sans fonction spécifique", "Une couche protectrice composée uniquement de cellules mortes imperméables"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "294",
+    "question": "Parmi les combinaisons suivantes, laquelle regroupe l'intégralité des six types de tissus cités selon leurs fonctions ?",
+    "options": ["Croissance, nutrition, protection, soutien, conducteurs, sécréteurs", "Croissance, respiration, protection, squelettique, digestif, conducteur", "Méristèmes, parenchymes, épiderme, liège, stomates, lacunes", "Palissadique, lacuneux, aquifère, aérifère, cutinisé, vivants"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "295",
+    "question": "Quels sont les trois types de parenchymes distingués dans le chapitre des tissus de nutrition ?",
+    "options": ["Parenchyme palissadique, parenchyme lacuneux, parenchyme de réserve", "Parenchyme aérifère, parenchyme aquifère, parenchyme épidermique", "Parenchyme de croissance, parenchyme de soutien, parenchyme sécréteur", "Parenchyme cutinisé, parenchyme méristématique, parenchyme du liège"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "296",
+    "question": "Quelle est la comparaison exacte entre le parenchyme palissadique et le parenchyme de réserve concernant la présence de chloroplastes ?",
+    "options": ["Les chloroplastes sont très abondants dans le palissadique et totalement absents dans le parenchyme de réserve", "Les deux parenchymes contiennent la même quantité de chloroplastes", "Le parenchyme de réserve est riche en chloroplastes alors que le palissadique en est dépourvu", "Le palissadique contient des chloroplastes uniquement dans les racines"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "297",
+    "question": "Comment varie la présence de chloroplastes dans le parenchyme lacuneux selon l'organe concerné ?",
+    "options": ["Il est toujours dépourvu de chloroplastes dans les feuilles", "Il est toujours chlorophyllien dans les feuilles, mais peut être plus ou moins dépourvu de chloroplastes dans les tiges", "Il contient des chloroplastes uniquement dans les tiges et jamais dans les feuilles", "Il ne contient jamais de chloroplastes dans aucun organe"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "298",
+    "question": "Comment l'épiderme parvient-il à protéger la plante tout en assurant ses fonctions vitales ?",
+    "options": ["Sa membrane externe cutinisée le rend imperméable, mais ses stomates permettent des échanges de gaz et d'eau", "Il est troué de lacunes qui remplacent la membrane cellulaire", "Il absorbe l'eau par sa cutine et rejette le gaz par le liège", "Il se transforme en parenchyme de réserve pour stocker les gaz"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "299",
+    "question": "Pourquoi les parenchymes sont-ils qualifiés de 'tissus essentiellement vivants des plantes' ?",
+    "options": ["Parce qu'ils sont les seuls à posséder une membrane externe cutinisée", "Parce que c'est dans leurs cellules que s'accomplissent les phénomènes chimiques résultant de l'activité du cytoplasme et de ses inclusions vivantes", "Parce qu'ils sont constitués de liège résistant aux attaques extérieures", "Parce qu'ils ne contiennent que des cellules de croissance en division permanente"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "300",
+    "question": "Quelle proposition décrit correctement l'organisation cellulaire de l'épiderme ?",
+    "options": ["Plusieurs couches de cellules mortes chargées d'amidon", "Une seule assise de cellules vivantes dépourvues de chloroplastes à membrane externe épaissie et cutinisée", "Des hautes cellules régulièrement rangées en palissade avec de très nombreux chloroplastes", "Un réseau de cellules à grandes lacunes assurant la circulation des gaz"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "301",
+    "question": "Quelle adaptation spécifique présente le parenchyme de réserve chez les plantes grasses ?",
+    "options": ["Un parenchyme palissadique épaissi sans chloroplastes", "Un parenchyme de réserve aquifère composé de cellules à grandes vacuoles très riches en eau", "Un épiderme constitué de plusieurs assises de méristèmes", "Un parenchyme lacuneux dépourvu de trous"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "302",
+    "question": "Quelle est la différence fonctionnelle entre les lacunes du parenchyme lacuneux et les stomates aérifères ?",
+    "options": ["Les lacunes assurent la circulation des gaz à l'intérieur des tissus, tandis que les stomates aérifères réalisent les échanges gazeux avec l'atmosphère extérieure", "Les lacunes stockent l'eau et les stomates stockent l'huile", "Les lacunes sont des perforations externes et les stomates sont des trous internes", "Il n'y a aucune différence, ce sont deux termes pour la même structure"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "303",
+    "question": "Parmi ces caractéristiques, lesquelles s'appliquent à la fois aux cellules du parenchyme palissadique et à celles de l'épiderme ?",
+    "options": ["Toutes deux contiennent d'abondants chloroplastes", "Toutes deux sont des tissus vivants formant une couche protectrice ou nutritive au niveau des feuilles", "Toutes deux sont constituées de cellules mortes à membrane cutinisée", "Toutes deux possèdent de grandes vacuoles remplies d'huile et d'amidon"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "304",
+    "question": "Quels sont les deux tissus de protection présentés comme les plus importants chez les végétaux ?",
+    "options": ["Le méristème et le parenchyme", "L'épiderme et le liège", "Les stomates aérifères et aquifères", "Le parenchyme palissadique et le parenchyme lacuneux"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "305",
+    "question": "Quels organes végétaux sont explicitement énumérés comme étant recouverts par l'épiderme ?",
+    "options": ["Les racines anciennes et le tronc", "Les feuilles, les jeunes tiges et les pièces florales", "Les graines et les réserves d'amidon", "Les lacunes et les méristèmes internes"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "306",
+    "question": "Comment la couleur verte du parenchyme palissadique devient-elle visible à l'extérieur de la plante ?",
+    "options": ["Par transparence à travers l'épiderme", "Par la sécrétion de stomates verts", "Par la dissolution de la membrane cutinisée", "Par la transformation des lacunes en chloroplastes"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "307",
+    "question": "Quel est le rôle exact attribué aux méristèmes vis-à-vis des autres tissus de la plante ?",
+    "options": ["Ils leur fournissent de l'eau et de l'amidon", "Ils constituent les tissus de croissance qui donnent naissance aux autres tissus", "Ils forment une enveloppe imperméable pour les protéger", "Ils détruisent les vieilles cellules pour créer des lacunes"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "308",
+    "question": "Quelles substances sont précisément mentionnées comme étant accumulées par la plante dans les cellules du parenchyme de réserve ?",
+    "options": ["Amidon, sucre, huile", "Cutine, chlorophylle, gaz", "Eau de Javel, alcool, vinaigre", "Liège, bois, stomates"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "309",
+    "question": "Quel tissu est caractérisé par de hautes cellules régulièrement rangées les unes à côté des autres et très riches en chloroplastes ?",
+    "options": ["Le parenchyme chlorophyllien palissadique", "Le parenchyme chlorophyllien lacuneux", "Le parenchyme aquifère", "L'épiderme"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "310",
+    "question": "Où se situent principalement les tissus de réserve dans l'organisme végétal ?",
+    "options": ["Principalement dans l'épiderme des fleurs", "Surtout dans les racines, dans les graines et dans certaines tiges", "Dans les stomates aérifères des feuilles", "À la pointe extrême des pièces florales"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "311",
+    "question": "Quels sont les deux types de stomates que l'on distingue au niveau épidermique ?",
+    "options": ["Les stomates aérifères et les stomates aquifères", "Les stomates palissadiques et lacuneux", "Les stomates cutinisés et imperméables", "Les stomates vivants et morts"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "312",
+    "question": "Quelle modification structurale subit la face externe de la membrane des cellules épidermiques ?",
+    "options": ["Elle se couvre de lacunes d'air", "Elle est épaissie et cutinisée", "Elle perd son cytoplasme pour devenir inerte", "Elle se remplit de vacuoles d'huile"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "313",
+    "question": "Pourquoi les tissus de protection possèdent-ils des dispositifs particuliers malgré leur imperméabilité ?",
+    "options": ["Pour laisser passer la lumière vers le liège", "Pour rendre possibles les échanges de gaz et d'eau entre l'atmosphère et la plante", "Pour permettre la division rapide des méristèmes", "Pour éliminer le sucre en excès"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "314",
+    "question": "Quelle proposition résume correctement les rôles respectifs des méristèmes et des parenchymes ?",
+    "options": ["Les méristèmes assurent la croissance et génèrent d'autres tissus, tandis que les parenchymes assurent la nutrition et le métabolisme", "Les méristèmes stockent les réserves et les parenchymes protègent les feuilles", "Les méristèmes sont imperméables et les parenchymes sont constitués d'une assise épidermique", "Les méristèmes éliminent les gaz et les parenchymes forment le liège"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "315",
+    "question": "Quels tissus regroupent le parenchyme palissadique, le parenchyme lacuneux et le parenchyme de réserve ?",
+    "options": ["Les tissus de croissance", "Les tissus de nutrition", "Les tissus de protection", "Les tissus de soutien"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "316",
+    "question": "Quelle caractéristique physique différencie le parenchyme lacuneux du parenchyme palissadique ?",
+    "options": ["La présence de lacunes ('trous') entre les cellules chez le parenchyme lacuneux", "L'absence totale de membranes chez le palissadique", "La présence de réserves d'amidon uniquement chez le palissadique", "La cutinisation externe du parenchyme lacuneux"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "317",
+    "question": "Quelle est la particularité des cellules de l'épiderme vis-à-vis des pigments photosynthétiques ?",
+    "options": ["Elles sont remplies de chloroplastes fluorescents", "Elles sont dépourvues de chloroplastes", "Elles fabriquent la chlorophylle du parenchyme lacuneux", "Elles contiennent des chloroplastes uniquement sur leur face externe"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "318",
+    "question": "Quel parenchyme est spécialement adapté au stockage de l'eau chez les plantes succulentes (grasses) ?",
+    "options": ["Le parenchyme de réserve aquifère", "Le parenchyme palissadique aérifère", "Le parenchyme lacuneux cutinisé", "Le méristème aquatique"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "319",
+    "question": "Que représentent les 'trous' décrits dans le parenchyme lacuneux ?",
+    "options": ["Des perforations épidermiques cutinisées", "Des lacunes intercellulaires assurant la circulation des gaz", "Des vacuoles remplies d'huile et de sucre", "Des conduits méristématiques de croissance"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "320",
+    "question": "Parmi les éléments suivants, lesquels sont dépourvus de chloroplastes ?",
+    "options": ["Le parenchyme palissadique et le parenchyme lacuneux des feuilles", "Le parenchyme de réserve et l'épiderme", "Le parenchyme chlorophyllien et les stomates", "Toutes les cellules végétales supérieures"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "321",
+    "question": "Quel lien existe-t-il entre le cytoplasme et l'activité des tissus de nutrition ?",
+    "options": ["Le cytoplasme se dissout dans les lacunes", "C'est dans les cellules des parenchymes que s'accomplissent les phénomènes chimiques dus à l'activité du cytoplasme et de ses inclusions vivantes", "Le cytoplasme rend la membrane externe imperméable et cutinisée", "Le cytoplasme empêche la formation des réserves d'amidon"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "322",
+    "question": "Parmi les éléments suivants, quel organe n'est PAS cité comme recouverte par l'épiderme ?",
+    "options": ["Les jeunes tiges", "Les racines", "Les feuilles", "Les pièces florales"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "323",
+    "question": "Quelle est la relation entre le liège et l'épiderme ?",
+    "options": ["Ce sont tous deux les tissus de protection les plus importants", "Le liège se trouve à l'intérieur des lacunes épidermiques", "L'épiderme produit le liège par division méristématique", "Le liège est un tissu de nutrition et l'épiderme un tissu de soutien"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "324",
+    "question": "Dans quel parenchyme les cellules sont-elles rangées en palissade avec de très abondants chloroplastes ?",
+    "options": ["Le parenchyme chlorophyllien palissadique", "Le parenchyme de réserve aquifère", "Le parenchyme lacuneux", "Le méristème de croissance"],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "325",
+    "question": "Quelles sont les propriétés physiques des tissus de protection qui enveloppent les organes ?",
+    "options": ["Mous, perméables et riches en chlorophylle", "Résistants et imperméables, mais dotés de dispositifs autorisant les échanges", "Inertes, liquides et dissolvants", "Méristématiques et constamment en division"],
+    "reponsKorek": 1,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    [
+  {
+    "id": "326",
+    "question": "Chez les plantes supérieures, les cellules sont groupées en _____.",
+    "options": [
+      "tissus"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "327",
+    "question": "Un tissu est un ensemble de cellules agencées suivant un mode particulier, qui accomplit des fonctions _____.",
+    "options": [
+      "déterminées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "328",
+    "question": "Les tissus de croissance sont des _____.",
+    "options": [
+      "méristèmes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "329",
+    "question": "Les méristèmes donnent naissance aux autres _____.",
+    "options": [
+      "tissus"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "330",
+    "question": "Les tissus de nutrition sont les tissus essentiellement _____ des plantes.",
+    "options": [
+      "vivants"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "331",
+    "question": "Les tissus de nutrition sont appelés _____.",
+    "options": [
+      "parenchymes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "332",
+    "question": "Dans les cellules des tissus de nutrition, la membrane est _____.",
+    "options": [
+      "mince"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "333",
+    "question": "Le parenchyme chlorophyllien palissadique est formé de hautes cellules rangées en _____.",
+    "options": [
+      "palissade"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "334",
+    "question": "Dans le parenchyme palissadique, les chloroplastes y sont très _____.",
+    "options": [
+      "abondants"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "335",
+    "question": "Par transparence à travers l'épiderme, le parenchyme palissadique donne aux parties vertes leur _____.",
+    "options": [
+      "coloration"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "336",
+    "question": "Le parenchyme chlorophyllien lacuneux présente des _____ entre les cellules.",
+    "options": [
+      "lacunes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "337",
+    "question": "Les lacunes du parenchyme lacuneux sont des _____ entre les cellules.",
+    "options": [
+      "trous"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "338",
+    "question": "Le parenchyme lacuneux est toujours chlorophyllien dans les _____.",
+    "options": [
+      "feuilles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "339",
+    "question": "Les lacunes assurent la circulation des _____ dans les tissus.",
+    "options": [
+      "gaz"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "340",
+    "question": "Les chloroplastes sont _____ du parenchyme de réserve.",
+    "options": [
+      "absents"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "341",
+    "question": "Les tissus de réserve existent surtout dans les _____ , les graines et certaines tiges.",
+    "options": [
+      "racines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "342",
+    "question": "Les plantes grasses ont un parenchyme de réserve _____.",
+    "options": [
+      "aquifère"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "343",
+    "question": "Le parenchyme aquifère est composé de cellules à grandes vacuoles très riches en _____.",
+    "options": [
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "344",
+    "question": "Les tissus de protection enveloppent les organes et les protègent contre les agents _____.",
+    "options": [
+      "extérieurs"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "345",
+    "question": "Les tissus protecteurs les plus importants sont l'épiderme et le _____.",
+    "options": [
+      "liège"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "346",
+    "question": "L'épiderme est un tissu vivant, constitué d'une seule _____ de cellules.",
+    "options": [
+      "assise"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "347",
+    "question": "Les cellules de l'épiderme sont dépourvues de _____.",
+    "options": [
+      "chloroplastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "348",
+    "question": "La membrane de l'épiderme est épaissie et _____ sur la face externe.",
+    "options": [
+      "cutinisée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "349",
+    "question": "La cutinisation de la membrane externe rend l'épiderme _____.",
+    "options": [
+      "imperméable"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "350",
+    "question": "L'épiderme recouvre les feuilles, les jeunes tiges et les pièces _____.",
+    "options": [
+      "florales"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "351",
+    "question": "L'épiderme présente des perforations appelées _____.",
+    "options": [
+      "stomates"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "352",
+    "question": "Les stomates permettent des échanges entre la plante et l'_____.",
+    "options": [
+      "extérieur"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "353",
+    "question": "On distingue les stomates aérifères et les stomates _____.",
+    "options": [
+      "aquifères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "354",
+    "question": "Les échanges gazeux se font par les stomates _____.",
+    "options": [
+      "aérifères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "355",
+    "question": "Les cellules des tissus de nutrition sont généralement de grande _____.",
+    "options": [
+      "taille"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "356",
+    "question": "Dans les tissus de réserve, les cellules sont chargées de _____ accumulées par la plante.",
+    "options": [
+      "réserves"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "357",
+    "question": "Parmi les réserves accumulées par la plante figurent l'amidon, le sucre et l'_____.",
+    "options": [
+      "huile"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "358",
+    "question": "On distingue, suivant leurs fonctions, les tissus de croissance, de nutrition, de protection, de soutien, conducteurs et _____.",
+    "options": [
+      "sécréteurs"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "359",
+    "question": "Chez les plantes _____, les cellules sont groupées en _____.",
+    "options": [
+      "supérieures",
+      "tissus"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "360",
+    "question": "Un tissu est un ensemble de _____, d'une ou plusieurs espèces, qui accomplit des fonctions _____.",
+    "options": [
+      "cellules",
+      "déterminées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "361",
+    "question": "Les tissus de croissance sont des _____, qui donnent naissance aux autres _____.",
+    "options": [
+      "méristèmes",
+      "tissus"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "362",
+    "question": "Les tissus de nutrition sont les tissus essentiellement _____ des plantes, appelés _____.",
+    "options": [
+      "vivants",
+      "parenchymes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "363",
+    "question": "Dans les tissus de nutrition, les cellules sont généralement de grande _____, et leur membrane est _____.",
+    "options": [
+      "taille",
+      "mince"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "364",
+    "question": "Le parenchyme chlorophyllien palissadique est formé de hautes cellules régulièrement rangées en _____, où les chloroplastes sont très _____.",
+    "options": [
+      "palissade",
+      "abondants"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "365",
+    "question": "Le parenchyme palissadique donne aux parties vertes des plantes leur _____, par transparence à travers l'_____.",
+    "options": [
+      "coloration",
+      "épiderme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "366",
+    "question": "Le parenchyme lacuneux présente des _____, qui sont des _____ entre les cellules.",
+    "options": [
+      "lacunes",
+      "trous"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "367",
+    "question": "Le parenchyme lacuneux est toujours chlorophyllien dans les _____, mais peut être plus ou moins dépourvu de chloroplastes dans les _____.",
+    "options": [
+      "feuilles",
+      "tiges"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "368",
+    "question": "Dans le parenchyme lacuneux, les lacunes assurent la circulation des _____ dans les _____.",
+    "options": [
+      "gaz",
+      "tissus"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "369",
+    "question": "Dans le parenchyme de réserve, les chloroplastes sont _____, et les cellules sont chargées de _____.",
+    "options": [
+      "absents",
+      "réserves"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "370",
+    "question": "Les tissus de réserve accumulent notamment de l'_____ et du _____.",
+    "options": [
+      "amidon",
+      "sucre"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "371",
+    "question": "Les tissus de réserve existent surtout dans les _____ et dans les _____.",
+    "options": [
+      "racines",
+      "graines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "372",
+    "question": "Les plantes grasses possèdent un parenchyme de réserve _____, formé de cellules à grandes vacuoles très riches en _____.",
+    "options": [
+      "aquifère",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "373",
+    "question": "Les tissus de protection enveloppent les _____ et les protègent contre les agents _____.",
+    "options": [
+      "organes",
+      "extérieurs"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "374",
+    "question": "Résistants et _____, les tissus de protection permettent néanmoins les échanges de gaz et d'_____.",
+    "options": [
+      "imperméables",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "375",
+    "question": "Les deux tissus protecteurs les plus importants sont l'_____ et le _____.",
+    "options": [
+      "épiderme",
+      "liège"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "376",
+    "question": "L'épiderme est constitué d'une seule _____ de cellules dépourvues de _____.",
+    "options": [
+      "assise",
+      "chloroplastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "377",
+    "question": "La membrane de l'épiderme, sur la face externe, est _____ et _____.",
+    "options": [
+      "épaissie",
+      "cutinisée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "378",
+    "question": "La membrane épidermique externe est cutinisée, ce qui la rend _____ et recouvre notamment les _____.",
+    "options": [
+      "imperméable",
+      "feuilles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "379",
+    "question": "L'épiderme recouvre les jeunes _____ et les pièces _____.",
+    "options": [
+      "tiges",
+      "florales"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "380",
+    "question": "L'épiderme présente des perforations appelées _____, qui permettent des échanges entre la plante et l'_____.",
+    "options": [
+      "stomates",
+      "extérieur"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "381",
+    "question": "Parmi les stomates, on distingue les stomates _____ et les stomates _____.",
+    "options": [
+      "aérifères",
+      "aquifères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "382",
+    "question": "Les échanges _____ de la plante se font par les stomates _____.",
+    "options": [
+      "gazeux",
+      "aérifères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "383",
+    "question": "On distingue, suivant leurs fonctions, les tissus de _____ et les tissus de _____.",
+    "options": [
+      "croissance",
+      "nutrition"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "384",
+    "question": "On distingue également les tissus de _____, de soutien, les tissus _____ et les tissus sécréteurs.",
+    "options": [
+      "protection",
+      "conducteurs"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "385",
+    "question": "Dans les parenchymes, c'est dans les cellules que s'accomplissent les phénomènes _____ résultant de l'activité du _____.",
+    "options": [
+      "chimiques",
+      "cytoplasme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "386",
+    "question": "L'activité du cytoplasme s'accompagne de celle de ses _____ _____.",
+    "options": [
+      "inclusions",
+      "vivantes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "387",
+    "question": "La forme des cellules des tissus de nutrition est plus ou moins _____ et de grande _____.",
+    "options": [
+      "régulière",
+      "taille"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "388",
+    "question": "Le parenchyme lacuneux caractérise le tissu des _____ et le tissu de certaines _____.",
+    "options": [
+      "feuilles",
+      "tiges"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "389",
+    "question": "Dans le parenchyme de réserve, la plante accumule de l'amidon, du sucre et de l'_____ dans les _____.",
+    "options": [
+      "huile",
+      "racines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "390",
+    "question": "Les dispositifs des tissus de protection rendent possibles les échanges entre l'_____ et la _____.",
+    "options": [
+      "atmosphère",
+      "plante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "391",
+    "question": "L'épiderme est qualifié de tissu _____, formé de cellules sans _____.",
+    "options": [
+      "vivant",
+      "chloroplastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "392",
+    "question": "Chez les plantes _____, un tissu est un ensemble de cellules agencées suivant un mode _____, qui accomplit des fonctions _____.",
+    "options": [
+      "supérieures",
+      "particulier",
+      "déterminées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "393",
+    "question": "Suivant leurs fonctions, on distingue les tissus de _____, de _____ et de _____.",
+    "options": [
+      "croissance",
+      "nutrition",
+      "protection"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "394",
+    "question": "On distingue aussi les tissus de _____, les tissus _____ et les tissus _____.",
+    "options": [
+      "soutien",
+      "conducteurs",
+      "sécréteurs"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "395",
+    "question": "Les tissus de croissance sont des _____, qui donnent _____ aux autres _____.",
+    "options": [
+      "méristèmes",
+      "naissance",
+      "tissus"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "396",
+    "question": "Les tissus de nutrition sont les tissus essentiellement _____ des plantes, appelés _____, où s'accomplissent des phénomènes _____.",
+    "options": [
+      "vivants",
+      "parenchymes",
+      "chimiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "397",
+    "question": "Dans les tissus de nutrition, les phénomènes chimiques résultent de l'activité du _____, de ses inclusions _____, et les cellules ont une membrane _____.",
+    "options": [
+      "cytoplasme",
+      "vivantes",
+      "mince"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "398",
+    "question": "Le parenchyme chlorophyllien palissadique est formé de _____ cellules rangées en _____, avec de très abondants _____.",
+    "options": [
+      "hautes",
+      "palissade",
+      "chloroplastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "399",
+    "question": "Le parenchyme palissadique donne aux parties _____ leur coloration, par transparence à travers l'_____, grâce à ses _____.",
+    "options": [
+      "vertes",
+      "épiderme",
+      "chloroplastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "400",
+    "question": "Le parenchyme lacuneux caractérise le tissu des _____ et de certaines _____, en présentant des _____ entre les cellules.",
+    "options": [
+      "feuilles",
+      "tiges",
+      "lacunes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "401",
+    "question": "Le parenchyme lacuneux est toujours _____ dans les feuilles, mais peut être dépourvu de chloroplastes dans les _____, tandis que les lacunes assurent la circulation des _____.",
+    "options": [
+      "chlorophyllien",
+      "tiges",
+      "gaz"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "402",
+    "question": "Dans le parenchyme de réserve, les chloroplastes sont _____, et les cellules sont chargées d'_____, de _____ et d'huile.",
+    "options": [
+      "absents",
+      "amidon",
+      "sucre"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "403",
+    "question": "Les tissus de réserve existent surtout dans les _____, les _____ et certaines _____.",
+    "options": [
+      "racines",
+      "graines",
+      "tiges"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "404",
+    "question": "Les plantes _____ possèdent un parenchyme de réserve _____, composé de cellules à grandes vacuoles riches en _____.",
+    "options": [
+      "grasses",
+      "aquifère",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "405",
+    "question": "Les tissus de protection enveloppent les _____, les protègent contre les agents _____, et sont résistants et _____.",
+    "options": [
+      "organes",
+      "extérieurs",
+      "imperméables"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "406",
+    "question": "Les tissus de protection possèdent des dispositifs rendant possibles les échanges de _____ et d'_____ entre l'atmosphère et la _____.",
+    "options": [
+      "gaz",
+      "eau",
+      "plante"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "407",
+    "question": "Les deux tissus protecteurs les plus importants sont l'_____, le _____, et l'épiderme est un tissu _____.",
+    "options": [
+      "épiderme",
+      "liège",
+      "vivant"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "408",
+    "question": "L'épiderme est constitué d'une seule _____ de cellules sans _____, dont la membrane externe est _____.",
+    "options": [
+      "assise",
+      "chloroplastes",
+      "cutinisée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "409",
+    "question": "La membrane externe de l'épiderme est _____ et cutinisée, ce qui la rend _____ pour recouvrir les _____.",
+    "options": [
+      "épaissie",
+      "imperméable",
+      "feuilles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "410",
+    "question": "L'épiderme recouvre les _____, les jeunes _____ et les pièces _____.",
+    "options": [
+      "feuilles",
+      "tiges",
+      "florales"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "411",
+    "question": "L'épiderme présente des perforations appelées _____, permettant des échanges entre la _____ et l'_____.",
+    "options": [
+      "stomates",
+      "plante",
+      "extérieur"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "412",
+    "question": "On distingue deux types de stomates : les stomates _____ et les stomates _____, les premiers assurant les échanges _____.",
+    "options": [
+      "aérifères",
+      "aquifères",
+      "gazeux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "413",
+    "question": "Les cellules des parenchymes sont de grande _____, de forme plus ou moins _____, avec une membrane _____.",
+    "options": [
+      "taille",
+      "régulière",
+      "mince"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "414",
+    "question": "Les tissus de nutrition accomplissent des phénomènes _____ liés à l'activité du _____ et à ses inclusions _____.",
+    "options": [
+      "chimiques",
+      "cytoplasme",
+      "vivantes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "415",
+    "question": "Le parenchyme chlorophyllien palissadique possède de hautes cellules rangées en _____, avec de nombreux _____ pour donner la _____ aux parties vertes.",
+    "options": [
+      "palissade",
+      "chloroplastes",
+      "coloration"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "416",
+    "question": "Le parenchyme lacuneux présente des _____, appelées _____, qui servent à la circulation des _____.",
+    "options": [
+      "lacunes",
+      "trous",
+      "gaz"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "417",
+    "question": "Le parenchyme de réserve manque de _____, mais accumule des réserves comme l'_____, le sucre et l'_____.",
+    "options": [
+      "chloroplastes",
+      "amidon",
+      "huile"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "418",
+    "question": "Chez les plantes grasses, le parenchyme _____ comporte de grandes _____ très riches en _____.",
+    "options": [
+      "aquifère",
+      "vacuoles",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "419",
+    "question": "L'épiderme est formé d'une _____ de cellules dépourvues de _____, avec une membrane externe _____.",
+    "options": [
+      "assise",
+      "chloroplastes",
+      "cutinisée"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "420",
+    "question": "Pour la protection, les tissus sont _____ et imperméables, mais permettent les échanges de _____ et d'_____ grâce aux stomates.",
+    "options": [
+      "résistants",
+      "gaz",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "421",
+    "question": "Les stomates sont des _____ épidermiques divisés en stomates _____ et stomates _____.",
+    "options": [
+      "perforations",
+      "aérifères",
+      "aquifères"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "422",
+    "question": "Les échanges gazeux s'effectuent par les stomates _____, situés sur l'_____, un tissu de _____.",
+    "options": [
+      "aérifères",
+      "épiderme",
+      "protection"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "423",
+    "question": "Les méristèmes sont des tissus de _____, qui donnent _____ aux autres _____ de la plante.",
+    "options": [
+      "croissance",
+      "naissance",
+      "tissus"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "424",
+    "question": "Un tissu est un ensemble de _____, d'une ou plusieurs _____, accomplissant des fonctions _____.",
+    "options": [
+      "cellules",
+      "espèces",
+      "déterminées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 8",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  }
+],
+  "Page 9": [
+    {
+    "id": "425",
+    "question": "Quelle est la forme des deux cellules qui composent un stomate aérifère vu de face ?",
+    "options": ["En forme de haricot", "En forme de sphère", "En forme d'étoile", "En forme de cube"],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "426",
+    "question": "Comment appelle-t-on l'orifice limité par la concavité des cellules stomatiques ?",
+    "options": ["Le méat", "L'ostiole", "La lenticelle", "La crypte"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "427",
+    "question": "Dans quel milieu les stomates aérifères se ferment-ils ?",
+    "options": ["Un milieu très humide", "Un milieu sec", "Un milieu aquatique", "Un milieu éclairé"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "428",
+    "question": "Dans quelle condition de luminosité les stomates sont-ils ouverts ?",
+    "options": ["À l'obscurité totale", "À la lumière", "À la mi-ombre", "Uniquement la nuit"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "429",
+    "question": "Comment s'appellent les dépressions de l'épiderme abritant les stomates du Laurier-rose ?",
+    "options": ["Des vacuoles", "Des cryptes stomatiques", "Des ostioles", "Des lenticelles"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "430",
+    "question": "Quel est l'autre nom donné au rejet d'eau à l'état liquide par guttation ?",
+    "options": ["La respiration", "La sudation", "La transpiration", "La photosynthèse"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "431",
+    "question": "Quel type de tissu remplit la chambre sous-stomatique des stomates aquifères ?",
+    "options": ["Un tissu de soutien", "Un tissu aquifère", "Un tissu conducteur", "Un tissu mort"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "432",
+    "question": "De quoi sont remplies les cellules du liège, ce qui explique leur légèreté ?",
+    "options": ["D'eau", "D'air", "De résine", "De sucre"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "433",
+    "question": "De quelle substance imperméable la membrane des cellules du liège est-elle imprégnée ?",
+    "options": ["La cellulose", "La subérine", "La lignine", "L'amidon"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "434",
+    "question": "Quel est l'autre nom synonyme du liège ?",
+    "options": ["Le collenchyme", "Le suber", "Le sclérenchyme", "Le parenchyme"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "435",
+    "question": "Quel est l'état de vitalité du liège ?",
+    "options": ["Un tissu vivant", "Un tissu mort", "Un tissu embryonnaire", "Un tissu en division constant"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "436",
+    "question": "Quelle est la forme des orifices du liège appelés lenticelles ?",
+    "options": ["En forme de cercle parfait", "En forme de boutonnière", "En forme de triangle", "En forme d'étoile"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "437",
+    "question": "Quelle est la forme des cellules qui forment les lenticelles ?",
+    "options": ["Rectangulaires", "Arrondies", "Effilées", "Cubiques"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "438",
+    "question": "Quels sont les deux principaux tissus de soutien chez les plantes ?",
+    "options": ["Le suber et l'épiderme", "Le collenchyme et le sclérenchyme", "Le xylème et le phloème", "Le parenchyme et le liège"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "439",
+    "question": "Quel rôle général jouent les tissus de soutien chez la plante ?",
+    "options": ["La photosynthèse", "Ils forment le squelette de la plante", "L'absorption d'eau racinaire", "La fabrication de graines"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "440",
+    "question": "Le collenchyme est-il un tissu vivant ou mort ?",
+    "options": ["Un tissu mort", "Un tissu vivant", "Un tissu minéralisé", "Un tissu acellulaire"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "441",
+    "question": "De quelle matière pure sont composées les parois épaissies des cellules du collenchyme ?",
+    "options": ["La subérine", "La cellulose pure", "La lignine", "La silice"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "442",
+    "question": "Où se situe principalement l'épaississement de la paroi dans les cellules du collenchyme ?",
+    "options": ["Au centre de la cellule", "Aux angles des cellules", "Sur la face externe uniquement", "Au niveau du noyau"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "443",
+    "question": "Dans quel type de tiges retrouve-t-on le collenchyme ?",
+    "options": ["Les tiges très anciennes", "Les tiges herbacées", "Les troncs centenaires", "Les racines mortes"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "444",
+    "question": "Le sclérenchyme est-il un tissu vivant ou mort ?",
+    "options": ["Un tissu vivant", "Un tissu mort", "Un tissu conducteur d'eau", "Un tissu reproducteur"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "445",
+    "question": "Quelle substance produite par le cytoplasme caractérise les cellules du sclérenchyme ?",
+    "options": ["La subérine", "La lignine", "La chlorophylle", "L'amidon"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "446",
+    "question": "Où se dépose la lignine dans les cellules du sclérenchyme ?",
+    "options": ["À l'extérieur de la cellule", "Sur la face interne de la membrane", "Au centre de la vacuole", "Dans les chloroplastes"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "447",
+    "question": "De quel tissu sont surtout formés les noyaux de fruits et coques de noix ?",
+    "options": ["Du collenchyme", "Du sclérenchyme", "Du liège", "Du parenchyme"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "448",
+    "question": "Quelle est la forme caractéristique des fibres de sclérenchyme ?",
+    "options": ["Courtes et arrondies", "Très longues, effilées aux deux bouts", "Cubiques et plates", "Sphériques et creuses"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "449",
+    "question": "Dans quel tissu végétal rencontre-t-on des fibres de sclérenchyme ?",
+    "options": ["L'épiderme", "Le bois ou tissu ligneux", "Le parenchyme palissadique", "Les stomates"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "450",
+    "question": "Laquelle de ces plantes est citée comme fournissant des fibres textiles faites de sclérenchyme ?",
+    "options": ["Le Laurier-rose", "Le Chanvre", "Le Chêne", "Le Pin"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "451",
+    "question": "Quelles qualités les tissus de soutien donnent-ils à la plante ?",
+    "options": ["Transparence et souplesse totale", "Rigidité et solidité", "Élasticité et imperméabilité", "Coloration verte et brillance"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "452",
+    "question": "Que contiennent les cellules stomatiques des stomates aérifères ?",
+    "options": ["De la subérine", "Des chloroplastes", "De la lignine", "De l'air uniquement"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "453",
+    "question": "Quels vaisseaux se terminent dans la chambre sous-stomatique des stomates aquifères ?",
+    "options": ["Des vaisseaux lactifères", "Des vaisseaux ligneux spiralés", "Des vaisseaux épidermiques", "Des fibres de jute"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "454",
+    "question": "Que recouvre le liège sur les arbres après la chute des feuilles ?",
+    "options": ["Les racines jeunes", "Les cicatrices", "Les fleurs", "Les stomates aquifères"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "455",
+    "question": "Que laissent entre elles les cellules arrondies des lenticelles ?",
+    "options": ["Des vacuoles", "De nombreux méats", "Des chloroplastes", "Des aiguilles de silice"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "456",
+    "question": "Sous quel état physique l'eau est-elle rejetée par les stomates aquifères ?",
+    "options": ["À l'état gazeux", "À l'état liquide", "À l'état solide", "Sous forme de glace"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "457",
+    "question": "Quel tissu de soutien est décrit comme étant à la fois ferme et souple ?",
+    "options": ["Le sclérenchyme", "Le collenchyme", "Le liège", "Le suber"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "458",
+    "question": "Que se passe-t-il lorsque les cellules stomatiques deviennent turgescentes ?",
+    "options": ["L'ostiole se ferme complètement", "La paroi mince se dilate plus que la paroi épaisse, ce qui ouvre l'ostiole", "La cellule se brise", "Les chloroplastes disparaissent"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "459",
+    "question": "Comment réagit l'ostiole lorsque les cellules stomatiques sont plasmolysées ?",
+    "options": ["Il s'ouvre davantage", "Il se ferme par un mécanisme inverse", "Il se transforme en lenticelle", "Il sécrète de la subérine"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "460",
+    "question": "Quelle est la structure des parois des cellules stomatiques d'un stomate aérifère ?",
+    "options": ["Les parois convexes sont épaisses et les concaves sont minces", "Les parois convexes sont minces et les parois concaves sont épaisses", "Toutes les parois sont uniformément épaisses", "Toutes les parois sont totalement lignifiées"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "461",
+    "question": "Dans quelle condition atmosphérique le rejet d'eau par guttation se produit-il ?",
+    "options": ["Dans une atmosphère très sèche", "Dans une atmosphère saturée d'humidité", "Dans un air glacé", "Uniquement sous un vent violent"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "462",
+    "question": "Quels organes des arbres sont protégés par le liège ou suber ?",
+    "options": ["Les fleurs et les fruits uniquement", "Les troncs, les branches et les racines", "Les feuilles vertes et les graines", "Les ostioles et les vacuoles"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "463",
+    "question": "Comment sont disposées les cellules rectangulaires du liège ?",
+    "options": ["En cercle concentrique", "En files radiales", "En spirale désordonnée", "En palissade verticale"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "464",
+    "question": "Quelle est la fonction principale des lenticelles dans le liège ?",
+    "options": ["Permettre l'absorption d'engrais", "Permettre les échanges gazeux", "Produire de la chlorophylle", "Stocker de la matière grasse"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "465",
+    "question": "Que permettent de faire circuler les méats situés entre les cellules des lenticelles ?",
+    "options": ["La sève élaborée uniquement", "Gaz et vapeur d'eau", "La lignine et la subérine", "Les chloroplastes"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "466",
+    "question": "Quelle est la principale différence de vitalité entre le collenchyme et le sclérenchyme ?",
+    "options": ["Le collenchyme est mort et le sclérenchyme est vivant", "Le collenchyme est vivant et le sclérenchyme est mort", "Les deux sont des tissus morts", "Les deux sont des tissus embryonnaires"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "467",
+    "question": "Pourquoi les fibres textiles (Pite, Jute, Chanvre) conservent-elles une certaine souplesse ?",
+    "options": ["Elles ne contiennent aucune lignine", "Leur lignification n'est pas assez forte pour leur enlever toute souplesse", "Elles sont formées uniquement d'eau", "Elles sont riches en subérine"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "468",
+    "question": "Où s'ouvre l'ostiole d'un stomate aérifère ?",
+    "options": ["Directement dans le liège", "Sur une cavité appelée chambre sous-stomatique", "Dans une fibre de sclérenchyme", "Dans le xylème"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "469",
+    "question": "De quoi sont tapissées les cryptes stomatiques chez le Laurier-rose ?",
+    "options": ["De résine", "De poils", "De cire", "De cristaux"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "470",
+    "question": "Quelle caractéristique confère la subérine aux membranes des cellules du liège ?",
+    "options": ["Elle les rend transparentes", "Elle les rend très imperméables", "Elle les rend très élastiques", "Elle les rend vertes"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "471",
+    "question": "Quelles conditions environnementales favorisent l'ouverture des stomates aérifères ?",
+    "options": ["L'obscurité et le milieu sec", "La lumière et un milieu humide", "Le froid intense et l'ombre", "La nuit et un milieu sec"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "472",
+    "question": "Quel type de tissu est le liège du point de vue de son ordre d'apparition ?",
+    "options": ["Un tissu primaire", "Un tissu secondaire", "Un tissu embryonnaire", "Un tissu de croissance"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "473",
+    "question": "Quels éléments composent la chambre sous-stomatique d'un stomate aquifère ?",
+    "options": ["Elle est vide de tout tissu", "Elle est remplie d'un tissu aquifère où se terminent des vaisseaux ligneux spiralés", "Elle est remplie d'air et de subérine", "Elle est remplie de fibres de jute"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "474",
+    "question": "Pourquoi le liège possède-t-il la propriété d'être très léger ?",
+    "options": ["Parce qu'il est gorgé d'eau", "Parce que ses cellules sont pleines d'air", "Parce qu'il contient beaucoup de sucre", "Parce qu'il manque de membrane"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "475",
+    "question": "Quelle est la différence au niveau des parois entre le collenchyme et le sclérenchyme ?",
+    "options": ["Le collenchyme a de la subérine, le sclérenchyme de la cellulose", "Le collenchyme a des parois épaissies en cellulose pure aux angles, le sclérenchyme possède des dépôts de lignine", "Le collenchyme n'a pas de paroi", "Le sclérenchyme est formé de parois minces sans dépôt"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "476",
+    "question": "De quoi sont surtout constituées les épines des plantes ?",
+    "options": ["De collenchyme souple", "De sclérenchyme fortement lignifié", "De liège plein d'air", "De stomates aquifères"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "477",
+    "question": "Quels éléments composent la structure de face d'un stomate aérifère ?",
+    "options": ["Deux cellules rectangulaires sans chloroplastes", "Deux cellules en forme de haricot avec chloroplastes limitant l'ostiole", "Une seule cellule sphérique", "Trois cellules sans orifice"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "478",
+    "question": "Comment se comportent les parois convexes des cellules stomatiques par rapport aux parois concaves ?",
+    "options": ["Les parois convexes sont plus épaisses", "Les parois convexes sont minces tandis que les concaves sont épaisses", "Elles sont d'égale épaisseur", "Les parois concaves n'existent pas"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "479",
+    "question": "Qu'entraîne la plasmolyse des cellules stomatiques sur l'ostiole ?",
+    "options": ["L'ouverture de l'ostiole", "La fermeture de l'ostiole", "L'agrandissement de la chambre", "La destruction de l'ostiole"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "480",
+    "question": "Où sont localisés les stomates chez le Laurier-rose pour s'adapter à leur milieu ?",
+    "options": ["À la surface supérieure des feuilles", "Au fond de dépressions épidermiques appelées cryptes stomatiques", "Uniquement sur les racines", "Dans le bois secondaire"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "481",
+    "question": "Quel terme technique désigne le rejet d'eau liquide par les stomates aquifères ?",
+    "options": ["La photosynthèse", "La guttation (ou sudation)", "La suberification", "La lignification"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "482",
+    "question": "Pourquoi le liège constitue-t-il une protection efficace sur les cicatrices d'arbres ?",
+    "options": ["Parce qu'il est vivant et se divise vite", "Parce que sa membrane est fortement imprégnée de subérine très imperméable", "Parce qu'il contient beaucoup de chloroplastes", "Parce qu'il attire l'eau liquide"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "483",
+    "question": "Quelles sont les propriétés mécaniques du collenchyme ?",
+    "options": ["Rigide et cassant", "Ferme, mais souple", "Très fluide et mou", "Totalement imperméable et dur"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "484",
+    "question": "Que devient le cytoplasme des cellules du sclérenchyme après avoir produit de la lignine ?",
+    "options": ["Il se divise à l'infini", "Les cellules meurent", "Il se transforme en subérine", "Il fabrique des chloroplastes"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "485",
+    "question": "Quelles sont les trois plantes citées comme exemples de fibres textiles faites de sclérenchyme ?",
+    "options": ["Laurier-rose, Chêne, Pin", "Pite, Jute, Chanvre", "Coton, Blé, Riz", "Maïs, Soja, Bambou"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "486",
+    "question": "Où trouve-t-on des fibres de sclérenchyme sous forme de cellules très longues et effilées ?",
+    "options": ["Dans les stomates aquifères", "Dans le bois ou tissu ligneux", "Dans le collenchyme des jeunes tiges", "Dans le parenchyme de réserve"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "487",
+    "question": "Quelle est la forme géométrique des cellules qui constituent le liège ?",
+    "options": ["Arrondies", "Rectangulaires", "Triangulaires", "Effilées aux deux bouts"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "488",
+    "question": "Où trouve-t-on le collenchyme de manière privilégiée dans le végétal ?",
+    "options": ["Dans le bois adulte uniquement", "Dans toutes les jeunes plantes et les tiges herbacées", "Dans les coques de noix", "Au fond des cryptes stomatiques"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "489",
+    "question": "Quelle est la différence de rôle fondamentale entre stomates aérifères et stomates aquifères ?",
+    "options": ["Les aérifères rejettent de la subérine, les aquifères de la lignine", "Les aérifères régulent les gaz et l'eau sous forme de vapeur, les aquifères rejettent l'eau liquide", "Les aérifères sont dans le bois, les aquifères dans les racines", "Les aérifères sont morts, les aquifères sont vivants"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "490",
+    "question": "Comment la lignine se dépose-t-elle dans les cellules du sclérenchyme ?",
+    "options": ["De manière désordonnée au centre de la cellule", "En couches successives sur la face interne de la membrane", "En une seule couche sur la face externe", "Dans les chloroplastes uniquement"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "491",
+    "question": "Concernant le mécanisme d'ouverture de l'ostiole, quelle proposition est exacte ?",
+    "options": ["La paroi épaisse se dilate plus que la paroi mince", "La turgescence fait dilater la paroi mince convexe plus que la paroi épaisse concave", "La plasmolyse provoque l'ouverture immédiate de l'ostiole", "La dilatation des chloroplastes bloque l'ostiole"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "492",
+    "question": "Quels facteurs conjugués provoquent la FERMETURE des stomates aérifères ?",
+    "options": ["La lumière et un milieu humide", "L'obscurité et un milieu sec", "La lumière et une atmosphère saturée", "La chaleur et une forte turgescence"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "493",
+    "question": "Quelle association de caractéristiques définit spécifiquement le stomate aquifère ?",
+    "options": ["Cryptes avec poils et absence de chambre", "Chambre sous-stomatique avec tissu aquifère et terminaisons de vaisseaux ligneux spiralés", "Cellules rectangulaires imbibées de subérine", "Cellules mortes très lignifiées"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "494",
+    "question": "Quelle est la structure exacte permettant la circulation gazeuse dans le liège ?",
+    "options": ["Des ostioles en forme de haricot", "Des lenticelles composées de cellules arrondies laissant entre elles de nombreux méats", "Des cryptes stomatiques à poils", "Des vaisseaux ligneux spiralés"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "495",
+    "question": "Parmi les combinaisons suivantes, laquelle résume parfaitement le collenchyme ?",
+    "options": ["Tissu mort / lignine / rigide / coques de noix", "Tissu vivant / cellulose pure aux angles / ferme et souple / jeunes plantes", "Tissu secondaire / subérine / imperméable / files radiales", "Tissu conducteur / liquide / ostiole / méats"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "496",
+    "question": "Parmi les combinaisons suivantes, laquelle résume parfaitement le sclérenchyme ?",
+    "options": ["Tissu vivant / cellules rectangulaires / subérine", "Tissu mort / lignine en couches successives / fibres ou cellules dures / rigidité", "Tissu vivant / cellulose aux angles / jeune tige", "Tissu protecteur / cellules en haricot / chloroplastes"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "497",
+    "question": "Si l'on compare le liège et le collenchyme, quelle affirmation est vraie ?",
+    "options": ["Le liège est vivant et le collenchyme est mort", "Le liège est un tissu mort imprégné de subérine, tandis que le collenchyme est un tissu vivant cellulosique", "Les deux tissus contiennent des chloroplastes en abondance", "Les deux sont des tissus de soutien primaire"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "498",
+    "question": "Comment la structure du Laurier-rose adapte-t-elle ses stomates au milieu ?",
+    "options": ["En les transformant en stomates aquifères", "En les plaçant au fond de cryptes stomatiques de l'épiderme tapissées de poils", "En supprimant complètement l'ostiole", "En remplaçant l'épiderme par des fibres de chanvre"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "499",
+    "question": "Pourquoi les coques de noix et noyaux de fruits possèdent-ils une dureté remarquable ?",
+    "options": ["Ils sont constitués de subérine très concentrée", "Ils sont surtout formés de sclérenchyme fortement lignifié", "Ils sont faits de cellules vivantes turgescentes", "Ils sont constitués de collenchyme pur"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "500",
+    "question": "Quel est le rôle des vaisseaux ligneux spiralés arrivant dans la chambre du stomate aquifère ?",
+    "options": ["Apporter de l'air aux lenticelles", "Acheminer l'eau destinée à être rejetée à l'état liquide", "Fabriquer de la subérine pour fermer l'orifice", "Produire de la cellulose pure aux angles"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "501",
+    "question": "Quelle nuance existe-t-il entre la subérification du liège et la lignification du sclérenchyme ?",
+    "options": ["La subérification rend les cellules vivantes, la lignification les tue", "La subérification rend les membranes très imperméables et légères (air), la lignification se dépose en couches internes apportant la rigidité mécanique", "La subérine contient des chloroplastes, la lignine n'en contient pas", "Il n'y a aucune différence, ce sont deux termes pour la cellulose"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "502",
+    "question": "Quelle séquence d'événements explique la fermeture de l'ostiole ?",
+    "options": ["Turgescence -> dilatation de la paroi mince -> fermeture", "Plasmolyse des cellules stomatiques -> mécanisme inverse de contraction -> fermeture de l'ostiole", "Dépôt de subérine -> colmatage de la cavité -> fermeture", "Lumière intense -> gonflement des chloroplastes -> fermeture"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "503",
+    "question": "Quelle affirmation décrit exactement la morphologie des fibres de sclérenchyme ?",
+    "options": ["Cellules rectangulaires disposées en files radiales", "Cellules très longues, effilées aux deux bouts", "Cellules en forme de haricot contenant des chloroplastes", "Cellules arrondies séparées par des méats"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "504",
+    "question": "Quel processus d'évacuation d'eau privilégie la plante en atmosphère saturée d'humidité ?",
+    "options": ["L'évaporation stomatique classique par les lenticelles", "Le rejet d'eau liquide par guttation (sudation) via les stomates aquifères", "La résorption racinaire", "La transformation d'eau en subérine"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "505",
+    "question": "Quel tissu protecteur secondaire est formé de cellules mortes rectangulaires, remplies d'air et imprégnées de subérine ?",
+    "options": ["Le collenchyme", "Le liège (ou suber)", "Le sclérenchyme", "Le parenchyme aquifère"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "506",
+    "question": "Quel tissu de soutien offre à la fois la solidité nécessaire et la flexibilité pour permettre la croissance des jeunes tiges ?",
+    "options": ["Le sclérenchyme lignifié", "Le collenchyme", "Le liège imperméable", "Les fibres de bois"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "507",
+    "question": "Que traversent le gaz et la vapeur d'eau pour circuler à travers le liège ?",
+    "options": ["Les ostioles des cellules en haricot", "Les méats ménagés entre les cellules arrondies des lenticelles", "Les parois lignifiées du sclérenchyme", "Les cryptes tapissées de poils"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "508",
+    "question": "Comment la différence d'épaisseur entre paroi concave et paroi convexe agit-elle lors de la turgescence stomatique ?",
+    "options": ["La paroi convexe mince se dilate plus, ce qui tire et ouvre l'ostiole bordé par la paroi concave épaisse", "La paroi concave épaisse se dilate plus, ce qui écrase l'ostiole", "Les deux parois se dilatent de la même façon, empêchant tout mouvement", "La paroi concave se rompt pour laisser passer les gaz"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "509",
+    "question": "Dans laquelle de ces situations le liège intervient-il comme structure protectrice ?",
+    "options": ["Dans l'ouverture quotidienne de l'ostiole à la lumière", "Sur les cicatrices après la chute des feuilles ou après des blessures", "Pour assurer la photosynthèse dans le parenchyme", "Dans la guttation des jeunes pousses"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "510",
+    "question": "Où la lignine produite par le cytoplasme se dépose-t-elle précisément au cours de la formation du sclérenchyme ?",
+    "options": ["Sur la face externe de la membrane plasmique", "En couches successives sur la face interne de la membrane", "Au centre de la cavité sous-stomatique", "Dans les vacuoles des cellules vivantes"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "511",
+    "question": "Outre les noyaux de fruits et coques de noix, quelle autre structure végétale est formée de sclérenchyme fortement lignifié ?",
+    "options": ["Les ostioles", "Les épines", "Les lenticelles", "Les stomates aquifères"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "512",
+    "question": "Quelle est la principale fonction protectrice du suber sur le tronc et les branches des arbres ?",
+    "options": ["Produire des nutriments par photosynthèse", "Protéger contre les agressions et recouvrir les cicatrices ou blessures grâce à sa subérine imperméable", "Permettre la sortie d'eau liquide par guttation", "Assurer l'élongation rapide des tiges herbacées"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "513",
+    "question": "Qu'est-ce qui distingue la chambre sous-stomatique d'un stomate aérifère de celle d'un stomate aquifère ?",
+    "options": ["Celle de l'aérifère est remplie d'air simple, celle de l'aquifère est remplie de tissu aquifère et de vaisseaux ligneux spiralés", "Celle de l'aérifère est bordée de subérine, celle de l'aquifère de cellulose", "Celle de l'aérifère contient des graines, celle de l'aquifère des fleurs", "Elles sont en tout point identiques"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "514",
+    "question": "Sous quelles conditions combinées observe-t-on l'OUVERTURE maximale des stomates aérifères ?",
+    "options": ["À l'obscurité et en milieu sec", "À la lumière et dans un milieu humide", "À la lumière et en milieu extrêmement sec", "À l'obscurité et en milieu saturé"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "515",
+    "question": "Pourquoi dit-on que les lenticelles sont indispensables au niveau du liège ?",
+    "options": ["Car le liège étant très imperméable par sa subérine, il a besoin d'orifices pour laisser circuler gaz et vapeur d'eau", "Car elles permettent la fabrication de chloroplastes dans le bois", "Car elles empêchent les blessures de se former", "Car elles absorbent la lignine exfiltrée"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "516",
+    "question": "Quelle caractéristique permet d'utiliser le Chanvre, la Pite ou le Jute comme fibres textiles ?",
+    "options": ["Elles sont constituées de cellules stomatiques turgescentes", "Leur lignification n'est pas assez forte pour leur enlever toute souplesse", "Elles sont totalement constituées de cellulose pure sans aucune lignine", "Elles sont faites de subérine élastique"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "517",
+    "question": "Comment s'organisent les cellules qui forment le tissu secondaire appelé liège ?",
+    "options": ["Elles sont vivantes et dispersées au hasard", "Elles sont rectangulaires et disposées en files radiales", "Elles sont en forme de haricot rangées en palissade", "Elles sont sphériques et remplies de chlorophylle"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "518",
+    "question": "Où se trouve localisé de façon préférentielle l'épaississement cellulosique dans les cellules du collenchyme ?",
+    "options": ["Sur la face interne uniquement", "Surtout aux angles des cellules", "Au niveau de l'ostiole", "Sur toute la membrane de manière parfaitement uniforme"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "519",
+    "question": "Quel processus biologique interne conduit à la mort des cellules du sclérenchyme ?",
+    "options": ["L'accumulation d'air à la place de l'eau", "La production massive et le dépôt de couches successives de lignine par le cytoplasme", "La perte des stomates aquifères", "L'imprégnation par la subérine externe"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "520",
+    "question": "Par quel mécanisme physique précis les variations d'eau dans les cellules stomatiques contrôlent-elles l'ostiole ?",
+    "options": ["L'inégale dilatation des parois minces convexes et épaisses concaves selon l'état de turgescence ou plasmolyse", "La contraction des fibres de sclérenchyme entourant l'orifice", "La pression de la subérine produite par la chambre sous-stomatique", "L'expulsion des chloroplastes hors de la cellule"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "521",
+    "question": "Quels sont les deux tissus assurant la fonction de « squelette de la plante » par apport de rigidité et solidité ?",
+    "options": ["Le suber et l'épiderme", "Le collenchyme et le sclérenchyme", "Le parenchyme aquifère et le parenchyme lacuneux", "Les stomates aérifères et aquifères"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "522",
+    "question": "Par quelle structure végétale s'effectue la guttation dans une atmosphère saturée d'humidité ?",
+    "options": ["Les lenticelles en boutonnière", "Les stomates aquifères", "Les cryptes stomatiques à poils", "Les fibres de sclérenchyme"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+  {
+    "id": "523",
+    "question": "Quelle présence d'organites organiques caractérise les cellules stomatiques d'un stomate aérifère ?",
+    "options": ["Elles contiennent des vacuoles de subérine", "Elles contiennent des chloroplastes", "Elles contiennent des cristaux de lignine pure", "Elles sont complètement dépourvues de contenu cellulaire"],
+    "reponsKorek": 1,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Quiz"
+  },
+    {
+    "id": "524",
+    "question": "Vu de face, un stomate aérifère se présente comme composé de deux cellules en forme de _____.",
+    "options": [
+      "Haricot"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "525",
+    "question": "Les cellules stomatiques contiennent des _____.",
+    "options": [
+      "chloroplastes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "526",
+    "question": "Les cavités des cellules stomatiques limitent un orifice, l'_____.",
+    "options": [
+      "ostiole"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "527",
+    "question": "L'ostiole s'ouvre sur une cavité appelée chambre _____.",
+    "options": [
+      "sous-stomatique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "528",
+    "question": "Les parois concaves des cellules stomatiques sont _____.",
+    "options": [
+      "épaisses"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "529",
+    "question": "Les parois convexes des cellules stomatiques sont _____.",
+    "options": [
+      "minces"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "530",
+    "question": "Quand les cellules deviennent turgescentes, la paroi mince se _____.",
+    "options": [
+      "dilate"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "531",
+    "question": "La dilatation de la paroi mince a pour effet d'ouvrir l'_____.",
+    "options": [
+      "ostiole"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "532",
+    "question": "Quand les cellules sont plasmolysées, l'ostiole se _____ par un mécanisme inverse.",
+    "options": [
+      "ferme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "533",
+    "question": "Les stomates sont fermés à l'_____.",
+    "options": [
+      "obscurité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "534",
+    "question": "Les stomates sont ouverts à la _____.",
+    "options": [
+      "lumière"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "535",
+    "question": "Dans un milieu sec, les stomates sont _____.",
+    "options": [
+      "fermés"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "536",
+    "question": "Dans un milieu humide, les stomates sont _____.",
+    "options": [
+      "ouverts"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "537",
+    "question": "Les cryptes stomatiques du Laurier-rose sont tapissées de _____.",
+    "options": [
+      "poils"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "538",
+    "question": "Les stomates aquifères servent au rejet de l'eau à l'état _____.",
+    "options": [
+      "liquide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "539",
+    "question": "Le rejet de l'eau liquide par guttation est aussi appelé _____.",
+    "options": [
+      "sudation"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "540",
+    "question": "La guttation s'effectue dans une atmosphère saturée d'_____.",
+    "options": [
+      "humidité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "541",
+    "question": "Dans la chambre sous-stomatique du stomate aquifère se terminent quelques vaisseaux ligneux _____.",
+    "options": [
+      "spiralés"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "542",
+    "question": "Le liège est un tissu _____.",
+    "options": [
+      "mort"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "543",
+    "question": "Le liège est formé de cellules pleines d'_____, d'où leur légèreté.",
+    "options": [
+      "air"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "544",
+    "question": "La membrane des cellules du liège est fortement imprégnée de _____.",
+    "options": [
+      "subérine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "545",
+    "question": "Le liège est aussi appelé _____.",
+    "options": [
+      "suber"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "546",
+    "question": "Le liège est un tissu _____ dont les cellules sont disposées en files radiales.",
+    "options": [
+      "secondaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "547",
+    "question": "Pour permettre les échanges gazeux, le liège possède des orifices appelés _____.",
+    "options": [
+      "lenticelles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "548",
+    "question": "Les lenticelles sont des orifices en forme de _____.",
+    "options": [
+      "boutonnière"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "549",
+    "question": "Les cellules qui forment les lenticelles sont _____.",
+    "options": [
+      "arrondies"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "550",
+    "question": "Les cellules des lenticelles laissent entre elles de nombreux _____.",
+    "options": [
+      "méats"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "551",
+    "question": "Les tissus de soutien forment le _____ de la plante.",
+    "options": [
+      "squelette"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "552",
+    "question": "Les tissus de soutien donnent à la plante rigidité et _____.",
+    "options": [
+      "solidité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "553",
+    "question": "Le collenchyme est un tissu _____.",
+    "options": [
+      "vivant"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "554",
+    "question": "Les parois épaissies des cellules du collenchyme sont en _____ pure.",
+    "options": [
+      "cellulose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "555",
+    "question": "L'épaississement du collenchyme est surtout localisé aux _____ des cellules.",
+    "options": [
+      "angles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "556",
+    "question": "Le collenchyme est un tissu ferme, mais _____.",
+    "options": [
+      "souple"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "557",
+    "question": "Le collenchyme se trouve dans toutes les jeunes _____ et les tiges _____.",
+    "options": [
+      "plantes",
+      "herbacées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "558",
+    "question": "Le sclérenchyme est un tissu _____, formé de cellules dont le cytoplasme a produit de la _____.",
+    "options": [
+      "mort",
+      "lignine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "559",
+    "question": "La lignine s'est déposée en couches successives sur la face _____ de la _____.",
+    "options": [
+      "interne",
+      "membrane"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "560",
+    "question": "Les épines et les noyaux de fruits sont surtout formés de _____ fortement _____.",
+    "options": [
+      "sclérenchyme",
+      "lignifié"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "561",
+    "question": "Les fibres de sclérenchyme sont des cellules très _____, effilées aux deux _____.",
+    "options": [
+      "longues",
+      "bouts"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "562",
+    "question": "On rencontre des fibres de sclérenchyme dans le _____ ou tissu _____.",
+    "options": [
+      "bois",
+      "ligneux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "563",
+    "question": "Des fibres textiles comme la Pite, le Jute ou le _____ sont faites de fibres de _____.",
+    "options": [
+      "Chanvre",
+      "sclérenchyme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "564",
+    "question": "Un stomate aérifère comprend deux cellules stomatiques contenant des _____ et limitant l'_____.",
+    "options": [
+      "chloroplastes",
+      "ostiole"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "565",
+    "question": "Chez les cellules stomatiques, les parois convexes sont _____ tandis que les parois concaves sont _____.",
+    "options": [
+      "minces",
+      "épaisses"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "566",
+    "question": "Lorsque les cellules deviennent turgescentes, la paroi _____ se dilate plus que la paroi _____.",
+    "options": [
+      "mince",
+      "épaisse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "567",
+    "question": "Quand les cellules sont _____, l'ostiole se ferme par un mécanisme _____.",
+    "options": [
+      "plasmolysées",
+      "inverse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "568",
+    "question": "Les stomates sont fermés à l'_____ ainsi que dans un milieu _____.",
+    "options": [
+      "obscurité",
+      "sec"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "569",
+    "question": "Les stomates sont ouverts à la _____ et dans un milieu _____.",
+    "options": [
+      "lumière",
+      "humide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "570",
+    "question": "Chez le Laurier-rose, les stomates sont localisés au fond de _____ appelées _____ stomatiques.",
+    "options": [
+      "dépressions",
+      "cryptes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "571",
+    "question": "Les stomates aquifères servent au rejet de l'eau à l'état _____ par _____.",
+    "options": [
+      "liquide",
+      "guttation"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "572",
+    "question": "La guttation, aussi appelée _____, a lieu dans une atmosphère saturée d'_____.",
+    "options": [
+      "sudation",
+      "humidité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "573",
+    "question": "La chambre sous-stomatique du stomate aquifère est remplie d'un tissu _____ où se terminent quelques vaisseaux _____ spiralés.",
+    "options": [
+      "aquifère",
+      "ligneux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "574",
+    "question": "Le liège est un tissu _____, formé de cellules pleines d'_____.",
+    "options": [
+      "mort",
+      "air"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "575",
+    "question": "La membrane des cellules du liège est fortement imprégnée de _____ très _____.",
+    "options": [
+      "subérine",
+      "imperméable"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "576",
+    "question": "Le liège ou _____ protège les troncs, les branches et les _____ des arbres.",
+    "options": [
+      "suber",
+      "racines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "577",
+    "question": "Le liège recouvre les _____ après la chute des _____ ou après des blessures.",
+    "options": [
+      "cicatrices",
+      "feuilles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "578",
+    "question": "Le liège est un tissu _____ dont les cellules rectangulaires sont disposées en files _____.",
+    "options": [
+      "secondaire",
+      "radiales"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "579",
+    "question": "Pour permettre les _____ gazeux, le liège possède des orifices appelés _____.",
+    "options": [
+      "échanges",
+      "lenticelles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "580",
+    "question": "Les lenticelles sont en forme de _____ et leurs cellules sont _____.",
+    "options": [
+      "boutonnière",
+      "arrondies"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "581",
+    "question": "Par les méats des lenticelles, les _____ et la vapeur d'_____ peuvent circuler.",
+    "options": [
+      "gaz",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "582",
+    "question": "Les tissus de soutien forment le _____ de la plante et lui donnent rigidité et _____.",
+    "options": [
+      "squelette",
+      "solidité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "583",
+    "question": "Les deux principaux tissus de soutien sont le _____ et le _____.",
+    "options": [
+      "collenchyme",
+      "sclérenchyme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "584",
+    "question": "Le collenchyme est un tissu _____ dont les parois épaissies sont en _____ pure.",
+    "options": [
+      "vivant",
+      "cellulose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "585",
+    "question": "Dans le collenchyme, l'épaississement est surtout localisé aux _____ des _____.",
+    "options": [
+      "angles",
+      "cellules"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "586",
+    "question": "Le sclérenchyme est un tissu _____, dont les cellules sont _____.",
+    "options": [
+      "mort",
+      "mortes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "587",
+    "question": "Dans le sclérenchyme, la lignine s'est déposée en _____ successives sur la face _____ de la membrane.",
+    "options": [
+      "couches",
+      "interne"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "588",
+    "question": "Les noyaux de _____ et les coques de _____ sont surtout formés de sclérenchyme.",
+    "options": [
+      "fruits",
+      "noix"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "589",
+    "question": "La lignification des fibres textiles n'est pas assez _____ pour leur enlever toute _____.",
+    "options": [
+      "forte",
+      "souplesse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "590",
+    "question": "Vu de face, un stomate aérifère est composé de deux cellules en forme de _____, contenant des _____ et limitant l'_____.",
+    "options": [
+      "Haricot",
+      "chloroplastes",
+      "ostiole"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "591",
+    "question": "L'ostiole s'ouvre sur une cavité appelée chambre _____, située sous des cellules stomatiques contenant des _____ et ayant une forme de _____.",
+    "options": [
+      "sous-stomatique",
+      "chloroplastes",
+      "Haricot"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "592",
+    "question": "Les parois _____ des cellules stomatiques sont minces, tandis que les parois _____ sont _____.",
+    "options": [
+      "convexes",
+      "concaves",
+      "épaisses"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "593",
+    "question": "Quand les cellules deviennent turgescentes, la paroi _____ se dilate plus que la paroi _____, ce qui a pour effet d'ouvrir l'_____.",
+    "options": [
+      "mince",
+      "épaisse",
+      "ostiole"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "594",
+    "question": "Quand les cellules sont plasmolysées, l'_____ se ferme par un mécanisme inverse, contrairement au cas où les cellules deviennent _____ et où la paroi mince se _____.",
+    "options": [
+      "ostiole",
+      "turgescentes",
+      "dilate"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "595",
+    "question": "Les stomates sont fermés à l'_____ et dans un milieu _____, mais ils sont ouverts à la _____ et dans un milieu humide.",
+    "options": [
+      "obscurité",
+      "sec",
+      "lumière"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "596",
+    "question": "Certaines plantes comme le _____ ont leurs stomates localisés au fond de _____ appelées cryptes stomatiques tapissées de _____.",
+    "options": [
+      "Laurier-rose",
+      "dépressions",
+      "poils"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "597",
+    "question": "Les stomates aquifères servent au rejet de l'_____ à l'état _____ par guttation, aussi appelée _____.",
+    "options": [
+      "eau",
+      "liquide",
+      "sudation"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "598",
+    "question": "La guttation a lieu dans une atmosphère saturée d'_____, au niveau de stomates dont la chambre sous-stomatique est remplie d'un tissu _____ où se terminent des vaisseaux ligneux _____.",
+    "options": [
+      "humidité",
+      "aquifère",
+      "spiralés"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "599",
+    "question": "Le liège est un tissu _____, formé de cellules pleines d'_____, dont la membrane est imprégnée de _____.",
+    "options": [
+      "mort",
+      "air",
+      "subérine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "600",
+    "question": "La membrane des cellules du liège est fortement imprégnée de _____ très _____, ce qui s'ajoute à leur légèreté due à la présence d'_____.",
+    "options": [
+      "subérine",
+      "imperméable",
+      "air"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "601",
+    "question": "Le liège ou _____ protège les _____, les branches et les _____ des arbres.",
+    "options": [
+      "suber",
+      "troncs",
+      "racines"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "602",
+    "question": "Le suber recouvre les _____ après la chute des _____ ou après des _____.",
+    "options": [
+      "cicatrices",
+      "feuilles",
+      "blessures"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "603",
+    "question": "Le liège est un tissu _____ dont les cellules _____ sont disposées en files _____.",
+    "options": [
+      "secondaire",
+      "rectangulaires",
+      "radiales"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "604",
+    "question": "Pour permettre les _____ gazeux, le liège possède des orifices appelés _____, en forme de _____.",
+    "options": [
+      "échanges",
+      "lenticelles",
+      "boutonnière"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "605",
+    "question": "Les cellules qui forment les lenticelles sont _____; elles laissent entre elles de nombreux _____ par lesquels gaz et vapeur d'_____ peuvent circuler.",
+    "options": [
+      "arrondies",
+      "méats",
+      "eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "606",
+    "question": "Par les méats des lenticelles, les _____ et la vapeur d'_____ peuvent circuler entre des cellules _____.",
+    "options": [
+      "gaz",
+      "eau",
+      "arrondies"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "607",
+    "question": "Les tissus de soutien forment le _____ de la plante; ils lui donnent _____ et _____.",
+    "options": [
+      "squelette",
+      "rigidité",
+      "solidité"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "608",
+    "question": "Les principaux tissus de soutien sont le _____, le _____, qui apportent la rigidité au _____ de la plante.",
+    "options": [
+      "collenchyme",
+      "sclérenchyme",
+      "squelette"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "609",
+    "question": "Le collenchyme est un tissu _____, formé de cellules dont les parois épaissies sont en _____ _____.",
+    "options": [
+      "vivant",
+      "cellulose",
+      "pure"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "610",
+    "question": "Dans le collenchyme, l'épaississement est surtout localisé aux _____ des cellules de ce tissu _____ mais _____.",
+    "options": [
+      "angles",
+      "ferme",
+      "souple"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "611",
+    "question": "Le collenchyme est un tissu ferme, mais _____, présent dans toutes les jeunes _____ et les tiges _____.",
+    "options": [
+      "souple",
+      "plantes",
+      "herbacées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "612",
+    "question": "Le sclérenchyme est un tissu _____, formé de cellules dont le cytoplasme a produit de la _____, rendant les cellules _____.",
+    "options": [
+      "mort",
+      "lignine",
+      "mortes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "613",
+    "question": "Dans le sclérenchyme, la lignine s'est déposée en _____ successives sur la face _____ de la _____.",
+    "options": [
+      "couches",
+      "interne",
+      "membrane"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "614",
+    "question": "Les _____, les noyaux de fruits et les coques de _____ sont surtout formés de sclérenchyme fortement _____.",
+    "options": [
+      "épines",
+      "noix",
+      "lignifié"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "615",
+    "question": "Le sclérenchyme est parfois constitué de _____ de sclérenchyme, qui sont des cellules très _____, effilées aux deux _____.",
+    "options": [
+      "fibres",
+      "longues",
+      "bouts"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "616",
+    "question": "On rencontre des fibres de sclérenchyme dans le _____ ou tissu _____, constituées de cellules effilées aux deux _____.",
+    "options": [
+      "bois",
+      "ligneux",
+      "bouts"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "617",
+    "question": "Des fibres textiles comme la _____, le Jute et le _____ sont faites de fibres de sclérenchyme.",
+    "options": [
+      "Pite",
+      "Chanvre",
+      "sclérenchyme"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "618",
+    "question": "Pour les fibres textiles (Pite, Jute, Chanvre), la _____ des fibres n'est pas assez _____ pour leur enlever toute _____.",
+    "options": [
+      "lignification",
+      "forte",
+      "souplesse"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "619",
+    "question": "Vu de face, les cellules stomatiques ont une forme de _____, possèdent des _____ et délimitent l'_____.",
+    "options": [
+      "Haricot",
+      "chloroplastes",
+      "ostiole"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "620",
+    "question": "Dans un stomate aérifère, l'_____ s'ouvre sur une chambre _____, et sa fermeture survient quand les cellules sont _____.",
+    "options": [
+      "ostiole",
+      "sous-stomatique",
+      "plasmolysées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "621",
+    "question": "Le liège, aussi appelé _____, est un tissu _____ dont la membrane est imprégnée de _____.",
+    "options": [
+      "suber",
+      "mort",
+      "subérine"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "622",
+    "question": "Le collenchyme possède des parois épaissies en _____ pure aux _____, constituant un tissu _____.",
+    "options": [
+      "cellulose",
+      "angles",
+      "vivant"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 9",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  }
 ]
 }
