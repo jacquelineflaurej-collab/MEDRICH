@@ -2,832 +2,2443 @@
   "Page 2": [
     {
     "id": "1",
-    "question": "Combien d'éléments chimiques environ constituent le monde des êtres vivants ?",
-    "options": ["10", "26", "50", "100"],
+    "question": "En combien de grands types de substances la matière vivante est-elle constituée ?",
+    "options": [
+      "Un",
+      "Deux",
+      "Trois",
+      "Quatre"
+    ],
     "reponsKorek": 1,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "2",
-    "question": "Quel pourcentage de la masse est occupé par les quatre macroéléments majeurs ?",
-    "options": ["50%", "75%", "96%", "10%"],
+    "question": "Quel est le constituant le plus abondant et le plus important de l'organisme humain ?",
+    "options": [
+      "Les protéines",
+      "Les lipides",
+      "L'eau",
+      "Les glucides"
+    ],
     "reponsKorek": 2,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "3",
-    "question": "Lequel de ces éléments est un macroélément majeur ?",
-    "options": ["Fer", "Zinc", "Carbone", "Iode"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel pourcentage environ de la masse corporelle l'eau constitue-t-elle ?",
+    "options": [
+      "50%",
+      "70%",
+      "90%",
+      "30%"
+    ],
+    "reponsKorek": 1,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "4",
-    "question": "Quel est le symbole chimique de l'Azote ?",
-    "options": ["A", "Az", "N", "Ni"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Par quoi sont représentées les substances minérales de la matière vivante ?",
+    "options": [
+      "L'eau et les sels minéraux",
+      "Les glucides et les lipides",
+      "Les protéines et les acides nucléiques",
+      "Le carbone et l'oxygène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "5",
-    "question": "Quel élément occupe 65% du poids corporel ?",
-    "options": ["Carbone", "Oxygène", "Hydrogène", "Azote"],
+    "question": "Quel sel minéral est le plus abondant dans l'organisme ?",
+    "options": [
+      "Le chlorure de sodium",
+      "Le phosphate de calcium",
+      "Le carbonate de calcium",
+      "Le sulfate de magnésium"
+    ],
     "reponsKorek": 1,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "6",
-    "question": "Les 22 éléments occupying moins de 4% de la masse sont divisés en combien de catégories ?",
-    "options": ["2", "3", "4", "5"],
-    "reponsKorek": 0,
-    "paj": "Page 1",
+    "question": "Combien de familles principales de molécules organiques distingue-t-on ?",
+    "options": [
+      "Deux",
+      "Trois",
+      "Quatre",
+      "Cinq"
+    ],
+    "reponsKorek": 1,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "7",
-    "question": "Combien d'oligoéléments compte-t-on parmi les 22 éléments moins abondants ?",
-    "options": ["4", "7", "15", "26"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quelles sont les trois familles principales de molécules organiques ?",
+    "options": [
+      "Glucides, lipides et protides",
+      "Eau, sels minéraux et glucides",
+      "Protéines, vitamines et lipides",
+      "Glucides, protides et acides nucléiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "8",
-    "question": "Quel est le pourcentage exact des macroéléments majeurs selon le tableau ?",
-    "options": ["96,2%", "3,7%", "0,1%", "18,5%"],
-    "reponsKorek": 0,
-    "paj": "Page 1",
+    "question": "Comment les glucides étaient-ils anciennement appelés ?",
+    "options": [
+      "Hydrocarbures",
+      "Hydrates de carbone",
+      "Composés ternaires",
+      "Saccharides"
+    ],
+    "reponsKorek": 1,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "9",
-    "question": "Quel est le symbole chimique du Carbone ?",
-    "options": ["Ca", "C", "Co", "Cr"],
+    "question": "À partir de combien d'éléments chimiques les glucides sont-ils formés ?",
+    "options": [
+      "Deux",
+      "Trois",
+      "Quatre",
+      "Cinq"
+    ],
     "reponsKorek": 1,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "10",
-    "question": "Quel est le pourcentage du poids corporel pour l'Azote ?",
-    "options": ["65%", "18,5%", "9,5%", "3,2%"],
-    "reponsKorek": 3,
-    "paj": "Page 1",
+    "question": "Quels sont les trois éléments chimiques qui forment les glucides ?",
+    "options": [
+      "Carbone, hydrogène et oxygène",
+      "Azote, carbone et hydrogène",
+      "Oxygène, azote et phosphore",
+      "Carbone, azote et oxygène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "11",
-    "question": "Quel est le symbole chimique du Calcium ?",
-    "options": ["C", "Cl", "Ca", "Cu"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel terme qualifie des composés formés de trois éléments chimiques différents ?",
+    "options": [
+      "Binaires",
+      "Ternaires",
+      "Quaternaires",
+      "Complexes"
+    ],
+    "reponsKorek": 1,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "12",
-    "question": "Lequel de ces éléments est un macroélément mineur ?",
-    "options": ["Oxygène", "Magnésium", "Azote", "Carbone"],
+    "question": "Quel glucide correspond au sucre de l'ADN ?",
+    "options": [
+      "Le ribose",
+      "Le désoxyribose",
+      "Le glucose",
+      "Le mannitol"
+    ],
     "reponsKorek": 1,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "13",
-    "question": "Quel est le symbole chimique du Phosphore ?",
-    "options": ["Ph", "F", "P", "K"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel est un autre nom de la vitamine C parmi les exemples de glucides ?",
+    "options": [
+      "Acide glucuronique",
+      "Acide ascorbique",
+      "Mannitol",
+      "Désoxyribose"
+    ],
+    "reponsKorek": 1,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "14",
-    "question": "Quel est le pourcentage du poids corporel pour le Calcium ?",
-    "options": ["1,5%", "1%", "0,4%", "0,2%"],
+    "question": "Quelle est la formule brute générale des glucides mentionnée dans le texte ?",
+    "options": [
+      "CnH2nOn",
+      "Cn(H2O)n",
+      "C6H12O6",
+      "CnH2n+2"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "15",
-    "question": "Le symbole 'K' correspond à quel élément chimique ?",
-    "options": ["Krypton", "Potassium", "Chlore", "Soufre"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel type de substances englobe à la fois les substances minérales et organiques ?",
+    "options": [
+      "La matière vivante",
+      "Le cytoplasme",
+      "Les sels minéraux",
+      "Les inclusions"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "16",
-    "question": "Quel est le pourcentage du poids corporel pour le Soufre ?",
-    "options": ["0,1%", "0,2%", "0,3%", "0,4%"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel rôle physique l'eau joue-t-elle en agissant comme régulateur thermique ?",
+    "options": [
+      "Un régulateur thermique excellent",
+      "Un solvant chimique faible",
+      "Un catalyseur thermique",
+      "Un isolant thermique absolu"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "17",
-    "question": "Quel est le symbole chimique du Sodium ?",
-    "options": ["S", "So", "Na", "Sd"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Les ions positifs proviennent de la dissociation de quoi selon le texte ?",
+    "options": [
+      "Des acides, des bases ou des sels",
+      "Des glucides uniquement",
+      "Des lipides complexes",
+      "De l'eau pure"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "18",
-    "question": "Quel élément représente 0,2% du poids corporel avec le Sodium ?",
-    "options": ["Chlore", "Fer", "Zinc", "Magnésium"],
-    "reponsKorek": 0,
-    "paj": "Page 1",
+    "question": "Comment appelle-t-on les ions positifs ?",
+    "options": [
+      "Anions",
+      "Cations",
+      "Protons",
+      "Electrons"
+    ],
+    "reponsKorek": 1,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "19",
-    "question": "Quel est le symbole chimique du Magnésium ?",
-    "options": ["M", "Ma", "Mn", "Mg"],
-    "reponsKorek": 3,
-    "paj": "Page 1",
+    "question": "Comment appelle-t-on les ions négatifs ?",
+    "options": [
+      "Cations",
+      "Anions",
+      "Isotopes",
+      "Radicaux"
+    ],
+    "reponsKorek": 1,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "20",
-    "question": "Quel est le pourcentage total des macroéléments mineurs ?",
-    "options": ["96,2%", "3,7%", "0,1%", "4%"],
+    "question": "Quel ion positif est mentionné parmi les exemples de cations ?",
+    "options": [
+      "Cl-",
+      "Na+",
+      "SO42-",
+      "PO43-"
+    ],
     "reponsKorek": 1,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "21",
-    "question": "Comment appelle-t-on aussi les microéléments ?",
-    "options": ["Macroéléments", "Oligoéléments", "Coenzymes", "Éléments majeurs"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel ion négatif est mentionné parmi les exemples d'anions ?",
+    "options": [
+      "K+",
+      "Ca2+",
+      "Cl-",
+      "Mg2+"
+    ],
+    "reponsKorek": 2,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "22",
-    "question": "Quel est le pourcentage du poids corporel occupé par les 15 oligoéléments ?",
-    "options": ["1,5%", "0,1%", "3,7%", "9,5%"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "À quoi contribue principalement le phosphate de calcium dans l'organisme ?",
+    "options": [
+      "À la solidité et à la dureté des os et des dents",
+      "À la régulation de la température corporelle",
+      "À la dissolution des graisses",
+      "À la transmission nerveuse rapide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "23",
-    "question": "Les oligoéléments servent principalement de quoi dans les réactions ?",
-    "options": ["Substrat", "Produit", "Coenzymes", "Inhibiteurs"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quelle expression n'est plus usitée pour désigner les glucides ?",
+    "options": [
+      "Composés ternaires",
+      "Hydrate de carbone",
+      "Glucides simples",
+      "Substances organiques"
+    ],
+    "reponsKorek": 1,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "24",
-    "question": "Lequel de ces éléments est cité comme un oligoélément ?",
-    "options": ["Calcium", "Soufre", "Zinc", "Chlore"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quelle est la formule chimique du désoxyribose (sucre de l'ADN) ?",
+    "options": [
+      "C5H10O4",
+      "C6H10O7",
+      "C6H8O6",
+      "C6H14O6"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "25",
-    "question": "Quel est le symbole chimique du Fer ?",
-    "options": ["F", "Fe", "Fr", "I"],
+    "question": "Quelle est la formule chimique de l'acide glucuronique ?",
+    "options": [
+      "C5H10O4",
+      "C6H10O7",
+      "C6H8O6",
+      "C6H14O6"
+    ],
     "reponsKorek": 1,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "26",
-    "question": "Le symbole 'I' représente quel oligoélément ?",
-    "options": ["Iode", "Irridium", "Indium", "Fer"],
-    "reponsKorek": 0,
-    "paj": "Page 1",
+    "question": "Quelle est la formule chimique du mannitol ?",
+    "options": [
+      "C5H10O4",
+      "C6H10O7",
+      "C6H8O6",
+      "C6H14O6"
+    ],
+    "reponsKorek": 3,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "27",
-    "question": "Quel est le symbole du Cobalt ?",
-    "options": ["C", "Ca", "Co", "Cl"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel composant représente près de 95% de la masse de certaines cellules ?",
+    "options": [
+      "L'eau",
+      "Le calcium",
+      "Le glucide",
+      "Le lipide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "28",
-    "question": "Combien de macroéléments mineurs sont listés dans le tableau ?",
-    "options": ["4", "7", "15", "22"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel rôle biologique l'eau joue-t-elle dans les réactions ?",
+    "options": [
+      "Elle participe aux réactions métaboliques",
+      "Elle bloque toutes les réactions",
+      "Elle détruit les molécules organiques",
+      "Elle remplace les sels minéraux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "29",
-    "question": "Quel élément occupe 9,5% du poids corporel ?",
-    "options": ["Oxygène", "Carbone", "Hydrogène", "Azote"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel rôle de transport l'eau assure-t-elle ?",
+    "options": [
+      "Le transport des molécules organiques et minérales",
+      "Le transport exclusif des gaz respiratoires",
+      "Le transport des cellules sanguines uniquement",
+      "Le transport des déchets toxiques cellulaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "30",
-    "question": "Quel est le symbole du Fluor ?",
-    "options": ["Fl", "F", "Fe", "Fu"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Sous l'action de quoi les sels minéraux proviennent-ils de la dissociation des acides, bases ou sels ?",
+    "options": [
+      "De certains solvants",
+      "De la chaleur intense",
+      "De la pression atmosphérique",
+      "De la lumière solaire"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "31",
-    "question": "Quel groupe d'éléments représente à lui seul plus de 96% de la masse vivante ?",
-    "options": ["Les oligoéléments", "Les macroéléments majeurs", "Les macroéléments mineurs", "Les microéléments"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
-    "nivo": "Intermediaire",
+    "question": "Quelle est la formule chimique de l'acide ascorbique (vitamine C) ?",
+    "options": [
+      "C5H10O4",
+      "C6H10O7",
+      "C6H8O6",
+      "C6H14O6"
+    ],
+    "reponsKorek": 2,
+    "paj": "Page 2",
+    "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "32",
-    "question": "Quelle est la fonction principale des 15 oligoéléments dans l'organisme ?",
-    "options": ["Servir de coenzymes", "Former la structure osseuse", "Produire de l'énergie", "Transporter l'oxygène"],
+    "question": "Quel type de substance est qualifié d'organique parmi les choix suivants ?",
+    "options": [
+      "Les glucides",
+      "L'eau pure",
+      "Les sels minéraux",
+      "Les ions inorganiques"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
-    "nivo": "Intermediaire",
+    "paj": "Page 2",
+    "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "33",
-    "question": "En dehors des 4 éléments majeurs, quel est le pourcentage de masse restant ?",
-    "options": ["10%", "1%", "Moins de 4%", "Plus de 15%"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
-    "nivo": "Intermediaire",
+    "question": "Quel type de substance constitue la matière vivante aux côtés des substances minérales ?",
+    "options": [
+      "Les substances organiques",
+      "Les métaux lourds",
+      "Les gaz inertes",
+      "Les roches sédimentaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
     "tip": "Quiz"
   },
   {
     "id": "34",
-    "question": "Lequel de ces éléments n'est pas classé comme macroélément majeur ?",
-    "options": ["Carbone", "Azote", "Calcium", "Hydrogène"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Pourquoi l'expression 'Hydrate de carbone' n'est-elle plus usitée pour les glucides ?",
+    "options": [
+      "Parce que certains glucides découverts récemment ne répondent pas à la formule empirique Cn(H2O)n",
+      "Parce qu'elle est scientifiquement interdite par l'OMS",
+      "Parce qu'elle désigne uniquement l'eau pure",
+      "Parce qu'elle ne contient aucun atome de carbone"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "35",
-    "question": "Quelle est la somme totale du pourcentage des macroéléments majeurs (C, H, O, N) ?",
-    "options": ["90%", "96,2%", "98%", "99,9%"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quelle est l'origine exacte des ions qui constituent les sels minéraux dans la matière vivante ?",
+    "options": [
+      "La dissociation des acides, des bases ou des sels sous l'action de certains solvants",
+      "La fusion directe des atomes de carbone et d'azote",
+      "La condensation des molécules d'eau dans les cellules",
+      "La dégradation spontanée des protides complexes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "36",
-    "question": "Quel élément chimique arrive en deuxième position après l'oxygène en termes de poids ?",
-    "options": ["L'azote", "Le carbone", "L'hydrogène", "Le calcium"],
+    "question": "Parmi les ions suivants, lequel appartient spécifiquement à la catégorie des cations mentionnée dans le texte ?",
+    "options": [
+      "PO43-",
+      "Mg2+",
+      "HCO3-",
+      "SO42-"
+    ],
     "reponsKorek": 1,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "37",
-    "question": "Les éléments 'moins abondants' au nombre de 7 sont classés comme :",
-    "options": ["Oligoéléments", "Macroéléments mineurs", "Macroéléments majeurs", "Éléments traces"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Parmi les anions suivants, lequel est explicitement listé dans les substances minérales ?",
+    "options": [
+      "Na+",
+      "K+",
+      "HCO3-",
+      "Ca2+"
+    ],
+    "reponsKorek": 2,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "38",
-    "question": "Quel est le pourcentage massique total des macroéléments mineurs ?",
-    "options": ["0,1%", "1%", "3,7%", "4%"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel rôle fonctionnel précis l'eau exerce-t-elle en tant que solvant dans l'organisme ?",
+    "options": [
+      "Elle transporte les molécules organiques et minérales",
+      "Elle détruit les liaisons peptidiques des protéines",
+      "Elle cristallise les sels minéraux dans les os",
+      "Elle transforme les glucides en lipides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "39",
-    "question": "Quels sont les deux éléments qui occupent chacun 0,2% du poids corporel ?",
-    "options": ["Sodium et Chlore", "Soufre et Sodium", "Magnésium et Chlore", "Potassium et Soufre"],
+    "question": "Quelle formule empirique est associée aux glucides dont l'expression ancienne découle ?",
+    "options": [
+      "Cn(H2O)n",
+      "CnH2nOn",
+      "CnH2n+2",
+      "C6H12O6"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "40",
-    "question": "Le symbole 'Fe' appartient à quelle catégorie d'éléments ?",
-    "options": ["Macroéléments majeurs", "Macroéléments mineurs", "Oligoéléments", "Substances organiques"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel est le composé chimique précis dont la formule est C6H10O7 ?",
+    "options": [
+      "Acide ascorbique",
+      "Acide glucuronique",
+      "Mannitol",
+      "Désoxyribose"
+    ],
+    "reponsKorek": 1,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "41",
-    "question": "Quel macroélément mineur possède le pourcentage le plus élevé dans sa catégorie ?",
-    "options": ["Le phosphore", "Le calcium", "Le potassium", "Le magnésium"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel rôle structurel joue le phosphate de calcium Ca3(PO4)2 dans le corps humain ?",
+    "options": [
+      "Il contribue à la solidité et à la dureté des os et des dents",
+      "Il assure la régulation thermique de l'organisme",
+      "Il sert de réserve énergétique principale pour les muscles",
+      "Il active les réactions métaboliques cellulaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "42",
-    "question": "Lequel de ces symboles représente un oligoélément intervenant dans les réactions enzymatiques ?",
-    "options": ["Ca", "Zn", "Mg", "Na"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Comment qualifie-t-on les glucides du fait qu'ils contiennent du carbone, de l'hydrogène et de l'oxygène ?",
+    "options": [
+      "Composés ternaires",
+      "Composés binaires",
+      "Composés colloïdaux",
+      "Composés inorganiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "43",
-    "question": "Quel élément représente exactement 1% du poids corporel ?",
-    "options": ["Le calcium", "Le potassium", "Le phosphore", "Le soufre"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel glucide parmi les exemples fournis est explicitement identifié comme le sucre de l'ADN ?",
+    "options": [
+      "Le désoxyribose",
+      "Le mannitol",
+      "L'acide ascorbique",
+      "L'acide glucuronique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "44",
-    "question": "Combien d'éléments au total sont considérés comme macroéléments (majeurs et mineurs) ?",
-    "options": ["4", "7", "11", "26"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel est le nom du glucide dont la formule brute est C6H8O6 ?",
+    "options": [
+      "Acide ascorbique ou Vitamine C",
+      "Mannitol",
+      "Acide glucuronique",
+      "Désoxyribose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "45",
-    "question": "Quel élément majeur a le pourcentage le plus faible (3,2%) ?",
-    "options": ["Oxygène", "Carbone", "Hydrogène", "Azote"],
-    "reponsKorek": 3,
-    "paj": "Page 1",
+    "question": "Quelle proportion de la masse corporelle globale l'eau représente-t-elle approximativement ?",
+    "options": [
+      "Environ 70%",
+      "Environ 50%",
+      "Environ 30%",
+      "Environ 95%"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "46",
-    "question": "À quel élément le symbole 'S' fait-il référence ?",
-    "options": ["Sodium", "Soufre", "Silicium", "Sélénium"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel type de substances englobe les glucides, les lipides et les protides ?",
+    "options": [
+      "Les molécules organiques",
+      "Les substances minérales",
+      "Les électrolytes inorganiques",
+      "Les solutions colloïdales"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "47",
-    "question": "Quel groupe d'éléments intervient principalement comme coenzymes ?",
-    "options": ["Les oligoéléments", "Les macroéléments", "Les substances minérales", "L'oxygène"],
+    "question": "Quel est le rôle métabolique de l'eau souligné dans le texte ?",
+    "options": [
+      "Elle est indispensable à la vie et participe aux réactions métaboliques",
+      "Elle sert uniquement de barrière protectrice cellulaire",
+      "Elle inhibe la formation des liaisons chimiques",
+      "Elle remplace les substances organiques"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "48",
-    "question": "Si l'on additionne l'Oxygène (65%) et le Carbone (18,5%), quel pourcentage obtient-on ?",
-    "options": ["70,5%", "83,5%", "80%", "90,2%"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Parmi les anions suivants, lequel est présent dans la liste du texte aux côtés de Cl- et HCO3- ?",
+    "options": [
+      "PO43-",
+      "Na+",
+      "K+",
+      "Mg2+"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "49",
-    "question": "Quel est le symbole du Potassium dans la liste des macroéléments mineurs ?",
-    "options": ["P", "Po", "K", "Pt"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quelle est la nature chimique générale des sels minéraux dans la matière vivante ?",
+    "options": [
+      "Des ions provenant de la dissociation des acides, des bases ou des sels",
+      "Des chaînes carbonées complexes à longue ramification",
+      "Des polymères organiques insolubles dans l'eau",
+      "Des structures colloïdales hautement organisées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "50",
-    "question": "Quel élément représente seulement 0,1% du poids corporel dans le tableau des mineurs ?",
-    "options": ["Sodium", "Chlore", "Magnésium", "Soufre"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel est le statut de l'appellation 'Hydrate de carbone' de nos jours selon les précisions du texte ?",
+    "options": [
+      "Elle n'est plus usitée",
+      "Elle est devenue la nomenclature officielle unique",
+      "Elle s'applique exclusivement aux lipides",
+      "Elle désigne désormais les protéines complexes"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "51",
-    "question": "Lequel de ces éléments est un oligoélément ?",
-    "options": ["Phosphore", "Potassium", "Cobalt", "Magnésium"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel composé organique possède la formule C6H14O6 selon les exemples de glucides ?",
+    "options": [
+      "Le mannitol",
+      "L'acide ascorbique",
+      "L'acide glucuronique",
+      "Le désoxyribose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "52",
-    "question": "Quel pourcentage global du poids corporel occupent les 15 oligoéléments ?",
-    "options": ["0,1%", "1%", "3,7%", "4%"],
+    "question": "Quel rôle physique particulier l'eau remplit-elle en plus d'être un solvant et un milieu réactionnel ?",
+    "options": [
+      "Un excellent régulateur thermique",
+      "Un catalyseur enzymatique direct",
+      "Un constituant de réserve énergétique",
+      "Un agent de coagulation sanguine"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "53",
-    "question": "Le symbole 'Cl' désigne quel élément ?",
-    "options": ["Calcium", "Chlore", "Cobalt", "Carbone"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Comment se nomment les deux grands types de substances qui constituent la matière vivante ?",
+    "options": [
+      "Les substances minérales ou inorganiques et les substances organiques",
+      "Les substances acido-basiques et les substances colloïdales",
+      "Les substances simples et les substances polymérisées",
+      "Les substances intra-cellulaires et extra-cellulaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "54",
-    "question": "Combien d'éléments chimiques naturels constituent environ le monde vivant ?",
-    "options": ["4", "11", "15", "26"],
-    "reponsKorek": 3,
-    "paj": "Page 1",
+    "question": "Quel cation parmi les suivants complète la liste avec Na+ et K+ selon le texte ?",
+    "options": [
+      "Mg2+",
+      "Cl-",
+      "PO43-",
+      "CO32-"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "55",
-    "question": "Quelle catégorie regroupe le Carbone, l'Hydrogène, l'Oxygène et l'Azote ?",
-    "options": ["Microéléments", "Macroéléments majeurs", "Oligoéléments", "Composés minéraux"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel anion complète la série CO32-, SO42-, PO43- et Cl- dans les exemples fournis ?",
+    "options": [
+      "HCO3-",
+      "Ca2+",
+      "K+",
+      "Na+"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "56",
-    "question": "Quel est le symbole chimique du Manganèse ?",
-    "options": ["Mg", "Mn", "Ma", "Me"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel est l'élément chimique central qui, avec l'hydrogène et l'oxygène, compose les glucides ?",
+    "options": [
+      "Le carbone",
+      "L'azote",
+      "Le phosphore",
+      "Le soufre"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "57",
-    "question": "Lequel de ces éléments occupe 0,4% du poids corporel ?",
-    "options": ["Sodium", "Potassium", "Soufre", "Chlore"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quelle est la proportion maximale approximative d'eau trouvée dans certaines cellules spécifiques ?",
+    "options": [
+      "Près de 95%",
+      "Près de 50%",
+      "Près de 70%",
+      "Près de 20%"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "58",
-    "question": "Dans quel type de processus les oligoéléments jouent-ils un rôle clé ?",
-    "options": ["Structure des os", "Réactions enzymatiques", "Hydratation", "Respiration cellulaire"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel groupe de molécules organiques inclut les glucides, les lipides et les protides ?",
+    "options": [
+      "Les trois familles principales de molécules organiques",
+      "Les substances minérales de l'organisme",
+      "Les complexes inorganiques fondamentaux",
+      "Les acides aminés libres de la cellule"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "59",
-    "question": "Le symbole 'I' représente quel élément intervenant dans le corps ?",
-    "options": ["Fer", "Iode", "Zinc", "Fluor"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel est l'impact de la structure chimique du phosphate de calcium sur les tissus dentaires et osseux ?",
+    "options": [
+      "Il leur confère solidité et dureté",
+      "Il assure leur flexibilité et leur élasticité",
+      "Il permet leur renouvellement thermique",
+      "Il facilite leur dissolution dans l'eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "60",
-    "question": "Quelle est la principale différence entre macroéléments et oligoéléments ?",
-    "options": ["La taille", "Leur abondance en masse", "Leur couleur", "Leur état physique"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quelle relation formule-structure est évoquée pour expliquer l'abandon du terme 'Hydrate de carbone' ?",
+    "options": [
+      "La non-conformité de certains glucides récents à la formule Cn(H2O)n",
+      "L'absence totale d'oxygène dans les glucides complexes",
+      "La présence obligatoire d'azote dans tous les sucres",
+      "L'égalité parfaite entre le nombre de carbones et d'atomes d'azote"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "61",
+    "question": "Quel type de liaison ou de substance représente le support de la formule brute générale des glucides CnH2nOn ?",
+    "options": [
+      "La formule brute des glucides",
+      "La formule structurelle des lipides",
+      "La composition ionique des sels minéraux",
+      "Le squelette des acides aminés"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Quiz"
+  },
+  {
+    "id": "62",
+    "question": "Quel rôle l'eau joue-t-elle spécifiquement vis-à-vis des substances organiques et minérales dans le milieu cellulaire ?",
+    "options": [
+      "Elle joue le rôle de solvant en transportant ces molécules",
+      "Elle les précipite sous forme de cristaux insolubles",
+      "Elle les convertit instantanément en énergie thermique",
+      "Elle neutralise leur charge électrique définitivement"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "63",
-    "question": "Quelle est la somme totale du pourcentage massique de l'Oxygène et du Carbone ?",
-    "options": ["75,5%", "83,5%", "82,5%", "85,5%"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
-    "nivo": "Difficile",
+    "question": "Quel est le nom exact du sel minéral abondant qui contient à la fois du calcium et du phosphore sous forme de groupement phosphate ?",
+    "options": [
+      "Le phosphate de calcium Ca3(PO4)2",
+      "Le carbonate de calcium CaCO3",
+      "Le sulfate de magnésium MgSO4",
+      "Le chlorure de sodium NaCl"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
     "tip": "Quiz"
   },
   {
     "id": "64",
-    "question": "Quel est le pourcentage combiné de l'Hydrogène et de l'Azote dans le corps humain ?",
-    "options": ["12,7%", "11,5%", "13,2%", "10,8%"],
+    "question": "Pourquoi l'inadéquation de la formule empirique historique a-t-elle invalidé l'appellation d'hydrate de carbone pour les glucides nouvellement identifiés ?",
+    "options": [
+      "Parce que les découvertes récentes ont mis en évidence des structures qui s'écartent du rapport stœchiométrique eau-carbone implicite de la formule Cn(H2O)n",
+      "Parce que l'eau n'intervient jamais dans la biosynthèse de ces molécules organiques complexes",
+      "Parce que les atomes d'hydrogène et d'oxygène s'y trouvent liés sous forme d'acides minéraux forts",
+      "Parce que le carbone y est remplacé par un autre hétéroatome dans la chaîne principale"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "65",
-    "question": "Combien d'éléments au total constituent la catégorie des macroéléments (majeurs et mineurs) ?",
-    "options": ["4", "7", "11", "26"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "De quelle manière physico-chimique précise les sels minéraux se trouvent-ils sous forme d'ions libres au sein de l'organisme vivant ?",
+    "options": [
+      "Par la dissociation électrolytique d'acides, de bases ou de sels sous l'effet dissociant de solvants spécifiques",
+      "Par la dissociation thermique spontanée des liaisons covalentes des glucides complexes",
+      "Par l'action catalytique directe de l'eau pure sur les chaînes carbonées des protides",
+      "Par la précipitation sélective des cations métalliques sous forme d'hydroxydes insolubles"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "66",
-    "question": "Quel pourcentage de la masse totale les 22 éléments moins abondants occupent-ils ?",
-    "options": ["Moins de 4%", "Exactement 4%", "3,7%", "0,1%"],
+    "question": "En quoi la formule brute du désoxyribose (C5H10O4) illustre-t-elle l'argument selon lequel l'ancienne terminologie des glucides était limitative ?",
+    "options": [
+      "Son rapport stœchiométrique ne reflète pas une hydratation simple du carbone selon le modèle classique Cn(H2O)n",
+      "Elle contient un excès d'azote qui contredit la nature strictement ternaire des glucides",
+      "Elle démontre que le sucre de l'ADN est un composé inorganique dépourvu de liaisons carbone-carbone",
+      "Elle possède une structure cyclique saturée en atomes de chlore et de soufre"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "67",
-    "question": "Lequel de ces éléments n'appartient pas à la catégorie des 7 macroéléments mineurs ?",
-    "options": ["Soufre", "Chlore", "Cobalt", "Magnésium"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel mécanisme biophysique permet à l'eau de stabiliser la température interne d'un organisme vivant ?",
+    "options": [
+      "Son rôle de régulateur thermique excellent fondé sur ses propriétés thermodynamiques de transport et de transfert de chaleur",
+      "Sa capacité à se dissocier instantanément en cations et anions pour dissiper l'énergie thermique sous forme lumineuse",
+      "Son aptitude à former des cristaux solides isolants qui bloquent toute variation externe de température",
+      "Son action inhibitrice directe sur l'ensemble des réactions métaboliques exothermiques de la cellule"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "68",
-    "question": "Si l'on additionne le Calcium et le Phosphore, quel pourcentage du poids obtient-on ?",
-    "options": ["2%", "2,5%", "3,1%", "1,8%"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quelle est la distinction structurelle et fonctionnelle fondamentale entre les cations et les anions issus des sels minéraux selon le texte ?",
+    "options": [
+      "Les cations portent une charge positive (comme Na+, K+, Mg2+, Ca2+) tandis que les anions portent une charge négative (comme Cl-, PO43-, HCO3-, SO42-, CO32-)",
+      "Les cations sont exclusivement organiques et formés de carbone, tandis que les anions sont strictement inorganiques",
+      "Les cations servent uniquement à la dureté des os, tandis que les anions régulent la température corporelle globale",
+      "Les cations sont insolubles dans l'eau cellulaire, alors que les anions s'y dissolvent sous forme de molécules colloïdales"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "69",
-    "question": "Quel est le rapport numérique entre les macroéléments mineurs et les oligoéléments ?",
-    "options": ["4 pour 15", "7 pour 22", "7 pour 15", "4 pour 7"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Comment l'organisation chimique du phosphate de calcium Ca3(PO4)2 conditionne-t-elle son rôle biologique strict dans la matière vivante ?",
+    "options": [
+      "Son association d'ions calcium et de groupements phosphate lui confère des propriétés structurales rigides assurant la solidité et la dureté des tissus squelettiques",
+      "Sa structure ternaire instable lui permet de servir de solvant principal pour le transport des molécules organiques dans le sang",
+      "Son caractère organique non colloïdal facilite sa transformation rapide en hydrates de carbone lors des efforts musculaires",
+      "Sa haute solubilité dans l'eau froide en fait le régulateur thermique le plus efficace de l'organisme humain"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "70",
-    "question": "Le Magnésium (Mg) représente quel pourcentage précis du poids corporel ?",
-    "options": ["1%", "0,1%", "0,01%", "0,2%"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "En quoi l'analyse comparative des formules de l'acide glucuronique (C6H10O7) et de l'acide ascorbique (C6H8O6) met-elle en évidence la diversité des composés ternaires ?",
+    "options": [
+      "Bien qu'appartenant tous deux aux composés ternaires formés de C, H et O, ils présentent des proportions d'hydrogène et d'oxygène différentes de la simple formule d'addition d'eau",
+      "Ils possèdent le même nombre d'atomes d'hydrogène malgré des masses molaires et des rôles biologiques totalement opposés",
+      "L'un est un sel minéral inorganique dissociable, tandis que l'autre est un glucide complexe à structure quaternaire azotée",
+      "Leurs formules brutes respectives respectent rigoureusement et sans exception la règle empirique ancienne des hydrates de carbone"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "71",
-    "question": "Parmi les oligoéléments, lequel est spécifiquement cité comme servant de coenzyme ?",
-    "options": ["Calcium", "Fer", "Azote", "Potassium"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "De quelle manière l'eau remplit-elle simultanément des fonctions de solvant de transport et de réactif au sein des substances de la matière vivante ?",
+    "options": [
+      "En constituant le milieu dispersant majoritaire (jusqu'à 95% dans certaines cellules) qui dissout et véhicule les molécules tout en participant activement aux réactions métaboliques",
+      "En agissant comme une barrière hydrophobe qui isole les substances minérales des molécules organiques pour empêcher leur précipitation",
+      "En se combinant de manière permanente avec le phosphate de calcium pour former les cristaux rigides des dents et des os",
+      "En transformant l'ensemble des lipides et des protides en composés ternaires de type hydrate de carbone"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "72",
-    "question": "Quel élément mineur a une présence massique exactement deux fois supérieure au Magnésium ?",
-    "options": ["Sodium", "Soufre", "Chlore", "Aucune de ces réponses"],
-    "reponsKorek": 3,
-    "paj": "Page 1",
+    "question": "Quel est le lien conceptuel entre la classification générale de la matière vivante (substances minérales vs organiques) et la compartimentation des molécules qui la composent ?",
+    "options": [
+      "La matière vivante se segmente en substances inorganiques (eau et sels minéraux ionisés) et en familles organiques structurées (glucides, lipides, protides)",
+      "Les substances organiques dérivent toutes directement de la précipitation des sels minéraux sous l'action de l'eau",
+      "Les substances minérales constituent l'unique source d'énergie thermique, tandis que les organiques gèrent la dureté squelettique",
+      "Il n'existe aucune distinction chimique réelle entre les deux types, l'eau étant classée parmi les macromolécules organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "73",
-    "question": "Quel groupe d'éléments occupe environ 0,1% du poids corporel total ?",
-    "options": ["Les 15 microéléments", "Le Magnésium seul", "Le Soufre", "Les 7 macroéléments mineurs"],
+    "question": "En quoi la présence d'ions spécifiques tels que Mg2+, K+, ou Na+ dans les substances minérales illustre-t-elle la complexité de la dissociation chimique dans l'organisme ?",
+    "options": [
+      "Ces cations proviennent de la rupture des liaisons dans des composés variés sous l'effet de solvants, assurant la présence d'ions positifs indispensables au milieu",
+      "Ils s'associent obligatoirement au carbone pour former des structures ternaires analogues aux glucides simples",
+      "Ils remplacent l'eau dans son rôle de régulateur thermique lorsque la masse corporelle descend en dessous de 70%",
+      "Ils cristallisent spontanément pour former les réserves de vitamines C et de mannitol de la cellule"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "74",
-    "question": "Le Potassium (K) et le Soufre (S) représentent ensemble quel pourcentage ?",
-    "options": ["0,5%", "0,7%", "0,9%", "1,1%"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Comment la formule brute générale des glucides (CnH2nOn) se positionne-t-elle face à la réalité empirique des sucres découverts récemment ?",
+    "options": [
+      "Elle sert de repère général, mais son inobservance par certains glucides récents a précisément motivé l'abandon de l'appellation d'hydrate de carbone",
+      "Elle s'applique de manière absolue et universelle à toutes les molécules organiques sans exception aucune",
+      "Elle a été remplacée par la formule des sels minéraux pour classifier l'ensemble des composés azotés",
+      "Elle démontre que les glucides sont des dérivés immédiats du phosphate de calcium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "75",
-    "question": "Quel est le symbole chimique exact du Manganèse cité parmi les oligoéléments ?",
-    "options": ["Mg", "Mn", "Ma", "M"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel rôle analytique joue la mention de molécules spécifiques telles que le mannitol (C6H14O6) ou le désoxyribose dans l'étude des glucides ?",
+    "options": [
+      "Elles servent d'exemples concrets illustrant la diversité chimique des glucides et leur appartenance aux composés formés de carbone, hydrogène et oxygène",
+      "Elles démontrent que les glucides contiennent obligatoirement des groupements phosphate identiques à ceux des os",
+      "Elles prouvent que l'eau constitue plus de 95% de la masse de ces molécules organiques particulières",
+      "Elles constituent les seuls types de lipides capables de se dissoudre dans l'acide chlorhydrique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "76",
-    "question": "Lequel de ces éléments majeurs possède la masse la plus proche de celle de l'Azote ?",
-    "options": ["Oxygène", "Carbone", "Hydrogène", "Calcium"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "De quelle manière l'interaction entre les substances minérales (eau et sels) et les substances organiques (glucides, lipides, protides) caractérise-t-elle la matière vivante ?",
+    "options": [
+      "Par une co-existence où l'eau (solvant et régulateur) et les sels minéraux ionisés encadrent le fonctionnement et le transport des grandes familles de molécules organiques",
+      "Par une compétition permanente où les substances organiques détruisent les ions minéraux pour libérer du carbone pur",
+      "Par une fusion moléculaire totale transformant l'eau en un composé ternaire solide et rigide",
+      "Par l'exclusion mutuelle des substances inorganiques dans les cellules hautement différenciées"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "77",
-    "question": "Quelle catégorie d'éléments est définie par une présence massique de 3,7% ?",
-    "options": ["Macroéléments majeurs", "Macroéléments mineurs", "Oligoéléments", "Microéléments"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Pourquoi l'affirmation selon laquelle l'eau constitue près de 95% de la masse de certaines cellules met-elle en relief l'hétérogénéité des tissus vivants ?",
+    "options": [
+      "Elle montre que la teneur en eau varie considérablement selon le type cellulaire, s'élevant drastiquement dans certaines structures par rapport à la moyenne corporelle de 70%",
+      "Elle prouve que 95% de la masse de n'importe quel organisme est composée exclusivement de sels minéraux dissous",
+      "Elle indique que les substances organiques ne représentent qu'une infime fraction négligeable du métabolisme total",
+      "Elle confirme que l'eau se trouve sous forme de cristaux solides de phosphate de calcium dans toutes les cellules"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "78",
-    "question": "Quel est le pourcentage massique total des 26 éléments chimiques de la matière vivante ?",
-    "options": ["96,2%", "99,9%", "100%", "98,5%"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "En quoi la classification des ions négatifs en anions (Cl-, PO43-, HCO3-, SO42-, CO32-) reflète-t-elle la complexité de l'origine des sels minéraux ?",
+    "options": [
+      "Elle témoigne de la grande variété des acides et des sels d'origine dont la dissociation par des solvants libère des fragments anioniques divers indispensables au milieu",
+      "Elle démontre que ces ions sont formés par la polymérisation directe du carbone et de l'hydrogène dans l'eau",
+      "Elle prouve que les anions sont des molécules organiques complexes de la famille des protides",
+      "Elle indique que le chlore et le phosphate proviennent de la dégradation directe des glucides ternaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "79",
-    "question": "Le symbole 'Na' désigne un élément représentant quel pourcentage du poids ?",
-    "options": ["0,1%", "0,2%", "0,3%", "0,4%"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel est l'impact de la structure ternaire des glucides (C, H, O) sur leur qualification historique et actuelle dans la chimie du vivant ?",
+    "options": [
+      "Leur composition fondée sur trois éléments chimiques a d'abord inspiré le terme d'hydrates de carbone avant que les exceptions de formules n'imposent le terme de glucides",
+      "Elle signifie qu'ils comportent nécessairement trois atomes de carbone pour chaque molécule d'eau absorbée",
+      "Elle les apparente directement aux sels minéraux par la présence conjointe d'oxygène et d'hydrogène",
+      "Elle interdit toute participation de ces molécules aux réactions métaboliques cellulaires de l'eau"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "80",
-    "question": "Combien d'oligoéléments sont mentionnés comme intervenant dans les réactions enzymatiques ?",
-    "options": ["4", "7", "11", "15"],
-    "reponsKorek": 3,
-    "paj": "Page 1",
+    "question": "Comment la mention conjointe de l'acide ascorbique (vitamine C) et du désoxyribose éclaire-t-elle la polyvalence fonctionnelle des glucides ?",
+    "options": [
+      "Elle montre que les glucides remplissent des rôles aussi divers que la constitution de matériel génétique (ADN) et l'apport de vitamines essentielles au métabolisme",
+      "Elle prouve que les vitamines sont des substances inorganiques formées exclusivement de sels de calcium",
+      "Elle indique que le désoxyribose et la vitamine C possèdent la même formule brute C6H14O6",
+      "Elle confirme que ces substances se dissolvent uniquement dans l'acide chlorhydrique concentré"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "81",
-    "question": "Quel élément chimique majeur est présent à hauteur de 18,5% ?",
-    "options": ["Oxygène", "Carbone", "Azote", "Hydrogène"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "De quelle manière l'équilibre entre l'eau en tant que solvant thermique et les substances organiques se manifeste-t-il dans l'homéostasie de l'organisme ?",
+    "options": [
+      "L'eau régule la température et dissout les molécules organiques pour faciliter leur acheminement vers les sites de réactions métaboliques",
+      "Les substances organiques bloquent l'évaporation de l'eau pour maintenir une température corporelle constante de 95°C",
+      "Les sels minéraux remplacent l'eau pour assurer le transport thermique dans les cellules riches en protides",
+      "L'eau se transforme en glucides complexes chaque fois que la température externe chute brutalement"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "82",
-    "question": "L'iode (I) et le Zinc (Zn) font partie de quelle sous-classification ?",
-    "options": ["Macroéléments majeurs", "Macroéléments mineurs", "Microéléments", "Substances minérales"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quel rapport logique existe-t-il entre la notion de 'composés ternaires' et l'absence d'azote dans la structure de base des glucides décrits ?",
+    "options": [
+      "Étant formés de trois éléments précis (carbone, hydrogène, oxygène), ils se distinguent des substances azotées tout en posant les bases des molécules organiques",
+      "Le terme ternaire indique la présence obligatoire de trois atomes d'azote liés à une molécule de carbone",
+      "Cela prouve que les glucides sont des dérivés directs des sels minéraux inorganiques sans carbone",
+      "Cela signifie qu'ils possèdent trois fois plus d'eau que les lipides et les protides réunis"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "83",
-    "question": "Quelle est la somme des pourcentages du Sodium, du Chlore et du Magnésium ?",
-    "options": ["0,5%", "0,4%", "0,6%", "0,3%"],
+    "question": "En quoi l'étude des substances minérales et organiques de la matière vivante fournit-elle un cadre unifié pour comprendre la composition cellulaire ?",
+    "options": [
+      "En démontrant que la vie repose sur la synergie entre l'eau/sels minéraux d'une part et les familles organiques (glucides, lipides, protides) d'autre part",
+      "En prouvant que toutes les molécules de la cellule possèdent une structure cristalline identique à celle du phosphate de calcium",
+      "En réduisant l'ensemble des processus vitaux à de simples réactions de dissolution de l'acide ascorbique",
+      "En affirmant que les substances organiques n'ont aucun besoin d'eau pour accomplir leurs fonctions métaboliques"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "84",
-    "question": "Quel macroélément mineur possède le symbole 'P' ?",
-    "options": ["Potassium", "Phosphore", "Plomb", "Fluor"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quelle est la signification profonde de l'abandon de l'appellation 'Hydrate de carbone' au profit de 'Glucides' dans l'évolution de la terminologie biochimique ?",
+    "options": [
+      "Le passage d'une vision stœchiométrique rigide et parfois fausse (basée sur l'eau et le carbone) à une description chimique affinée des composés réels",
+      "La volonté d'éliminer toute référence au carbone dans la composition des sucres naturels",
+      "L'obligation de renommer l'ensemble des sels minéraux en fonction de leur teneur en azote",
+      "La découverte que les glucides sont en réalité des protéines insolubles dans l'eau froide"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "85",
-    "question": "Quel élément représente 9,5% de la masse corporelle ?",
-    "options": ["Azote", "Carbone", "Hydrogène", "Oxygène"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Comment la présence conjointe de cations (Na+, K+, Mg2+, Ca2+) et d'anions (Cl-, PO43-, HCO3-, SO42-, CO32-) garantit-elle la neutralité et la réactivité du milieu cellulaire ?",
+    "options": [
+      "Par l'équilibre des charges ioniques libres issues de la dissociation, permettant les réactions métaboliques et la constitution de structures rigides comme les os",
+      "En neutralisant totalement l'eau pour l'empêcher de jouer son rôle de solvant thermique",
+      "En transformant les sels minéraux en glucides complexes sous l'action de la chaleur",
+      "En bloquant l'accès des molécules organiques aux membranes cellulaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "86",
-    "question": "Le Cobalt (Co) est classé parmi quel type de constituants ?",
-    "options": ["Macroéléments majeurs", "Macroéléments mineurs", "Oligoéléments", "Substances organiques"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "De quelle manière la description du phosphate de calcium illustre-t-elle l'interconnexion entre les substances minérales et l'architecture fonctionnelle de l'organisme ?",
+    "options": [
+      "Un sel minéral abondant s'intègre directement dans la matrice tissulaire pour fournir la dureté mécanique indispensable aux os et aux dents",
+      "Il sert de réserve d'eau pure pour alimenter les réactions métaboliques en cas de déshydratation",
+      "Il se dissocie en ions sodium et chlore pour réguler la température corporelle externe",
+      "Il constitue le squelette carboné des glucides de type mannitol et désoxyribose"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "87",
-    "question": "Quel élément mineur a un pourcentage massique égal à celui du Sodium ?",
-    "options": ["Chlore", "Soufre", "Potassium", "Magnésium"],
+    "question": "Quel enseignement biochimique peut-on tirer de la juxtaposition des exemples de glucides (désoxyribose, acide glucuronique, acide ascorbique, mannitol) quant à leur formule brute ?",
+    "options": [
+      "Leur diversité structurelle montre qu'ils ne se conforment pas tous à un modèle unique d'hydratation, justifiant le rejet de l'ancien nom",
+      "Ils possèdent tous exactement le même nombre d'atomes d'oxygène et d'hydrogène",
+      "Ils sont tous formés par l'union de quatre éléments chimiques incluant l'azote",
+      "Ils constituent la totalité des substances minérales de l'organisme humain"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "88",
-    "question": "Quel est le pourcentage massique cumulé de l'Azote et du Calcium ?",
-    "options": ["4,7%", "3,2%", "1,5%", "5,2%"],
+    "question": "En quoi le rôle de l'eau en tant que solvant et transporteur est-il indissociable de sa position de constituant le plus abondant de l'organisme ?",
+    "options": [
+      "Sa forte proportion (environ 70% du corps et jusqu'à 95% de certaines cellules) lui permet de créer un milieu continu de diffusion et de transport pour les substances",
+      "Sa rareté relative dans les cellules spécialisées oblige les sels minéraux à transporter l'ensemble des molécules organiques",
+      "Son incapacité à se mélanger aux substances organiques garantit l'intégrité des membranes cellulaires",
+      "Son rôle thermique exclusif l'empêche de participer au moindre transport de molécules minérales"
+    ],
     "reponsKorek": 0,
-    "paj": "Page 1",
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "89",
-    "question": "Lequel de ces éléments n'est pas un microélément ?",
-    "options": ["Fluor", "Zinc", "Fer", "Magnésium"],
-    "reponsKorek": 3,
-    "paj": "Page 1",
+    "question": "Quelle est la portée scientifique exacte de la distinction établie entre les deux grands types de substances de la matière vivante au début du texte ?",
+    "options": [
+      "Elle pose les bases structurales de la biochimie en séparant la composante inorganique (eau et sels minéraux) de la composante carbonée organique (glucides, lipides, protides)",
+      "Elle démontre que les substances organiques sont biologiquement moins importantes que l'eau pure",
+      "Elle classifie l'ensemble des cellules vivantes selon leur capacité à produire du phosphate de calcium",
+      "Elle interdit l'interaction chimique entre les ions minéraux et les molécules de carbone"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "90",
-    "question": "Quel élément constitue la majorité de la masse des macroéléments majeurs ?",
-    "options": ["Carbone", "Azote", "Oxygène", "Hydrogène"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Comment l'analyse des exceptions à la formule empirique des glucides a-t-elle permis d'affiner la compréhension de la chimie organique vivante ?",
+    "options": [
+      "En révélant que la complexité des molécules du vivant dépasse les simples rapports stœchiométriques d'eau et de carbone, validant de nouvelles nomenclatures",
+      "En prouvant que les glucides contiennent toujours des métaux lourds dans leur structure cyclique",
+      "En obligeant les scientifiques à classer l'eau parmi les glucides complexes",
+      "En éliminant l'oxygène de la liste des éléments constitutifs des substances organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "91",
-    "question": "À quel pourcentage massique total correspondent les macroéléments (majeurs + mineurs) ?",
-    "options": ["96,2%", "99,9%", "3,7%", "4%"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "De quelle manière l'action de certains solvants sur les acides, bases et sels conditionne-t-elle la présence des substances minérales actives dans la cellule ?",
+    "options": [
+      "Elle provoque leur dissociation en ions libres (cations et anions) capables d'intervenir dans les équilibres et la structure de l'organisme",
+      "Elle les transforme instantanément en glucides ternaires insolubles",
+      "Elle détruit les liaisons hydrogène de l'eau pour abaisser la température corporelle",
+      "Elle précipite l'ensemble des protéines sous forme de colloïdes sanguins"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "92",
-    "question": "Quel élément chimique possède le symbole 'S' ?",
-    "options": ["Sodium", "Soufre", "Silicium", "Sélénium"],
-    "reponsKorek": 1,
-    "paj": "Page 1",
+    "question": "Quel est le fil conducteur logique qui relie l'eau, les sels minéraux et les glucides dans la composition chimique de la matière vivante présentée sur la page ?",
+    "options": [
+      "Ils constituent l'ensemble des fondements inorganiques et de la première grande famille organique (glucides) indispensables à la vie cellulaire",
+      "Ils représentent les seules substances capables de se dissoudre dans l'acide chlorhydrique du cytoplasme",
+      "Ils forment des structures rigides identiques à celle du phosphate de calcium dans tous les tissus",
+      "Ils possèdent tous une formule brute strictement identique à CnH2nOn"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "93",
-    "question": "Quelle est la valeur massique du Potassium (K) ?",
-    "options": ["1,5%", "1%", "0,4%", "0,1%"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "En quoi l'étude détaillée des exemples de glucides (C5H10O4, C6H10O7, C6H8O6, C6H14O6) consolide-t-elle la rigueur de la classification organique de la page ?",
+    "options": [
+      "En fournissant des preuves empiriques précises (formules et rôles) qui illustrent la réalité des composés ternaires et l'abandon des termes désuets",
+      "En démontrant que chaque glucide possède une structure inorganique azotée complexe",
+      "En prouvant que le carbone y est toujours présent en quantité inférieure à l'hydrogène",
+      "En confirmant que l'eau pure est le seul composant actif de ces molécules"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
   {
     "id": "94",
-    "question": "Le Fluor (F) est utilisé par l'organisme principalement comme :",
-    "options": ["Substance de structure", "Source d'énergie", "Coenzyme", "Macroélément"],
-    "reponsKorek": 2,
-    "paj": "Page 1",
+    "question": "Quelle conclusion globale peut-on tirer de l'interaction entre les substances minérales et les trois familles de molécules organiques dans la structure de la matière vivante ?",
+    "options": [
+      "Elles forment un système intégré où l'eau et les minéraux fournissent le milieu et la structure de support pour les familles organiques fondamentales (glucides, lipides, protides)",
+      "Elles s'excluent mutuellement dans les cellules hautement spécialisées de l'organisme humain",
+      "Elles possèdent toutes la même formule chimique générale et les mêmes rôles thermiques",
+      "Elles se dissolvent toutes uniformément dans l'eau de Javel ou l'éthanol selon le pH"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
     "nivo": "Difficile",
     "tip": "Quiz"
   },
+    {
+    "id": "95",
+    "question": "La matière vivante est constituée de _____ grands types de substances.",
+    "options": [
+      "deux (2)"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "96",
+    "question": "Les deux grands types de substances de la matière vivante sont les substances minérales et les substances _____.",
+    "options": [
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "97",
+    "question": "Les substances minérales ou inorganiques sont représentées par l'eau et les _____ minéraux.",
+    "options": [
+      "sels"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "98",
+    "question": "L'eau est le constituant le plus abondant et le plus important de l'organisme _____.",
+    "options": [
+      "humain"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "99",
+    "question": "L'eau constitue environ _____ de la masse corporelle.",
+    "options": [
+      "70%"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "100",
+    "question": "L'eau constitue près de _____ de la masse de certaines cellules.",
+    "options": [
+      "95%"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "101",
+    "question": "L'eau participe aux réactions _____.",
+    "options": [
+      "métaboliques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "102",
+    "question": "Dans l'organisme, l'eau joue le rôle de _____ en transportant les molécules.",
+    "options": [
+      "solvant"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "103",
+    "question": "L'eau est qualifiée d'excellent régulateur _____.",
+    "options": [
+      "thermique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "104",
+    "question": "Les sels minéraux sont essentiellement des _____ provenant de la dissociation des acides, des bases ou des sels.",
+    "options": [
+      "ions"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "105",
+    "question": "Les ions positifs sont également appelés _____.",
+    "options": [
+      "cations"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "106",
+    "question": "Les ions négatifs sont également appelés _____.",
+    "options": [
+      "anions"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "107",
+    "question": "Le sel minéral le plus abondant dans l'organisme est le _____ de calcium.",
+    "options": [
+      "phosphate"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "108",
+    "question": "La formule chimique du phosphate de calcium est _____.",
+    "options": [
+      "Ca3(PO4)2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "109",
+    "question": "Le phosphate de calcium contribue à la solidité et à la dureté des os et des _____.",
+    "options": [
+      "dents"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "110",
+    "question": "On distingue _____ familles principales de molécules organiques.",
+    "options": [
+      "trois (3)"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "111",
+    "question": "Les trois familles de molécules organiques sont les glucides, les lipides et les _____.",
+    "options": [
+      "protides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "112",
+    "question": "Les glucides étaient anciennement appelés _____ de carbone.",
+    "options": [
+      "Hydrates"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "113",
+    "question": "Les glucides sont formés à partir de trois éléments chimiques : carbone, hydrogène et _____.",
+    "options": [
+      "oxygène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "114",
+    "question": "Parce qu'ils sont formés de trois éléments chimiques, les glucides sont des composés _____.",
+    "options": [
+      "ternaires"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "115",
+    "question": "L'expression « Hydrate de carbone » n'est plus usitée du fait que certains glucides ne répondent pas à la formule empirique _____.",
+    "options": [
+      "Cn(H2O)n"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "116",
+    "question": "La formule chimique de la Désoxyribose est _____.",
+    "options": [
+      "C5H10O4"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "117",
+    "question": "Le Désoxyribose est un sucre de l'_____.",
+    "options": [
+      "ADN"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "118",
+    "question": "La formule chimique C6H10O7 correspond à l'acide _____.",
+    "options": [
+      "glucuronique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "119",
+    "question": "L'acide ascorbique est communément appelé Vitamine _____.",
+    "options": [
+      "C"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "120",
+    "question": "La formule chimique de l'acide ascorbique est _____.",
+    "options": [
+      "C6H8O6"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "121",
+    "question": "La formule chimique du Mannitol est _____.",
+    "options": [
+      "C6H14O6"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "122",
+    "question": "La formule brute générale des glucides est _____.",
+    "options": [
+      "CnH2nOn"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "123",
+    "question": "Le symbole chimique du carbone est _____.",
+    "options": [
+      "C"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "124",
+    "question": "Le symbole chimique de l'hydrogène est _____.",
+    "options": [
+      "H"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "125",
+    "question": "Le symbole chimique de l'oxygène est _____.",
+    "options": [
+      "O"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "126",
+    "question": "Na+, K+, Mg2+ et Ca2+ sont des exemples d'ions positifs ou _____.",
+    "options": [
+      "cations"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "127",
+    "question": "Cl-, PO43-, HCO3-, SO42- et CO32- sont des exemples d'ions négatifs ou _____.",
+    "options": [
+      "anions"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Facile",
+    "tip": "Completer"
+  },
+  {
+    "id": "128",
+    "question": "La matière vivante est constituée de deux grands types de substances : les substances minérales ou inorganiques et les substances _____.",
+    "options": [
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "129",
+    "question": "Les substances minérales sont représentées par l'_____ et les _____ minéraux.",
+    "options": [
+      "eau",
+      "sels"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "130",
+    "question": "L'eau constitue environ _____ de la masse corporelle et près de _____ de la masse de certaines cellules.",
+    "options": [
+      "70%",
+      "95%"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "131",
+    "question": "L'eau participe aux réactions _____ et joue le rôle de _____.",
+    "options": [
+      "métaboliques",
+      "solvant"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "132",
+    "question": "En transportant les molécules organiques et minérales, l'eau sert de _____ et constitue un excellent régulateur _____.",
+    "options": [
+      "solvant",
+      "thermique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "133",
+    "question": "Les sels minéraux sont des ions issus de la dissociation des acides, des bases ou des sels sous l'action de certains _____.",
+    "options": [
+      "solvants"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "134",
+    "question": "Les ions minéraux sont classés en deux catégories : les ions positifs ou _____ et les ions négatifs ou _____.",
+    "options": [
+      "cations",
+      "anions"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "135",
+    "question": "Na+ et K+ sont des exemples de _____, alors que Cl- et SO42- sont des _____.",
+    "options": [
+      "cations",
+      "anions"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "136",
+    "question": "Mg2+ et Ca2+ sont des _____, tandis que PO43- et HCO3- sont des _____.",
+    "options": [
+      "cations",
+      "anions"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "137",
+    "question": "Le sel minéral le plus abondant dans l'organisme est le _____, de formule _____.",
+    "options": [
+      "phosphate de calcium",
+      "Ca3(PO4)2"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "138",
+    "question": "Le phosphate de calcium contribue à la solidité et à la dureté des _____ et des _____.",
+    "options": [
+      "os",
+      "dents"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "139",
+    "question": "On distingue trois familles principales de molécules organiques : les glucides, les _____ et les _____.",
+    "options": [
+      "lipides",
+      "protides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "140",
+    "question": "Anciennement appelés _____, les glucides sont formés de trois éléments chimiques : carbone, hydrogène et _____.",
+    "options": [
+      "Hydrates de carbone",
+      "oxygène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "141",
+    "question": "Les glucides sont appelés composés _____ car ils sont formés à partir de _____ éléments chimiques.",
+    "options": [
+      "ternaires",
+      "trois (3)"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "142",
+    "question": "L'expression « Hydrate de carbone » n'est plus usitée car certains glucides ne répondent pas à la formule empirique _____.",
+    "options": [
+      "Cn(H2O)n"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "143",
+    "question": "Le Désoxyribose a pour formule _____ et est un sucre de l'_____.",
+    "options": [
+      "C5H10O4",
+      "ADN"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "144",
+    "question": "L'acide glucuronique a pour formule chimique _____.",
+    "options": [
+      "C6H10O7"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "145",
+    "question": "L'acide ascorbique, aussi nommé _____, possède la formule chimique _____.",
+    "options": [
+      "Vitamine C",
+      "C6H8O6"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "146",
+    "question": "Le Mannitol se caractérise par la formule chimique _____.",
+    "options": [
+      "C6H14O6"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "147",
+    "question": "La formule brute des glucides est _____, où le carbone est noté _____.",
+    "options": [
+      "CnH2nOn",
+      "C"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "148",
+    "question": "Dans les glucides, l'hydrogène est désigné par la lettre _____ et l'oxygène par la lettre _____.",
+    "options": [
+      "H",
+      "O"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "149",
+    "question": "Les composés minéraux se divisent principalement en _____ et en _____.",
+    "options": [
+      "eau",
+      "sels minéraux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "150",
+    "question": "HCO3- et CO32- sont deux exemples d'_____ présents parmi les _____.",
+    "options": [
+      "anions",
+      "sels minéraux"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "151",
+    "question": "C5H10O4 est la formule du _____, alors que C6H14O6 est celle du _____.",
+    "options": [
+      "Désoxyribose",
+      "Mannitol"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "152",
+    "question": "C6H10O7 désigne l'_____ et C6H8O6 représente la _____.",
+    "options": [
+      "acide glucuronique",
+      "Vitamine C"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "153",
+    "question": "L'eau est à la fois le constituant le plus _____ et le plus _____ de l'organisme humain.",
+    "options": [
+      "abondant",
+      "important"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "154",
+    "question": "Les glucides sont constitués de carbone (C), d'_____ (H) et d'_____ (O).",
+    "options": [
+      "hydrogène",
+      "oxygène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "155",
+    "question": "Les trois familles de molécules organiques sont les _____, les lipides et les _____.",
+    "options": [
+      "glucides",
+      "protides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "156",
+    "question": "La formule brute des glucides est _____, et leur ancienne appellation était _____.",
+    "options": [
+      "CnH2nOn",
+      "Hydrates de carbone"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "157",
+    "question": "Le phosphate de calcium a pour formule _____ et est le sel minéral le plus _____ de l'organisme.",
+    "options": [
+      "Ca3(PO4)2",
+      "abondant"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "158",
+    "question": "L'eau représente environ _____ de la masse corporelle et sert de _____ en transportant les molécules.",
+    "options": [
+      "70%",
+      "solvant"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "159",
+    "question": "La matière vivante comprend des substances _____ (eau et sels minéraux) et des substances _____ (glucides, lipides, protides).",
+    "options": [
+      "minérales",
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Intermediaire",
+    "tip": "Completer"
+  },
+  {
+    "id": "160",
+    "question": "La matière vivante réunit _____ grands types de substances : les substances _____ ou inorganiques et les substances organiques.",
+    "options": [
+      "deux (2)",
+      "minérales",
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "161",
+    "question": "L'eau constitue environ _____ de la masse corporelle, près de _____ de certaines cellules, et agit comme régulateur _____.",
+    "options": [
+      "70%",
+      "95%",
+      "thermique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "162",
+    "question": "L'eau est indispensable à la vie, participe aux réactions _____ et sert de _____ pour transporter les molécules organiques et _____.",
+    "options": [
+      "métaboliques",
+      "solvant",
+      "minérales"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "163",
+    "question": "Les sels minéraux sont des ions issus de la dissociation des _____, des _____ ou des sels sous l'action de solvants.",
+    "options": [
+      "acides",
+      "bases",
+      "sels"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "164",
+    "question": "Dans les sels minéraux, on trouve des ions positifs nommés _____, des ions négatifs nommés _____, et le sel le plus abondant est le _____.",
+    "options": [
+      "cations",
+      "anions",
+      "phosphate de calcium"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "165",
+    "question": "Parmi les cations, on trouve _____, K+, _____, et Ca2+.",
+    "options": [
+      "Na+",
+      "Mg2+"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "166",
+    "question": "Parmi les anions, on retrouve _____, PO43-, _____, SO42- et CO32-.",
+    "options": [
+      "Cl-",
+      "HCO3-"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "167",
+    "question": "Le phosphate de calcium, de formule _____, contribue à la solidité et à la dureté des _____ et des _____.",
+    "options": [
+      "Ca3(PO4)2",
+      "os",
+      "dents"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "168",
+    "question": "On distingue _____ familles principales de molécules organiques : les _____, les lipides et les protides.",
+    "options": [
+      "trois (3)",
+      "glucides",
+      "lipides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "169",
+    "question": "Anciennement appelés _____, les glucides sont formés de trois éléments : carbone (C), _____ (H) et _____ (O).",
+    "options": [
+      "Hydrates de carbone",
+      "hydrogène",
+      "oxygène"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "170",
+    "question": "Les glucides sont des composés _____ formés de trois éléments, et leur formule brute est _____.",
+    "options": [
+      "ternaires",
+      "CnH2nOn"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "171",
+    "question": "L'expression « Hydrate de carbone » n'est plus usitée car certains glucides ne répondent pas à la formule empirique _____.",
+    "options": [
+      "Cn(H2O)n"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "172",
+    "question": "Le sucre de l'ADN est le _____ de formule _____, qui ne répond pas à la formule _____.",
+    "options": [
+      "Désoxyribose",
+      "C5H10O4",
+      "Cn(H2O)n"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "173",
+    "question": "L'acide glucuronique a pour formule _____, l'acide ascorbique a pour formule _____, et le Mannitol est _____.",
+    "options": [
+      "C6H10O7",
+      "C6H8O6",
+      "C6H14O6"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "174",
+    "question": "L'acide ascorbique est aussi appelé _____, sa formule est _____ et il fait partie de la famille des _____.",
+    "options": [
+      "Vitamine C",
+      "C6H8O6",
+      "glucides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "175",
+    "question": "Le Mannitol possède la formule _____, tandis que l'acide glucuronique a pour formule _____.",
+    "options": [
+      "C6H14O6",
+      "C6H10O7"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "176",
+    "question": "La formule brute des glucides est _____, ils sont formés de 3 éléments chimiques et étaient nommés _____.",
+    "options": [
+      "CnH2nOn",
+      "Hydrates de carbone"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "177",
+    "question": "Les trois composants chimiques de base des glucides sont le carbone symbolisé par _____, l'hydrogène par _____ et l'oxygène par _____.",
+    "options": [
+      "C",
+      "H",
+      "O"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "178",
+    "question": "Les substances minérales incluent l'_____ et les _____ minéraux comme le _____ de calcium.",
+    "options": [
+      "eau",
+      "sels",
+      "phosphate"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "179",
+    "question": "Les cations comprennent les ions _____, K+, Mg2+ et _____, qui sont des ions à charge positive.",
+    "options": [
+      "Na+",
+      "Ca2+"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "180",
+    "question": "Les anions incluent les ions _____, PO43-, HCO3-, _____ et CO32-.",
+    "options": [
+      "Cl-",
+      "SO42-"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "181",
+    "question": "Le phosphate de calcium est représenté par la formule _____, se trouve dans l'organisme et renforce les _____ et les _____.",
+    "options": [
+      "Ca3(PO4)2",
+      "os",
+      "dents"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "182",
+    "question": "Parmi les glucides ne respectant pas Cn(H2O)n, on trouve le _____, l'_____ et la Vitamine C.",
+    "options": [
+      "Désoxyribose",
+      "acide glucuronique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "183",
+    "question": "Les matières organiques regroupent les glucides, les _____ et les _____, qui forment _____ familles principales.",
+    "options": [
+      "lipides",
+      "protides",
+      "trois (3)"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "184",
+    "question": "L'eau constitue _____ de la masse corporelle, sert de solvant métabolique et agit comme régulateur _____.",
+    "options": [
+      "70%",
+      "thermique"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "185",
+    "question": "Les substances inorganiques regroupent l'eau et les _____, tandis que les molécules organiques comprennent les _____.",
+    "options": [
+      "sels minéraux",
+      "glucides"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "186",
+    "question": "C5H10O4 correspond au _____, C6H8O6 à la _____, et C6H14O6 au _____.",
+    "options": [
+      "Désoxyribose",
+      "Vitamine C",
+      "Mannitol"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  },
+  {
+    "id": "187",
+    "question": "Les deux grands types de substances dans la matière vivante sont les substances _____ ou inorganiques et les substances _____.",
+    "options": [
+      "minérales",
+      "organiques"
+    ],
+    "reponsKorek": 0,
+    "paj": "Page 2",
+    "nivo": "Difficile",
+    "tip": "Completer"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
   {
     "id": "95",
     "question": "Quatre éléments occupent à eux seuls plus de _____ de la masse de la matière vivante.",
